@@ -1,0 +1,914 @@
+Date	Plane	Type	Route	Total	PIC	Solo	SIC	Dual Received	Dual Given	Actual Instrument	Simulated Instrument	Approaches	Night	Cross Country	Day Landings	Night Landings	Simulator	Student	Instructor	Captain	First Officer	Flight Number	Remarks	Flying	Non-flying
+1997-09-19	757cu	C152	lzu local	1.1				1.1							2										
+1997-10-03	55393	C152	lzu local	1.0				1.0							2										
+1997-10-10	55393	C152	lzu local	1.5				1.5							2										
+1997-10-31	48239	c172	lzu local	1.0				1.0							2										
+1997-11-07	757cu	C152	lzu local	1.0				1.0							4										
+1997-11-19	757cu	C152	lzu local	1.2				1.2							4										
+1997-11-26	757cu	C152	lzu local	1.3	0.7			0.6							6										
+1997-12-15	757cu	C152	lzu local	1.5				1.5							6										
+1997-12-19	757cu	C152	lzu local	2.1	1.1			1.0							2										
+1998-01-26	48239	c172	lzu local	1.8				1.8					1.8			2									
+1998-02-13	48239	c172	lzu pdk lzu	1.4				1.4							3										
+1998-03-03	48239	c172	lzu wdr lzu	1.3				1.3							3										
+1998-03-16	757cu	C152	lzu mcn mlj lzu	2.8				2.8						2.8	3										
+1998-03-23	48239	c172	lzu local	1.2				1.2							3										
+1998-03-30	55393	C152	lzu local	0.9				0.9							2										
+1998-04-07	757cu	C152	lzu local	2.5				2.5							1										
+1998-05-12	757cu	C152	lzu local	1.9				1.9							1										
+1998-08-06	757cu	C152	lzu local	1.2				1.2							1										
+1998-08-12	757cu	C152	lzu local	0.8				0.8							1										
+1998-08-13	55393	C152	lzu local	0.9				0.9							1										
+1998-09-15	48239	c172	lzu local	1.3				1.3							1										
+1998-09-17	48239	c172	lzu local	1.0				1.0							1										
+1998-12-07	149V	C152	lzu local	1.0				1.0							1										
+2003-04-23	4974R	c172	mxf 08A mxf	1.2				1.2							2										
+2003-06-24	4992R	c172	mxf local	1.6				1.6							5										
+2003-06-26	4977R	c172	mxf 08A mxf	1.6				1.6							6										
+2003-07-02	4989R	c172	mxf 08A mxf	1.4				1.4							7										
+2003-07-07	4974R	c172	mxf 08A mxf	1.5				1.5							5										
+2003-07-09	4977R	c172	mxf 08A mxf	1.4				1.4							5										
+2003-07-11	4974R	c172	mxf 08A mxf	1.1				1.1							7										
+2003-07-14	4974R	c172	mxf 08A mxf	1.5				1.5							6										
+2003-07-16	4974R	c172	mxf local	1.6				1.6							6										
+2003-07-17	4977R	c172	mxf 08A mxf	2.0	0.4			1.6							13										
+2003-07-24	4977R	c172	mxf 08A mxf	2.7				2.7			0.7				6										
+2003-07-25	4977R	c172	mxf 08A mxf	2.0				2.0			0.8				6										
+2003-07-29	4974R	c172	mxf 08A mxf	1.5				1.5							11										
+2003-07-30	4989R	c172	mxf local	0.7				0.7					0.7			4									
+2003-09-09	138AA	C152	lzu local	1.4				1.4							2										
+2003-09-11	138AA	C152	lzu wdr lzu	1.4				1.4							7										
+2003-09-14	138AA	C152	lzu local	1.3	1.3										10										
+2003-09-15	138AA	C152	lzu local	1.3	1.3										5										
+2003-09-23	138AA	C152	lzu wdr lzu	1.6				1.6							4										
+2003-09-24	138AA	C152	lzu 27a lzu	1.8				1.8						1.8	2										
+2003-09-26	138AA	C152	lzu 27a lzu	2.1				2.1						2.1	2										
+2003-09-29	172WA	c172	lzu wdr lzu	0.5	0.5										1										
+2003-09-29	138AA	C152	wdr lzu	0.8	0.8										3										
+2003-09-30	138AA	C152	lzu 3j7 19a lzu	1.8				1.8						1.8	3										
+2003-10-09	138AA	C152	lzu local	1.5				1.5					1.5			8									
+2003-10-15	172wa	c172	lzu wdr lzu	1.0				1.0							6										
+2003-10-16	52741	c172	lzu mlj lzu	2.0				2.0					2.0	2.0		2									
+2003-10-22	52741	c172	lzu mlj iiy lzu	3.1	3.1									3.1	4										
+2003-10-23	52741	c172	lzu gvl toc 19a lzu	1.9	1.9									1.9	4										
+2003-10-29	52741	c172	lzu wdr lzu	1.6	1.6										5										
+2003-11-04	172wa	c172	lzu local	1.1				1.1							7										
+2003-11-10	172WA	c172	lzu wdr lzu	1.2	1.2										3										
+2003-11-11	172WA	c172	lzu local	1.5				1.5			1.5				1										
+2003-11-29	172WA	c172	lzu local	1.0				1.0							5										
+2003-12-06	172WA	c172	lzu local	0.8	0.8										6										
+2003-12-07	172WA	c172	lzu gvl lzu	2.0	2.0										3										
+2003-12-11	172WA	c172	lzu local	1.0				1.0							1										
+2003-12-13	172WA	c172	lzu local	1.0				1.0							1										
+2004-01-05	52741	c172	lzu local	1.2	1.2										1										
+2004-01-06	52741	c172	lzu local	1.6	1.6										4										
+2004-01-14	52741	c172	lzu ga80 lzu	1.7				1.7			0.3				3										
+2004-01-19	172WA	c172	lzu 19a lzu	1.2	1.2										3										
+2004-01-20	172WA	c172	lzu local	2.0	2.0										3										
+2004-01-30	52741	c172	lzu local	1.8	1.8						0.1				4										
+2004-02-28	745D	BE35	lzu 19a lzu	1.8	1.8			1.8			0.7				2										
+2004-03-03	745D	BE35	lzu local	2.2	1.8			1.8							2										
+2004-03-04	745D	BE35	lzu 19a cha lzu	2.8	2.8			2.8			2.0		1.3	2.8	1	2									
+2004-03-06	745D	BE35	lzu mcn pdk fty 19a lzu	4.2	4.2			4.2			3.7		3.5	4.2	1	3									
+2004-03-16	745D	BE35	lzu 19a pdk lzu 	3.0	3.0			3.0			2.0		3.0			3									
+2004-03-18	745D	BE35	lzu pdk ryy fty lzu	3.3	3.3			3.3			2.3		2.8			3									
+2004-03-20	745D	BE35	lzu pdk 19a	1.2	1.2			1.2		0.6	0.3				2										
+2004-03-20	745D	BE35	19a cha lzu	2.5	2.5			2.5		0.5	1.2			2.5	2										
+2004-03-24	745D	BE35	lzu ahn gvl 19a lzu	2.7	2.7			2.7			1.7		2.2			2									
+2004-03-27	745D	BE35	lzu ahn gvl lzu	2.5	2.5			2.5			2.0		2.0			2									
+2004-03-29	745D	BE35	lzu ahn gvl lzu	2.0	2.0			2.0			1.5		1.7			1									
+2004-04-08	745D	BE35	lzu 19a ahn wdr lzu	3.0	3.0			3.0			2.0		0.5		1	1									
+2004-04-09	745D	BE35	lzu gvl ahn 19a lzu	3.2	3.2			3.2			2.0		0.7		2	1									
+2004-04-10	745D	BE35	lzu gvl ahn 19a lzu	2.7	2.7			2.7			2.0				1										
+2004-04-15	745D	BE35	lzu wdr 97a lzu	3.7	3.7			3.7					1.0	3.7	7										
+2004-04-16	745D	BE35	lzu wdr lzu	0.9	0.9										2										
+2004-04-24	745D	BE35	lzu cha lzu	3.5	3.5			3.5		0.4	2.5		0.5	3.5	1	1									
+2004-04-27	745D	BE35	lzu 19a gvl ahn lzu	3.7	3.7			3.7			2.7		0.7	3.7	1	1									
+2004-04-28	745D	BE35	lzu auo lzu	4.1	4.1			4.1			2.5		1.0	4.1	1	1									
+2004-04-29	745D	BE35	lzu ahn pdk lzu	3.2	3.2			3.2			2.5		1.0	3.2	1	1									
+2004-05-01	745D	BE35	lzu ahn gvl lzu	2.9	2.9			2.9			2.2		1.5		1	1									
+2004-05-10	745D	BE35	lzu auo lzu	4.2	4.2			4.2			3.2		2.3	4.2	1	1									
+2004-06-02	745D	BE35	lzu 19a cha lzu	3.1	3.1			3.1		0.1	0.8		1.3	3.1	1	2									
+2004-06-03	745D	BE35	lzu 19a ahn gvl lzu	3.9	3.9			3.9		0.7	2.0		2.0	3.9		2									
+2004-06-12	745D	BE35	lzu 19a dnn cha lzu	3.4	3.4			3.4		0.5	2.0			3.4	3										
+2004-06-15	745D	BE35	lzu 19a lzu	1.0	1.0			1.0			0.5				2										
+2004-06-17	745D	BE35	KLZU KDNN KCHA KLZU	4.2	4.2			4.2		0.7	3.5			4.2	3										
+2004-06-19	745D	BE35	lzu dnn lzu	2.5	2.5			2.5			1.7			2.5	2										
+2004-08-24	745D	BE35	lzu pxe	1.2	1.2									1.2	1										
+2004-09-04	317L	c310	lzu wdr lzu	1.2				1.2							2										
+2004-09-10	745D	BE35	pxe lzu	2.0	2.0			2.0		1.2			2.0	2.0		1									
+2004-09-11	745D	BE35	lzu wdr	1.0	1.0										1										
+2004-09-13	745D	BE35	wdr lzu	1.0	1.0										1										
+2004-09-21	745D	BE35	lzu local	2.5	2.5			2.5							1										
+2004-09-25	745D	BE35	lzu ahn gvl lzu	2.5	2.5			2.5							2										
+2004-10-01	745D	BE35	klzu kryy	1.0	1.0			1.0							1										
+2004-10-01	711JW	PA31	KRYY KLZU	1.0				1.0							1										
+2004-10-03	711JW	PA31	KLZU KLZU	0.7				0.7					0.7			1									
+2004-10-05	745D	BE35	KRYY KLZU	1.0	1.0										1										
+2004-10-08	745D	BE35	KLZU KWDR	0.5	0.5										1										
+2004-10-09	745D	BE35	KWDR KLZU	0.5	0.5										1										
+2004-10-14	745D	BE35	KLZU KAHN KGVL KLZU	2.5	2.5			2.5					2.0			1									
+2004-10-15	745D	BE35	KLZU KAHN KWDR 19A KLZU	2.7	2.7			2.7					1.0			1									
+2004-10-16	745D	BE35	KLZU KDNN KCHA KLZU	3.2	3.2			3.2						3.2	2										
+2004-10-17	745D	BE35	KLZU 19A	0.8	0.8			0.8						0.8	1										
+2004-10-17	745D	BE35	19A KDNN	1.3	1.3			1.3		0.3	0.7			1.3	1										
+2004-10-17	745D	BE35	KDNN KCHA	1.0	1.0			1.0		0.6	0.5			1.0	1										
+2004-10-17	745D	BE35	KCHA KDNN KLZU	1.4	1.4			1.4		0.6	0.5			1.4	1										
+2004-11-01	745D	BE35	KLZU KAHN KLZU	2.0	2.0			2.0			1.4	2			2										
+2004-11-02	745D	BE35	KCHA KCHA	0.8	0.8	0.8					0.6	1			1								Instrument Checkride with Ben Carr		
+2004-11-02	745D	BE35	KCHA KAUO	1.3	1.3	1.3								1.3	1										
+2004-11-04	745D	BE35	KAUO KLZU	1.2	1.2	1.3								1.2	1										
+2004-12-18	745D	BE35	KLZU 35A	1.3	1.3	1.3						1	0.7	1.3	1								instrument xc		
+2004-12-18	745D	BE35	35A KLZU	1.4	1.4	1.4							1.4	1.4		1							vfr xc		
+2005-01-12	745D	BE35	KLZU KOLV	2.7	2.7	2.7						1	0.2	2.7	1								Flight to pick up Finney		
+2005-01-12	745D	BE35	KOLV KLZU	1.6	1.6	1.6							1.6	1.6		1							Atl tour with Finney		
+2005-01-22	745D	BE35	KLZU KLZU	1.2	1.2			1.2															intro to commercial with Lee		
+2005-02-17	745D	BE35	klzu klzu	1.4	1.4			1.4							2								commercial		
+2005-03-10	745D	BE35	KLZU 19A KLZU	1.9	1.9			1.9							2								commercial		
+2005-03-13	745D	BE35	klzu klzu	2.1	2.1			2.1							1								commercial		
+2005-03-15	745D	BE35	klzu klzu	1.6	1.6					0.6	0.9	2			1								commercial		
+2005-03-17	745D	BE35	klzu klzu	0.7	0.7	0.7									1								local vfr flight		
+2005-03-21	745D	BE35	klzu klzu	1.8	1.8			1.8		0.7	0.8	4			1								commercial		
+2005-03-25	745D	BE35	klzu klzu	1.6	1.6			1.6							2								commercial		
+2005-04-03	745D	BE35	klzu ktoc 19A klzu	2.1	2.1	2.1								2.1	4								vfr xc commercial		
+2005-04-08	745D	BE35	klzu klzu	0.7	0.7			0.7							3								commercial		
+2005-04-19	745D	BE35	klzu kgvl 19A klzu 	3.5	3.5			3.5				1	1.3		6								commercial		
+2005-04-21	745D	BE35	klzu klzu	1.2	1.2	1.2							0.5		4	1							commercial		
+2005-04-28	745D	BE35	klzu kgvl klzu	1.4	1.4	1.4							0.6		2	1							Commercial		
+2005-05-06	745D	BE35	klzu 19A kolv klzu	4.7	4.7	4.7				0.6		1		4.7	3								flight to memphis		
+2005-05-15	745D	BE35	klzu kgvl klzu	1.3	1.3	1.3						1			2								commercial		
+2005-05-16	745D	BE35	klzu klzu	1.2	1.2	1.2									2								commercial		
+2005-05-17	745D	BE35	klzu klzu	1.7	1.7	1.7									5								commercial		
+2005-05-22	745D	BE35	klzu 19a klzu	1.5	1.5	1.5									2								commercial		
+2005-05-30	745D	BE35	klzu klzu	2.3	2.3	2.3									5								commercial		
+2005-06-07	745D	BE35	klzu klzu	1.7	1.7	1.7									4								commercial		
+2005-06-15	745D	BE35	klzu klzu	1.5	1.5	1.5									7								commercial		
+2005-06-16	745D	BE35	klzu klzu	1.2	1.2	1.2									3								commercial		
+2005-06-18	745D	BE35	klzu klzu	1.3	1.3	1.3									6								commercial		
+2005-07-15	745D	BE35	klzu klzu	1.9	1.9	1.9						1			4								Commercial		
+2005-07-16	745D	BE35	klzu klzu	3.1	3.1	3.1									6								commercial		
+2005-07-17	745D	BE35	klzu klzu	2.2	2.2	2.2									4								commercial		
+2005-07-19	745D	BE35	klzu klzu	1.5	1.5	1.5									6								commercial		
+2005-07-22	745D	BE35	klzu klzu	2.0	2.0	2.0									5								commercial		
+2005-07-23	745D	BE35	klzu klzu	1.4	1.4	1.4									7								commercial		
+2005-07-24	745D	BE35	klzu klzu	1.7	1.7	1.7									4								Commercial		
+2005-07-25	745D	BE35	klzu klzu	1.9	1.9	1.9									6								commercial		
+2005-07-29	745D	BE35	klzu kwdr klzu	1.7	1.7			1.7							8								Commercial		
+2005-08-01	745D	BE35	klzu kwdr klzu	2.0	2.0			2.0							6								Commercial		
+2005-08-04	745D	BE35	klzu local	1.9	1.9	1.9									5								Commercial		
+2005-08-08	745D	BE35	klzu kwdr klzu	2.4	2.4	2.4									9								Commercial		
+2005-08-09	745D	BE35	klzu local	1.8	1.8	1.8									6								Commercial		
+2005-08-15	745D	BE35	klzu kwdr klzu	3.8	3.8			3.8							8								Commercial		
+2005-08-16	745D	BE35	klzu kdts klzu	5.2	5.2	5.2							5.2	5.2	2								Commercial XC		
+2005-08-18	745D	BE35	klzu kwdr klzu	2.5	2.5			2.5							6								Commercial		
+2005-08-20	745D	BE35	kcha local	1.7	1.7																		Commercial Checkride with Ben Carr	P	
+2005-08-24	745D	BE35	kcha klzu	1.2	1.2	1.2								1.2	1								VFR XC		
+2005-08-27	745D	BE35	klzu local	1.5	1.5	1.5									1								ATL Tour		
+2005-08-29	745D	BE35	klzu kwdr klzu	2.0	2.0			2.0							8								CFI		
+2005-09-04	745D	BE35	klzu kwdr klzu	2.1	2.1			2.1							6								CFI		
+2005-09-07	745D	BE35	klzu kwdr klzu	2.0	2.0			2.0							8								CFI		
+2005-12-06	745D	BE35	klzu local	2.1	2.1	2.1									2								CFI		
+2005-12-08	745D	BE35	klzu 19a kwdr klzu	2.5	2.5	2.5									5								CFI		
+2005-12-10	745D	BE35	klzu d73 klzu	2.2	2.2	2.2									3								CFI		
+2005-12-13	745D	BE35	klzu kgvl klzu	3.1	3.1	3.1									6								CFI		
+2005-12-17	745D	BE35	klzu local	2.2	2.2	2.2						1			2								CFI		
+2005-12-20	745D	BE35	klzu kauo klzu	1.4	1.4	1.4						1		1.4	2								XC		
+2005-12-29	745D	BE35	klzu d73 klzu	2.3	2.3	2.3									4								CFI		
+2006-01-05	745D	BE35	klzu kwdr klzu	2.2	2.2	2.2									6								CFI		
+2006-01-10	745D	BE35	klzu local	1.9	1.9	1.9									3								CFI		
+2006-01-12	745D	BE35	klzu local	2.5	2.5	2.5									4								CFI		
+2006-01-17	745D	BE35	klzu kwdr klzu	2.2	2.2	2.2									7								CFI		
+2006-01-21	745D	BE35	klzu local	1.5	1.5	1.5									2								CFI		
+2006-01-24	745D	BE35	klzu kwdr klzu 	1.7	1.7	1.7						1	0.4		1								CFI		
+2006-01-26	745D	BE35	klzu d73 klzu	2.1	2.1			2.1					0.3			1							CFI		
+2006-01-28	745D	BE35	klzu local	2.2	2.2	2.2							0.4		4	2							CFI		
+2006-01-31	745D	BE35	klzu kahn kmcn klzu	3.1	3.1	3.1							0.7	3.1	2	1							macon xc		
+2006-02-02	745D	BE35	klzu d73 klzu	1.2	1.2	1.2							0.2		1	1							CFI		
+2006-02-04	745D	BE35	klzu local	1.6	1.6	1.6							0.4			1							CFI		
+2006-02-08	745D	BE35	klzu kwdr klzu	1.3	1.3	1.3							0.1		5	1							CFI		
+2006-02-11	745D	BE35	klzu 9A1 klzu	2.3	2.3	2.3									9								CFI		
+2006-02-14	745D	BE35	klzu kwdr klzu	1.2	1.2			1.2							4								CFI		
+2006-02-16	745D	BE35	klzu local	1.1	1.1	1.1									2								CFI		
+2006-03-04	745D	BE35	klzu local	1.1	1.1	1.1									1								CFI		
+2006-03-08	745D	BE35	klzu d73 klzu	1.7	1.7	1.7									8								CFI		
+2006-03-11	745D	BE35	klzu local	1.2	1.2	1.2									3								CFI		
+2006-03-21	745D	BE35	klzu 9A1 klzu	0.9	0.9	0.9									5								CFI		
+2006-03-22	745D	BE35	klzu local	1.6	1.6	1.6									7								CFI		
+2006-03-24	10946	C150	kpdk local	2.1	2.1			2.1							1								CFI Stall and Spin Training		
+2006-03-28	745D	BE35	klzu kwdr klzu	2.5	2.5			2.5							6								CFI		
+2006-03-30	745D	BE35	klzu local	2.0	2.0			2.0							4								CFI		
+2006-04-02	745D	BE35	klzu kwdr klzu	2.3	2.3			2.3							8								CFI		
+2006-04-06	745D	BE35	klzu kwdr klzu	2.5	2.5			2.5							8								CFI		
+2006-04-14	745D	BE35	klzu local	1.3	1.3			1.3							5								CFI		
+2006-04-22	745D	BE35	klzu kwdr klzu	1.7	1.7			1.7							7								CFI		
+2006-04-29	745D	BE35	klzu local	1.7	1.7			1.7							3								CFI		
+2006-05-05	745D	BE35	klzu kwdr klzu	1.5	1.5			1.5							6								CFI		
+2006-05-19	745D	BE35	klzu kwdr klzu	1.5	1.5			1.5							6								CFI		
+2006-05-20	745D	BE35	klzu kwdr klzu	1.5	1.5			1.5															CFI		
+2006-05-27	745D	BE35	klzu 9A1 klzu	1.7	1.7			1.7															CFI		
+2006-06-05	745D	BE35	klzu 9A1 klzu	1.5	1.5			1.5															CFI		
+2006-06-06	745D	BE35	klzu kwdr klzu	2.0	2.0			2.0															CFI		
+2006-06-07	745D	BE35	klzu 9A1 klzu	1.5	1.5			1.5															CFI		
+2006-06-15	745D	BE35	klzu kgvl klzu	1.5	1.5	1.5								1.5									CFI		
+2006-06-20	745D	BE35	klzu 9A1 klzu	1.2	1.2	1.2								1.2									CFI		
+2006-07-01	745D	BE35	klzu local	1.3	1.3	1.3																	CFI		
+2006-07-08	745D	BE35	klzu kwdr klzu	0.9	0.9	0.9																	Gas Flight		
+2006-07-10	745D	BE35	klzu kfty kctj klzu	1.7	1.7																		CFI Checkride Passed	C	
+2006-07-25	745D	BE35	klzu kauo 	1.2	1.2	1.2								1.2									xc		
+2006-07-25	745D	BE35	kauo klzu	1.2	1.2	1.2								1.2									xc		
+2006-08-03	745D	BE35	klzu local	0.9	0.9	0.9																	ATL Tour		
+2006-08-15	5998J	C172	klzu kwdr klzu	3.1	3.1										8								AC Checkout		
+2006-08-16	745D	BE35	klzu kahn klzu	2.4	2.4						2.4	3	1.1		2								Double I		
+2006-08-18	5998J	C172	klzu kwdr klzu	1.9	1.9	1.9									9										
+2006-08-18	745D	BE35	klzu kahn kwdr klzu	2.3	2.3						2.2	4	1.5		1								Double I		
+2006-08-29	745D	BE35	klzu kwdr klzu	1.9	1.9						1.7		1.7		1								Double I		
+2006-09-04	574MA	DA20	klzu kwdr klzu	1.1	1.1										2								AC Checkout		
+2006-09-09	52741	c172	klzu kwdr klzu	2.9	2.9				2.9						2										
+2006-09-09	574MA	DA20	klzu local	1.2	1.2				1.2						1										
+2006-09-10	52741	c172	klzu 9A1 klzu	1.6	1.6				1.6						2										
+2006-09-10	52741	c172	klzu kwdr klzu	2.1	2.1				2.1						4										
+2006-09-16	7090Y	PA28	klzu kwdr klzu	1.8	1.8				1.8						4										
+2006-09-16	141MA	DA20	klzu local	0.8	0.8				0.8						1				disco						
+2006-09-16	172WA	c172	klzu kwdr klzu	2.2	2.2				2.2						5										
+2006-09-20	172WA	c172	klzu local	0.8	0.8				0.8						1								disco		
+2006-09-24	52741	c172	klzu local	1.2	1.2				1.2						6										
+2006-09-30	52741	c172	klzu kwdr klzu	2.1	2.1				2.1						5										
+2006-09-30	52741	c172	klzu local	0.7	0.7				0.7						1								disco		
+2006-10-01	823AG	PA32R	klzu kwdr klzu	1.2	1.2				1.2						3								ac checkout mcgrit		
+2006-10-07	52741	c172	klzu kwdr klzu	2.2	2.2				2.2					0.5	8								rohan		
+2006-10-15	52741	c172	klzu kwdr klzu	1.9	1.9				1.9					0.5	6								rohan		
+2006-10-21	574MA	DA20	klzu local	0.7	0.7				0.7						1								disco		
+2006-10-26	574MA	DA20	klzu kryy klzu	1.2	1.2	1.2								1.2	3								transport xponder		
+2006-11-01	172WA	c172	klzu kryy krmg klzu	2.1	2.1									2.1	3								mike rogers xponder replaced		
+2006-11-02	5320D	PA28-181	klzu local	1.1	1.1				1.1					0.5	6								david		
+2006-11-02	745D	BE35	klzu kahn kwdr kgvl	2.1	2.1			2.1				5		1.0	1										
+2006-11-03	745D	BE35	klzu kahn kwdr klzu	1.6	1.6			1.6				3		1.0	1										
+2006-11-04	7090Y	PA28	klzu kwdr klzu 	1.4	1.4				1.4					0.3	5								mike nelson		
+2006-11-04	7090Y	PA28	klzu ktoc klzu	1.7	1.7				1.7					1.7	1								stephine mills		
+2006-11-04	574MA	DA20	klzu local	0.8	0.8				0.8						1								disco		
+2006-11-05	172WA	c172	klzu krmg kcha 	1.5	1.5				1.5				0.7	1.5	2								mike rogers checkride		
+2006-11-05	172WA	c172	kcha krmg klzu	1.5	1.5				1.5					1.5	2								mike rogers checkride passed		
+2006-11-09	574MA	DA20	klzu kwdr klzu	1.7	1.7				1.7					0.3	5								leith		
+2006-11-09	745D	BE35	klzu kahn kwdr kpdk klzu	2.2	2.2			2.2		2.2		4	2.2	2.2		1							double I		
+2006-11-13	745D	BE35	klzu kcha kdnn klzu	2.6	2.6			2.6			2.6	4	2.6	2.6		1							double I mock checkride		
+2006-11-17	745D	BE35	kcha local	1.6	1.6						1.4	2			1								Double I checkride Ben Carr	C	
+2006-11-17	745D	BE35	klzu kcha klzu	1.7	1.7	1.7								1.7	3								flight to checkride		
+2006-11-18	574MA	DA20	klzu kwdr klzu	1.6	1.6				1.6					0.4	4								ac checkout sachrowski		
+2006-11-18	823AG	PA32R	klzu kwdr kgvl klzu	1.4	1.4				1.4			2		0.5	3								pecht ac checkout		
+2006-11-18	7090Y	PA28	klzu kwdr klzu	1.7	1.7				1.7				0.5	0.4	4								checkout siddons		
+2006-11-22	141MA	DA20	klzu kwdr klzu	3.6	3.6				3.6					0.4	6								leith		
+2006-11-22	574MA	DA20	klzu kwdr klzu	1.0	1.0				1.0					0.4	4								stu		
+2006-11-22	7090Y	PA28	klzu kwdr klzu	1.3	1.3				1.3					0.4	4								ac checkout noles		
+2006-11-24	141MA	DA20	klzu kwdr klzu	1.8	1.8				1.8					0.4	6								leith		
+2006-11-25	574MA	DA20	klzu D73 klzu 	1.5	1.5				1.5					0.5	2								ac checkout caldwell		
+2006-11-25	574MA	DA20	klzu local	1.5	1.5				1.5						3								disco		
+2006-11-25	574MA	DA20	klzu kwdr klzu	1.1	1.1				1.1					0.5	3								disco		
+2006-11-26	574MA	DA20	klzu local	0.9	0.9				0.9						4								leith		
+2006-11-27	3810M	PA28	klzu kwdr klzu	2.1	2.1				2.1					0.4	3								intro flight welsh		
+2006-11-29	3810M	PA28	klzu kwdr klzu	1.7	1.7				1.7						5								welsh		
+2006-11-29	52741	c172	klzu kwdr kahn klzu	1.9	1.9				1.9			3			2								raphael		
+2006-12-01	574MA	DA20	klzu wdr klzu	1.6	1.6				1.6						4								everett checkout		
+2006-12-01	574MA	DA20	klzu local	1.6	1.6				1.6						5								leith		
+2006-12-02	7090Y	PA28	klzu D73 Klzu	1.6	1.6				1.6					0.5	4								mora checkout		
+2006-12-02	52741	c172	klzu local	1.1	1.1				1.1						5								rohan		
+2006-12-02	574MA	DA20	klzu kwdr klzu	0.9	0.9				0.9					0.5	3								everett checkout		
+2006-12-03	141MA	DA20	klzu local	0.9	0.9				0.9						4								caldwell checkout		
+2006-12-06	52741	c172	klzu D73 klzu	1.4	1.4				1.4					0.7	4								smith		
+2006-12-08	52741	c172	klzu local	0.5	0.5				0.5						1								disco		
+2006-12-08	823AG	PA32R	klzu kwdr kahn klzu	1.9	1.9				1.9					1.0	2								ac checkout gear problems		
+2006-12-08	574MA	DA20	klzu local	1.4	1.4				1.4						6								leith		
+2006-12-09	52741	c172	klzu kahn kwdr klzu	2.1	2.1				2.1			4		1.0	1								lopez		
+2006-12-10	3810M	PA28	klzu kwdr klzu	1.9	1.9				1.9					0.5	4								welsh		
+2006-12-10	7090Y	PA28	klzu kahn klzu	2.1	2.1				2.1				2.1	1.0	4								carlos mora		
+2006-12-11	141MA	DA20	klzu kwdr klzu	1.5	1.5				1.5					0.5	3								leith first solo		
+2006-12-11	52741	c172	klzu D73 klzu	1.7	1.7				1.7					0.5	4								smith		
+2006-12-14	141MA	DA20	klzu local	1.6	1.6				1.6						4								alecxin		
+2006-12-15	52741	c172	klzu local	1.6	1.6				1.6			2			2								durez		
+2006-12-15	52741	c172	klzu kgvl klzu	1.1	1.1				1.1			4			1								lopez		
+2006-12-15	5763N	M20J	klzu kahn klzu	2.0	2.0				2.0					1.0	2								checkout		
+2006-12-16	52741	c172	klzu kwdr klzu	1.1	1.1				1.1					0.5	4								kennett		
+2006-12-16	52741	c172	klzu kgvl kahn klzu	2.1	2.1				2.1			4		1.3	1								lopez		
+2006-12-16	52741	c172	klzu local	0.5	0.5				0.5						1								disco		
+2006-12-16	7090Y	PA28	klzu kgvl kahn klzu	3.0	3.0				3.0					1.3	6								henderson wings program		
+2006-12-17	52741	c172	klzu kwdr klzu	1.8	1.8				1.8					0.5	4								rohan 2nd solo		
+2006-12-18	52741	c172	klzu local 	1.6	1.6				1.6						3								intro flight		
+2006-12-18	52741	c172	klzu kwdr klzu	1.6	1.6				1.6					0.5	4								smith		
+2006-12-21	52741	c172	klzu kahn klzu	1.9	1.9				1.9					1.0	4								alex D		
+2006-12-22	52741	c172	klzu kwdr klzu	1.4	1.4				1.4					0.5	2								durez		
+2006-12-23	52741	c172	KLZU KAHN KWDR KLZU	1.8	1.8				1.8					1.0	1								lopez		
+2006-12-23	52741	c172	klzu kgvl klzu	1.6	1.6				1.6					0.7	4								kennett		
+2006-12-24	52741	c172	KLZU KWDR KLZU	1.6	1.6				1.6					1.0	4										
+2006-12-24	745D	BE35	KLZU KAUO	2.1	2.1	2.1								2.1	1								Mamma G's and nachos		
+2006-12-24	745D	BE35	kauo klzu	1.9	1.9	1.9								1.9	1								return		
+2006-12-27	5763N	M20J	klzu kahn kwdr klzu	2.3	2.3				2.3					2.3	5								conroy ac checkout		
+2006-12-28	3147W	BE35	klzu kahn klzu	2.2	2.2				2.2			2		1.0	1								Terry Harper ac intro flight		
+2006-12-29	52741	c172	klzu kwdr klzu	1.7	1.7				1.7					1.0	6										
+2006-12-29	52741	c172	klzu kahn klzu	1.4	1.4				1.4			3		0.5	1								lopez		
+2006-12-31	52741	c172	klzu kwdr klzu	1.5	1.5				1.5					1.0	4								kennett		
+2007-01-03	52741	c172	klzu D73 klzu	1.7	1.7				1.7					0.5	4								smith		
+2007-01-04	141MA	DA20	klzu kwdr klzu	1.8	1.8				1.8					0.5	3								leith		
+2007-01-05	141MA	DA20	klzu local	1.1	1.1				1.1						1								ravi		
+2007-01-06	574MA	DA20	klzu local	1.1	1.1				1.1						2										
+2007-01-06	3147W	BE35	klzu 19A klzu	2.3	2.3				2.3			3			1										
+2007-01-07	141MA	DA20	klzu kwdr klzu	1.6	1.6				1.6						3										
+2007-01-10	52741	c172	klzu kwdr klzu	1.9	1.9				1.9						4								leith		
+2007-01-11	3810M	PA28	klzu kwdr klzu	1.9	1.9				1.9						4								welsh		
+2007-01-11	7090Y	PA28	klzu kwdr klzu	1.7	1.7				1.7						5								simmons		
+2007-01-12	574MA	DA20	klzu kwdr klzu 	1.9	1.9				1.9						6								leith		
+2007-01-12	3810M	PA28	klzu kwdr klzu	1.9	1.9				1.9						4								welsh		
+2007-01-12	52741	c172	klzu kahn kwdr klzu	1.7	1.7				1.7			3			1								lopez		
+2007-01-13	52741	c172	klzu kwdr klzu	1.7	1.7				1.7						3								rohan		
+2007-01-13	3147W	BE35	klzu kgvl kwdr klzu	1.5	1.5				1.5			4			1								harper		
+2007-01-13	52741	c172	klzu kwdr klzu	1.5	1.5				1.5			3			1								lopez		
+2007-01-14	141MA	DA20	klzu local	1.1	1.1				1.1						3								ravi		
+2007-01-14	52741	c172	klzu kwdr klzu	1.7	1.7				1.7						3								kennett		
+2007-01-14	141MA	DA20	klzu local	1.5	1.5				1.5						4								leith		
+2007-01-18	52741	c172	klzu kwdr klzu	1.7	1.7				1.7						4								kennett		
+2007-01-19	52741	c172	klzu kwdr kgvl klzu	1.9	1.9				1.9			4			1								lopez		
+2007-01-20	3147W	BE35	klzu kahn kwdr klzu	2.2	2.2				2.2			3			1								harper		
+2007-01-20	52741	c172	klzu kwdr klzu	1.7	1.7				1.7			3			1								lopez		
+2007-01-21	141MA	DA20	klzu local	1.0	1.0				1.0						5								ravi		
+2007-01-21	52741	c172	klzu kwdr klzu	1.1	1.1				1.1						3								kennett		
+2007-01-25	141MA	DA20	klzu kwdr klzu	1.5	1.5				1.5						3								leith		
+2007-01-25	574MA	DA20	klzu local	1.2	1.2				1.2						4								ravi		
+2007-01-26	52741	c172	klzu kwdr kgvl klzu	1.7	1.7				1.7			3			1								lopez		
+2007-01-27	141MA	DA20	klzu kwdr klzu	1.6	1.6				1.6						5								leith		
+2007-01-27	3147W	BE35	klzu kwdr klzu	1.1	1.1				1.1			2			1								harper		
+2007-01-28	141MA	DA20	klzu local	0.9	0.9				0.9						4								ravi		
+2007-01-28	52741	c172	klzu kahn kwdr klzu	1.7	1.7				1.7			3			1								lopez		
+2007-02-02	141MA	DA20	klzu local	0.4	0.4				0.4						1								disco		
+2007-02-03	52741	c172	klzu local	1.7	1.7				1.7						2								rohan		
+2007-02-03	52741	c172	klzu kwdr klzu 	1.5	1.5				1.5						5								kennett		
+2007-02-03	141MA	DA20	klzu local	0.5	0.5				0.5						1								disco		
+2007-02-03	52741	c172	klzu kmlj klzu	2.2	2.2				2.2				2.2	2.2	3								rohan		
+2007-02-08	52741	c172	klzu kwdr klzu	1.7	1.7				1.7						6								kennett		
+2007-02-08	52741	c172	klzu local	1.4	1.4				1.4						3								rioux		
+2007-02-09	574MA	DA20	klzu D73 klzu	1.5	1.5				1.5						3								berger		
+2007-02-12	52741	c172	klzu kwdr klzu	1.7	1.7				1.7						5								kennett		
+2007-02-12	393JA	DA20	klzu kpdk klzu	1.4	1.4				1.4						3								blaze		
+2007-02-16	52741	c172	klzu kwdr klzu	1.7	1.7				1.7						4								kennett		
+2007-02-19	52741	c172	klzu local	1.5	1.5				1.5						1								rohan		
+2007-02-19	52741	c172	klzu local	0.6	0.6				0.6						1								disco		
+2007-02-22	393JA	DA20	klzu local	1.1	1.1				1.1						3								ravi		
+2007-02-22	52741	c172	klzu kwdr klzu	1.7	1.7				1.7						7								kennett		
+2007-02-23	3810M	PA28	klzu kwdr 19a klzu	1.7	1.7				1.7						4								welsh		
+2007-02-24	3810M	PA28	klzu kwdr klzu	1.9	1.9				1.9						6								welsh		
+2007-02-24	52741	c172	klzu local	0.6	0.6				0.6						1								disco		
+2007-02-24	391JA	DA20 	klzu local	0.6	0.6				0.6						1								disco		
+2007-02-24	52741	c172	klzu kwdr klzu	1.3	1.3				1.3						3								gersper		
+2007-02-26	52741	c172	klzu kwdr klzu	1.2	1.2				1.2						4								kennett		
+2007-02-26	393JA	DA20	klzu kwdr klzu	1.5	1.5				1.5						3								mark johnson ac checkout		
+2007-02-26	391JA	DA20 	klzu kwdr klzu	1.3	1.3				1.3						3								wolfe ac checkout		
+2007-02-27	3810M	PA28	klzu kwdr klzu	1.5	1.5				1.5						6								welsh		
+2007-02-28	3810M	PA28	klzu kwdr klzu	1.8	1.8				1.8						5								welsh		
+2007-02-28	172WA	c172	klzu local	1.2	1.2				1.2						2								peppers intro flight		
+2007-03-02	172WA	c172	klzu kwdr klzu	1.7	1.7				1.7						7								kennett		
+2007-03-02	52741	c172	klzu local	1.6	1.6				1.6						3								cardelno		
+2007-03-02	391JA	DA20 	klzu local	1.4	1.4				1.4						4								weed		
+2007-03-03	3147W	BE35	klzu kmcn klzu	2.2	2.2				2.2					2.2	1								harper		
+2007-03-04	391JA	DA20 	klzu kmlj klzu	2.1	2.1				2.1					2.1	2								frank		
+2007-03-04	52741	c172	klzu local	1.1	1.1				1.1						1								rohan atl tour		
+2007-03-05	3810M	PA28	klzu kgso	2.0	2.0				2.0					2.0	1								welsh		
+2007-03-05	3810M	PA28	kgso klzu	1.1	1.1				3.0					3.0	1								welsh		
+2007-03-06	52741	c172	klzu kwdr klzu	1.2	1.2				1.2						4								kennett first solo		
+2007-03-06	52741	c172	klzu local	0.5	0.5				0.5						1								disco		
+2007-03-07	3810M	PA28	klzu local	3.2	3.2				3.2					3.2	1								welsh		
+2007-03-08	3810M	PA28	kgso kgsp klzu	4.2	4.2				4.2					4.2	2								welsh		
+2007-03-08	391JA	DA20 	klzu local	1.4	1.4				1.4						4								holt ac checkout		
+2007-03-09	391JA	DA20 	klzu local	1.5	1.5				1.5						3								weed		
+2007-03-10	3147W	BE35	klzu kcha klzu	2.1	2.1				2.1	0.5		3		2.1	1								harper		
+2007-03-11	391JA	DA20 	klzu local	1.1	1.1				1.1						6								ravi		
+2007-03-12	7090Y	PA28	klzu kwdr klzu	2.1	2.1				2.1						4								rorig bfr		
+2007-03-18	393JA	DA20	klzu local	0.8	0.8				0.8						5								ravi		
+2007-03-19	52741	c172	klzu local	1.2	1.2				1.2						2								Bishop 		
+2007-03-20	52741	c172	klzu local	1.4	1.4				1.4						4								cardelno		
+2007-03-20	52741	c172	klzu kwdr klzu	0.9	0.9				0.9						3								kayce		
+2007-03-20	52741	c172	klzu lo	1.1	1.1				1.1						5								craighead		
+2007-03-21	52741	c172	klzu local	1.2	1.2				1.2						3								stephens		
+2007-03-21	391JA	DA20 	klzu d73 klzu	1.1	1.1				1.1						4								rioux ac chekout bfr		
+2007-03-22	391JA	DA20 	klzu local	1.1	1.1				1.1						6								ravi		
+2007-03-23	393JA	DA20	klzu kwdr klzu	1.1	1.1				1.1			3			1								rupley		
+2007-03-23	52741	c172	klzu kwdr d73 klzu	2.4	2.4				2.4						7								cardelino		
+2007-03-24	3147W	BE35	klzu kahn	1.7	1.7				1.7			2			1								harper		
+2007-03-24	391JA	DA20 	klzu 3j7 klzu 	1.5	1.5				1.5					1.5	3								leith		
+2007-03-24	391JA	DA20 	klzu local	0.5	0.5				0.5						1								disco		
+2007-03-24	3810M	PA28	klzu local	1.7	1.7				1.7						5								welsh		
+2007-03-25	393JA	DA20	klzu local	0.9	0.9				0.9						6								ravi		
+2007-03-25	393JA	DA20	klzu local	0.5	0.5				0.5						1								disco		
+2007-03-25	393JA	DA20	klzu local	0.5	0.5				0.5						1								disco		
+2007-03-25	52741	c172	klzu kgvl klzu	1.1	1.1				1.1						3								kaye		
+2007-03-26	391JA	DA20 	klzu kwdr klzu	1.1	1.1				1.1			2			1								rupley		
+2007-03-26	52741	c172	klzu klzu	1.7	1.7				1.7					1.7	2								bishop		
+2007-03-28	391JA	DA20 	klzu kahn klzu	1.6	1.6				1.6			3			1								rupley		
+2007-03-28	52741	c172	klzu kwdr klzu	1.8	1.8				1.8						9			Cardilino							
+2007-03-28	52741	c172	klzu local	1.1	1.1				1.1						1			Rohan							
+2007-03-29	391JA	DA20 	klzu local	0.9	0.9				0.9						7			Ravi							
+2007-03-29	52741	c172	klzu D73 klzu	1.3	1.3				1.3						3			kaye							
+2007-03-30	52741	c172	klzu kpdk klzu	1.4	1.4				1.4					1.4	1			Kennett xc							
+2007-03-30	3147W	BE35	klzu kags klzu	1.9	1.9				1.9	0.7		2		1.9	1			Terry Harper xc							
+2007-04-02	393JA	DA20	klzu kahn klzu	1.3	1.3				1.3			3			1			Rupley							
+2007-04-02	52741	c172	klzu local	1.1	1.1				1.1						5			Cardilino							
+2007-04-04	393JA	DA20	klzu kgvl klzu	1.4	1.4				1.4			3			1			rupley							
+2007-04-06	3147W	BE35	klzu local	1.7	1.7				1.7			2			1			Terry Harper							
+2007-04-06	52741	c172	klzu local	1.1	1.1				1.1						6			kaye							
+2007-04-06	391JA	DA20 	klzu kwdr klzu	1.6	1.6				1.6						4			grimes							
+2007-04-09	52741	c172	klzu local	1.1	1.1				1.1						2			kennett							
+2007-04-12	393JA	DA20	klzu kwdr D73 klzu	1.3	1.3				1.3						4								Ravi		
+2007-04-12	393JA	DA20	klzu kiiy klzu	2.2	2.2				2.2					2.2	2								Brown		
+2007-04-14	393JA	DA20	klzu local	1.4	1.4				1.4						3								Brown		
+2007-04-14	393JA	DA20	klzu local	0.5	0.5				0.5						1								Disco		
+2007-04-14	391JA	DA20 	klzu kwdr klzu	1.1	1.1				1.1			2			1								R.Smith		
+2007-04-17	443MA	DA40	klzu kwdr klzu	1.8	1.8				1.8						1								Da40 Checkout glass		
+2007-04-19	391JA	DA20 	klzu local	1.4	1.4				1.4						3								Ravi		
+2007-04-19	391JA	DA20 	klzu kwdr klzu	1.8	1.8				1.8						1								Brown		
+2007-04-21	393JA	DA20	klzu kahn klzu	1.3	1.3				1.3			2											R. Smith		
+2007-04-21	7090Y	PA28	klzu kgvl klzu	1.1	1.1				1.1						1								Hayes		
+2007-04-24	391JA	DA20 	klzu kwdr klzu	1.4	1.4				1.4			2			1								Rupley		
+2007-04-25	52741	c172	klzu local	1.1	1.1				1.1						6								Cardilino		
+2007-04-25	3810M	PA28	klzu kwdr klzu	1.4	1.4				1.4						6								Welsh		
+2007-04-26	393JA	DA20	klzu local	1.1	1.1				1.1						4								Brown		
+2007-04-27	3147W	BE35	klzu kwdr kgvl klzu	1.9	1.9				1.9			3			1								Harper IPC Complete		
+2007-04-27	52741	c172	klzu kwdr klzu	1.4	1.4				1.4						5								Cardolino Pre Solo		
+2007-05-02	52741	c172	klzu kwdr klzu	1.4	1.4				1.4						3								Cardolino Solo		
+2007-05-03	391JA	DA20 	klzu local	1.3	1.3				1.3						5								Ravi		
+2007-05-04	3147W	BE35	klzu koxd	2.3	2.3				2.3	2.3		1		2.3	1								Harper xc		
+2007-05-04	3147W	BE35	koxd klzu	3.2	3.2				3.2	3.2		1		3.2	1								Harper Return Flight		
+2007-05-06	9910T	PA38	klzu klzu	1.2	1.2				1.2			1			1								BFR complete		
+2007-05-08	391JA	DA20 	klzu kmcn kmlj klzu	2.7	2.7				2.7					2.7	3								Brown XC		
+2007-05-10	3810M	PA28	klzu kwdr klzu	2.0	2.0				2.0						8								Welsh		
+2007-05-11	393JA	DA20	klzu kwdr klzu	1.1	1.1				1.1						3								Duggan Intro		
+2007-05-11	52741	c172	klzu local	0.6	0.6				0.6						1								Disco		
+2007-05-12	52741	c172	klzu ksav ktbr	3.0	3.0				3.0	2.5				3.0	1								ifr/vfr XC		
+2007-05-13	52741	c172	ktbr klzu	2.5	2.5				2.5	0.7				2.5	1								ifr/vfr xc		
+2007-05-13	52741	c172	klzu local	1.0	1.0				1.0						2								Disco x2		
+2007-05-14	52741	c172	klzu local	1.1	1.1				1.1						3								Griffen		
+2007-05-14	393JA	DA20	klzu kwdr klzu	2.1	2.1				2.1						4								Duggan		
+2007-05-14	3810M	PA28	klzu kwdr 19A klzu	2.2	2.2				2.2						6								Welsh		
+2007-05-14	52741	c172	klzu local	1.0	1.0				1.0						2								Disco x2		
+2007-05-17	3810M	PA28	klzu kwdr klzu	2.0	2.0				2.0						7								Welsh		
+2007-05-17	393JA	DA20	klzu kwdr klzu	1.7	1.7				1.7						3								Duggan		
+2007-05-18	393JA	DA20	klzu local	1.5	1.5				1.5						2								Caldwell A/C checkout		
+2007-05-18	52741	c172	klzu local	1.6	1.6				1.6						1								Sheisk		
+2007-05-19	52741	c172	klzu kiiy 3JA klzu	1.8	1.8				1.8					1.8	3								Rohan XC		
+2007-05-19	52741	c172	klzu local	0.5	0.5				0.5						1								Disco		
+2007-05-20	393JA	DA20	klzu local	1.1	1.1				1.1						5								Ravi		
+2007-05-20	52741	c172	klzu local	1.9	1.9				1.9						3								Morclonii		
+2007-05-20	393JA	DA20	klzu kahn kwdr klzu	1.5	1.5				1.5			3			2								R. Smith		
+2007-05-21	391JA	DA20 	klzu kwdr klzu	1.7	1.7				1.7						3								Duggan Pre Solo		
+2007-05-24	393JA	DA20	klzu ktbr klzu	4.7	4.7				4.7					4.7	3								Brown Hoodwork		
+2007-05-25	5763N	M20J	klzu local	1.1	1.1				1.1						3								Rohm Mooney Checkout		
+2007-05-25	391JA	DA20 	klzu kwdr klzu	2.1	2.1				2.1						6								Duggan		
+2007-05-25	7090Y	PA28	klzu local 	1.9	1.9				1.9						3								Swanson		
+2007-05-26	393JA	DA20	klzu kwdr kahn klzu	1.6	1.6				1.6			2			1								R. Smith		
+2007-05-26	52741	c172	klzu local	1.5	1.5				1.5						4								Cardolino		
+2007-05-28	745D	BE35	klzu local	1.5	1.5				1.5						3								AC checkout		
+2007-05-28	3147W	BE35	klzu klzu	1.6	1.6				1.6			3			1								Terry Harper		
+2007-05-29	443MA	DA40	klzu kiiy 3J7 klzu	2.2	2.2				2.2					2.2	1								DA 40 Checkout		
+2007-05-30	391JA	DA20 	klzu kahn kwdr klzu	1.7	1.7				1.7			3	1.7		1								Caldwell IFR		
+2007-06-06	7090Y	PA28	klzu kauo klzu	3.5	3.5				3.5	3.0		4	3.0			2							Caldwell IFR to AU		
+2007-06-09	52741	c172	klzu local	1.7	1.7				1.7						1								Bell		
+2007-06-09	52741	c172	klzu local	1.6	1.6				1.6						6								Cardolino		
+2007-06-09	391JA	DA20 	klzu local	0.5	0.5				0.5						1								Disco		
+2007-06-10	391JA	DA20 	klzu local	1.5	1.5				1.5						5								Duggan		
+2007-06-10	391JA	DA20 	klzu local	1.3	1.3				1.3						5								Ravi		
+2007-06-12	391JA	DA20 	klzu local	1.7	1.7				1.7						3								Brown		
+2007-06-12	745D	BE35	klzu kiiy klzu	1.9	1.9	1.9								1.9	1								XC Solo		
+2007-06-15	7090Y	PA28	klzu local	2.1	2.1				2.1						3								Caldwell AC Checkout		
+2007-06-16	391JA	DA20 	klzu kwdr klzu	1.6	1.6				1.6						4								Duggan Pre Solo		
+2007-06-17	391JA	DA20 	klzu local	1.1	1.1				1.1						3								Ravi		
+2007-06-17	391JA	DA20 	klzu local	1.0	1.0				1.0						1								Cummings		
+2007-06-18	7090Y	PA28	klzu local	1.7	1.7				1.7						3								ifr ac checkout		
+2007-06-20	391JA	DA20 	klzu local	1.5	1.5				1.5						3								Duggan Solo		
+2007-06-20	393JA	DA20	klzu local	1.7	1.7				1.7						4								Rohan AC Checkout		
+2007-06-21	393JA	DA20	klzu local	1.1	1.1				1.1						3								Ravi		
+2007-06-22	52741	c172	klzu local	0.5	0.5				0.5						1								disco		
+2007-06-22	52741	c172	klzu kpdk klzu	1.4	1.4				1.4						3								Craighead		
+2007-06-22	391JA	DA20 	klzu d73 klzu	1.7	1.7				1.7						3								Fowler BFR		
+2007-06-23	391JA	DA20 	klzu local	0.5	0.5				0.5						1								Clark Disco		
+2007-06-23	391JA	DA20 	klzu local	0.5	0.5				0.5						1								Disco		
+2007-06-24	391JA	DA20 	klzu local	1.1	1.1				1.1						3								Ravi		
+2007-06-24	52741	c172	klzu local	1.7	1.7				1.7						3								Bass AC Checkout		
+2007-06-24	52741	c172	klzu local	1.3	1.3				1.3						2								Adams		
+2007-06-25	52741	c172	klzu local	1.1	1.1				1.1						1								Bass		
+2007-06-25	393JA	DA20	klzu local	2.2	2.2				2.2						4								Flanders BFR		
+2007-06-26	393JA	DA20	klzu local	2.1	2.1				2.1						3								Flanders BFR		
+2007-06-28	393JA	DA20	klzu local	1.1	1.1				1.1						4								Ravi		
+2007-06-28	391JA	DA20 	klzu local	2.1	2.1				2.1						3								Duggan		
+2007-06-28	391JA	DA20 	klzu local	1.7	1.7				1.7						2								Bagley BFR		
+2007-06-29	52741	c172	klzu kpdk klzu	1.7	1.7				1.7						3								Craighead		
+2007-06-29	393JA	DA20	klzu kiiy klzu	1.5	1.5				1.5					1.5	2								Duggan		
+2007-06-30	391JA	DA20 	klzu local	0.5	0.5				0.5						1								Disco		
+2007-06-30	52741	c172	klzu local	1.0	1.0				1.0						1								Seik 		
+2007-07-01	391JA	DA20 	klzu local	0.5	0.5				0.5						1								Disco		
+2007-07-02	391JA	DA20 	klzu local	1.7	1.7				1.7						5								Duggan		
+2007-07-02	7090Y	PA28	klzu local	2.1	2.1				2.1	2.1		3	2.1		1			Pat Caldwell					actual inst pdk apprs		
+2007-07-03	391JA	DA20 	klzu local	1.0	1.0				1.0									Pat Caldwell					hoodwork		
+2007-07-05	391JA	DA20 	klzu local	1.6	1.6				1.6									duggan					stalls		
+2007-07-06	52741	c172	klzu kmlj klzu	2.3	2.3				2.3					2.3				Pat Caldwell					vfr xc		
+2007-07-06	391JA	DA20 	klzu local	2.0	2.0				2.0						4			disco					disco		
+2007-07-06	7090Y	PA28	klzu kahn kwdr klzu	2.3	2.3				2.3				2.3	0.7				Pat Caldwell					ifr holds apprs		
+2007-07-07	393JA	DA20	klzu local	1.9	1.9				1.9						4			Mark Fitzpatrick					maneuvers 		
+2007-07-07	52741	c172	klzu local	1.5	1.5				1.5						1			Medors					intro flight		
+2007-07-07	391JA	DA20 	klzu kwdr klzu	1.7	1.7				1.7					0.5	2			Duggan					stalls tg		
+2007-07-09	393JA	DA20	klzu kand ktoc klzu	1.7	1.7				1.7					1.7				Duggan					vfr xc		
+2007-07-10	391JA	DA20 	klzu local	1.2	1.2				1.2									Duggan					pattern work		
+2007-07-10	391JA	DA20 	klzu kmlj 3ja klzu	2.9	2.9				2.9					2.9	1			Davis					Divert for WX		
+2007-07-12	391JA	DA20 	klzu local	0.5	0.5				0.5						1			Disco					Disco		
+2007-07-12	52741	c172	klzu local	1.5	1.5				1.5						1			Jason Hogg					ac checkout		
+2007-07-12	391JA	DA20 	klzu kiiy klzu	2.1	2.1				2.1					2.1				Davis					Vfr xc pilotage		
+2007-07-12	391JA	DA20 	klzu local	1.4	1.4				1.4									Fitzpatrick					slow flight 		
+2007-07-12	391JA	DA20 	klzu kmlj klzu	2.9	2.9				2.9				2.9	2.9				Craigheadd					Night xc		
+2007-07-13	393JA	DA20	klzu local	1.0	1.0				1.0						2			Duggan					Pattern work		
+2007-07-13	52741	c172	klzu local	1.7	1.7				1.7									Sajle					ifr intro		
+2007-07-13	443MA	DA40	klzu kfty kpdk klzu	1.5	1.5				1.5									Lou Adams					ifr gps 		
+2007-07-13	443MA	DA40	klzu local	1.0	1.0				1.0						1			Normand					da40 disco		
+2007-07-14	52741	c172	klzu local	1.0	1.0				1.0						1			Hagg					Pattern work		
+2007-07-16	391JA	DA20 	klzu local	1.5	1.5				1.5						2			Bracewell					Intro flight		
+2007-07-16	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Bagley					Stalls slow flight		
+2007-07-16	391JA	DA20 	klzu kahn klzu	1.6	1.6				1.6				1.6			1		Duggan					Night Operations		
+2007-07-19	391JA	DA20 	klzu local	1.4	1.4				1.4						1			Chuh					intro flight		
+2007-07-19	393JA	DA20	klzu local	1.0	1.0				1.0						2			Disco					Disco		
+2007-07-20	391JA	DA20 	klzu local	1.4	1.4				1.4						1			Jim Chuh					Basic Maneuvers		
+2007-07-20	391JA	DA20 	klzu local	1.9	1.9				1.9									Duggan					hood time bai		
+2007-07-21	391JA	DA20 	klzu local	1.5	1.5				1.5									Fitzpatrick					steep turns stalls		
+2007-07-21	52741	c172	klzu kiiy klzu	2.1	2.1				2.1					2.1				Jarrett					xc pilotage dr		
+2007-07-21	52741	c172	klzu local	1.2	1.2				1.2						3			Todd Medors					turns climbs 		
+2007-07-21	391JA	DA20 	klzu local	1.5	1.5				1.5						3			Klug					Intro flight		
+2007-07-21	391JA	DA20 	klzu local	1.4	1.4				1.4						2			Jim Chuh					Basic Maneuvers		
+2007-07-22	52741	c172	klzu local	1.4	1.4				1.4									Paul Husky					AC checkout		
+2007-07-22	391JA	DA20 	klzu kahn klzu	2.3	2.3				2.3				2.3	2.3				Duggan					night xc		
+2007-07-23	52741	c172	klzu local	1.7	1.7				1.7									Marcus Head					Tail Number Unknown BFR in His AC		
+2007-07-23	391JA	DA20 	klzu local	0.5	0.5				0.5						1			Disco					Disco		
+2007-07-23	52741	c172	klzu kwdr klzu	1.1	1.1				1.1					0.7				Sajle					wdr loc		
+2007-07-23	7090Y	PA28	klzu kcha klzu	3.1	3.1				3.1	2.2				3.1				Pat Caldwell					Cha xc ifr		
+2007-07-24	391JA	DA20 	klzu local	1.9	1.9				1.9						2			Fitzpatrick					tg pattern work		
+2007-07-24	7090Y	PA28	klzu local	1.9	1.9				1.9									Caldwell					holds unusual attidudes		
+2007-07-26	391JA	DA20 	klzu local	1.1	1.1				1.1						1			disco							
+2007-07-26	52741	c172	klzu local	1.5	1.5				1.5						1			craighead 							
+2007-07-26	7090Y	PA28	klzu local	2.9	2.9				2.9									caldwell					ifr local		
+2007-07-27	7090Y	PA28	klzu local	1.5	1.5				1.5									caldwell					local		
+2007-07-29	52741	c172	klzu local	1.1	1.1				1.1						1			disco					prime		
+2007-07-30	52741	c172	klzu kwdr klzu	1.9	1.9				1.9					0.5				duggan					actual intro		
+2007-07-30	52741	c172	klzu local	1.3	1.3				1.3	1.2		2						sajle					ifr actual apprs		
+2007-07-30	7090Y	PA28	klzu kahn klzu	2.4	2.4				2.4	2.0		3	2.4	0.7				caldwell					actual instrument		
+2007-07-31	391JA	DA20 	klzu local	1.3	1.3				1.3									duggan					checkride prep		
+2007-07-31	391JA	DA20 	klzu local	1.1	1.1				1.1				1.1					duggan					night ops		
+2007-08-01	391JA	DA20 	klzu local	0.7	0.7				0.7									bagley					pattern work		
+2007-08-01	393JA	DA20	klzu kand klzu	2.5	2.5				2.5				2.5	2.5				ben davis					night xc		
+2007-08-02	391JA	DA20 	klzu local	1.1	1.1				1.1						1			thompson					intro flight		
+2007-08-02	391JA	DA20 	klzu local	0.9	0.9				0.9						2			bracewell					pattern		
+2007-08-02	391JA	DA20 	klzu local	1.5	1.5				1.5						1			fitzpatrick					pattern stalls		
+2007-08-02	7090Y	PA28	klzu local	1.9	1.9				1.9				1.9					caldwell					apprs holds		
+2007-08-03	391JA	DA20 	klzu local	1.1	1.1				1.1						2			bracewell					basic maneuvers 		
+2007-08-05	617B	eurofox	1I3 local	1.3	1.3										3								Checkout in Eurofox.  soft field ops		
+2007-08-06	617B	eurofox	1I3 local	1.5	1.5										4								checkout in eurofox		
+2007-08-07	617B	eurofox	1I3 M54 klzu	4.5	4.5	4.5								4.5	2								flight back to klzu		
+2007-08-08	391JA	DA20 	klzu local	1.5	1.5				1.5									Davis 					checkride prep		
+2007-08-09	391JA	DA20 	klzu local	1.7	1.7				1.7						2			Thompson					Basic maneuvers		
+2007-08-09	393JA	DA20	klzu local	1.7	1.7				1.7						3			bracewell					turns climbs decents		
+2007-08-09	391JA	DA20 	klzu lcoal	1.6	1.6				1.6									fitzpatrick					grm		
+2007-08-10	391JA	DA20 	klzu local	1.1	1.1				1.1						1			Jim Chuh					basic flight		
+2007-08-10	391JA	DA20 	klzu local	1.4	1.4				1.4						1			Bracewell					pattern grm		
+2007-08-10	391JA	DA20 	klzu local	2.5	2.5				2.5									davis					checkride prep		
+2007-08-10	52741	c172	klu local	1.5	1.5				1.5									sajle					gps apprs		
+2007-08-11	391JA	DA20 	klzu local	1.5	1.5				1.5									fitzpatrick					grm tap sturns		
+2007-08-11	52741	c172	klzu local	1.5	1.5				1.5						2			Rohan					formation flight AOPA photo shoot		
+2007-08-11	393JA	DA20	klzu local	1.4	1.4				1.4									Jim Chuh					steep turns ep's 		
+2007-08-11	391JA	DA20 	klzu local	1.9	1.9				1.9									Mike Lecomba					BFR		
+2007-08-12	52741	c172	klzu local	1.4	1.4				1.4						3			disco 					prime		
+2007-08-12	391JA	DA20 	klzu local	1.4	1.4				1.4						2			Jim Chuh					basic maneuvers		
+2007-08-12	391JA	DA20 	klzu local	2.5	2.5				2.5									Ben davis					checkride prep		
+2007-08-13	391JA	DA20 	klzu krhp klzu	3.4	3.4				3.4					3.4				Ben Davis					checkride Passed		
+2007-08-14	617B	eurofox	kgvl local	1.0	1.0				1.0						1			Bagley					pattern work		
+2007-08-16	391JA	DA20 	disco	0.5	0.5				0.5						1			disco					disco		
+2007-08-17	391JA	DA20 	klzu local	1.4	1.4				1.4									jim chuh					basic maneuvers		
+2007-08-17	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Gary Thompson					basic maneuvers		
+2007-08-18	391JA	DA20 	klzu local	1.4	1.4				1.4									Jim Chuh					steep turns slow flight		
+2007-08-18	391JA	DA20 	klzu local	1.3	1.3				1.3									fitzpatrick					xwnd tg		
+2007-08-19	391JA	DA20 	klzu local	1.5	1.5				1.5									Jim Chuh					slow flight pattern		
+2007-08-19	391JA	DA20 	klzu local	0.5	0.5				0.5						1			disco					disco		
+2007-08-19	745D	BE35	klzu kand klzu	2.5	2.5	2.5				1.0		1	1.3	2.5	3								flight to anderson to visit liz sister		
+2007-08-20	391JA	DA20 	klzu local	1.7	1.7				1.7						1			thompson					slow flight landings		
+2007-08-20	52741	c172	klzu kahn klzu	1.7	1.7				1.7				1.7	0.7				sajle					ifr apprs		
+2007-08-23	391JA	DA20 	klzu local	1.7	1.7				1.7									fitzpatrick					pattern tg		
+2007-08-23	391JA	DA20 	klzu local	0.7	0.7				0.7						1			disco					disco		
+2007-08-24	391JA	DA20 	klzu local	1.7	1.7				1.7									Jim Chuh					power off stalls p on stalls		
+2007-08-24	52741	c172	klzu local	0.8	0.8				0.8						1			disco knights					knights		
+2007-08-24	65638	C182	klzu kpdk kryy krmg klzu	2.5	2.5				2.5					2.5	1			Gary Blaze					G1000		
+2007-08-24	391JA	DA20 	klzu local	1.9	1.9				1.9									duggan					checkride prep		
+2007-08-25	391JA	DA20 	klzu 47A klzu 	2.2	2.2				2.2					2.2				duggan					checkride prep		
+2007-08-25	391JA	DA20 	klzu local	1.7	1.7				1.7						1			fitzpatrick					tg wdr		
+2007-08-25	391JA	DA20 	klzu local	1.9	1.9				1.9									Jim Chuh					grm tap s turns		
+2007-08-26	391JA	DA20 	klzu kmdq klzu	4.2	4.2				4.2					4.2				Duggan					checkride Passed		
+2007-08-27	443MA	DA40	klzu kahn klzu	1.7	1.7				1.7	1.3				0.7				Butterman					actual ifr g1000		
+2007-08-27	52741	c172	klzu local	1.0	1.0				1.0						1			knights					basic maneuvers		
+2007-08-27	52741	c172	klzu GA27 klzu	1.0	1.0				1.0					0.5				Jarrett					xc 90day sign off		
+2007-08-30	7090Y	PA28	klzu local	1.4	1.4				1.4						1			knights					Cherokee intro		
+2007-08-30	393JA	DA20	klzu local	0.5	0.5				0.5						1			ed knights					disco		
+2007-08-30	393JA	DA20	klzu local	1.9	1.9				1.9						1			fitzpatrick					xwnd tg grm		
+2007-08-31	393JA	DA20	klzu local	1.5	1.5				1.5						1			Thomas					ac checkout		
+2007-09-01	52741	c172	klzu local	1.3	1.3				1.3									Liarm					ac checkout		
+2007-09-01	52741	c172	klzu local	0.9	0.9				0.9						1			Waite					basic maneuvers		
+2007-09-01	393JA	DA20	klzu local	1.7	1.7				1.7						1			fitzpatrick					xwnd tg grm		
+2007-09-01	391JA	DA20 	klzu local	1.2	1.2				1.2						2			Auriemo					ac intro		
+2007-09-02	391JA	DA20 	klzu local	1.3	1.3				1.3									Lester					ac checkout		
+2007-09-04	617B	eurofox	kgvl local	1.2	1.2				1.2						1			Bagley					patternwork		
+2007-09-06	7090Y	PA28	klzu local	1.2	1.2				1.2						1			Ed Ward					ac intro		
+2007-09-06	3810M	PA28	klzu local	1.3	1.3				1.3									Jack Welsh					Pattern tg		
+2007-09-06	391JA	DA20 	klzu local	1.5	1.5				1.5									fitzpatrick					pattern go around		
+2007-09-07	52741	c172	klzu kahn kwdr klzu 	1.7	1.7				1.7					0.7				Sajle 					vor apprs		
+2007-09-08	393JA	DA20	klzu local	1.5	1.5				1.5									Fitzpatrick					pattern		
+2007-09-08	391JA	DA20 	klzu local	1.7	1.7				1.7						1			Chueh					slow flight stalls		
+2007-09-08	393JA	DA20	klzu local	1.5	1.5				1.5						2			auerimo					steep turn stalls 		
+2007-09-09	391JA	DA20 	klzu local	2.1	2.1				2.1						2			Chueh					power on off steep		
+2007-09-10	7090Y	PA28	klzu local	1.7	1.7				1.7						2			Ward Knights					stalls steep take off		
+2007-09-13	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Fitzpatrick					tg pattern		
+2007-09-15	391JA	DA20 	klzu local	1.5	1.5				1.5									chueh					s turns stalls		
+2007-09-15	1463P	PA23	klzu local	1.5				1.5							1	2			Dennis 				Multi Intro		
+2007-09-16	391JA	DA20 	klzu local	1.5	1.5				1.5						2			Aueriemo					ac intro		
+2007-09-16	391JA	DA20 	klzu local	1.7	1.7				1.7						1			chueh					sturns TAP ldg		
+2007-09-16	391JA	DA20 	klzu local	1.5	1.5				1.5						2			aureimo					sturns xwnd ldg		
+2007-09-17	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Thompson					xwnd to turns ldg		
+2007-09-20	7090Y	PA28	klzu local	1.3	1.3				1.3						1			Ed Knights					basic maneuvers		
+2007-09-20	52741	c172	klzu local	1.5	1.5				1.5									Mark Natal					ac checkout		
+2007-09-20	52741	c172	klzu local	0.7	0.7				0.7						1			disco					disco		
+2007-09-22	52741	c172	klzu kgvl klzu	1.5	1.5				1.5					0.5				Mason Girand					ac checkout		
+2007-09-23	391JA	DA20 	klzu local	1.0	1.0				1.0						2			Aueriemo					pattern tg		
+2007-09-24	7090Y	PA28	klzu local	1.3	1.3				1.3						3			Ed Knights					airwork		
+2007-09-24	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Gary Thompson					airwork tg		
+2007-09-26	52741	c172	klzu local	1.7	1.7				1.7									Zyznieski					BFR flight only		
+2007-09-26	52741	c172	klzu local	1.9	1.9				1.9									Sajle					holding ils		
+2007-09-27	52741	c172	klzu local	1.9	1.9				1.9						1			Juan Remerez					ac checkout		
+2007-09-27	745D	BE35	klzu local	1.9	1.9				1.9									Frank Miller					BFR in own aircraft 6149J		
+2007-09-27	52741	c172	klzu local	1.7	1.7				1.7						2			Ed Mcgloan					currency		
+2007-09-28	5763N	M20J	klzu local	1.9	1.9				1.9									Scott Higgans					AC checkout		
+2007-09-28	52741	c172	klzu kwdr klzu	1.8	1.8				1.8				1.5	0.5				Sajle					holds		
+2007-09-30	391JA	DA20 	klzu local	1.4	1.4				1.4						2			Aueriemo					xwnd to ldg		
+2007-10-01	391JA	DA20 	klzu local	1.1	1.1				1.1						1			Thompson					xwnd ldg pattern		
+2007-10-01	52741	c172	klzu local	0.6	0.6				0.6						1			disco					disco		
+2007-10-01	391JA	DA20 	klzu local	1.4	1.4				1.4									fitzpatrick					pattern eps		
+2007-10-02	391JA	DA20 	klzu local	1.7	1.7				1.7				0.3					fitzpatrick 					first solo!		
+2007-10-03	745D	BE35	klzu kwdr klzu	2.1	2.1	2.1				1.0	0.5			0.5	3								Instrument Currency \rPatrick Horvath Safety Pilot		
+2007-10-05	52741	c172	klzu local	1.5	1.5				1.5									Ed McGloan					maneuvers eps		
+2007-10-06	391JA	DA20 	klzu local	1.9	1.9				1.9									chueh					pattern tg		
+2007-10-06	65638	C182	klzu local	1.3	1.3				1.3									Gary Blaze					systems tg		
+2007-10-07	1463P	PA23	klzu kwdr klzu	1.5				1.5						0.5	3				Dennis Haskin				steep turns stalls drag demo short field		
+2007-10-07	391JA	DA20 	klzu local	1.8	1.8				1.8						1			chueh					pattern chart		
+2007-10-08	391JA	DA20 	klzu local	1.1	1.1				1.1						3			Gary Thompson					patternwork		
+2007-10-08	391JA	DA20 	klzu local	1.0	1.0				1.0						1			Machelle Spence					intro flight 		
+2007-10-08	391JA	DA20 	klzu local	1.5	1.5				1.5									Fitzpatrick					airwork stalls eps		
+2007-10-11	391JA	DA20 	klzu local	1.1	1.1				1.1						1			chueh					pattern work		
+2007-10-11	393JA	DA20	klzu local	1.4	1.4				1.4						2			Machelle Spence					basic maneuvers		
+2007-10-12	52741	c172	klzu local	1.1	1.1				1.1						1			mark myers					first flight		
+2007-10-12	3810M	PA28	klzu 19A klzu	1.6	1.6				1.6					0.7	1			Welsh					fuel tg pattern		
+2007-10-12	745D	BE35	klzu local	0.5	0.5										2								Bonanza Demo Flight to Bill Schmit		
+2007-10-13	52741	c172	klzu local	0.5	0.5				0.5						1			disco					disco		
+2007-10-13	393JA	DA20	klzu kwdr klzu	1.8	1.8				1.8					0.5				Chueh					pattern tg eps		
+2007-10-13	1463P	PA23	klzu kwdr klzu	1.5				1.5						0.5	3				Dennis Haskin				Single Engine Ops		
+2007-10-14	393JA	DA20	klzu kwdr klzu	2.2	2.2				2.2					0.5	1			chueh					stalls pattern		
+2007-10-14	1463P	PA23	klzu kwdr klzu	1.3				1.3						0.5	4				Dennis Haskin				vmc demo engine out short field se ldg		
+2007-10-16	52741	c172	klzu kmlj klzu	2.1	2.1				2.1				2.1	2.1		1		Jarrett					night xc		
+2007-10-20	52741	c172	klzu local	1.3	1.3				1.3						2			Daniel Burr					grm basic maneuvers		
+2007-10-20	3810M	PA28	klzu 9A1 klzu	1.5	1.5				1.5					0.5				Welsh					pilotage pattern entry		
+2007-10-20	393JA	DA20	klzu 9A1 klzu	2.3	2.3				2.3					0.5	1			chueh					steep turns tap xwnd		
+2007-10-21	7090Y	PA28	klzu local	1.5	1.5				1.5						1			shawn patternson					ac checkout		
+2007-10-25	3810M	PA28	klzu kwdr 19A klzu	1.6	1.6				1.6					0.7				Welsh					fuel tg pattern		
+2007-10-26	7090Y	PA28	klzu kahn kwdr klzu	1.9	1.9				1.9	1.0		3		0.5				tyler russel					bfr instrument currency		
+2007-10-26	3810M	PA28	klzu local	1.0	1.0				1.0									welsh					pattern tg		
+2007-10-26	7090Y	PA28	klzu kwdr klzu	1.0	1.0				1.0					0.5				Horvath					ac checkout		
+2007-10-27	391JA	DA20 	klzu kwdr klzu	2.2	2.2				2.2					0.5				chueh					stalls steep turns slow flight		
+2007-10-27	391JA	DA20 	klzu local	0.5	0.5				0.5						1			disco					disco		
+2007-10-27	1463P	PA23	klzu 19A kwdr klzu	1.6				1.6			1.6	3	1.0	0.7		3			Dennis Haskins				Twin approaches		
+2007-10-27	391JA	DA20 	klzu local	1.1	1.1				1.1						1			kyle tylte					intro flight		
+2007-10-28	52741	c172	klzu kwdr klzu	1.1	1.1				1.1					0.5				St. John					stalls steep turns bfr		
+2007-10-28	7090Y	PA28	klzu kwdr klzu	1.0	1.0				1.0					0.5				craig campus					ac checkout		
+2007-10-29	52741	c172	klzu kahn kwdr klzu	1.5	1.5				1.5					0.7				sajle					ahn wdr apprs		
+2007-11-01	5763N	M20J	klzu kwdr klzu	1.1	1.1				1.1					0.5				Demetry mishkin					ac checkout		
+2007-11-01	745D	BE35	klzu kgvl kahn klzu	1.5	1.5				1.5					0.7	1			schmitt					bonanza checkout		
+2007-11-01	1463P	PA23	klzu 9A1 kwdr klzu	1.4				1.4			1.2	3	1.4	0.7		1			Dennis Haskins				Twin approaches		
+2007-11-03	52741	c172	klzu local	1.1	1.1				1.1						2			kyle tate					turns climbs decents		
+2007-11-03	391JA	DA20 	klzu local	1.2	1.2				1.2					1.0				Fitzpatrick					xc pilotage 		
+2007-11-03	745D	BE35	klzu kgvl kahn klzu	1.6	1.6				1.6					1.0				Schmitt					ac checkout		
+2007-11-04	391JA	DA20 	klzu local	1.2	1.2				1.2						3			barre					ac intro		
+2007-11-04	443MA	DA40	klzu local	0.9	0.9				0.9						1			disco					disco		
+2007-11-04	391JA	DA20 	klzu 9A1 klzu	1.6	1.6				1.6					0.7				chueh					pilotage ded recog pattern		
+2007-11-08	52741	c172	klzu kwdr klzu	1.4	1.4				1.4					0.5				cardilino					steep turns stalls		
+2007-11-08	52741	c172	klzu kahn klzu	1.5	1.5				1.5					1.5				Jarrett					xc		
+2007-11-09	443MA	DA40	klzu local	1.3	1.3				1.3						1			wood					extended disco		
+2007-11-09	443MA	DA40	klzu 3J7 kahn klzu	1.5	1.5				1.5					1.5				Demetry mishkin					g1000 lesson 2		
+2007-11-09	393JA	DA20	klzu kiiy klzu	1.8	1.8				1.8					1.8				Fitzpatrick					xc pilotage		
+2007-11-14	745D	BE35	klzu kahn klzu	1.5	1.5				1.5					0.7				schmitt					approaches		
+2007-11-15	3810M	PA28	klzu kwdr klzu	1.4	1.4				1.4					0.5	1			Welsh					tg eps pattern		
+2007-11-15	391JA	DA20 	klzu kiiy klzu	2.2	2.2				2.2					2.2				Fitzpatrick					xc pilotage ded rocog		
+2007-11-16	3810M	PA28	klzu kwdr	1.3	1.3				1.3					0.5				Welsh					tg pattern eps		
+2007-11-16	52741	c172	klzu local	1.5	1.5				1.5						1			Jocye					Intro flight		
+2007-11-18	391JA	DA20 	klzu local	2.2	2.2				2.2									chueh					stalls steep turns		
+2007-11-18	52741	c172	klzu kwdr klzu	1.6	1.6				1.6					0.7	1			st john					bfr tg		
+2007-11-19	52741	c172	klzu local	1.6	1.6				1.6						2			Joyce					basic maneuvers		
+2007-11-19	391JA	DA20 	klzu kiiy kluz	1.9	1.9				1.9					1.9				fitzpatrick					xc pilotage		
+2007-11-21	745D	BE35	klzu kgvl kahn klzu	1.5	1.5				1.5					1.0				Schmitt					ac checkout		
+2007-11-23	391JA	DA20 	klzu kmcn kmlj klzu	2.8	2.8				2.8					2.8				fitzpatrick					vor nav radio work		
+2007-11-23	391JA	DA20 	klzu 9A1 klzu	1.6	1.6				1.6					1.0				chueh					pattern entry 		
+2007-11-24	443MA	DA40	klzu kauo klzu	3.4	3.4				3.4			2	1.2	3.4		1		caldwell					Iron Bowl		
+2007-11-25	393JA	DA20	klzu kwdr klzu	1.6	1.6				1.6					0.7				chueh					pattern entry tg		
+2007-11-29	391JA	DA20 	klzu kahn klzu	1.8	1.8				1.8					1.0				Savidellis					ifr apprs		
+2007-11-29	52741	c172	klzu local	1.6	1.6				1.6						1			Joyce					basic airwork		
+2007-12-01	391JA	DA20 	klzu kiiy klzu	2.1	2.1				2.1					2.1				fitzpatrick					xc		
+2007-12-01	391JA	DA20 	klzu local	1.0	1.0				1.0									chueh					patternwork		
+2007-12-02	391JA	DA20 	klzu kwdr klzu	1.1	1.1				1.1					0.5				chueh					pattern		
+2007-12-05	393JA	DA20	klzu local	0.7	0.7				0.7						1			disco					disco		
+2007-12-06	391JA	DA20 	klzu kgvl klzu	1.2	1.2				1.2					1.2				savidellis					apprs		
+2007-12-09	393JA	DA20	klzu kwdr klzu	1.5	1.5				1.5					0.5				chueh					first solo		
+2007-12-10	52741	c172	klzu local	1.5	1.5				1.5						1			gary joyce					stalls steepturns		
+2007-12-12	1463P	PA23	klzu kahn klzu	1.6				1.6			1.3	2			1				Dennis Haskins				twin apprs		
+2007-12-13	1463P	PA23	klzu 9A1 kmlj klzu	3.7				3.7		0.7	0.5	2	2.1	3.7	1	2			Dennis Haskins				twin enroute ops		
+2007-12-14	52741	c172	klzu local	1.5	1.5				1.5						2			gary joyce					stalls steep turns		
+2007-12-17	52741	c172	klzu kwdr klzu	1.6	1.6				1.6					0.5	1			gary joyce					stalls pattern		
+2007-12-20	52741	c172	klzu kwdr klzu	1.3	1.3				1.3					0.5				gary joyce					stalls engine out charts		
+2007-12-21	391JA	DA20 	klzu kwdr klzu	1.3	1.3				1.3					0.5	2			jr tucker					ac intro steep turns engine out		
+2007-12-23	443MA	DA40	klzu kwdr klzu	1.4	1.4				1.4					0.7				phill grossman					ac checkout g1000		
+2007-12-23	9294M	C210	klzu 27A klzu	2.1	2.1									2.1	2								Centurion systems 		
+2007-12-24	391JA	DA20 	klzu local	1.1	1.1				1.1									jr tucker					pattern work		
+2007-12-27	9294M	C210	klzu kwdr klzu	1.0	1.0									0.5	3								210 systems pattern		
+2007-12-30	9294M	C210	klzu kwdr klzu	1.1										0.5	1								centurion enroute eps tg		
+2007-12-30	391JA	DA20 	klzu local	1.2	1.2				1.2									jr tucker					tg pattern		
+2008-01-03	391JA	DA20 	klzu kahn klzu	1.1	1.1				1.1					0.7				savidellis					apprs		
+2008-01-03	391JA	DA20 	klzu kahn klzu	1.3	1.3				1.3					0.5	1			jr tucker					pattern tg		
+2008-01-03	391JA	DA20 	klzu kcha klzu	2.7	2.7				2.7				2.7	2.7				fitzpatrick					night xc		
+2008-01-14	5763N	M20J	klzu local	1.3	1.3				1.3									jason hagg					mooney checkout		
+2008-01-15	7090Y	PA28	klzu kryy krmg 47A kgvl kwdr klzu	3.2	3.2				3.2				3.2	3.2				caldwell					multiple approaches		
+2008-01-17	391JA	DA20 	klzu kahn kwdr klzu	1.5	1.5				1.5									Savidellis					ils apprs		
+2008-01-18	52741	c172	klzu kwdr klzu	1.2	1.2				1.2					0.5	4			Gary Joyce					pattern tg		
+2008-01-18	7090Y	PA28	klzu kceu klzu	3.2	3.2				3.2				2.2	3.2				caldwell					ifr xc		
+2008-01-21	7090Y	PA28	klzu local	1.1	1.1				1.1						1			mason griand					ifr intro bai		
+2008-01-21	391JA	DA20 	klzu local	1.0	1.0				1.0						1			patel					ac checkout		
+2008-01-23	52741	c172	klzu kwdr klzu	1.1	1.1				1.1						1			gary joyce					pattern tg		
+2008-01-23	745D	BE35	klzu local	1.1	1.1				1.1									schmitt					ifr checkout		
+2008-01-23	7090Y	PA28	klzu kcha klzu	3.4	3.4				3.4				3.4	3.4				Caldwell					night ifr to chattanooga		
+2008-01-25	5763N	M20J	klzu kiiy klzu	1.9	1.9				1.9					1.9	1			demitry mushkin					mooney systems		
+2008-01-25	52741	c172	klzu D73 klzu	1.3	1.3				1.3					0.6	2			Gary Joyce					pattern tg xwnd		
+2008-01-25	393JA	DA20	klzu 52A klzu	1.7	1.7				1.7					1.0				Savidellis					vor dme arc		
+2008-01-27	7090Y	PA28	klzu kjka kauo klzu	6.7	6.7				6.7				4.0	6.7				Caldwell					long ifr xc		
+2008-01-28	52741	c172	klzu D73 klzu	1.2	1.2				1.2						1			Gary Joyce					pattern xwnd tg		
+2008-01-28	393JA	DA20	klzu local	1.3	1.3				1.3									Ryan Aquino					ifr apprs		
+2008-01-28	393JA	DA20	klzu kfty klzu	2.1	2.1				2.1				2.1	0.6		1		Fitzpatrick					night ops tg		
+2008-01-30	1463P	PA23	klzu kwdr klzu	1.2				1.2			1.2	2	1.2			7			Dennis Haskins				multi ops steep turns vmc stalls se ops		
+2008-02-01	1463P	PA23	klzu 65P klzu	2.2							1.0	2		2.2	3				Dennis Haskins				multi ops se approach steep turns stalls		
+2008-02-02	1463P	PA23	krhp ktys krhp	1.8	1.8						0.7	2			5				Don Jones				Multi Comm checkride Passed!		
+2008-02-02	1463P	PA23	krhp klzu	2.5	2.5	2.5								2.5	1								flight back to lzu		
+2008-02-03	393JA	DA20	klzu local	1.1	1.1				1.1									Ryan Aquino					intro to precision apprs		
+2008-02-07	393JA	DA20	klzu 52A klzu	1.7	1.7				1.7									Savidellis					dme arc		
+2008-02-07	393JA	DA20	klzu local	1.5	1.5				1.5									Fitzpatrick					unusual attitudes		
+2008-02-07	52741	c172	klzu local	1.0	1.0				1.0						3			knights					pattern		
+2008-02-08	52741	c172	klzu local	0.7	0.7				0.7						1			disco					disco		
+2008-02-08	52741	c172	klzu local	1.2	1.2				1.2									douglas martin					bfr		
+2008-02-08	52741	c172	klzu kwdr klzu	1.6	1.6				1.6					0.5				Gary Joyce					pattern work		
+2008-02-08	52741	c172	klzu local	1.0	1.0				1.0						4			knights					pattern		
+2008-02-11	52741	c172	klzu local	1.0	1.0				1.0						4			knights					pattern radio work		
+2008-02-11	52741	c172	klzu D73 klzu	1.8	1.8				1.8					0.7	2			Gary Joyce					pattern tg		
+2008-02-11	391JA	DA20 	klzu 9A1 klzu	1.8	1.8				1.8					0.7				Fitzpatrick					pattern bai		
+2008-02-14	7090Y	PA28	klzu local	1.1	1.1				1.1									caldwell					ifr review		
+2008-02-14	393JA	DA20	klzu local	1.2	1.2				1.2						1			Aqua Hariston					intro flight		
+2008-02-14	443MA	DA40	klzu D73 klzu	1.2	1.2				1.2					0.7				Ryan Aquino					apprs G1000		
+2008-02-15	443MA	DA40	klzu kand klzu	2.0	2.0				2.0					2.0				Ryan Aquino					Anderson cx g1000		
+2008-02-15	52741	c172	klzu D73 klzu	2.2	2.2				2.2					0.7				Gary Joyce					pattern shorts and softs		
+2008-02-16	52741	c172	klzu local	1.1	1.1				1.1									Jason Jarrett					ppl maneuvers 90 day		
+2008-02-16	393JA	DA20	klzu local	3.5	3.5				3.5						8			disco flights					multiple disco flights		
+2008-02-16	745D	BE35	klzu kcha klzu	2.6	2.6				2.6					2.6				Bill Schmitt					ifr review		
+2008-02-17	7090Y	PA28	klzu kahn 9A1 klzu	2.0	2.0				2.0	2.0		3						Demetry mishkin					actual ift		
+2008-02-18	52741	c172	klzu kmcn klzu	2.2	2.2				2.2				2.2	2.2				Jeff Norman					night vfr xc		
+2008-02-19	1463P	PA23	klzu kbhm klzu	3.0	3.0	3.0							3.0	3.0	2								xc with patrick		
+2008-02-21	393JA	DA20	klzu local	0.9	0.9				0.9						1			Phil Town					intro flight		
+2008-02-24	443MA	DA40	klzu 9A1 klzu	1.3	1.3				1.3					0.7				Ryan Aquino					ifr apprs		
+2008-02-24	5763N	M20J	klzu kiiy klzu 	1.5	1.5				1.5					1.5				Demetry mishkin					apprs		
+2008-02-24	52741	c172	klzu kwdr klzu	1.3	1.3	1.3								0.5	2								MX flight		
+2008-02-24	1463P	PA23	klzu kgsp klzu	2.4	2.4	2.4				0.5		2	2.4	2.4	2								twin gps ils		
+2008-02-25	391JA	DA20 	klzu local	1.1	1.1				1.1						1			Stephen Nagin					intro flight		
+2008-02-25	52741	c172	klzu local	1.1	1.1				1.1						1			Mark Clayton					intro flight		
+2008-02-25	52741	c172	klzu kgvl klzu	1.5	1.5				1.5					0.7				Gary Joyce					soft field		
+2008-02-25	393JA	DA20	klzu kwdr klzu	1.3	1.3				1.3					0.5				Fitzpatrick					stalls steeps 		
+2008-02-25	1463P	PA23	klzu kcha klzu	2.5	2.5	2.5							2.5	2.5		2							multi xc		
+2008-02-28	391JA	DA20 	klzu local	1.5	1.5				1.5									Fitzpatrick					TAP grm		
+2008-02-28	52741	c172	klzu kwdr klzu	1.7	1.7				1.7					0.5				Gary Joyce					tap grm xwnd		
+2008-02-28	393JA	DA20	klzu local	1.3	1.3				1.3									Savidellis					apprs		
+2008-02-29	393JA	DA20	klzu local	0.9	0.9				0.9									Tucker					grm shorts		
+2008-02-29	391JA	DA20 	klzu kwdr klzu	1.5	1.5				1.5					0.5				Fitzpatrick					xwnd tg		
+2008-03-01	7090Y	PA28	klzu kcha klzu	2.4	2.4				2.4					2.4				Caldwell					ifr xc		
+2008-03-01	7090Y	PA28	klzu local	0.5	0.5				0.5									Paul Depperschmitt					ac checkout		
+2008-03-01	52741	c172	klzu kwdr klzu	1.7	1.7				1.7				1.7	0.5				Mason Griand					ifr vor tracking		
+2008-03-02	443MA	DA40	kcha kbna khsv klzu	4.9	4.9				4.9	0.5				4.9				Demetry mishkin					long if xc		
+2008-03-03	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Stephen Nagin					slow flight		
+2008-03-03	391JA	DA20 	klzu local	1.2	1.2				1.2									jr tucker					stalls steeps		
+2008-03-03	52741	c172	klzu 9A1 klzu	1.6	1.6				1.6					0.7				Gary Joyce					Stalls pilotage 		
+2008-03-03	7090Y	PA28	klzu kcha kdnn klzu	3.4	3.4				3.4	0.5			2.0	3.4				Caldwell					ifr mock checkride		
+2008-03-06	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Stephen Nagin					stalls		
+2008-03-06	52741	c172	klzu kwdr klzu	0.9	0.9				0.9					0.5				Brad Holt					bfr		
+2008-03-06	393JA	DA20	klzu kajr 19A klzu	1.5	1.5				1.5					0.7				Savidellis					apprs		
+2008-03-06	52741	c172	klzu local	1.5	1.5				1.5									Gary Joyce					pattern		
+2008-03-06	52741	c172	klzu local	1.5	1.5				1.5									Gary Joyce					pattern		
+2008-03-09	391JA	DA20 	klzu local	1.2	1.2				1.2									jr tucker					ppl prep		
+2008-03-09	391JA	DA20 	klzu local	0.5	0.5				0.5						1			disco					disco		
+2008-03-09	391JA	DA20 	klzu local	1.7	1.7				1.7									Dave Brown					grm tap 		
+2008-03-10	391JA	DA20 	klzu kwdr klzu	1.1	1.1				1.1									Charles Brigham					bfr		
+2008-03-10	52741	c172	klzu kwdr klzu	1.9	1.9				1.9					0.5				Gary Joyce					pattern solo prep		
+2008-03-10	7090Y	PA28	klzu kgvl kwdr klzu	1.3	1.3				1.3									Caldwell					checkride prep		
+2008-03-11	7090Y	PA28	klzu kcha klzu 	4.1	4.1				4.1					4.1				Caldwell					Checkride Passed!		
+2008-03-12	391JA	DA20 	klzu kags klzu	3.2	3.2				3.2				3.2	3.2				Ted Brown					night vfr xc		
+2008-03-13	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Stephen Nagin					stalls		
+2008-03-13	52741	c172	klzu kwdr klzu	1.9	1.9				1.9					0.5				Gary Joyce					first solo		
+2008-03-13	391JA	DA20 	klzu local	0.9	0.9				0.9									Fitzpatrick					short and soft		
+2008-03-16	391JA	DA20 	klzu local	1.5	1.5				1.5									Fitzpatrick					short and soft		
+2008-03-17	391JA	DA20 	klzu local	1.2	1.2				1.2									Stephen Nagin					stalls		
+2008-03-18	391JA	DA20 	klzu local	1.2	1.2				1.2									Fitzpatrick					stalls short and soft		
+2008-03-21	443MA	DA40	klzu kpim klzu	2.5	2.5				2.5					2.5				Demetry mishkin					ifr ils		
+2008-03-21	7090Y	PA28	kluz kwdr klzu	1.2	1.2				1.2					0.5				Patrick Horvath					ac checkout		
+2008-03-24	52741	c172	kluz local	1.1	1.1				1.1						1			Stephen Naquin					stalls		
+2008-03-27	391JA	DA20 	klzu local	1.2	1.2				1.2									Stephen Naquin					stalls 		
+2008-03-27	52741	c172	klzu kiiy klzu	2.0	2.0				2.0					2.0				Gary Joyce					vfr xc		
+2008-03-27	391JA	DA20 	klzu local	1.2	1.2				1.2									Savidellis					unusual attitudes		
+2008-03-27	391JA	DA20 	klzu kfty klzu	1.8	1.8				1.8				1.8	1.0				Ted Brown					night ops tg		
+2008-03-28	393JA	DA20	klzu kmqu kiy klzu	2.4	2.4				2.4					2.4				Bob Pagano					vfr xc		
+2008-03-29	52741	c172	klzu local	0.5	0.5				0.5						1			disco					disco		
+2008-03-29	391JA	DA20 	klzu local	0.8	0.8				0.8									fitzpatrick					steepturns rain		
+2008-04-07	443MA	DA40	klzu krmg klzu	2.1	2.1				2.1	1.0		2		2.1	2			phil town					vor nav		
+2008-04-08	391JA	DA20 	klzu local	1.2	1.2				1.2						1			Boomer Rattana					intro flight		
+2008-04-09	52741	c172	klzu ktoc klzu	2.4	2.4				2.4					2.4	1			Gary Joyce					short field		
+2008-04-09	393JA	DA20	klzu kiiy klzu	2.4	2.4				2.4					2.4				Bob Pagano					xc 		
+2008-04-10	52741	c172	klzu ktoc klzu	1.7	1.7				1.7					1.7				Gary Joyce					vor gps nav		
+2008-04-10	393JA	DA20	klzu 52A klzu	1.3	1.3				1.3					1.0				Savidellis					apprs		
+2008-04-10	393JA	DA20	klzu local	1.3	1.3				1.3					1.0	1			Disco					Extended Disco		
+2008-04-10	393JA	DA20	klzu kmcn klzu	2.6	2.6				2.6				2.6	2.6				Bob Pagano					night vfr xc		
+2008-04-11	391JA	DA20 	klzu kwdr klzu	2.2	2.2				2.2					0.5				Bob Pagano					bai pattern work		
+2008-04-11	52741	c172	klzu kwdr klzu	0.7	0.7				0.7									Gary Joyce					pattern xwnd		
+2008-04-12	393JA	DA20	klzu local	1.7	1.7				1.7									Salmon Masood					ifr intro		
+2008-04-14	393JA	DA20	klzu local	1.3	1.3				1.3									Stephen Naquin					stalls steep turns		
+2008-04-14	52741	c172	klzu kmcn klzu	2.0	2.0				2.0					2.0				Gary Joyce					vfr xc		
+2008-04-17	391JA	DA20 	klzu local	1.1	1.1				1.1									Stephen Naquin					pattern		
+2008-04-17	391JA	DA20 	klzu local	1.6	1.6				1.6									Savidellis					BFR flight		
+2008-04-17	391JA	DA20 	klzu local	1.6	1.6				1.6						2			Boomer Rattana					Turns Climbs decents		
+2008-04-18	393JA	DA20	klzu kwdr klzu	1.5	1.5				1.5									Bob Pagano					bai pattern tg		
+2008-04-18	391JA	DA20 	klzu local	1.6	1.6				1.6									Fitzpatrick					stalls steep short		
+2008-04-18	393JA	DA20	klzu kiiy klzu	1.7	1.7				1.7					1.7				Salmon Masood					night ifr xc bai		
+2008-04-19	393JA	DA20	klzu local	1.3	1.3				1.3									Jim Chueh					90 day		
+2008-04-20	391JA	DA20 	klzu local	1.2	1.2				1.2									Dave Brown 					slow flt stalls		
+2008-04-20	393JA	DA20	klzu local	1.1	1.1				1.1									Boomer Rattana					slow flight		
+2008-04-20	393JA	DA20	klau kwdr klzu	1.2	1.2				1.2									Jim Chueh					xwnd tg		
+2008-04-20	393JA	DA20	klzu kiiy klzu	2.0	2.0				2.0					2.0				Salmon Masood					bai vor nav		
+2008-04-20	393JA	DA20	klzu local	1.0	1.0				1.0						1			disco					extended disco		
+2008-04-21	393JA	DA20	klzu local	1.6	1.6				1.6									Bob Pagano					bai pattern		
+2008-04-21	393JA	DA20	klzu local	1.7	1.7				1.7									Ted Brown					stalls tg pattern		
+2008-04-21	1463P	PA23	klzu kjqf klzu	4.2	4.2	4.2				1.0		1	1.9	4.2	2	2							Multi flight to Concord		
+2008-04-23	1463P	PA23	klzu kjqf klzu	4.5	4.5	4.5				0.9		1		4.5	2								Return to Concord 		
+2008-04-24	393JA	DA20	klzu local	1.2	1.2				1.2									Stephen Naquin					grm		
+2008-04-24	393JA	DA20	klzu local	1.3	1.3				1.3									Buckler 					ac checkout		
+2008-04-24	52741	c172	klzu kwdr klzu	1.3	1.3				1.3									Gary Joyce					short soft		
+2008-04-24	391JA	DA20 	klzu local	1.4	1.4				1.4									Bob Pagano					stalls steep		
+2008-04-24	745D	BE35	klzu local	1.1	1.1				1.1				1.1					Schmitt					night apprs		
+2008-04-25	52741	c172	klzu kgvl klzu	1.0	1.0				1.0						1			disco					disco		
+2008-04-25	1463P	PA23	klzu kcha klzu	3.2	3.2	3.2				1.0		2		3.2	2								Multi ifr to Cha		
+2008-04-28	391JA	DA20 	klzu kwdr klzu	1.7	1.7				1.7									Bob Pagano					tg short soft		
+2008-04-30	5763N	M20J	klzu local	1.1	1.1				1.1									Buckler					ac checkout		
+2008-04-30	1463P	PA23	klzu kffc klzu	1.6	1.6	1.6								1.6	2								Multi xc		
+2008-04-30	1463P	PA23	klzu kpah klzu	6.2	6.2	6.2							2.9	6.2	1	1							Multi if to Kentucky with Gary		
+2008-05-01	393JA	DA20	klzu kwdr klzu	1.7	1.7				1.7									Ted Brown					short soft		
+2008-05-01	52741	c172	klzu local	1.9	1.9				1.9									Gary Joyce					stalls steep grm bai		
+2008-05-02	88BP	AEST	klzu kjah klzu	3.6	3.6					1.0				3.6	2								Multi Flight with Dennis 		
+2008-05-02	393JA	DA20	klzu local	1.7	1.7				1.7									Bob Pagano					ppl maneuvers		
+2008-05-02	52741	c172	klzu kcoo klzu	2.0	2.0				2.0				1.5	2.0				Salmon Masood					bai loc 32		
+##RECORDS	
+##PLANE	757cu	Cessna		C152	1		
+##PLANE	55393	Cessna		C152	1		
+##PLANE	48239	Cessna		C152	1		
+##PLANE	757cu	Cessna		C152	1		
+##PLANE	48239	Cessna	Skyhawk	c172	1		
+##PLANE	149V	Cessna		C152	1		
+##PLANE	4974R	Cessna	Skyhawk	c172	1		
+##PLANE	4992R	Cessna	Skyhawk	c172	1		
+##PLANE	4977R	Cessna	Skyhawk	c172	1		
+##PLANE	4989R	Cessna	Skyhawk	c172	1		
+##PLANE	138AA	Cessna		C152	1		
+##PLANE	172WA	Cessna	Skyhawk	c172	1		Advanced Aviation
+##PLANE	172wa	Cessna	Skyhawk	c172	1		Advanced Aviation
+##PLANE	52741	Cessna	Skyhawk	c172	1		
+##PLANE	745D	Beechcraft	Bonanza	BE35	1		Complex, High Performance
+##PLANE	317L	Cessna	Sky Knight	c310	2		Complex, High Performance
+##PLANE	711JW	Piper	Navajo	PA31	2		Complex, High Performance
+##PLANE	10946	Cessna	Commuter	C150	1		
+##PLANE	5998J	Cessna 	Skyhawk	C172	1		
+##PLANE	574MA	Diamond	Eclipse	DA20	1		Advanced Aviation
+##PLANE	7090Y	Piper 	Cherokee	PA28	1		Advanced Aviation
+##PLANE	141MA	Diamond	Eclipse	DA20	1		Advanced Aviation
+##PLANE	823AG	Piper	Saratoga	PA32R	1		Advanced Aviation, Complex, High Performance
+##PLANE	5320D	Piper	Cherokee	PA28-181	1		
+##PLANE	3810M	Piper	Archer	PA28	1		Advanced Aviation, Jack Welsh
+##PLANE	5763N	Mooney	Mooney	M20J	1		Complex, High Performance
+##PLANE	3147W	Beechcraft	Bonanza	BE35	1		Complex, High Performance
+##PLANE	393JA	Diamond	Eclipse	DA20	1		Advanced Aviation
+##PLANE	391JA	Diamond	Eclipse	DA20 	1		Advanced Aviation
+##PLANE	443MA	Diamond	DiamondStar	DA40	1		Advanced Aviation
+##PLANE	9910T	Piper	Tomahawk	PA38	1		
+##PLANE	617B	Eurofox	lsa	eurofox	1		lsa
+##PLANE	65638	Cessna	Skylane	C182	1		High Performance
+##PLANE	1463P	Piper	Geronimo	PA23	2		Complex, Multi Engine Piston
+##PLANE	9294M	Cessna	Centurion	C210	1		Complex,  High Performance
+##PLANE	88BP	Piper	Aerostar	AEST	2		Multi Engine Piston,  Complex,  High Performance

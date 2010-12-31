@@ -1,0 +1,3505 @@
+																										
+																										
+																										
+																										
+																										
+																									 	
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+ 																										
+DATE	"AIRCRAFT
+TYPE"	"AIRCRAFT
+IDENT"	FROM	TO		"NR
+INST
+APP"	"REMARKS
+AND
+ENDORSEMENTS"	"LDG
+NIGHT"	"LDG
+DAY"	SEL	MEL	SES	NIGHT	"ACT
+INSTR"	"SIM
+INSTR
+HOOD"	SIM	TYPE OF PILOTING TIME				"TOTAL
+DURATION
+OF
+FLIGHT"	INSTRUCTOR/EXAMINER				
+					PtP												"CROSS
+COUNTRY"	"AS
+FLIGHT
+INSTRUCTOR"	DUAL	PIC						
+2/1/04	c-172	N355ME	LYH	LYH					1	1.2									1.2		1.2	Korry Franke				
+2/9/04	c-172	N53210	LYH 	LYH					1	1.3									1.3		1.3	Korry Franke				
+2/11/04	c-172	N53210	LYH	LYH					1	1.5									1.5		1.5	Korry Franke				
+2/13/04	c-172	N53210	LYH	LYH					2	1.3									1.3		1.3	Korry Franke				
+2/16/04	c-172	N355ME	LYH	LYH					3	1.2					0.3				1.2		1.2	Korry Franke				
+2/20/04	c-172	N355ME	LYH	LYH					6	1.4									1.4		1.4	Korry Franke				
+2/23/04	c-172	N53210	LYH	LYH					10	1									1		1	Korry Franke				
+2/25/04	c-172	N355ME	LYH	LYH					6	1									1		1	Korry Franke				
+3/1/04	c-172	N355ME	LYH	LYH					4	1.1									1.1		1.1	Korry Franke				
+3/3/04	c-172	N53210	LYH	LYH					6	1.5					0.3				1.5		1.5	Korry Franke				
+3/5/04	c-172	N355ME	LYH	LYH					4	1.3									1.3		1.3	Korry Franke				
+3/10/04	c-172	N53210	LYH	LYH					11	1.2									1.2		1.2	Korry Franke				
+3/15/04	c-172	N53210	LYH - 0V4	LYH					13	2.2									2.2		2.2	Sharon Franklin				
+3/17/04	c-172	N355ME	LYH	LYH					4	0.5									0.5		0.5	Korry Franke				
+3/22/04	c-172	N53210	LYH	LYH					10	1.4									1.4		1.4	Korry Franke				
+3/24/04	c-172	N53210	LYH	LYH					7	1.5					0.3				1.5		1.5	Korry Franke				
+3/24/04	c-172	N53210	LYH	LYH					3	0.4										0.4	0.4					
+3/26/04	c-172	N355ME	LYH	LYH					8	1									1		1	Korry Franke				
+3/29/04	c-172	N355ME	LYH	LYH					6	0.9									0.4	0.5	0.9	Korry Franke				
+4/2/04	c-172	N355ME	LYH	LYH					8	1									1		1	David Poff				
+4/7/04	c-172	N355ME	LYH	LYH					10	1.2									1.2		1.2	Korry Franke				
+4/9/04	c-172	N355ME	LYH	LYH					6	0.9									0.9		0.9	Korry Franke				
+4/16/04	c-172	N841SP	LYH-CHO	LYH					2	1.6							1.6		1.6		1.6	Korry Franke				
+4/18/04	c-172	N841SP	LYH-SHD-FVX	LYH					3	2					0.5		2		2		2	Korry Franke				
+4/19/04	c-172	N355ME	LYH	LYH					2	1.4										1.4	1.4					
+4/19/04	c-172	N53210	LYH	LYH				7		1.3			1.3						1.3		1.3	Korry Franke				
+4/21/04	c-172	N355ME	LYH-RIC	LYH				3		2.3			2.3		0.5		2.3		2.3		2.3	Korry Franke				
+4/23/04	c-172	N841SP	LYH-MTV	LYH					2	1.6							1.6			1.6	1.6					
+4/28/04	c-172	N53210	LYH-INT-ROA	LYH					3	2.6							2.6			2.6	2.6					
+4/29/04	c-172	N355ME	LYH	LYH					13	1.2										1.2	1.2					
+4/30/04	c-172	N355ME	LYH	LYH					7	1.4										1.4	1.4					
+5/4/04	c-172	N355ME	LYH	LYH					3	0.4										0.4	0.4					
+5/4/04	c-172	N1931F	LYH	LYH					1	0.6										0.6	0.6					
+5/6/04	c-172	N355ME	LYH-0V4	LYH					2	1.2					0.5				1.2		1.2	Korry Franke				
+5/10/04	c-172	N355ME	LYH-0V4	LYH					3	1.4					0.6				1.4		1.4	Korry Franke				
+5/12/04	PA32	N2158T	LYH	ATL					1	3			2	0.6			3		3		3	Korry Franke				
+5/13/04	c-172	N355ME	LYH	LYH					4	1				0.2					1		1	Korry Franke				
+5/14/04	c-172	N53210	LYH	LYH					4	1					0.3				1		1	Jim Lampan (Examiner)				
+6/12/04	c-172	N973SP	AEG-ABQ	AEG					2	1									1	1	1	Frank Schmidt				
+8/27/04	c-172	N53210	LYH	LYH					10	1										1	1					
+8/31/04	c-172	146TC	LYH	LYH					4	1.2										1.2	1.2					
+9/1/04	c-172	841SP	LYH	LYH					1	1					0.9				1	1	1	Sharon Franklin				
+9/13/04	c-172	841SP	LYH	LYH					1	1.1					0.9				1.1	1.1	1.1	Sharon Franklin				
+9/20/04	c-172	146TC	LYH	LYH					1	0.9					0.8				0.9	0.9	0.9	Sharon Franklin				
+9/22/04	c-172	146TC	LYH	LYH					1	1.2					1				1.2	1.2	1.2	Sharon Franklin				
+9/24/04	c-172	146TC	LYH	LYH					1	1.2					1				1.2	1.2	1.2	Sharon Franklin				
+10/1/04	c-172	146TC	LYH	LYH		1			1	0.9				0.8					0.9	0.9	0.9	Jack Hellwell				
+10/4/04	c-172	146TC	LYH	LYH		1			1	1					0.8				1	1	1					
+10/8/04	c-172	146TC	LYH	LYH		1			1	1.1					1				1.1	1.1	1.1	Sharon Franklin				
+10/15/04	c-172	146TC	LYH-FVX	LYH		1			1	1.3				1.2					1.3	1.3	1.3	Jack Hellwell				
+10/18/04	c-172	355ME	LYH	LYH		1			1	1.5					1.4				1.5	1.5	1.5	Sharon Franklin				
+10/27/04	c-172	146TC	LYH	LYH		3			1	1.2				1.1					1.2	1.2	1.2	Sharon Franklin				
+10/29/04	c-172	146TC	LYH	LYH		1			1	1.4				1.3					1.4	1.4	1.4	Sharon Franklin				
+11/1/04	c-172	146TC	LYH	LYH		1			1	1.3					1.2				1.3	1.3	1.3	Sharon Franklin				
+11/3/04	c-172	355ME	LYH	LYH		1			1	1.2					1.1				1.2	1.2	1.2	Sharon Franklin				
+11/5/04	c-172	355ME	LYH	LYH		1			1	1.2					1.1				1.2	1.2	1.2	Sharon Franklin				
+11/7/04	c-172	53210	LYH-CHO	LYH					2	1.5							1.5			1.5	1.5					
+11/8/04	c-172	146TC	LYH	LYH		1			1	1.2					1.1				1.2	1.2	1.2	Sharon Franklin				
+11/10/04	c-172	355ME	LYH	LYH		1			1	0.9					0.7				0.9	0.9	0.9	Jack Hellwell				
+11/14/04	c-172	355ME	LYH -UKF	LYH					2	2.5							2.5			2.5	2.5					
+11/15/04	c-172	841SP	LYH	LYH		3			1	1.4					1.3				1.4	1.4	1.4	Sharon Franklin				
+11/17/04	c-172	841SP	LYH	LYH		4			1	1.3					1.2				1.3	1.3	1.3	Sharon Franklin				
+11/19/04	c-172	146TC	LYH-FVX	LYH		3			1	1.6					1.5				1.6	1.6	1.6	Sharon Franklin				
+11/22/04	c-172	841SP	LYH-DAN	LYH		3			1	1.9				1.7					1.9	1.9	1.9	Sharon Franklin				
+11/29/04	c-172	841SP	LYH	LYH		1			1	1					0.9				1	1	1	Jack Hellwell				
+12/3/04	c-172	841SP	LYH	LYH					1	1.2					1.1				1.2	1.2	1.2	Sharon Franklin				
+12/5/04	c-172	5004Y	LYH	LYH					3	0.9										0.9	0.9					
+12/15/04	c-172	146TC	LYH-ROA	LYH					1	1.4					1.2				1.4	1.4	1.4	Sharon Franklin				
+2/26/05	c-172	355ME	LYH	LYH					5	1										1	1					
+6/18/07	c-172	841SP	W24-LYH	W24					5	1.1									1.1	1.1	1.1	Jeff Smale				
+6/22/07	c-172	841SP	W24-MJK	W24					2	2.5							2.5		2.5	2.5	2.5	Jeff Smale				
+6/27/07	c-172	841SP	W24-LYH	W24				3		1			1						1	1	1	Jeff Smale				
+6/29/07	c-172	841SP	W24-LYH	W24					4	1.1									1.1	1.1	1.1	Jeff Smale				
+7/2/07	c-172	2138M	W24-CHO	W24					2	1.4							1.4		1.4	1.4	1.4	Jeff Smale				
+7/4/07	c-172	841SP	W24-FAY	W24				2		3.1			3.1				3.1		3.1	3.1	3.1	Jeff Smale				
+7/9/07	c-172	2138M	W24-RIC	W24					2	1.9							1.9		1.9	1.9	1.9	Jeff Smale				
+7/12/07	c-172	2138M	W24-ECG	W24					2	3.3							3.3			3.3	3.3					
+7/13/07	c-172	841SP	LYH-RDU	LYH					2	2							2			2	2					
+7/14/07	c-172	841SP	LYH-GSO	LYH					2	1.8							1.8			1.8	1.8					
+7/15/07	c-172	841SP	LYH	LYH				10		1.4			1.4							1.4	1.4					
+7/21/07	c-172	841SP	LYH-EWN	LYH					2	3.3							3.3			3.3	3.3					
+8/1/07	c-172	2138M	W24-ILM	W24					2	4.1							4.1			4.1	4.1					
+8/1/07	c-172	841SP	W24	W24				7		1.7			1.7							1.7	1.7					
+8/3/07	c-172	841SP	W24-FAY	W24				2		3.1			3.1				3.1			3.1	3.1					
+8/29/07	c-172	2138M	LYH-CHO	LYH					2	1.5							1.5			1.5	1.5					
+8/31/07	c-172	2138M	LYH-FAY	LYH					2	3.1							3.1			3.1	3.1					
+1/23/08	PA-44-180	18OPA	RIC-OFP	RIC					7		2.5								2.5		2.5	Shaan Sikandar				
+1/24/08	PA-44-180	265AT	RIC-PTB	RIC					9		3.2								3.2		3.2	Shaan Sikandar				
+1/25/08	PA-44-180	127AT	RIC-OFP	RIC					5		1.5								1.5		1.5	Shaan Sikandar				
+1/26/08	PA-44-180	265AT	RIC-OFP	RIC					3		1.4									1.4	1.4	Steve A. Martin (DE)				
+1/28/08	PA-44-180	21161	RIC	RIC					3		0.7								0.7		0.7	Todd Kallenbach				
+1/31/08	PA-44-180	265AT	RCI	RIC					6		1								1		1	Shaan Sikandar				
+1/31/08	PA-44-180	265AT	RCI-FCI	RCI			Private Multi Check Ride Pass		3		1									1	1	Steve A. Martin (DE)				
+2/2/08	PA-44-180	264AT	RIC	ILM					1		2.1						2.1		2.1	2.1	2.1	Shaan Sikandar				
+2/2/08	PA-44-180	264AT	ILM	RIC				1			2.1		2.1				2.1		2.1	2.1	2.1	Shaan Sikandar				
+2/2/08	FRASCA															8						Shaan Sikandar				
+2/3/08	FRASCA															8						Shaan Sikandar				
+2/4/08	PA-44-180	264AT	RIC-CHO-OFP	RIC		3			1		1.9				1.6		1.9		1.9	1.9	1.9	Shaan Sikandar				
+2/6/08	FRASCA															5						Shaan Sikandar				
+2/7/08	PA-44-180	573AT	RIC-W96-LYH	TYS		3			1		3.8				3.5		3.8		3.8	3.8	3.8	Shaan Sikandar				
+2/7/08	PA-44-180	573AT	TYS-FCI-PTB	RIC				3			2.9		2.9				2.9		2.9	2.9	2.9	Shaan Sikandar				
+2/8/08	PA-44-180	573AT	RIC-CHO-OFP	RIC		3			3		2.2				1.8		2.2		2.2	2.2	2.2	Shaan Sikandar				
+2/9/08	FRASCA															4						Shaan Sikandar				
+2/10/08	FRASCA															4						Shaan Sikandar				
+2/11/08	PA-44-180	254AT	RIC-CHO-OFP-FCI-PTB	RIC		6			1		3.2			0.5	2.4		3.2		3.2	3.2	3.2	Shaan Sikandar				
+2/12/08	FRASCA															4						Shaan Sikandar				
+2/13/08	FRASCA															4						Shaan Sikandar				
+2/14/08	FRASCA															3						Shaan Sikandar				
+2/14/08	PA-44-180	573AT	RIC	RIC				11			1.2		1.2						1.2	1.2	1.2	Shaan Sikandar				
+2/15/08	PA-44-180	265AT	RIC-CHO-OFP-FCI-PTB-W96	RIC		7			1		3.5				3.1		3.5		3.5	3.5	3.5	Shaan Sikandar				
+2/18/08	PA-44-180	265AT	RIC-CHO-OFP-FCI-PTB-W96	RIC		7		1			3.5		1.9		3.1		3.5		3.5	3.5	3.5	Shaan Sikandar				
+2/20/08	PA-44-180	265AT	RIC-PTB-FCI	RIC		4	Multi Engine Insturment Pilot		3		2				1.6					2	2	Steve A. Martin (DE)				
+2/24/08	PA-44-180	254AT	RIC	HKY		1	ILS 24		1		2.5			2			2.5		2.5	2.5	2.5					
+2/24/08	PA-44-180	254AT	HKY	RIC				1			2.5		2.5	2			2.5		2.5	2.5	2.5					
+2/28/08	PA-44-180	573AT	RIC	RDU			x-country		1		1.6						1.6			1.6	1.6					
+2/28/08	PA-44-180	573AT	RDU	FTY			x-country Mike Abbate safety pilot		1		2.9				2.3		2.9			2.9	2.9					
+2/28/08	PA-44-180	265AT	FTY	RIC			x-country	1			3.5		2				3.5			3.5	3.5					
+2/29/08	PA-44-180	254AT	RIC	TTN			X-country Matt Kubarek safety pilot		1		1.9				1.6		1.9			1.9	1.9					
+2/29/08	PA-44-180	21161	TTN	RIC			x-country		1		2.4						2.4			2.4	2.4					
+3/2/08	PA-44-180	21161	RIC	RDU			x-country		1		1.5						1.5			1.5	1.5					
+3/2/08	PA-44-180	21161	RDU	FTY			x-county Matt Kubarek safety pilot		1		2.9				2.5		2.9			2.9	2.9					
+3/2/08	PA-44-180	1221K	FTY	RIC			x-country	1			3.2		2.5				3.2			3.2	3.2					
+3/5/08	PA-44-180	2158E	RIC	RDU		1	X-country  ILS 23 Matt Kubarek safety pilot		1		1.6				1.1		1.6			1.6	1.6					
+3/5/08	PA-44-180	2158E	RDU	FTY			x-country		1		2.9						2.9			2.9	2.9					
+3/5/08	PA-44-180	2158E	FTY	RIC		1	x-country GPS 2 Matt Kubarek safety pilot		1		3.1				2.6		3.1			3.1	3.1					
+3/6/08	PA-44-180	1221K	RIC	TTN			x-county 		1		2						2			2	2					
+3/6/08	PA-44-180	238AT	TTN	RIC		1	x-country ILS 34 Karl Uebelacker		1		2.1				1.7		2.1			2.1	2.1					
+3/9/08	PA-44-180	238AT	RIC	TYS			x-country		1		3.3						3.3			3.3	3.3					
+3/9/08	PA-44-180	238AT	TYS	FTY		1	x-country gps 26 matt kubarek safety pilot		1		1.4				1		1.4			1.4	1.4					
+3/9/08	PA-44-180	265AT	FTY	RIC			x-country		1		3.2						3.2			3.2	3.2					
+3/11/08	PA-44-180	39608	RIC	ILM			x-country		1		2.1						2.1			2.1	2.1					
+3/11/08	PA-44-180	39608	ILM	RDU		1	"x-country ils 23l, safety pilot matt kubarek"		1		1.3				1		1.3			1.3	1.3					
+3/12/08	PA-44-180	2158E	RDU	RIC			x-country	1			1.4		1.4				1.4			1.4	1.4					
+3/14/08	PA-44-180	3047R	RIC	ILM			x-country		1		2.1				1.7		2.1			2.1	2.1					
+3/14/08	PA-44-180	3047R	ILM	RIC		1	"x-country gps 20, safety pilot mike abbate"		1		2						2			2	2					
+3/15/08	PA-44-180	1221K	RIC	ILM		1	x-country ils 24 saftety pilot karl uebelacker		1		1.9				1.5		1.9			1.9	1.9					
+3/15/08	PA-44-180	1221K	ILM	RIC			x-country		1		1.7						1.7			1.7	1.7					
+3/16/08	PA-44-180	1221K	RIC	TYS			x-country		1		3.2						3.2			3.2	3.2					
+3/16/08	PA-44-180	1221K	TYS	RIC		1	x-country ils 34 safety pilot larry mendonca		1		2.8			1	1.4		2.8			2.8	2.8					
+3/18/08	PA-44-180	1221K	RIC	ILM			x-country		1		2						2			2	2					
+3/18/08	PA-44-180	1221K	ILM	FTY		1	x-country gps (y) 8 safety pilot Karl Uebelacker	1			3.2			2	0.7		3.2			3.2	3.2					
+3/19/08	PA-44-180	1221K	FTY 	RIC					1		2.6						2.6			2.6	2.6					
+3/20/08	PA-44-180	3047R	RIC	TYS		1	x-country ils 5L safety pilot Brian lietzke		1		3.5				3.1		3.5			3.5	3.5					
+3/20/08	PA-44-180	3047R	TYS	FTY			x-country		1		1.4						1.4			1.4	1.4					
+3/20/08	PA-44-180	3047R	FTY 	RIC		1	x-country ILS 34 saftery pilot Brian lietzke	1			3.7		2		3.2		3.7			3.7	3.7					
+3/23/08	PA-44-180	265AT	RIC-XSA	RIC					10		2.4								2.4	2.4	2.4					
+																										
+3/25/08	PA-44-180	2158E	RIC-PTB	RIC					5		1.9								1.9	1.9	1.9					
+3/25/08	PA-44-180	2158E	RIC-JGG	RIC			Comm Check PASS!		3		1.8									1.8	1.8					
+4/7/08	PA-44-180	337PE	CRG-55J	CRG		1			2		2.5			0.3					2.5	2.5	2.5					
+4/8/08	PA-44-180	3117L	CRG	CRG					1		0.8								0.8	0.8	0.8					
+4/8/08	C172	916TA	CRG	CRG					1	1.4									1.4	1.4	1.4					
+4/8/08	PA-44-180	21228	CRG	FLL				1			2.9		2.9				2.9			2.9	2.9					
+4/9/08	PA-44-180	2129V	FLL-HWO	FLL			CFI MEI Check		3		1.4									1.4	1.4					
+4/9/08	PA-44-180	518ML	FLL-HWO	FLL				3			1.1		1.1						1.1	1.1	1.1					
+4/10/08	PA-44-180	518ML	FLL-HWO	FLL			CFI MEI Check Pass		3		0.5									0.5	0.5					
+4/26/08	PA-44-180	2127Q	RIC-FCI	RIC		3			1		1.9								1.9	1.9	1.9					
+4/27/08	PA-44-180	2127Q	RIC	ASJ		1					1.3			1			1.3		1.3	1.3	1.3					
+4/27/08	PA-44-180	2127Q	ASJ	ASJ		2					0.9			0.7						0.9	0.9					
+4/27/08	PA-44-180	2127Q	ASJ	RIC		1					0.8			0.6			0.8		0.8	0.8	0.8					
+5/4/08	c-172	448ER	RIC-PTB	RIC					7	3.1									3.1	3.1	3.1					
+5/5/08	c-172	72653	RIC-PTB	RIC					9	3.2									3.2	3.2	3.2					
+5/7/08	c-172	72653	RIC	ASJ					1	1.1							1.1		1.1	1.1	1.1					
+5/7/08	c-172	72653	ASJ	ASJ					2	0.5										0.5	0.5					
+5/7/08	c-172	72653	ASJ	ASJ					2	0.6										0.6	0.6					
+5/7/08	c-172	72653	ASJ	RIC					1	1.1							1.1		1.1	1.1	1.1					
+5/15/08	PA-44-180	723KD	CRG-VQQ	CRG			MEI Manuevers		5		2.1								2.1	2.1	2.1					
+5/16/08	PA-44-180	2202X	CRG	28J			"eval flight, all com manuvers, short field to/ld, single engine landing "		3		1.5									1.5	1.5					
+5/26/08	C172	72653	RIC	HKY			se ifr xc			3							3	3		3	3					
+5/26/08	C172	72653	HKY	ILM			se ifr xc			2.3							2.3	2.3		2.3	2.3					
+5/26/08	C172	72653	ILM	RIC			se ifr xc			2.3							2.3	2.3		2.3	2.3					
+5/27/08	PA-44-180	786A	RIC-XSA	RIC			cmel prep				2.3							2.3		2.3	2.3					
+5/27/08	PA-44-180	786A	RIC-PTB	RIC			pmel prep				1.9							1.9		1.9	1.9					
+5/28/08	C172	24619	RIC	TTN			se ifr xc			3							3	3		3	3					
+5/28/08	C172	24619	TTN	RIC			se ifr xc			2.7							2.7	2.7		2.7	2.7					
+5/29/08	C172	72653	RIC-SFQ-EMV-PTB	RIC			se night operations training	3		3.2			3.2				3.2	3.2		3.2	3.2					
+5/29/08	PA-44-180	786A	RIC-OFP	RIC			cmel prep				2.8							2.8		2.8	2.8					
+5/30/08	C172	72653	RIC	HKY			se ifr xc			2.8				1			2.8	2.8		2.8	2.8					
+5/30/08	C172	72653	HKY	FTY			se ifr xc		1	2.7				1			2.7	2.7		2.7	2.7					
+5/31/08	C172	9577Z	FTY	RIC			se ifr xc			4.2				1			4.2	4.2		4.2	4.2					
+6/1/08	c172	9577z	RIC-CHO-LYH	RIC			se ifr xc			3							3	3		3	3					
+6/2/08	PA-44-180	36699	RIC-CHO-OMH-EZF	RIC							2.6						2.6	2.6		2.6	2.6					
+6/5/08	C172	2632Y	RIC	TYS						4.2				0.5			4.2	4.2		4.2	4.2					
+6/5/08	C172	2632Y	TYS	RIC						3.1				0.5			3.1	3.1		3.1	3.1					
+6/9/08	PA-44-180	786A	RIC-CHO-OFP-FCI	RIC							2.5						2.5	2.5		2.5	2.5					
+6/10/08	PA-44-180	790GK	RIC	ILM							2						2	2		2	2					
+6/10/08	PA-44-180	790GK	ILM	RIC							2		2				2	2		2	2					
+6/11/08	PA-44-180	790GK	RIC-CHO-OFP	RIC							2.1						2.1	2.1		2.1	2.1					
+6/11/08	PA-44-180	790GK	RIC-XSA	EZF							2.3							2.3		2.3	2.3					
+6/11/08	PA-44-180	790GK	EZF	RIC							0.6							0.6		0.6	0.6					
+6/13/08	PA-44-180	790GK	ric-ofp-fci-ptb	ric							2.2							2.2		2.2	2.2					
+6/13/08	PA-44-180	790GK	ric	ezf							0.9							0.9		0.9	0.9					
+6/13/08	PA-44-180	790GK	ezf	ric		1		1			0.7							0.7		0.7	0.7					
+6/14/08	PA-44-180	790GK	ric	ric					1		1.3							1.3		1.3	1.3					
+6/15/08	PA-44-180	790GK	ric-ofp	ric							1.6							1.6		1.6	1.6					
+6/16/08	PA-44-180	790GK	ric-ofp	ric							2.4							2.4		2.4	2.4					
+6/16/08	PA-44-180	790GK	ric-ofp	ric							2.1							2.1		2.1	2.1					
+6/17/08	PA-44-180	3005D	ric	hky							2.5						2.5	2.5		2.5	2.5					
+6/17/08	PA-44-180	3005D	hky	ric							2.5		2.5				2.5	2.5		2.5	2.5					
+6/18/08	PA-44-180	790GK	ric-ofp	ric							2.1							2.1		2.1	2.1					
+6/18/08	PA-44-180	790GK	ric-ptb	ric							2.2							2.2		2.2	2.2					
+6/18/08	PA-44-180	790GK	ric-ptb	ric							1.5							1.5		1.5	1.5					
+6/19/08	PA-44-180	790GK	ric-ptb	ric							2.2							2.2		2.2	2.2					
+6/19/08	PA-44-180	790GK	ric-ptb	ric							2							2		2	2					
+6/20/08	PA-44-180	239AT	ric-cho	ric							1.8						1.8	1.8		1.8	1.8					
+6/21/08	PA-44-180	239AT	ric-ptb	ric							2							2		2	2					
+6/23/08	PA-44-180	8532Z	ric-cho-ofp	ric							1.9						1.9	1.9		1.9	1.9					
+6/23/08	PA-44-180	239AT	ric-ofp	ric							1.5							1.5		1.5	1.5					
+6/24/08	PA-44-180	127AT	ric-ofp	ric							1.5							1.5		1.5	1.5					
+6/24/08	PA-44-180	8532Z	ric	ilm							2						2	2		2	2					
+6/24/08	PA-44-180	8532Z	ilm	ric							2		2				2	2		2	2					
+6/25/08	PA-44-180	127AT	ric	ezf							0.9							0.9		0.9	0.9					
+6/25/08	PA-44-180	127AT	ezf	ric					1		0.6							0.6		0.6	0.6					
+6/25/08	PA-44-180	127AT	ric-ptb-lyh	tys							3.5		2.5				2.5	3.5		3.5	3.5					
+6/26/08	PA-44-180	127AT	tys-ofp-fci	ric							3		3				3	3		3	3					
+6/27/08	PA-44-180	127AT	ric-fkn-akq-ptb	ric							2.5						2.5	2.5		2.5	2.5					
+6/27/08	PA-44-180	8532z	ric-mgw-hlg	cak							3.4						3.4	3.4		3.4	3.4					
+6/28/08	PA-44-180	8532z	ric-fci-ofp	ric							3.1		3.1				3.1	3.1		3.1	3.1					
+6/28/08	PA-44-180	8532z	ric	ilm			ifr training				2.1						2.1	2.1		2.1	2.1					
+6/28/08	PA-44-180	8532z	ilm	ric							2		2				2	2		2	2					
+7/1/08	PA-44-180	723kd	ric-cho	ric				1			2.1		2.1				2.1	2.1		2.1	2.1					
+7/2/08	PA-44-180	127at	ric-cho-fci	ric							2.2						2.2	2.2		2.2	2.2					
+7/3/08	PA-44-180	2127q	ric-fkn-ptb-w96	ric							2.5		0.5				2.5	2.5		2.5	2.5					
+7/4/08	PA-44-180	127at	ric	EZF							0.9							0.9		0.9	0.9					
+7/4/08	PA-44-180	127at	EZF	RIC							0.6							0.6		0.6	0.6					
+7/6/08	PA-44-180	127at	ric-pgv-ptb-ofp	ric		5			2		2.7			2			2.7	2.7		2.7	2.7					
+7/7/08	PA-44-180	127at	ric-fkn-emv-fci	ric							2.2						2.2	2.2		2.2	2.2					
+7/8/08	PA-44-180	127at	ric	EZF							0.9							0.9		0.9	0.9					
+7/8/08	PA-44-180	127at	EZF	RIC					1		0.6							0.6		0.6	0.6					
+7/9/08	PA-44-180	127at	ric-cho-ofp	ric							2.1						2.1	2.1		2.1	2.1					
+7/9/08	PA-44-180	127at	ric-cho-ofp	ric		1			1		2.2			1			2.2	2.2		2.2	2.2					
+7/9/08	PA-44-180	127at	ric-cho-ofp	ric							1.9							1.9		1.9	1.9					
+7/11/08	PA-44-180	251at	ric-fkn-ptb	ric							1.8						1.8	1.8		1.8	1.8					
+7/13/08	PA-44-180	215fw	ric-fkn-ptb	ric							2						2	2		2	2					
+7/14/08	PA-44-180	2237u	ric-cho-ofp	ric							2						2	2		2	2					
+7/14/08	PA-44-180	2237u	ric-cho-ofp	ric							1.9						1.9	1.9		1.9	1.9					
+7/16/08	PA-44-180	8532z	ric-mfv-jgg	ric							2						2	2		2	2					
+8/1/08	PA-44-180	2188d	ric-ptb-lyh	tys							3.7		0.6				3.7	3.7		3.7	3.7					
+8/1/08	PA-44-180	2188d	tys-fci-ofp	ric				4			3.7		3.7				3.7	3.7		3.7	3.7					
+8/5/08	PA-44-180	127at	ric	hky							2.5						2.5	2.5		2.5	2.5					
+8/5/08	PA-44-180	127at	HKY	RIC							2.5		2.5				2.5	2.5		2.5	2.5					
+8/6/08	PA-44-180	127at	ric-fkn-ptb-w96	ric							2.4						2.4	2.4		2.4	2.4					
+8/11/08	PA-44-180	337EP	RIC-cho-ofp-fci	ric							2.4						2.4	2.4		2.4	2.4					
+8/11/08	PA-44-180	337EP	ric-mfv-jgg	ric							2						2	2		2	2					
+8/13/08	PA-44-180	337EP	ric-ptb-fci	ric							2							2		2	2					
+8/13/08	PA-44-180	337EP	ric-cho-fci	ric							1.9						1.9	1.9		1.9	1.9					
+8/14/08	c172	2098A	ric-ptb	ric						2.1								2.1		2.1	2.1					
+8/14/08	c172	2098A	ric-ptb	ric						2.1								2.1		2.1	2.1					
+8/14/08	PA-44-180	574AT	ric-ptb-lyh	tys							3.3						3.3	3.3		3.3	3.3					
+8/15/08	PA-44-180	574AT	tys-fci-ofp	ric							3		3				3	3		3	3					
+8/15/08	C172	72653	ric-ptb	asj						1.7							1.7	1.7		1.7	1.7					
+8/15/08	C172	72653	asj-emv	ric						1.4							1.4	1.4		1.4	1.4					
+8/17/08	PA-44-180	574AT	ric-ezf-ofp	ric							1.4							1.4		1.4	1.4					
+8/18/08	PA-44-180	574AT	ric-ptb-fci	ric							1.7							1.7		1.7	1.7					
+8/19/08	PA-44-180	215FW	ric-cho	ric							2.2						2.2	2.2		2.2	2.2					
+8/21/08	C172	254SP	ric	ilm						2.4							2.4	2.4		2.4	2.4					
+8/21/08	C172	254SP	ilm	ric						2.1							2.1	2.1		2.1	2.1					
+8/22/08	PA-44-180	574AT	ric-ptb-fci	ric							1.5							1.5		1.5	1.5					
+8/23/08	PA-44-180	2237U	ric-ptb	ric							2							2		2	2					
+8/24/08	PA-44-180	2237U	ric-ofp	ric							2							2		2	2					
+8/24/08	PA-44-180	2237U	ric-ofp	ric							2.1							2.1		2.1	2.1					
+8/26/08	PA-44-180	2237U	RIC-PTB	RIC							2							2		2	2					
+8/28/08	PA-44-180	2237U	RIC	HKY							2.5			1			2.5	2.5		2.5	2.5					
+8/28/08	PA-44-180	2237U	HKY	RIC							3		3	2			3	3		3	3					
+8/29/08	PA-44-180	21228	RIC-PTB	RIC							2							2		2	2					
+9/2/08	PA-44-180	304bk	RIC	ASJ							1						1	1		1	1					
+9/2/08	PA-44-180	304bk	ASJ	RIC							0.8						0.8	0.8		0.8	0.8					
+9/2/08	PA-44-180	245at	RIC	CAK							2.5		1.5				2.5	2.5		2.5	2.5					
+9/2/08	PA-44-180	245at	CAK	RIC							2.5		2.5				2.5	2.5		2.5	2.5					
+9/3/08	PA-44-180	245at	RIC	ILM							2						2	2		2	2					
+9/3/08	PA-44-180	245at	ILM	RIC							2.1		2.1				2.1	2.1		2.1	2.1					
+9/4/08	PA-44-180	304BK	RIC-OFP	RIC							1.9						1.9	1.9		1.9	1.9					
+9/4/08	PA-44-180	304BK	RIC-PTB-LYH	TYS							3.3		2.3				3.3	3.3		3.3	3.3					
+9/6/08	PA-44-180	304BK	TYS-FCI-OFP	RIC							3		3				3	3		3	3					
+9/7/08	PA-44-180	266AT	EZF-XSA	RIC							1.9							1.9		1.9	1.9					
+9/9/08	PA-44-180	127AT	RIC-OFP	RIC							2.2							2.2		2.2	2.2					
+9/11/08	PA-44-180	266AT	RIC-CHO-OFP	RIC		3	"ILS 3, GPS 16, ILS 16"				2.1			1.5			2.1	2.1		2.1	2.1					
+9/16/08	PA-44-180	575at	RIC-FKN-PTB	RIC			INSTRUMENT TRAINING 				1.7						1.7	1.7		1.7	1.7					
+9/17/08	PA-44-180	39608	RIC-JGG	RIC			COMM TRAINING				1.5							1.5		1.5	1.5					
+9/18/08	PA-44-180	39608	RIC-OFP	RIC			COMM TRAINING				1.8							1.8		1.8	1.8					
+9/18/00	PA-44-180	39608	RIC PTB	RIC			COMM TRAINING				1.7							1.7		1.7	1.7					
+9/19/08	PA-44-180	39608	RIC-PTB	RIC			COMM TRAINING				1.4							1.4		1.4	1.4					
+9/19/08	PA-44-180	39608	RIC-PTB	RIC			COMM TRAINING				1.3							1.3		1.3	1.3					
+9/20/08	PA-44-180	575AT	RIC-OFP	RIC			PRIVATE TRAINING		1		1.3							1.3		1.3	1.3					
+9/20/08	PA-44-180	575AT	RIC-OMH-FCI	RIC			INSTRUMENT TRAINING 				1.7						1.7	1.7		1.7	1.7					
+9/21/08	PA-44-180	180PA	RIC-FKN-PTB	RIC			INSTRUMENT TRAINING 				2.2						2.2	2.2		2.2	2.2					
+9/22/08	PA-44-180	575AT	RIC	HKY			COMM TRAINING				2						2	2		2	2					
+9/22/08	PA-44-180	575AT	HKY	RIC			COMM TRAINING				2.2		2.2				2.2	2.2		2.2	2.2					
+9/24/08	PA-44-180	180PA	RIC-LYH-ROA	TYS			INSTRUMENT TRAINING 				3.2						3.2	3.2		3.2	3.2					
+9/24/08	PA-44-180	180PA	TYS-OFP-FCI	RIC			COMM TRAINING				3.5		3.5				3.5	3.5		3.5	3.5					
+9/27/08	PA-44-180	245AT	RIC-CHO-FCI	RIC			INSTRUMENT TRAINING 				2.1						2.1	2.1		2.1	2.1					
+9/27/08	PA-44-180	245AT	RIC	RIC			COMM TRAINING	3			1.5		1.5					1.5		1.5	1.5					
+9/29/08	PA-44-180	245AT	RIC-OMH-FCI	RIC			INSTRUMENT TRAINING 				2						2	2		2	2					
+9/29/08	PA-44-180	36699	RIC-CHO-FCI	RIC			INSTRUMENT TRAINING 				1.9						1.9	1.9		1.9	1.9					
+9/30/08	PA-44-180	118AT	RIC-CHO-LKU	RIC			INSTRUMENT TRAINING 				2.2						2.2	2.2		2.2	2.2					
+10/2/08	PA-44-180	264AT	RIC-ptb-FCI	RIC			INSTRUMENT TRAINING 				1.5							1.5		1.5	1.5					
+10/3/08	PA-44-180	2129V	RIC-PTB-FCI	RIC			INSTRUMENT TRAINING 				1.4							1.4		1.4	1.4					
+10/7/08	PA-44-180	266AT	RIC-PTB-FCI	RIC			ATP Training				1.9							1.9		1.9	1.9					
+10/7/08	PA-44-180	266AT	RIC-PTB-FCI	RIC			ATP Training				1.7							1.7		1.7	1.7					
+10/8/08	PA-44-180	266AT	RIC-PTB-FCI	RIC			ATP Training				1.8							1.8		1.8	1.8					
+10/10/08	PA-44-180	518ML	RIC-FKN-PTB	RIC			IFR Training				1.8						1.8	1.8		1.8	1.8					
+10/11/08	PA-44-180	518ML	RIC-XSA-OFP	RIC			COMM TRAINING				2.5							2.5		2.5	2.5					
+10/11/08	PA-44-180	518ML	RIC-OFP	RIC			COMM TRAINING				1.4							1.4		1.4	1.4					
+10/12/08	PA-44-180	8532Z	RIC-FKN-W96	RIC			INSTRUMENT TRAINING 				2		1.5				2	2		2	2					
+10/18/08	PA-44-180	2129V	RIC-OFP	RIC			PMEL Training	1			1.6							1.6		1.6	1.6					
+10/20/08	PA-44-180	266AT	RIC-OFP	RIC			PMEL Training				2							2		2	2					
+10/21/08	PA-44-180	575AT	RIC-OFP	RIC			PMEL Training				1.8							1.8		1.8	1.8					
+10/23/08	PA-44-180	575AT	RIC	EZF			PMEL Training				0.7							0.7		0.7	0.7					
+10/23/08	PA-44-180	575AT	EZF	EZF			PMEL Training				0.2							0.2		0.2	0.2					
+10/23/08	PA-44-180	575AT	EZF	RIC			PMEL Training	1			0.6		0.6					0.6		0.6	0.6					
+10/26/08	PA-44-180	39471	RIC	ILM			COMM TRAINING				2						2	2		2	2					
+10/26/08	PA-44-180	39471	ILM	RIC			COMM TRAINING				2.1		2.1				2.1	2.1		2.1	2.1					
+10/27/08	PA-44-180	2129V	RIC-PTB	RDU			INSTRUMENT TRAINING 				2						2	2		2	2					
+10/27/08	PA-44-180	2129V	RDU	RIC		1	INSTRUMENT TRAINING 				1.5			1.1			1.5	1.5		1.5	1.5					
+10/30/08	PA-44-180	206AT	RIC-CHO	RIC			INSTRUMENT TRAINING 				1.9						1.9	1.9		1.9	1.9					
+11/2/08	PA-44-180	8344A	RIC	HKY			COMMERCIAL TRAINING				2.3		1	0.3			2.3	2.3		2.3	2.3					
+11/2/08	PA-44-180	8344A	HKY	RIC			COMMERCIAL TRAINING				2.8		2.8	0.4			2.8	2.8		2.8	2.8					
+11/5/08	PA-44-180	206AT	RIC-CHO	RIC			INSTRUMENT TRAINING 				2			0.3			2	2		2	2					
+11/6/08	PA-44-180	8344A	RIC-FKN-PTB	RIC			INSTRUMENT TRAINING 				2.2			1.2			2.2	2.2		2.2	2.2					
+11/7/08	PA-44-180	206AT	RIC-FKN-PTB-FCI	RIC			INSTRUMENT TRAINING 				2						2	2		2	2					
+11/8/08	PA-44-180	2158E	RIC-LYH	TYS			INSTRUMENT TRAINING 				3.7		0.5				3.7	3.7		3.7	3.7					
+11/8/08	PA-44-180	2158E	TYS-OFP-FCI	RIC			COMMERCIAL TRAINING				2.6		2.6				2.6	2.6		2.6	2.6					
+11/9/08	PA-44-180	6816A	RIC-CHO	RIC			COMMERCIAL TRAINING	2			2.4		2.4				1.4	2.4		2.4	2.4					
+11/10/08	PA-44-180	790GK	RIC-XSA-EZF	RIC			COMMERCIAL TRAINING				3.1		1				3.1	3.1		3.1	3.1					
+11/11/08	PA-44-180	790GK	RIC	EZF			COMMERCIAL TRAINING				0.7						0.7	0.7		0.7	0.7					
+11/11/08	PA-44-180	790GK	EZF	RIC			COMMERCIAL TRAINING		1		0.6						0.6	0.6		0.6	0.6					
+11/12/08	PA-44-180	6816A	RIC-CHO-FCI	RIC			INSTRUMENT TRAINING 				1.8						1.8	1.8		1.8	1.8					
+11/16/08	PA-44-180	266AT	RIC-FKN-PTB-FCI	RIC			INSTRUMENT TRAINING 				2.1						2.1	2.1		2.1	2.1					
+11/17/08	PA-44-180	266AT	RIC-FKN-PTB-FCI	RIC			INSTRUMENT TRAINING 				2						2	2		2	2					
+11/17/08	C172	254SP	RIC-PTB	RIC			CFISE TRAINING		1	2.1							2.1	2.1		2.1	2.1					
+11/19/08	C172	254SP	RIC-OFP	RIC			CFISE TRAINING		1	1.6								1.6		1.6	1.6					
+11/22/08	PA-44-180	337EP	RIC-OFP	RIC			COMMERCIAL TRAINING				1.4							1.4		1.4	1.4					
+11/22/08	PA-44-180	266AT	RIC-OFP-FCI-PTB	RIC			INSTRUMENT TRAINING 				2							2		2	2					
+11/23/08	PA-44-180	266AT	RIC-PTB-FCI	RIC			INSTRUMENT TRAINING 				1.4							1.4		1.4	1.4					
+11/24/08	PA-44-180	8344A	RIC	CAE			COMMERCIAL TRAINING				3			1.8			3	3		3	3					
+11/24/08	PA-44-180	8344A	CAE	RIC		1	COMMERCIAL TRAINING	1			2		2				2	2		2	2					
+11/25/08	PA-44-180	3060K	RIC-FKN-PTB	RIC 			INSTRUMENT TRAINING 				2						2	2		2	2					
+12/2/08	C172	9577Z	RIC	HKY			INSTRUMENT TRAINING 			2.7							2.7	2.7		2.7	2.7					
+12/2/08	C172	9577Z	HKY	RIC			INSTRUMENT TRAINING 			2.2							2.2	2.2		2.2	2.2					
+12/3/08	C172	254SP	RIC-PTB	RIC			PRIVATE TRAINING			1.9								1.9		1.9	1.9					
+12/3/08	PA-44-180	8344A	RIC-PTB-FCI	RIC			CFII TRAINING				2							2		2	2					
+12/4/08	C172	2098A	RIC	RIC			PRIVATE TRAINING			1.2								1.2		1.2	1.2					
+12/5/08	C172	254SP	RIC	HKY			IFR Training			2.5							2.5	2.5		2.5	2.5					
+12/5/08	C172	254SP	HKY	RIC			IFR Training			2.2							2.2	2.2		2.2	2.2					
+12/6/08	PA-44-180	6816A	RIC-EZF	RIC			CFII TRAINING				1.2							1.2		1.2	1.2					
+12/8/08	C172	2098A	RIC-PTB	RIC			PRIVATE TRAINING			2.1								2.1		2.1	2.1					
+12/8/08	PA-44-180	266AT	RIC-XSA-EZF-OFP	RIC			COMMERCIAL TRAINING				3.1		0.5					3.1		3.1	3.1					
+12/9/08	PA-44-180	266AT	RIC	CAE			COMMERCIAL TRAINING				3.1			2.5			3.1	3.1		3.1	3.1					
+12/9/08	PA-44-180	266AT	CAE	RIC			COMMERCIAL TRAINING				2.2		2.2	1			2.2	2.2		2.2	2.2					
+12/12/08	C172	2098A	RIC	RIC			PRIVATE TRAINING			0.5								0.5		0.5	0.5					
+12/12/08	C172	2158E	RIC-FCI -PTB	RIC			CFII TRAINING				2.1							2.1		2.1	2.1					
+12/13/08	C172	24619	RIC	PTB			COM SE TRAINING			2.1								2.1		2.1	2.1					
+12/13/08	C172	24619	PTB 	ASJ			COM SE TRAINING			1.2							0.5	1.2		1.2	1.2					
+12/13/08	C172	24619	ASJ	RIC			COM SE TRAINING			0.8							0.8	0.8		0.8	0.8					
+12/14/08	C172	9531D	RIC-PTB	RIC			COM SE TRAINING			2.5								2.5		2.5	2.5					
+12/15/08	C172	9531D	RIC-PTB	RIC			COM SE TRAINING			1.7								1.7		1.7	1.7					
+12/15/08	C172	9531D	RIC -EZF	RIC			COM SE TRAINING			1.9								1.9		1.9	1.9					
+12/20/08	C172	9531D	RIC-W96	RIC			COM SE TRAINING			2.5								2.5		2.5	2.5					
+12/22/08	C172	9531D	RIC-W96	RIC			CFISE TRAINING			2.1								2.1		2.1	2.1					
+12/30/08	PA-44-180	575AT	RIC	CAE			COM ME TRAINING				2.7						2.7	2.7		2.7	2.7					
+12/30/08	PA-44-180	575AT	CAE	RIC			COM ME TRAINING				2.4		2.4				2.4	2.4		2.4	2.4					
+12/31/08	PA-44-180	8344A	RIC	RIC			PMEL TRAINING				1.4							1.4		1.4	1.4					
+1/3/09	PA-44-180	8344A	RIC-PTB	RIC			PMEL TRAINING				2							2		2	2					
+1/4/09	PA-44-180	575AT	RIC-OFP	RIC			PMEL TRAINING				1.7							1.7		1.7	1.7					
+1/8/09	PA-44-180	575AT	RIC-FCI-PTB	RIC			IFR TRAINING				1.7							1.7		1.7	1.7					
+1/8/09	PA-44-180	575AT	RIC-FCI-PTB	RIC		3	CFII TRAINING				1.9							1.9		1.9	1.9					
+1/9/09	C172	24619	RIC-PTB	RIC			PSEL TRAINING		3	1.9								1.9		1.9	1.9					
+1/10/09	PA-44-180	575AT	RIC-XSA	RIC			CMEL TRAINING				1.9							1.9		1.9	1.9					
+1/10/09	PA-44-180	575AT	RIC-PTB-FCI	RIC			IFR Training				1.3							1.3		1.3	1.3					
+1/11/09	PA-44-180	746A	RIC-FCI	RIC			CMEL TRAINING				1.9							1.9		1.9	1.9					
+1/11/09	PA-44-180	746A	RIC-EZF	RIC			IFR TRAINING				1.3							1.3		1.3	1.3					
+1/12/09	PA-44-180	746A	RIC-FCI	RIC			CMEL TRAINING		1		1.3							1.3		1.3	1.3					
+1/14/09	PA-44-180	6816A	RIC-XSA	EZF			CMEL TRAINING		1		2.2							2.2		2.2	2.2					
+1/14/09	PA-44-180	6816A	EZF-OFP-FCI	RIC			CMEL TRAINING		1		2.5							2.5		2.5	2.5					
+1/16/09	PA-44-180	746A	RIC-FCI	RIC			PMEL TRAINING				2							2		2	2					
+1/17/09	PA-44-180	746A	RIC-EZF	RIC			PMEL TRAINING		2		1.7							1.7		1.7	1.7					
+1/20/09	PA-44-180	766A	RIC-FCI	RIC			MEI PREP				1.9							1.9		1.9	1.9					
+1/20/09	PA-44-180	766A	RIC-FCI	RIC			MEI PREP				1.7							1.7		1.7	1.7					
+1/21/09	PA-44-180	766A	RIC-FCI-PTB	RIC			MEI PREP				2.1							2.1		2.1	2.1					
+1/21/09	PA-44-180	766A	RIC-FCI-PTB	RIC			CFII Prep				1.5							1.5		1.5	1.5					
+1/22/09	PA-44-180	766A	RIC-EZF	RIC			XC  to EZF				1.4							1.4		1.4	1.4					
+1/22/09	PA-44-180	746A	RIC-PTB	RIC			PMEL Training				1.2							1.2		1.2	1.2					
+1/23/09	PA-44-180	239AT	RIC-PTB-FCI	RIC		1	CFI I Training				1.8							1.8		1.8	1.8					
+1/29/09	PA-44-180	239AT	RIC	RIC			PMEL Training				1.3							1.3		1.3	1.3					
+1/30/09	C172	24619	RIC-PTB	RIC			PSEL TRAINING			1.9								1.9		1.9	1.9					
+1/30/09	C172	5288R	RIC	RIC			CFISE TRAINING			1.3								1.3		1.3	1.3					
+1/31/09	C172	9531D	RIC-PTB	RIC			CFISE TRAINING			2								2		2	2					
+2/4/09	C172	9577Z	RIC	RIC			PSEL TRAINING			1.1								1.1		1.1	1.1					
+2/5/09	C172	5288R	RIC-FCI	RIC			PSEL TRAINING			1.2								1.2		1.2	1.2					
+2/6/09	C172	4190V	RIC-PTB	RIC			PSEL TRAINING			2.2								2.2		2.2	2.2					
+2/6/09	C172	4190V	RIC-PTB	RIC			PSEL TRAINING			1.7								1.7		1.7	1.7					
+2/8/09	C172	9531D	RIC	RDU			Solo XC			1.8							1.8			1.8	1.8					
+2/11/09	C172	9531D	RDU	RDU			PSEL TRAINING			1.2								1.2		1.2	1.2					
+2/12/09	PA-44-180	2236D	RDU	TYS			CMEL Training				3.5						3.5	3.5		3.5	3.5					
+2/12/09	PA-44-180	2236D	TYS	RDU			CMEL Training				1.8		1.8				1.8	1.8		1.8	1.8					
+2/13/09	PA-44-180	2236D	RDU	TYS			CMEL Training				2.7						2.7	2.7		2.7	2.7					
+2/13/09	PA-44-180	2236D	TYS	RDU			CMEL Training				2		2				2	2		2	2					
+2/14/09	PA-44-180	2236D	RDU	RIC			CMEL Training				1.2						1.2	1.2		1.2	1.2					
+2/15/09	C172	9577Z	RIC-CHO	RIC			PSEL Training			1.9							1.9	1.9		1.9	1.9					
+2/15/09	C172	9577Z	RIC-PTB	RIC			PSEL Training			2								2		2	2					
+2/17/09	C172	922TA	RIC-OFP	RIC			PSEL Training			2								2		2	2					
+2/17/09	C172	922TA	RIC-PTB	RIC			PSEL Training			2								2		2	2					
+2/17/09	C172	922TA	RIC-FCI	RIC			PSEL Training			1.9								1.9		1.9	1.9					
+2/17/09	C172	922TA	RIC-CHO	RIC			PSEL TRAINING			1.7							1.7	1.7		1.7	1.7					
+2/21/09	C172	24619	RIC-OFP	RIC			PSEL TRAINING			2.1								2.1		2.1	2.1					
+2/21/09	C172	24619	RIC-OFP	RIC			PSEL TRAINING			2								2		2	2					
+2/22/09	C172	922TA	RIC	RIC			PSEL TRAINING			1.2								1.2		1.2	1.2					
+2/23/09	C172	922TA	RIC-FCI	RIC			PSEL TRAINING			2.2								2.2		2.2	2.2					
+2/23/09	C172	922TA	RIC-FCI	RIC			PSEL TRAINING			1.6								1.6		1.6	1.6					
+2/24/09	C172	922TA	RIC-FCI	RIC			PSEL TRAINING			2.1								2.1		2.1	2.1					
+2/24/09	C172	922TA	RIC-OFP	RIC			PSEL TRAINING			2.1								2.1		2.1	2.1					
+2/24/09	C172	922TA	RIC-FKN-OFP	RIC			PSEL TRAINING			2							2	2		2	2					
+2/25/09	C172	922TA	RIC	HKY			IFR Training			2.6							2.6	2.6		2.6	2.6					
+2/25/09	C172	922TA	HKY	RDU			IFR Training			1.6							1.6	1.6		1.6	1.6					
+2/25/09	C172	80755	RDU	RIC			IFR Training			1.6							1.6	1.6		1.6	1.6					
+2/26/09	C172	4190V	RIC-MFV	RIC			PSEL TRAINING			2							2	2		2	2					
+2/26/09	C172	4190V	RIC-MFV	RIC			PSEL TRAINING			1.9							1.9	1.9		1.9	1.9					
+2/26/09	C172	9344F	RIC-RZZ-PTB	RIC			PSEL TRAINING			3.1			3.1				3.1	3.1		3.1	3.1					
+3/4/09	C172	4190V	RIC	HKY			PSEL TRAINING			2.7							2.7	2.7		2.7	2.7					
+3/4/09	C172	4190V	HKY	FTY			IFR X-C			2.3							2.3	2.3		2.3	2.3					
+3/4/09	C172	2098A	FTY	RIC			IFR X-C			4.1							4.1	3		4.1	4.1					
+3/5/09	C172	2098A	RIC	HKY			IFR X-C			2.6							2.6	2.6		2.6	2.6					
+3/5/09	C172	2098A	HKY	TYS			IFR X-C			1.7							1.7	1.7		1.7	1.7					
+3/5/09	C172	2098A	TYS	RIC			IFR X-C			3							3	3		3	3					
+3/6/09	C172	976SP	RIC	ILM			IFR X-C			2.6							2.6	2.6		2.6	2.6					
+3/6/09	C172	976SP	ILM	RIC			IFR X-C			3							3	3		3	3					
+3/6/09	C172	9344F	RIC-OMH	RIC			PSEL TRAINING			1.8							1.8	1.8		1.8	1.8					
+3/7/09	C172	9344F	RIC	RIC			PSEL TRAINING			1								1		1	1					
+3/7/09	C172	9344F	RIC	RIC			PSEL TRAINING			1.1								1.1		1.1	1.1					
+3/7/09	C172	9344F	RIC	RIC			PSEL TRAINING			1								1		1	1					
+3/8/09	C172	9344F	RIC-PTB	RIC			PSEL TRAINING			2.1								2.1		2.1	2.1					
+3/8/09	C172	9344F	PIC-PTB	RIC			PSEL TRAINING			2								2		2	2					
+3/9/09	C172	2098A	RIC	RIC			PSEL TRAINING			1.7								1.7		1.7	1.7					
+3/10/09	C172	2098A	RIC	RIC			PSEL TRAINING			1.5								1.5		1.5	1.5					
+3/11/09	C172	9344F	RIC-PTB	RIC			PSEL TRAINING			2.3								2.3		2.3	2.3					
+3/12/09	C172	9344F	RIC	RIC			PSEL TRAINING			2.1								2.1		2.1	2.1					
+3/12/09	C172	9344F	RIC-PTB	RIC			PSEL TRAINING			2.1								2.1		2.1	2.1					
+3/12/09	C172	9344F	RIC-PTB	RIC			PSEL TRAINING			2								2		2	2					
+3/18/09	C172	9344F	RIC-OFP	RIC			PSEL TRAINING			2.2								2.2		2.2	2.2					
+3/18/09	C172	9344F	RIC-OFP	RIC			PSEL TRAINING			2.2								2.2		2.2	2.2					
+3/19/09	C172	9344F	RIC-PTB	RIC			PSEL TRAINING			2.3								2.3		2.3	2.3					
+3/20/09	C172	9344F	RIC-OFP	RIC			PSEL TRAINING			2								2		2	2					
+3/21/09	C172	9344F	RIC-PTB	RIC			PSEL TRAINING			2.3								2.3		2.3	2.3					
+3/21/09	C172	9344F	RIC-PTB	RIC			PMEL TRAINING			1.9								1.9		1.9	1.9					
+3/27/09	PA-44-180	239AT	RIC-XSA	RIC			PMEL TRAINING		1		2							2		2	2					
+3/27/09	PA-44-180	239AT	RIC-XSA	RIC			PMEL TRAINING		2		2			0.3				2		2	2					
+3/30/09	PA-44-180	127AT	RIC-PTB	RIC			PMEL TRAINING				2							2		2	2					
+3/30/09	PA-44-180	127AT	RIC-PTB	RIC			PMEL TRAINING				2							2		2	2					
+3/30/09	PA-44-180	127AT	RIC-PTB	RIC			PMEL TRAINING				2							2		2	2					
+3/30/09	PA-44-180	127AT	RIC-PTB	RIC			PMEL TRAINING				1.9							1.9		1.9	1.9					
+3/31/09	PA-44-180	127AT	RIC-PTB	RIC			PMEL TRAINING				2.1							2.1		2.1	2.1					
+3/31/09	PA-44-180	127AT	RIC-PTB	RIC			PMEL TRAINING				2.1							2.1		2.1	2.1					
+4/6/09	PA-44-180	127AT	RIC-OFP	RIC			PMEL TRAINING		1		1.4							1.4		1.4	1.4					
+4/6/09	PA-44-180	127AT	RIC	HKY			CMEL TRAINING				2.1						2.1	2.1		2.1	2.1					
+4/6/09	PA-44-180	127AT	HKY	RIC			CMEL TRAINING				2.1		2.1				2.1	2.1		2.1	2.1					
+4/9/09	PA-44-180	127AT	RIC	HKY			CMEL TRAINING				2.2						2.2	2.2		2.2	2.2					
+4/9/09	PA-44-180	127AT	HKY	RIC			CMEL TRAINING				2		2				2	2		2	2					
+4/12/09	C172	2098A	RIC-CHO-ROA	RIC			PSEL TRAINING			3.9							3.9	3.9		3.9	3.9					
+4/13/09	PA-44-180	127AT	RIC-CHO-FCI	RIC			INSTRUMENT TRAINING 				2						2	2		2	2					
+4/13/09	PA-44-180	127AT	RIC-CHO-FCI	RIC			INSTRUMENT TRAINING 				1.9						1.9	1.9		1.9	1.9					
+4/16/09	PA-44-180	127AT	RIC-FKN-PTB	RIC			INSTRUMENT TRAINING 				2.3						2.3	2.3		2.3	2.3					
+4/17/09	PA-44-180	266AT	RIC-CHO	RIC			INSTRUMENT TRAINING 				2						2	2		2	2					
+4/17/09	PA-44-180	266AT	RIC-CHO-OFP	RIC			INSTRUMENT TRAINING 				2.1						2.1	2.1		2.1	2.1					
+4/21/09	PA-44-180	127AT	RIC-FKN-PTB	RIC			INSTRUMENT TRAINING 				1.9						1.9	1.9		1.9	1.9					
+4/22/09	PA-44-180	127AT	RIC-OMH	RIC			INSTRUMENT TRAINING 				1.7						1.7	1.7		1.7	1.7					
+4/22/09	PA-44-180	127AT	RIC-RMN-EZF	RIC			INSTRUMENT TRAINING 				1.7						1.7	1.7		1.7	1.7					
+4/24/09	PA-44-180	239AT	RIC-PTB-LYH	TYS			INSTRUMENT TRAINING 				3.3						3.3	3.3		3.3	3.3					
+4/24/09	PA-44-180	239AT	TYS-FCI-OFP	RIC			INSTRUMENT TRAINING 				2.9		2.9				2.9	2.9		2.9	2.9					
+4/25/09	PA-44-180	127AT	RIC-PTB-LYH	TYS			INSTRUMENT TRAINING 				3.2						3.2	3.2		3.2	3.2					
+4/25/09	PA-44-180	127AT	TYS-FCI-OFP	RIC			INSTRUMENT TRAINING 				2.8		2.8				2.8	2.8		2.8	2.8					
+4/27/09	PA-44-180	241AT	RIC-CHO	RIC	Y		CMEL Training	2			2.4		2.4				2.4	2.4		2.4	2.4					
+4/28/09	PA-44-180	241AT	RIC-CHO	RIC	Y		CMEL Training	2			2.2		2.2				2.2	2.2		2.2	2.2					
+5/3/09	PA-44-180	241AT	RIC-CHO-OFP	RIC		3	INSTRUMENT TRAINING 				2			1.6			2	2		2	2					
+5/5/09	PA-44-180	241AT	RIC-CHO-OFP	RIC		3	INSTRUMENT TRAINING 				2			1.6			2	2		2	2					
+5/8/09	PA-44-180	241AT	RIC-CHO-FCI	RIC			INSTRUMENT TRAINING 				2.4						2.4	2.4		2.4	2.4					
+5/8/09	PA-44-180	241AT	RIC-RMN-OFP	RIC			INSTRUMENT TRAINING 				1.4						1.4	1.4		1.4	1.4					
+5/9/09	PA-44-180	239AT	RIC-PTB-FCI-OFP	RIC			INSTRUMENT TRAINING 				1.7							1.7		1.7	1.7					
+5/9/09	PA-44-180	239AT	RIC-PTB-FCI-OFP	RIC			INSTRUMENT TRAINING 				1.5							1.5		1.5	1.5					
+5/11/09	PA-44-180	241AT	RIC-FCI-PTB	RIC			INSTRUMENT TRAINING 				1.7							1.7		1.7	1.7					
+5/11/09	PA-44-180	241AT	RIC-FCI-PTB	RIC			INSTRUMENT TRAINING 				1.5							1.5		1.5	1.5					
+5/15/09	PA-44-180	241AT	RIC-OFP	RIC			MEI TRAINING				1.9							1.9		1.9	1.9					
+5/16/09	PA-44-180	241AT	RIC-OFP	RIC			MEI TRAINING				2.1							2.1		2.1	2.1					
+5/17/09	PA-44-180	241AT	RIC-ASJ	RIC		1	IFR XC				1.9			0.8			1.9	1.9		1.9	1.9					
+5/18/09	C172	4190V	RIC	RIC			PRIVATE TRAINING			0.8								0.8		0.8	0.8					
+5/20/09	PA-44-180	241AT	RIC-PTB	RIC			CMEL Training				2							2		2	2					
+5/21/09	PA-44-180	241AT	RIC-PTB-FCI	RIC			CMEL Training				2							2		2	2					
+5/22/09	PA-44-180	241AT	RIC-PTB-FCI	RIC			CMEL Training				2							2		2	2					
+5/23/09	PA-44-180	266AT	RIC	RIC			PMEL TRAINING				0.8							0.8		0.8	0.8					
+5/24/09	PA-44-180	241AT	RIC-PTB-FCI	RIC			CMEL Training				1.9							1.9		1.9	1.9					
+5/25/09	C172	4190V	RIC	TYS			SE IFR XC			3.3				0.5			3.3	3.3		3.3	3.3					
+5/25/09	C172	4190V	TYS	RIC			SE IFR XC			3.3				0.5			3.3	3.3		3.3	3.3					
+5/26/09	C172	4190V	RIC	JQF			SE IFR XC			2.3				0.3			2.3	2.3		2.3	2.3					
+5/26/09	C172	4190V	JQF	FTY			SE IFR XC			2.4				0.3			2.4	2.4		2.4	2.4					
+5/26/09	C172	9344F	FTY	RIC			SE IFR XC			4.3				0.5			4.3	3.3		4.3	4.3					
+										3.7							3.7	3.7		3.7	3.7					
+											2.1							2.1		2.1	2.1					
+											2.1							2.1		2.1	2.1					
+											1.8							1.8		1.8	1.8					
+											0.9							0.9		0.9	0.9					
+											2.7							2.7		2.7	2.7					
+											0.3							0.3		0.3	0.3					
+											2.3							2.3		2.3	2.3					
+									1	1								1		1	1					
+											5.1		2				5.1	5.1		5.1	5.1					
+								1			4		2				4	4		4	4					
+						1					1.4			0.3				1.4		1.4	1.4					
+						1				4.7				2.5			4.7	4.7		4.7	4.7					
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																										

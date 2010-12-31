@@ -1,0 +1,990 @@
+Date	Type	Plane	Route	Remarks	Flying	Approaches	Day Landings	Night Landings	Cross Country	Night	Actual Instrument	Simulated Instrument	Dual Given	Solo	Dual Received	PIC	Total						
+10/7/2005	C-152	N95606	KELN - KPSC - KYKM	"Jepp. Comm. Syl. Flt #39 Incomplete, Dead Reckoning, VOR NAV, Landings"				8	2.8	2.8				2.8		2.8	2.8						
+10/10/2005	C-152	N95606	KELN - KPSC - KMWH	"Jepp. Comm. Syl. Flt #39 Complete, XC Planning, VOR NAV, Landings"			4		2.5					2.5		2.5	2.5						
+10/12/2005	PA28-161	N513MS	KELN - KPUW	"Jepp. Comm. Syl. Flt #40 Complete, Night XC & Landings, GPS NAV"				3	3.7	3.7				3.7		3.7	3.7						
+10/14/2005	C-152	N5366M	KELN - KSFF	"Jepp. Comm. Syl. Flt #41 Complete, Pilotage, Dead Reckoning, VOR NAV, Radio Communication"			2		3.6					3.6		3.6	3.6						
+10/15/2005	PA28-161	N512MS	KELN - KYKM	"Jepp. Comm. Syl. Flt #34 Complete, Landings, Short / Soft field, Basic NAV"				10		1.7				1.7		1.7	1.7						
+10/23/2005	C-152	N95539	KELN - KRDM - KLMT	"Jepp. Comm. Syl. Flt #43 Complete, Long XC, 608 N.M. Total; VOR NAV, Pilotage"			3	1	7.7	0.7				7.7		7.7	7.7						
+10/27/2005	C-152	N5366M	KELN - KMWH 	"Jepp. Comm. Syl. Flt #42 Complete, Pilotage, Diversion, G/S Check, Pirep, Spin Awareness Training, Engine Fire, Failure, Emergency Descent"			5		2.0						2.0	1.8	2.0						
+11/2/2005	C-152	N5366M	KELN	"Jepp. Comm. Syl. Flt #44 Complete, Stage IV Check Satisfactory"			1								0.9	0.9	0.9						
+11/8/2005	C-152	N95606	KELN	"Jepp. Comm. Syl. Flt #51 Complete, Chandelles, Stalls, SL Flt, Short Lndg, Soft Lndg"			3								1.5	1.2	1.5						
+11/9/2005	C-152	N5366M	KELN	"Jepp. Comm. Syl. Flt #52 Incomplete, Steep Turns, Stalls, SL Flt, Unusual Att. Recovery, VOR B @ ELN, Circle to Land"	H T	1		1		1.3		0.3			1.3	1.1	1.3						
+11/11/2005	C-152	N95429	KELN	"Jepp. Comm. Syl. Flt #52 Complete, Steep turns, Chandelles, Engine Out Proc, Go Around, Short Field T/O & LNDGS, Soft Field T/O & LNDGS"			6								1.1	1.0	1.1						
+11/14/2005	C-152	N5499Q	KELN	"Jepp. Comm. Syl. Flt #53 Complete, Lazy 8s, Chandelles, Steep Turns, Engine Out Proc Short/Soft T/O, Soft Lndg"			3								1.5	1.3	1.5						
+11/15/2005	C-152	N95539	KELN	"Jepp. Comm. Syl. Flt #57 Incomplete, Lazy 8s, 8s on Pylons, Steep Turns, Soft T/O & Lndgs"			3								1.1	1.0	1.1						
+11/16/2005	C-152	N95539	KELN	"Jepp. Comm. Syl. Flt #45 Complete, Slow Flt, Chandelles, Steep Turns, Lazy 8s, Soft field TaLs, Short Field Takeoffs"			3							1.1		1.1	1.1						
+11/28/2005	C-152	N95995	KELN	"Jepp. Comm. Syl. Flt #57 Complete, 8s on Pylons, Steep Spiral, Soft T/O & Lndg, Power Off 180"			3								1.0	0.9	1.0						
+11/30/2005	C-152	N95606	KELN	"Jepp. Comm. Syl. Flt #54 Complete, Chandelles, 8s on Pylons, Lazy 8s, Soft Field T/O and Lndg, Short Field T/O and Lndg"			4							1.1		1.1	1.1						
+12/2/2005	C-152	N5366M	KELN	"Jepp. Comm. Syl. Flt #55 Complete, Chandelles, Normal T/O & Lndg, Soft Field T/O & Lndg"			5							1.1		1.1	1.1						
+12/3/2005	C-152	N95995	KELN	"Jepp. Comm. Syl. Flt #56 Complete, Power On Stalls, X-Wind Landings, Short Field T/O & Lndgs, Normal T/Os"			12							1.1		1.1	1.1						
+12/22/2005	C-172	N2383Q	KPSC	"Short / Soft Field TaLs, Sim. Forced Ldg."			8								0.9	0.9	0.9						
+12/23/2005	C-182	N1090M	KPSC	"Normal Proc. Prop & Throttle Cont. Cowl Flaps, Slow Flt. Stalls, Climbs & Descents, TaLs"			4								1.3	1.3	1.3						
+12/26/2005	C-182	N1090M	KPSC	"Slow Flt. Steep 360s, Stalls, Sim. Forced Ldg. Climbs & Descents, TaLs"			2								1.1	1.1	1.1						
+12/27/2005	C-182	N1090M	KPSC	"Short / Soft Max Perf. TaLs, Short Approaches, Go Around. High Performance Endorsement"			10								1.1	1.1	1.1						
+12/29/2005	C-172	N2383Q	KPSC - KELN 	"XC Planning, Pilotage, GPS Nav, TaLs. Scenic Flight"			2		2.4					2.4		2.4	2.4						
+1/11/2006	C-152	N95606	KELN	"Jepp. Comm. Syl. Flt #58 Incomplete, Stalls, SL Flt, Short / Soft T/O & Lndg"			5								1.4	1.2	1.4						
+1/21/2006	C-152	N5499Q	KELN	"Jepp. Comm. Syl. Flt #58 Complete, Lazy 8s, 8s on Pylons, Chandelles, Short T/O & Lndg, Soft T/O & Lndg, Pwr off 180s, Go Around"			5								1.3	1.1	1.3						
+1/23/2006	C-152	N95606	KELN	"Jepp. Comm. Syl. Flt #59 Complete, Chandelles, Lazy 8s, Soft Field T/O & Lndg, Normal T/O & Lndg, Go-Around"			3							1.1		1.1	1.1						
+1/25/2006	C-152	N5499Q	KELN	"Jepp. Comm. Syl. Flt #64 Complete, Short T/O, Soft T/O & Lndgs, Power Off 180, Go Around"			7								1.0	0.9	1.0						
+1/27/2006	C-152	N95995	KELN	"Jepp. Comm. Syl. Flt #60 Complete, Short T/O & Lndgs, Soft T/O & Lndgs, 8s on Pylons, Chandelles"			6							1.2		1.2	1.2						
+2/1/2006	C-152	N95995	KELN	"Jepp. Comm. Syl. Flt #61 Complete, Normal T/O & Lndg, Soft Field Lndg, Chandelles, Lazy 8s, Go Around"			6							1.3		1.3	1.3						
+2/2/2006	PA28-161	N512MS	KELN	"Jepp. Comm. Syl. Flt #62 Complete, Normal T/O & Lndg, Steep Turns"			5							1.1		1.1	1.1						
+2/4/2006	PA28R-201	N514MS	KELN	"Jepp. Comm. Syl. Flt #46A Complete, Preflight, Taxi, Runup, Normal T/O & Lndgs, Stalls"			2								1.2	1.0	1.2						
+2/5/2006	PA28R-201	N514MS	KELN	"Jepp. Comm. Syl. Flt #46B Complete, SL Flt, Stalls, Landings, Pattern Ops, Radio Comm."			3								1.2	1.2	1.2						
+2/7/2006	PA28R-201	N518MW	KELN	"Jepp. Comm. Syl. Flt #47A Complete, SL Flt, Stalls, Engine Out Proc. Emergency Descent, Go Arounds"			3								1.5	1.3	1.5						
+2/10/2006	PA28R-201	N807MS	KELN	"Jepp. Comm. Syl. Flt #47B Complete, Shorts / Softs T/O & Lndgs, Engine Out Procedure, Go Around"			8								1.2	1.0	1.2						
+2/14/2006	PA28R-201	N518MW	KELN	"Jepp. Comm. Syl. Flt #48A Complete, Steep Turns, Shorts / Softs T/O & Lndgs, Emergency Descent"			5								1.4	1.2	1.4						
+2/15/2006	PA28R-201	N807MS	KELN	"Jepp. Comm. Syl. Flt #48B Complete, Slow FLT, Steep Turns, Simulated Engine Out Proc. Short / Soft T/O & Normal Lndgs"			6								1.4	1.3	1.4						
+2/18/2006	PA28R-201	N514MS	KELN	"Jepp. Comm. Syl. Flt #49 Complete, SL FLT, Stalls, Engine Out Proc. Lndgs, Go Around"			3					0.4			1.7	1.5	1.7						
+2/24/2006	PA28R-201	N514MS	KELN - 80T 	"Jepp. Comm. Syl. Flt #50 Complete, Short & Soft T/Os & Lndgs, Cruise Proc. Auto Pilot, HIS"			5								1.6	1.4	1.6						
+2/25/2006	PA28R-201	N514MS	KELN	"Jepp. Comm. Syl. Flt #66 Complete, Stalls, SL Flt, BAI, Unusual Att. Rec. LNDGS "	H T	1	3					0.4			1.3	1.1	1.3						
+2/28/2006	PA28R-201	N807MS	KELN	"Jepp. Comm. Syl. Flt #67 Complete, Stage V Check Satisfactory"			3					0.4			1.2	1.1	1.2						
+3/1/2006	C-152	N5366M	KELN	"Jepp. Comm. Syl. Flt #68A Complete, Lazy 8s, Chandelles, Steep Turns, Stalls, Lndgs"			3								1.2	1.2	1.2						
+3/1/2006	C-152	N95606	KELN	"Jepp. Comm. Syl. Flt #70 Incomplete, Lazy 8s, Chandelles, Lndgs"			7							1.1		1.1	1.1						
+3/3/2006	C-152	N5499Q	KELN	"Jepp. Comm. Syl. Flt #70 Complete, Chandelles, 8s on Pylons,  X-Wind Lndgs"			3							1.1		1.1	1.1						
+3/4/2006	C-152	N95539	KELN	"Jepp. Comm. Syl. Flt #69A Complete, Chandelles, Lazy 8s, Steep Spiral, Soft T/O & Lndgs, Go Around"			4								1.5	1.4	1.5						
+3/7/2006	C-152	N5366M	KELN	"Jepp. Comm. Syl. Flt #71 Incomplete, Lndgs"			3							0.5		0.5	0.5						
+3/9/2006	C-152	N5366M	KELN	"Jepp. Comm. Syl. Flt #71 Complete, Lazy 8s, Normal & Soft T/O & Lndgs, Go Around"			6							1.4		1.4	1.4						
+3/10/2006	C-152	N5366M	KELN	"Jepp. Comm. Syl. Flt #73 Incomplete, 8's on Pylons, Normal T/O & Lndgs"			8							1.2		1.2	1.2						
+3/11/2006	C-152	N95429	KELN	"Jepp. Comm. Syl. Flt #73 Complete, Steep Spirals, Chandelles, Normal T/O & Lndgs, Soft Lndgs"			8							1.2		1.2	1.2						
+3/12/2006	C-152	N95429	KELN	"Jepp. Comm. Syl. Flt #74 Incomplete, Steep Spirals, 8's on Pylons, Normal T/O & Lndgs"			8							1.2		1.2	1.2						
+3/13/2006	C-152	N95429	KELN	"Jepp. Comm. Syl. Flt #72 Complete, Lazy 8's, Steep Spirals, Power Off 180"			4								1.4	1.4	1.4						
+3/15/2006	C-152	N5499Q	KELN	"Jepp. Comm. Syl. Flt #76 Incomplete, 8's on Pylons, Engine Out Proc. Steep Spirals, Lndgs"			4								1.3	1.3	1.3						
+3/15/2006	C-152	N95539	KELN	"Jepp. Comm. Syl. Flt #74 Complete, Normal T/O & Lndgs, Pattern Ops, Go Around"			9							1.3		1.3	1.3						
+3/17/2006	C-152	N95995	KELN	"Jepp. Comm. Syl. Flt #75 Complete, Normal T/O & Lndgs, Power Off 180, Soft T/O & Lndg, Go Around"			7							1.1		1.1	1.1						
+3/17/2006	C-152	N95995	KELN	"Jepp. Comm. Syl. Flt #76 Complete, Power Off 180, Lndgs"			8								1.4	1.4	1.4						
+3/17/2006	C-152	N95606	KELN	"Jepp. Comm. Syl. Flt #77 Complete, Short T/O & Lndgs, Soft T/O & Lndgs"			8								1.3	1.3	1.3						
+3/19/2006	C-172	N2383Q	KPSC - KRLD	"Normal T/Os & Lndgs, Pattern Ops, Go Arounds"			5							1.0		1.0	1.0						
+3/20/2006	C-172	N426SK	KPSC 	"Scenic Flight, Radio Comm. Pattern Ops."			1							0.9		0.9	0.9						
+3/22/2006	BE-S35	N5840S	KPSC 	"Normal Procedures, Slow Flt. Power Off Stalls, Systems, TaLs"			5								1.2	1.2	1.2						
+3/23/2006	BE-S35	N5840S	KPSC 	"Emerg. Proc. Fires, Eng. Failures, Forced Ldg. Slow Flt, Stalls, Emerg. Gear Ext. TaLs, Go Around"			5								1.3	1.3	1.3						
+3/28/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl. Flt #78 Incomplete, SL Flt, Stalls, Steep Turns, Engine Out Proc. Lndgs"			4								1.3	1.3	1.3						
+3/30/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl. Flt #78 Complete, Lazy 8's, Chandelles, Steep Turns, Shorts/Softs T/O & Lndgs, Engine Out Proc."			5								1.3	1.2	1.3						
+4/9/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl. Flt #79 Incomplete, Auto Pilot, Chandelles, Normal T/Os & Lndgs"			5							1.2		1.2	1.2						
+4/13/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl. Flt #79 Complete, GPS Ops, Lazy 8's, Chandelles, Lndgs, Go Around"			6							1.5		1.5	1.5						
+4/18/2006	PA28R-201	N518MW	KELN 	"Jepp. Comm. Syl. Flt #80 Incomplete, Auto Pilot, Steep Turns, Normal T/Os & Lndgs"			5							1.2		1.2	1.2						
+4/20/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl. Flt #78 Complete, Chandelles, Steep Turns, Steep Spiral, Shorts/Softs T/O & Lndgs"			7								1.5	1.5	1.5						
+4/23/2006	PA28R-201	N518MW	KELN 	"Jepp. Comm. Syl. Flt #80 Complete, Chandelles, Lazy 8's, Go Around, Lndg"			1							0.8		0.8	0.8						
+4/25/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl. Flt #83 Incomplete, 8s on Pylons, Steep Spiral, Short T/O & Lndgs, Soft T/O & Lndgs"			6								1.3	1.3	1.3						
+4/27/2006	PA28R-201	N518MW	KELN 	"Jepp. Comm. Syl. Flt #68B GPS-29 App, Missed, Hold, VOR-A @ ELN, 10 DME Arc, Auto Pilot"	H T	2	1					0.9			1.3	1.2	1.3						
+5/2/2006	PA28R-201	N518MW	KELN 	"Jepp. Comm. Syl. Flt #81 Complete, Lazy 8s, 8s on Pylons, Short T/O & Lndgs, Soft T/O & Lndgs, Go Around, Autopilot"			6							1.4		1.4	1.4						
+5/3/2006	PA28R-201	N807MS	KELN 	"Jepp. Comm. Syl. Flt #83 Complete, Shorts/Softs T/O & Lndgs, Pwr Off 180s, Go Around"			8								1.1	1.0	1.1						
+5/4/2006	PA28R-201	N807MS	KELN 	"Jepp. Comm. Syl. Flt #84 Incomplete, Steep Turns, Steep Spiral, Lazy 8s, Chandelles, Short/Soft T/O, Soft Field Lndgs"			2								1.6	1.4	1.6						
+5/9/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl. Flt #84 Incomplete, Lazy 8s, 8s on Pylons, Short/Soft T/Os, Soft Field Lndgs, Power Off 180s"			6								1.5	1.5	1.5						
+5/11/2006	PA28R-201	N518MW	KELN 	"Jepp. Comm. Syl. Flt #84 Complete, Shorts/Softs/Power Off 180s, 8s on Pylons, Go Arounds"			7								1.4	1.3	1.4						
+5/13/2006	PA28R-201	N514MS	KELN - S97 	"Jepp. Comm. Syl. Flt #82 Complete, VFR X-C, Diversion, Lost Proc, GPS Nav, Auto Pilot"			3		2.2						2.2	2.1	2.2						
+5/17/2006	PA28R-201	N518MW	KELN 	"Jepp. Comm. Syl. Flt #85 Incomplete, Lazy 8s, Chandelles, Short T/O & Lndgs, Soft T/O & Lndgs, Go Around"			7								1.6	1.5	1.6						
+5/18/2006	PA28R-201	N518MW	KELN 	"Jepp. Comm. Syl. Flt #85 Incomplete, Shorts/Softs/Power Off 180 Accuracy Lndgs, Go Arounds"			7								1.3	1.1	1.3						
+5/23/2006	PA28-161	N234SR	KELN 	"Jepp. Comm. Syl. Flt #69B Complete, VOR-B ARC @ ELN, Partial Panel, Hold, Missed, IPC Complete Satisfactory"	H T I	1	1					1.0			1.3	1.2	1.3						
+5/31/2006	PA28R-201	N518MW	KELN 	"Jepp. Comm. Syl. Flt #85 Incomplete, Steep Turns, Chandelles, Steep Spiral, Shorts/Softs T/O & Lndgs, 180s"			6								1.3	1.2	1.3						
+6/1/2006	PA28R-201	N807MS	KELN 	"Jepp. Comm. Syl. Flt #85 Complete, Steep Turns, Chandelles, Lazy 8s, Steep Spiral, Emergency Descent, 8s on Pylons, Pwr Off 180s, Shorts/Softs T/O & Lndgs"			4								1.3	1.3	1.3						
+6/9/2006	PA28R-201	N807MS	KELN 	"Review, Lazy 8s, Chandelles, Steep Spiral, Engine Out Proc. Short T/O & Lndgs, Soft T/O & Lndgs"			2								1.6	1.4	1.6						
+6/12/2006	C-182	N1090M	KPSC 	"TaLs, High Performance Ops."			8								1.1	1.1	1.1						
+6/14/2006	PA28R-201	N518MW	KELN 	"Review, Short T/O & Lndgs, Soft T/O & Lndgs, Power Off 180s, Go Around"			8								1.1	1.0	1.1						
+6/15/2006	C-182	N1090M	KPSC - KPDX - KELN 	"Portland Intl. NAV. & Ops, Canyon Flying, Pilotage, Dead Reckoning, & High Performance Ops."			3		4.1							4.1	4.1						
+6/16/2006	PA28R-201	N518MW	KELN 	"Review, Chandelles, Lazy 8s, Steep Spiral, Shorts/Softs, Pwr Off 180, Go Around"			7								1.5	1.4	1.5						
+6/21/2006	PA28R-201	N518MW	KELN 	"Review, Shorts/Softs/Power Off 180s, Go Around"			6								0.8	0.8	0.8						
+6/22/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl. Flt #86 Complete, Stage VI Check Satisfactory"			3								1.3	1.3	1.3						
+6/28/2006	PA28R-201	N807MS	KELN 	"Review, Shorts/Soft T/O & Lndgs, Pwr Off 180s, Go Around"			5								1.0	1.0	1.0						
+7/2/2006	C-172	N2383Q	KPSC 	"Local Scenic Flight, Pilotage"			1							1.1		1.1	1.1						
+7/4/2006	PA28R-201	N518MW	KELN 	"Review, Soft T/O & Lndgs, Short T/O & Lndgs, Pwr Off 180, SL Flt, Steep Turns, Lazy 8s, Go Around"			5								1.4	1.4	1.4						
+7/10/2006	PA28R-201	N518MW	KELN - KYKM 	"Review Shorts/Softs/Pwr Off 180, X-C Proc. Diversion, Go Arounds"			5								1.5	1.5	1.5						
+7/11/2006	PA28R-201	N514MS	KELN 	"Jepp. Comm. Syl Flt #87 Complete, Commercial Pilot (ASEL)"	P		4								1.8	1.7	1.8						
+7/14/2006	C-172	N19859	KELN - KRLD	"Flight back to the Tri-Cities from Ellensburg, X-C Proc."			1		1.0							1.0	1.0						
+7/19/2006	PA44-180	N336PA	KELN 	"Jepp. M/E Syl Flt #1 Complete, Intro to Twin Ops, SL Flt, Stalls, Emerg. Descent, Pre-flight, Checklist, Lndgs"			3								1.2		1.2						
+7/20/2006	PA44-180	N336PA	KELN 	Jepp. M/E Syl Flt #2 Complete			4								1.3		1.3						
+7/24/2006	PA44-180	N336PA	KELN 	Jepp. M/E Syl Flt #3 Complete				3		1.3		0.3			1.3		1.3						
+7/26/2006	PA44-180	N336PA	KELN 	"Jepp. M/E Syl Flt #4 Complete, Stage I Check Complete"			3					0.2			1.1		1.1						
+7/27/2006	C-182	N1090M	KPSC - KVUO	"Portland Class C Ops, Uncontrolled field Ops, Pilotage, GPS NAV"			1		1.9							1.9	1.9						
+7/28/2006	C-182	N1090M	KVUO - KPSC	"Pilotage, GPS NAV, Canyon Flying, Class C Satellite Airport Ops."			1		1.5							1.5	1.5						
+7/31/2006	PA44-180	N336PA	KELN 	Jepp. M/E Syl Flt #5 Complete			1								1.1		1.1						
+8/7/2006	PA44-180	N336PA	KELN 	Jepp. M/E Syl Flt #6 Incomplete			3								1.3		1.3						
+8/12/2006	PA44-180	N336PA	KELN - KOTH	Jepp. M/E Syl Flt #7 Complete	H T	1	1		2.6			1.5			2.6		2.6						
+8/12/2005	PA44-180	N336PA	KOTH - KELN	Jepp. M/E Syl Flt #8 Complete				1	2.5	2.5		2.0			2.5		2.5						
+8/14/2006	PA44-180	N336PA	KELN 	"Jepp. M/E Syl Flt #6 Complete, Vmc Demo, Stalls, Steep Turns, SE App."			3								1.3		1.3						
+8/16/2006	PA44-180	N336PA	KELN 	"Jepp. M/E Syl Flt #9 Complete, Stg. II Check Complete"			3								1.1		1.1						
+8/17/2006	PA44-180	N336PA	KELN 	"Jepp. M/E Syl Flt #11 Incomplete, GPS 2-Eng. VOR-A 1-Eng. Circle to Land"	H T	2	2					0.8			1.3		1.3						
+8/18/2006	PA44-180	N336PA	KELN 	"Jepp. M/E Syl Flt #11 Incomplete, VOR-A @ ELN"	H T	2	1					0.7			1.1		1.1						
+8/21/2006	FRASCA	242	ELN	"BAI, VOR-B SE, VOR-A SE, Missed SE, Hold"	H T										1.2								
+8/23/2006	FRASCA	242	ELN	"2 Engine ILS, SE ILS, Missed App. Proc. SE Procedures"	H T										0.9								
+8/24/2006	FRASCA	242	ELN	"SE VOR-A ARC @ ELN, Missed, Hold"	H T										0.7								
+8/25/2006	PA44-180	N336PA	KELN - KYKM	"Jepp. M/E Syl Flt #11 Complete, ILS PT, SE ILS @ YKM, GPS 29 @ ELN, Circle to Land"	H T	3	3					1.1			1.5		1.5						
+8/28/2006	PA44-180	N336PA	KELN - KYKM 	"Jepp. M/E Syl Flt #12 Incomplete, 2 Eng. ILS, SE ILS,Circle to Land, VOR-B @ ELN, Circle to Land"	H T	3	3					1.1			1.5		1.5						
+8/30/2006	PA44-180	N336PA	KELN - KYKM 	"Jepp. M/E Syl Flt #12 Incomplete, SE ILS PT, Straight In Lndg, Vect. ILS, Circle Rwy 22"	H T	2	3					1.2			1.7		1.7						
+9/3/2006	PA44-180	N336PA	KELN - KYKM	"Jepp. M/E Syl Flt #12 Complete, SE ILS, Straight In, Circle To Land"	H T	2	3					0.8			1.4		1.4						
+9/4/2006	FRASCA	242	ELN	"Review, SE App. Proc. PT ILS 27 @ YKM, Vect to Final 27, Missed SE"	H T										0.9								
+9/4/2006	PA44-180	N336PA	KELN 	"Review, VOR-A Arc, Missed, VOR-B PT, Circle to Land"	H T	2	1					0.6			0.9		0.9						
+9/8/2006	PA44-180	N336PA	KELN - KYKM	"Jepp. M/E Syl Flt #13 Complete, Stg. III Check Satisfactory"	H T	4	2					1.5			2.0		2.0						
+9/11/2006	PA44-180	N336PA	KELN 	"Review, Steep Turns, SL FLT, Stalls, Vmc Demo, Shorts, Engine Failure, SE App."			2								1.1		1.1						
+9/13/2006	PA44-180	N336PA	KELN 	"Jepp. M/E Syl. Flt #14 Incomplete, Stg. III EOC Check Unsatisfactory"	H T	2	3					0.6			1.4		1.4						
+9/18/2006	PA44-180	N336PA	KELN 	"Jepp. M/E Syl. Flt #14 Complete, Stg. III EOC Check Satisfactory"	H T	1	1					0.3			0.7		0.7						
+9/23/2006	PA44-180	N336PA	KELN 	"M/E Rating Checkride Satisfactory, SL FLT, Stalls, Short Takeoff & Lndg, Engine Out Proc."	H T P 	1	3					0.3				1.1	1.1						
+9/26/2006	C-152	N5366M	KELN 	Jepp. CFI Syl Flt #1 Incomplete			5								1.2	1.2	1.2						
+9/27/2006	C-152	N95606	KELN 	Jepp. CFI Syl Flt #1 Complete			6								1.4	1.4	1.4						
+10/4/2006	C-152	N95995	KELN 	Jepp. CFI Syl Flt #2 Complete			4					0.2			1.5	1.5	1.5						
+10/5/2006	C-152	N95539	KELN 	Jepp. CFI Syl Flt #3 Complete			4								1.6	1.6	1.6						
+10/10/2006	C-152	N95606	KELN 	Jepp. CFI Syl Flt #5 Complete			5								1.1	1.1	1.1						
+10/11/2006	C-152	N95606	KELN - 80T	Jepp. CFI Syl Flt #4 Complete			3					0.1			1.3	1.3	1.3						
+10/16/2006	C-152	N5499Q	KELN 	Jepp. CFI Syl Flt #6 Incomplete			2								1.1	1.1	1.1						
+10/28/2006	C-152	N95995	KELN 	Jepp. CFI Syl Flt #6 Incomplete			4					0.2			1.5	1.5	1.5						
+11/8/2006	C-152	N5366M	KELN 	Jepp. CFI Syl Flt #6 Incomplete			5					0.3			1.4	1.4	1.4						
+11/9/2006	C-152	N5366M	KELN 	Jepp. CFI Syl Flt #6 Complete			3								1.3	1.3	1.3						
+11/10/2006	PA34-200T	N7609C	KPSC 	"360s, MCA, Power Off Stalls, Climbing and Descending Turns, TaLs"			4								1.3	1.3	1.3						
+11/15/2006	C-152	N5499Q	KELN 	Jepp. CFI Syl Flt #7 Incomplete			5								1.0	1.0	1.0						
+11/17/2006	C-152	N95606	KELN	Jepp. CFI Syl Flt #7 Incomplete			6					0.2			1.5	1.5	1.5						
+11/17/2006	PA34-200T	N7609C	KPSC 	"Lost Engine Procedures, Engine Shutdown & Restart, Steep 360s, TaLs"			3								1.3	1.3	1.3						
+11/22/2006	PA34-200T	N7609C	KPSC - KELN	X-Country			2		1.8						1.8	1.8	1.8						
+11/24/2006	PA34-200T	N7609C	KPSC 	"3 ILS Apps, Engine Failure SE App. 2 VOR 21R Apps."	H T	5	1					1.6			1.8	1.8	1.8						
+12/4/2006	PA34-200T	N7609C	KPSC 	TaLs			12								1.4	1.4	1.4						
+12/5/2006	PA34-200T	N7609C	KPSC 	"Engine Feather & Restart, ILS 21R Apps."	H T	4	1					1.3			1.9	1.9	1.9						
+12/12/2006	PA34-200T	N7609C	KPSC 	Local Scenic			1								1.3	1.3	1.3						
+12/21/2006	C-152	N5499Q	KELN 	"Review, Stalls, Slow FLT, Steep Turns, Lazy 8s, Chandelles"			4								1.6	1.6	1.6						
+12/27/2006	PA34-200T	N7609C	KPSC 	"Slow FLT, Power Off Stalls, Steep Turns, Emergency Ldg Gear Ext. TaLs"			3								1.3	1.3	1.3						
+12/28/2006	PA34-200T	N7609C	KPSC - KALW	"ILS Rwy 20 KALW, ILS 21R KPSC, TaLs"	H T	3	3					1.2			1.4	1.4	1.4						
+12/29/2006	PA34-200T	N7609C	KPSC - KELN	X-Country			2		1.9						1.9	1.9	1.9						
+1/3/2007	FRASCA	242	ELN	LOFT 1 YKM - GROMO 2 - ILS - HOLD - YKM	H T										1.7								
+1/4/2007	C-152	N95606	KELN 	"Review, Steep Turns, Stalls, Lazy 8s, Short & Soft Field TaLs"			4					0.2			1.4	1.4	1.4						
+1/5/2007	C-152	N95995	KELN 	Jepp. CFI Syl Flt #7 Complete			4								1.7	1.7	1.7						
+1/10/2007	C-152	N95429	KELN 	"Review, Steep Turns, Lazy 8s, Chandelles"			5								1.4	1.4	1.4						
+1/16/2007	C-152	N5366M	KELN 	"Jepp. CFI Syl Flt #8 Complete, CFI Stg 1 Complete"			4								1.3	1.2	1.3						
+1/17/2007	FRASCA	242	ELN	LOFT 4 YKM - PELLY - ILS - HOLD - MWH	H T										1.9								
+1/23/2007	C-152	N5499Q	KELN 	"Jepp. CFI Syl Flt #13 Complete, Spin Entry, Spins, Spin Recovery"			2								1.0	1.0	1.0						
+1/23/2007	FRASCA	242	ELN	LOFT 5 YKM - VOR app. PSC - ILS app. MQG	H T										1.8								
+1/29/2007	FRASCA	242	ELN	LOFT 7 OLM - NDB app. PWT - RNAV - ILS CLM	H T										1.7								
+1/31/2007	FRASCA	242	ELN	LOFT 9 PAE - NDB app. BLI - ILS SEA	H T										1.9								
+2/4/2007	PA28R-201	N514MS	KELN 	"Jepp. CFI Syl Flt #9 Complete, Slow Flt, Steep Turns, TaLs"			4								1.0	1.0	1.0						
+2/9/2007	PA28R-201	N514MS	KELN 	Jepp. CFI Syl Flt #10 & #11 Complete			4								1.7	1.7	1.7						
+2/16/2007	PA28R-201	N514MS	KELN 	Jepp. CFI Syl Flt #15 Incomplete			4								1.4	1.4	1.4						
+2/20/2007	PA28R-201	N514MS	KELN 	Jepp. CFI Syl Flt #12 Complete			2					0.2			1.5	1.5	1.5						
+2/21/2007	PA28R-201	N518MW	KELN 	Jepp. CFI Syl Flt #14 Complete			4								1.3	1.3	1.3						
+2/22/2007	PA28R-201	N514MS	KELN 	Jepp. CFI Syl Flt #15 Complete			10								1.5	1.5	1.5						
+2/26/2007	PA28R-201	N514MS	KELN 	"Review, Lazy 8s, Chandelles, Steep Spiral, Short, Soft T/Os & Lndgs, Power Off 180s"			4								1.2	1.2	1.2						
+3/1/2007	PA28R-201	N514MS	KELN 	"Review, Chandelles, Steep Spiral, Steep Turns, Landing Pattern"			4								1.3	1.3	1.3						
+3/2/2007	PA28R-201	N514MS	KELN 	"Review, Lazy 8s, Eights On, Forced Landing, Pattern Work"			4								1.1	1.1	1.1						
+3/9/2007	PA28R-201	N518MW	KELN 	"Review, Lazy 8s, Pwr. Off 180, Chandelles"			6								1.4	1.4	1.4						
+3/14/2007	PA28R-201	N514MS	KELN - KEAT	"Review, Navigation, Pwr. Off 180, Short & Soft Field Landings"			6								1.6	1.6	1.6						
+3/15/2007	PA28R-201	N514MS	KELN 	Jepp. CFI Flt 16 Stg. II Check Incomplete			4								1.5	1.5	1.5						
+3/19/2007	PA28R-201	N807MS	KELN 	Jepp. CFI Flt 16 Stg. II Check Complete			4								1.2	1.2	1.2						
+3/22/2007	PA28R-201	N518MW	KELN 	"Jepp. CFI EOC Satisfactory, FLT #17 Complete"			3								1.7	1.7	1.7						
+4/3/2007	PA28R-201	N518MW	KELN 	"Review Chandelles, Lazy 8s, Landings"			5								1.4	1.4	1.4						
+4/4/2007	PA28R-201	N518MW	KELN 	"Review Chandelles, Lazy 8s, Short & Soft Field Landings, Pwr Off 180s"			4								1.1	1.1	1.1						
+4/9/2007	PA28R-201	N807MS	KELN 	FAA CFI Checkride Satisfactory	C		5									1.1	1.1						
+4/13/2007	PA34-200T	N7609C	KPSC 	"Climbs, Descents, Slow Flt. Systems, TaLs"			5								1.6	1.6	1.6						
+4/21/2007	PA34-200T	N7609C	KPSC 	X-Wind Takeoffs & Landings			12								1.5	1.5	1.5						
+4/28/2007	PA34-200T	N7609C	KPSC - KELN  	"TaLs, X-Country Procedures"			4		1.4					1.4		1.4	1.4						
+4/29/2007	PA34-200T	N7609C	KELN - KPSC	X-Country Procedures			1		1.0					1.0		1.0	1.0						
+5/5/2007	PA34-200T	N7609C	KPSC - KSFF - KELN	"X-Country Procedures, GPS NAV."			3		3.6					3.6		3.6	3.6						
+5/6/2007	PA34-200T	N7609C	KPSC 	"TaLs, X-Country Procedures, Scenic to KDLS"			4									2.3	2.3						
+5/10/2007	FRASCA	242T	ELN	"LOFT 1 KYKM - KYKM, FMS FAM"	H T										1.8								
+5/15/2007	FRASCA	242T	ELN	"LOFT 2 KYKM - KMWH, S.E. App."	H T										1.8								
+5/18/2007	FRASCA	242T	ELN	"LOFT 3 KRNT - KPAE - KBFI, S.E. App."	H T										1.8								
+5/19/2007	C-172	N7589D	KPSC 	"CFI Refresher, TaLs"			3							0.5		0.5	0.5						
+5/19/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.5			0.5	0.5						
+5/19/2007	C-172	N738ST	KPSC 	"Scenic FLTs around Tri-Cities, TaLs"			5									1.2	1.2						
+5/24/2007	FRASCA	242T	ELN	"LOFT 5 KEAT - KSEA - KYKM, SID, STAR, Icing Procedures, Hold"	H T										2.0								
+5/31/2007	FRASCA	242T	ELN	"LOFT 7 KYKM - KMWH, SID, ILS, NDB, Emerg. Proc."	H T										1.8								
+6/7/2007	FRASCA	242T	ELN	"FLT 489 Check: LWT - ILS: MSO - FMS use, SE app. Multi-Engine system failures"	H T										1.6								
+6/11/2007	C-172	N426SK	KPSC 	"Morgan Mathis: Turns, Climbs, Descents, Steep Turns, Turns around a Point"			1						1.0			1.0	1.0						
+6/11/2007	C-182	N1090M	KPSC 	"Slow FLT, Stalls, Short/Soft TaLs"			3								0.8	0.8	0.8						
+6/11/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Turns, Climbs, Descents"			1						1.0			1.0	1.0						
+6/11/2007	C-172	N738ST	KPSC 	"Jared Elizares: Turns, Climbs, Descents"			1						1.0			1.0	1.0						
+6/11/2007	C-172	N7589D	KPSC 	"Brendan Martin: Turns, Climbs, Descents"			1						0.6			0.6	0.6						
+6/11/2007	C-172	N7589D	KPSC 	Tri-Cities Scenic			1									0.6	0.6						
+6/12/2007	C-172	N738ST	KPSC 	"Morgan Mathis: Preflight, Turns, Climbs, Descents, S-Turns, SL Flt, Stalls, Turns around a PT"			1						1.1			1.1	1.1						
+6/12/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+6/12/2007	C-172	N7589D	KPSC 	"Survey FLT - John Deere - To: John Day, Oregon"			1									2.8	2.8						
+6/13/2007	C-172	N738ST	KPSC 	"Morgan Mathis: Turns, Climbs, Descents, S-Turns, SL FLT, Rectangular Course, Turns around a PT"			1						1.2			1.2	1.2						
+6/13/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.5			0.5	0.5						
+6/13/2007	C-182	N1090M	KPSC 	"Photo FLT - Turns around a PT, Pasco, Kennewick, Yakima"			1									1.9	1.9						
+6/14/2007	C-172	N7589D	KPSC 	"Morgan Mathis: Turns, Climbs, Descents, Stalls Pwr On & Off, Emerg. Forced Lndg, S-turns, TaLs"			5						1.3			1.3	1.3						
+6/14/2007	C-172	N7589D	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.5			0.5	0.5						
+6/14/2007	C-172	N7589D	KPSC 	"Elias Lewis: Turns, Climbs, Descents, SL FLT, Pwr On & Off Stalls, Steep Turns"			1						1.1			1.1	1.1						
+6/14/2007	C-172	N7589D	KPSC - KRLD 	"Morgan Mathis: Pwr On & Off Stalls, Steep Turns, Emerg. Descent, TaLs, Slips"			5						1.2			1.2	1.2						
+6/15/2007	C-172	N738ST	KPSC 	"Morgan Mathis: BAI, Level FLT, Turns, Climbs, Descents, Steep Turns, TaLs"			3						1.2			1.2	1.2						
+6/15/2007	C-182	N1090M	KPSC - KRLD	"Corky Roberts: Steep Turns, SL FLT, Pwr Off Stalls, TaLs, A/C Checkout"			3						0.9			0.9	0.9						
+6/15/2007	C-172	N426SK	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+6/16/2007	C-172	N7589D	KPSC 	"Morgan Mathis: BAI, Level FLT, Turns, Unusual Attitudes, Steep Turns, Emerg. Forced Lndg, TaLs"			4						1.1			1.1	1.1						
+6/16/2007	C-172	N426SK	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+6/17/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+6/17/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs, Scenic"			1						1.0			1.0	1.0						
+6/17/2007	C-172	N738ST	KPSC 	"Ondrea Sneed: Turns, Climbs, Descents, Steep Turns, Road Tracking"			1						1.1			1.1	1.1						
+6/18/2007	C-172	N7589D	KPSC 	"Mike Yonemitsu: SL FLT, Steep Turns, Pwr Off Stalls, TaLs"			8						1.4			1.4	1.4						
+6/18/2007	C-172	N426SK	KPSC 	"Elias Lewis: Climbs, Turns, Descents, Steep Turns, Rectangular Course, Turns around a Point"			1						1.1			1.1	1.1						
+6/18/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Turns, Steep Turns, Turns around a Point, Rectangular Course, S-Turns"			1						1.2			1.2	1.2						
+6/18/2007	C-172	N7589D	KPSC 	"Morgan Mathis: TaLs, Pattern Procedures"			10						1.1			1.1	1.1						
+6/19/2007	C-172	N7589D	KPSC 	"Morgan Mathis: SL FLT, Pwr On Stalls, Steep Turns, TaLs, Pattern Procedures"			6						1.2			1.2	1.2						
+6/19/2007	C-172	N738ST	KPSC - KELN 	X-Country to Ellensburg			2		2.1					2.1		2.1	2.1						
+6/19/2007	C-172	N426SK	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+6/19/2007	C-172	N738ST	KPSC 	Tri-Cities Scenic			1									1.0	1.0						
+6/20/2007	C-172	N7589D	KPSC 	"Morgan Mathis: TaLs, Pattern Procedures"			10						1.2			1.2	1.2						
+6/20/2007	C-172	N426SK	KPSC 	Tri-Cities Scenic			1									0.8	0.8						
+6/21/2007	C-172	N7589D	KPSC 	"Morgan Mathis: Tri-Cities Scenic, TaLs, Pattern Procedures"			6						1.2			1.2	1.2						
+6/22/2007	C-172	N7589D	KPSC 	"Morgan Mathis: TaLs, Pattern Procedures"			9						1.0			1.0	1.0						
+6/22/2007	PA28R-200	N56211	KPSC 	"TaLs, Pattern Procedures, A/C Currency"			3									0.5	0.5						
+6/23/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+6/23/2007	C-172	N7589D	KPSC 	"Jared Elizares: Turns, Climbs, Descents, Steep Turns, Rectangular Course"			1						1.2			1.2	1.2						
+6/24/2007	C-172	N7589D	KPSC 	"Larry Best: Turns, Climbs, Descents, Steep Turns"			1						1.2			1.2	1.2						
+6/24/2007	C-172	N7589D	KPSC 	"Ondrea Sneed: Turns, Climbs, Descents, Turns around a PT, Rectangular Course"			1						0.9			0.9	0.9						
+6/25/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Turns, SL FLT, Pwr Off Stalls, Turns around a PT, S-Turns"			1						1.2			1.2	1.2						
+6/26/2007	C-172	N738ST	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+6/26/2007	C-172	N738ST	KPSC 	"Jared Elizares: Turns, SL FLT, Pwr Off Stalls, Pwr On Stalls, Secondary Stall, Turns around a PT, S-Turns"			1						1.3			1.3	1.3						
+6/26/2007	C-172	N738ST	KPSC 	Pasco Farmland Scenic Flight			1									0.7	0.7						
+6/27/2007	C-172	N426SK	KPSC 	Tri-Cities Scenic			1									0.6	0.6						
+6/29/2007	C-172	N2383Q	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+6/29/2007	C-172	N426SK	KPSC 	"A/C Checkout: SL FLT, Pwr Off Stall, Steep Turns, TaLs"			3						0.9			0.9	0.9						
+6/30/2007	C-172	N738ST	KPSC 	"Jared Elizares: Turns, Pwr Off Stalls, Pwr On Stalls, BAI Turns, Emergency Descent, S-Turns"			1						1.3			1.3	1.3						
+6/30/2007	C-172	N2383Q	KPSC 	"Wes Popplewell: TaLs, Go-Around"			9						1.1			1.1	1.1						
+7/1/2007	C-172	N2383Q	KPSC 	"Wes Popplewell: Steep Turns, SL FLT, Pwr Off Stalls, Secondary Stall Demo. TaLs"			1						1.3			1.3	1.3						
+7/1/2007	C-172	N426SK	KPSC 	Tri-Cities Scenic			1									0.6	0.6						
+7/1/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Turns, Steep Turns, SL FLT, Pwr Off Stalls, Secondary Stall, Emergency Descent, Sim. Forced Lndg"			1						1.1			1.1	1.1						
+7/1/2007	C-172	N738ST	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+7/2/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Steep Turns, BAI Turns, Descents, Road Tracking, Turns around a PT, S-Turns"			1						1.3			1.3	1.3						
+7/3/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Turns, SL FLT, Flap Config. Pattern Procedures, Go-Arounds"			1						1.2			1.2	1.2						
+7/3/2007	C-172	N426SK	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+7/5/2007	C-172	N738ST	KPSC 	Survey FLT - Carmike Cinemas			1									0.4	0.4						
+7/5/2007	C-172	N426SK	KPSC 	Night Currency: Pasco				4		0.6				0.6		0.6	0.6						
+7/6/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+7/7/2007	C-172	N2383Q	KPSC 	"Jared Elizares: Pattern Procedures, Flap Config. TaLs"			9						1.0			1.0	1.0						
+7/7/2007	C-172	N2383Q	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+7/7/2007	PA34-200T	N7609C	KPSC - KGEG	X-Country to Spokane; Safety Pilot: Kelly Bennett	H T	1	1	1	1.9	0.3		0.9				1.9	1.9						
+7/8/2007	PA34-200T	N7609C	KPSC - KBFI - KTIW	"CHINS5 Arrival, X-C to West-Side; Safety Pilot: Kelly Bennett"	H T	1	3		3.3		0.7	0.7				3.3	3.3						
+7/8/2007	C-172	N426SK	KPSC 	"Jared Elizares: Pattern, S-Turns, Road Tracking, Turns around a PT"			2						1.2			1.2	1.2						
+7/9/2007	C-172	N2383Q	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+7/9/2007	C-172	N2383Q	KPSC 	"Ondrea Sneed: Pattern Procedures, Flap Config. TaLs"			9						1.1			1.1	1.1						
+7/13/2007	C-172	N738ST	KPSC 	Survey FLT - Tri-City Herald			1									0.8	0.8						
+7/13/2007	C-172	N738ST	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+7/14/2007	PA34-200T	N7609C	KPSC 	"Stalls, Steep Turns, Pattern Procedures"			1								1.3	1.3	1.3						
+7/14/2007	PA34-200T	N7609C	KPSC - KAST - KPDX	X-Country to Astoria & Portland; Safety Pilot: Kelly Bennett	H T	1	3		3.8			1.9				3.8	3.8						
+7/15/2007	PA34-200T	N7609C	KPSC - KHQM 	"X-Country to Hoquiam, GPS NAV"			2		3.0		0.6					3.0	3.0						
+7/16/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: TaLs, Pattern Procedures, ATC Procedures"			8						1.1			1.1	1.1						
+7/16/2007	C-172	N738ST	KPSC 	"Dale Petty: Preflight, Taxi, Climbs, Descents, Turns, Steep Turns, SL FLT"			1						1.0			1.0	1.0						
+7/16/2007	C-172	N7589D	KPSC 	"John Petty: Taxi, Climbs, Descents, Turns, Steep Turns, SL FLT"			1						1.0			1.0	1.0						
+7/17/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: TaLs, Pattern Procedures, ATC Procedures"			8						1.2			1.2	1.2						
+7/17/2007	C-172	N426SK	KPSC 	Survey FLT - Tri-City Herald			1									0.9	0.9						
+7/18/2007	C-172	N7589D	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+7/19/2007	C-172	N738ST	KPSC 	"Dale Petty: Climbs, Descents, Turns, Steep Turns, SL FLT, Pwr Off Stalls"			1						1.1			1.1	1.1						
+7/19/2007	C-172	N426SK	KPSC 	"Dan Hatch: Preflight, Taxi, Climbs, Descents, Turns"			1						0.9			0.9	0.9						
+7/20/2007	C-182	N1090M	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+7/21/2007	C-172	N7589D	KPSC 	"Jared Elizares: Pattern Procedures, ATC Procedures, TaLs"			8						1.1			1.1	1.1						
+7/21/2007	C-172	N7589D	KPSC 	"Dan Hatch: Taxi, Climbs, Descents, Turns, Steep Turns"			1						1.1			1.1	1.1						
+7/21/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+7/22/2007	C-150	N3012J	KPSC - KYKM 	"Rob Tubens: Cross Country Planning, Dead Reckoning, Pilotage, TaLs"			2		2.2				2.2			2.2	2.2						
+7/22/2007	C-172	N7589D	KPSC 	"Kurt Johnson: TaLs, Pattern Procedures, Steep Turns, LvL Turns"			2						1.2			1.2	1.2						
+7/23/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: TaLs, Pattern Procedures, ATC Procedures"			7						1.2			1.2	1.2						
+7/23/2007	C-172	N738ST	KPSC 	"Dale Petty: Climbs, Descents, Turns, Steep Turns, SL FLT, Secondary Stall, Pwr Off Stalls"			1						1.1			1.1	1.1						
+7/23/2007	C-172	N738ST	KPSC 	Survey FLT: Walla Walla Penitentiary			1									1.0	1.0						
+7/24/2007	PA34-200T	N7609C	KPSC - KELN	"VFR X-C to Ellensburg, WA"			1		1.0					1.0		1.0	1.0						
+7/24/2007	PA34-200T	N7609C	KELN - KGEG 	X-C to Spokane Intl. Satefy Pilot: Kelly Bennett	H T	1	2		2.0			0.8				2.0	2.0						
+7/24/2007	PA34-200T	N7609C	KELN - KPSC	"VFR X-C to Pasco, WA"			1		1.0					1.0		1.0	1.0						
+7/26/2007	C-172	N7589D	KPSC 	"Survey FLT: John Deere; To: Moses Lake, WA"			1									1.5	1.5						
+7/27/2007	C-172	N7589D	KPSC 	"Dale Petty: Takeoff, S-Turns, Rectangular Course, Turns around a PT"			1						1.1			1.1	1.1						
+7/27/2007	C-172	N738ST	KPSC 	Survey FLT: Holiday Inn			1									0.4	0.4						
+7/28/2007	C-172	N426SK	KPSC 	Airshow Prep: Formation Flying			1							0.8		0.8	0.8						
+7/28/2007	C-182	N1090M	KPSC 	Columbia Cup Airshow: Day 1; Formation Flying			1							0.6		0.6	0.6						
+7/28/2007	C-172	N738ST	KPSC 	Survey FLT: Columbia Center Mall			1									0.6	0.6						
+7/29/2007	C-182	N1090M	KPSC 	Columbia Cup Airshow: Day 2; Formation Flying			1							0.5		0.5	0.5						
+7/30/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Pattern Procedures, Balloon Recovery, TaLs"			10						1.2			1.2	1.2						
+7/31/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Pattern Procedures, Radio Comm. TaLs"			9						1.1			1.1	1.1						
+7/31/2007	C-182	N1090M	KPSC 	Survey FLT: Kennewick Housing Development			1									0.7	0.7						
+7/31/2007	C-172	N738ST	KPSC 	"Parker Edwards: Climbs, Descents, Turns"			1						0.8			0.8	0.8						
+7/31/2007	C-172	N738ST	KPSC 	"David Edwards: Climbs, Descents, Turns"			1						0.8			0.8	0.8						
+8/3/2007	C-172	N738ST	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+8/3/2007	C-172	N738ST	KPSC 	"Dale Petty: Takeoff, Emergency Frcd. Lndg, Engine Fire Demo. S-Turns, Turns around a PT, Rectangular Course"			1						1.1			1.1	1.1						
+8/7/2007	C-182	N1090M	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+8/8/2007	C-172	N426SK	KPSC 	Ondrea Sneed: X-Wind Proc. Pattern Proc. TaLs			9						1.1			1.1	1.1						
+8/10/2007	C-172	N2383Q	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+8/10/2007	C-182	N1090M	KPSC - KALW 	"Karin Rodland: 2 GPS Apps. 1 ILS App. GPS Hold, TaLs, GPS Procedures"			3						2.3			2.3	2.3						
+8/11/2007	C-172	N426SK	KPSC 	"Jared Elizares: ATC Procedures, Pattern Procedures, SL FLT, TaLs"			8						1.1			1.1	1.1						
+8/13/2007	C-182	N1090M	KPSC 	"Marjy Leggett: GPS Procedures, Flight Planning, VNAV Procedures"			1						1.1			1.1	1.1						
+8/13/2007	C-172	N426SK	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.5			0.5	0.5						
+8/15/2007	C-172	N426SK	KPSC 	Ondrea Sneed: X-Wind Proc. Pattern Proc. TaLs			8						1.1			1.1	1.1						
+8/15/2007	C-172	N2383Q	KPSC 	"James Franz: A/C Currency, Pattern Procedures"			3						0.5			0.5	0.5						
+8/17/2007	C-172	N7589D	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+8/18/2007	C-172	N7589D	KPSC 	"Chris Booth: Steep Turns, SL FLT, Pwr On & Off Stalls, Emergency Forced Lndg, Turns around a PT, S-Turns, Short field takeoff and landing, TaLs, BFR Complete"			4						1.3			1.3	1.3						
+8/18/2007	C-172	N426SK	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+8/18/2007	C-172	N426SK	KPSC 	"Parker Edwards: Climbs, Descents, Turns, Turns around a PT, Wind Crabbing"			1						1.0			1.0	1.0						
+8/19/2007	C-172	N2383Q	KPSC 	"Lance Stevens: A/C Checkout, Pattern Procedures, TaLs"			3						0.6			0.6	0.6						
+8/20/2007	C-172	N7589D	KPSC 	"Ondrea Sneed: Pattern Procedures, ATC Procedures, Go-Around, TaLs"			11						1.2			1.2	1.2						
+8/20/2007	C-172	N426SK	KPSC 	"Elias Lewis: X-Wind Procedures, Pattern Procedures, TaLs"			10						1.2			1.2	1.2						
+8/20/2007	C-172	N2383Q	KPSC 	"Zach Bowman: A/C Checkout, Steep Turns, SL FLT, Pwr Off Stall, TaLs"			3						0.8			0.8	0.8						
+8/21/2007	C-172	N426SK	KPSC 	"Ondrea Sneed: Pitch Attitudes, TaLs"			10						1.2			1.2	1.2						
+8/21/2007	C-172	N738ST	KPSC 	"Survey FLT: AMEC, Hanford Area"			1									0.8	0.8						
+8/21/2007	C-172	N7589D	KPSC 	"Survey FLT: Benton City, Hanford Fire"			1									0.9	0.9						
+8/22/2007	C-172	N7589D	KPSC 	"Brian Mckenzie: Climbs, Turns, Descents, Steep Turns"			1						1.1			1.1	1.1						
+8/22/2007	C-172	N738ST	KPSC 	Survey FLT: Hanford Site			1									1.2	1.2						
+8/24/2007	C-172	N738ST	KPSC 	"Elias Lewis: Pattern Procedures, Ground Effect, TaLs"			9						1.1			1.1	1.1						
+8/24/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.5			0.5	0.5						
+8/24/2007	C-172	N738ST	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.5			0.5	0.5						
+8/26/2007	C-172	N738ST	KPSC 	"Alex Pappas: Preflight, Turns, Climbs, Descents, Steep Turns"			1						1.1			1.1	1.1						
+8/26/2007	C-172	N738ST	KPSC 	"Elias Lewis: X-Wind Procedures, Pattern Procedures, TaLs"			8						1.0			1.0	1.0						
+8/27/2007	C-172	N738ST	KPSC 	"Ondrea Sneed: Pattern Procedures, Go-Arounds, TaLs"			8						1.1			1.1	1.1						
+8/27/2007	C-172	N738ST	KPSC 	"James Kaye: GPS Procedures, VNAV Procedures, TaLs"			4						1.2			1.2	1.2						
+8/27/2007	C-172	N738ST	KPSC 	"Alex Pappas: Preflight, Turns, Climbs, Descents"			1						0.7			0.7	0.7						
+8/27/2007	C-172	N426SK	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.5			0.5	0.5						
+8/28/2007	C-172	N2383Q	KPSC 	"Ondrea Sneed: Pattern Procedures, Balloon Recovery, TaLs"			9						1.2			1.2	1.2						
+8/28/2007	C-172	N426SK	KPSC 	"Alex Pappas: Turns, Climbs, Descents, SL FLT, Pwr Off Stalls, Secondary Stall, Steep Turns"			1						1.1			1.1	1.1						
+8/28/2007	C-172	N738ST	KPSC 	"John Rodriguez: Turns, Climbs, Descents, Steep Turns, SL FLT, Pwr Off Stalls, Emergency Frcd Lndg, TaLs"			4						1.1			1.1	1.1						
+8/29/2007	C-172	N7589D	KPSC 	"Alex Pappas: Steep Turns, BAI Turns, Climbs, Descents, Unusual Att. Recovery, Emergency Frcd Lndg. Road Tracking"			1						1.1			1.1	1.1						
+8/30/2007	C-172	N426SK	KPSC 	"Alex Pappas: Turns, Climbs, Descents, Road Tracking, Turns around a PT"			1						1.2			1.2	1.2						
+8/31/2007	C-172	N426SK	KPSC 	"Alex Pappas: Steep Turns, SL FLT, Pwr Off Stall, BAI Turns, Descents, Turns around a PT"			1						1.2			1.2	1.2						
+9/1/2007	C-172	N7589D	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.5			0.5	0.5						
+9/1/2007	C-172	N7589D	KPSC 	Donna Maguffee: Pattern Proc. X-Wind Proc. TaLs			9						1.2			1.2	1.2						
+9/2/2007	C-172	N738ST	KPSC 	"Tom Wood: Turns, Climbs, Descents, Taxi"			1						1.0			1.0	1.0						
+9/2/2007	J3C-65	N6558H	KPSC 	"Tailwheel Intro: Stalls, Level Turns, 3 Pt. Lndgs"			5								1.0		1.0						
+9/2/2007	C-182	N1090M	KPSC 	Tri-Cities Scenic: Snake River			1									0.6	0.6						
+9/3/2007	C-172	N738ST	KPSC 	"Ondrea Sneed: Pattern Procedures, Go-Arounds, TaLs"			9						1.1			1.1	1.1						
+9/4/2007	C-172	N426SK	KPSC 	"Tarik Dillsi: Steep Turns, SL FLT, Pwr Off & On Stalls, Emergency Frcd. Lndg, Turns around a PT, TaLs, BFR Comp."			3						1.0			1.0	1.0						
+9/4/2007	C-182	N1090M	KPSC 	"Tarik Dillsi: C-182 Checkout, High Performance Proc. TaLs"			5						0.7			0.7	0.7						
+9/5/2007	C-182	N1090M	KPSC - KRLD 	"Lance Stevens: High Performance Procedures, Power Settings, TaLs"			8						1.2			1.2	1.2						
+9/5/2007	C-172	N738ST	KPSC 	Tri-Cities Scenic			1									0.5	0.5						
+9/8/2007	C-182	N1090M	KPSC 	"Lance Stevens: High Performance Endorsement, Power Settings, TaLs"			8						1.1			1.1	1.1						
+9/9/2007	C-172	N7589D	KPSC 	"Kelvin Stevens: Steep Turns, SL FLT, Pwr Off Stalls, S-Turns, Turns around a PT"			1						1.1			1.1	1.1						
+9/9/2007	C-172	N7589D	KPSC 	"Discovery FLT, Turns, Pitch Attitudes, TaLs"			1						0.6			0.6	0.6						
+9/10/2007	C-172	N7589D	KPSC 	"Ondrea Sneed: Pattern Proc. Go-Arounds, TaLs"			8						1.2			1.2	1.2						
+9/11/2007	C-172	N738ST	KPSC 	"Ondrea Sneed: BAI, Unusual Att. Recovery, Power On Stalls, TaLs"			4						1.2			1.2	1.2						
+9/11/2007	C-172	N426SK	KPSC 	"Terry Hagan: Pattern Procedures, Balloon Recovery, TaLs"			8						1.2			1.2	1.2						
+9/18/2007	PA28-161	N513MS	KELN 	Part 141 Primary Standardization			4					0.1			1.1	1.1	1.1						
+9/18/2007	C-152	N5499Q	KELN 	Part 141 Primary Standardization			2								0.7	0.7	0.7						
+9/21/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #1 Complete, Turns, Climbs, Descents, SL FLT"			1						1.0			1.0	1.0						
+9/21/2007	C-152	N95606	KELN 	"Cody McCall: Private Syl Flt #1 Complete, Turns, Climbs, Descents"			1						1.0			1.0	1.0						
+9/22/2007	C-152	N95429	KELN 	"Thomas Johnson: Private Syl Flt #1 Complete, Turns, Climbs, Descents"			1						1.1			1.1	1.1						
+9/22/2007	C-152	N95429	KELN 	"Carissa Lord: Private Syl Flt #1 Complete, Turns, Climbs, Descents"			1						0.9			0.9	0.9						
+9/26/2007	C-152	N95539	KELN 	"Carissa Lord: Private Syl Flt #2 Incomplete, Turns, Climbs, Descents"			1						1.0			1.0	1.0						
+9/27/2007	C-152	N5499Q	KELN 	"Thomas Johnson: Private Syl Flt #2 Complete, Turns, Climbs, SL FLT, App."			1						1.1			1.1	1.1						
+9/28/2007	C-152	N95429	KELN 	"Peter Liden: Private Syl Flt #1 Complete, Turns, Climbs, Descents"			1						0.9			0.9	0.9						
+9/29/2007	C-152	N95429	KELN 	"Evan Marshall: Private Syl Flt #2 Complete, Turns, Climbs, Descents, SL FLT"			1						1.2			1.2	1.2						
+9/29/2007	C-152	N95539	KELN 	"Cody McCall: Private Syl Flt #2 Complete, Turns, Climbs, Descents, SL FLT"			1						1.1			1.1	1.1						
+10/1/2007	C-152	N95539	KELN 	"Stephanie Leistritz: Private Syl Flt #1 Complete, Turns, Climbs, Descents"			1						0.9			0.9	0.9						
+10/1/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #3 Incomplete, Turns, SL FLT, Stalls"			1						0.8			0.8	0.8						
+10/1/2007	C-152	N95539	KELN 	"Peter Liden: Private Syl Flt #2 Complete, Turns, Climbs, Descents, SL FLT"			1						1.1			1.1	1.1						
+10/2/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #3 Incomplete, Stalls, Turns, SL FLT"			1						0.9			0.9	0.9						
+10/2/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #3 Complete, BAI, SL FLT, TaLs"			2						0.9			0.9	0.9						
+10/2/2007	C-152	N5499Q	KELN 	"Cody McCall: Private Syl Flt #3 Incomplete, SL FLT, Turns, Stalls, TaLs"			2						1.1			1.1	1.1						
+10/3/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #3 Complete, BAI, TaLs"			4						1.0			1.0	1.0						
+10/3/2007	C-152	N95429	KELN 	"Carissa Lord: Private Syl Flt #2 Complete, Turns, Climbs, Descents, Flap Config."			1						1.0			1.0	1.0						
+10/4/2007	C-152	N95429	KELN 	"Evan Marshall: Private Syl Flt #4 Incomplete, SL FLT, Steep Turns, TaLs"			4						1.1			1.1	1.1						
+10/4/2007	C-152	N95429	KELN 	"Stephanie Leistritz: Private Syl Flt #2 Complete, Turns, Flap Config."			1						1.0			1.0	1.0						
+10/8/2007	C-152	N5366M	KELN 	"Evan Marshall: Private Syl Flt #4 Complete, Emergency Frcd Lndgs, TaLs"			4						1.1			1.1	1.1						
+10/8/2007	C-152	N5499Q	KELN 	Night Currency: Ellensburg				3		0.4				0.4		0.4	0.4						
+10/9/2007	C-152	N95539	KELN 	"Angela Zevely: Comm. Syl Flt #31 Complete, SL FLT, Stalls, Steep Turns, TaLs"				4		1.1			1.1			1.1	1.1						
+10/10/2007	C-152	N95429	KELN 	"Thomas Johnson: Private Syl Flt #4 Complete, Steep Turns, Emergencies, TaLs, SL FLT"			3						1.1			1.1	1.1						
+10/10/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #5 Incomplete, S-Turns, Turns around a PT, TaLs"			1						0.9			0.9	0.9						
+10/10/2007	C-152	N95539	KELN 	"Peter Liden: Private Syl Flt #3 Complete, BAI Turns, Climbs, Descents, TaLs"			2						0.8			0.8	0.8						
+10/10/2007	C-152	N95606	KELN 	"Carissa Lord: Private Syl Flt #3 Complete, BAI, SL FLT, Stalls, TaLs"			3						1.0			1.0	1.0						
+10/10/2007	C-152	N95606	KELN 	"Stephanie Leistritz: Private Syl Flt #3 Complete, BAI, SL FLT, Stalls, TaLs"			3						1.1			1.1	1.1						
+10/11/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #5 Incomplete, S-Turns, Turns around a PT, TaLs"			3						1.0			1.0	1.0						
+10/11/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #5 Complete, Stalls, SL FLT, BAI, TaLs"			1						0.9			0.9	0.9						
+10/11/2007	C-152	N95539	KELN 	"Adrian Lee: Private Syl Flt #2 Complete, Turns, Climbs, Descents, SL FLT, Flap Config."			1						0.8			0.8	0.8						
+10/11/2007	C-152	N95539	KELN 	"Cody McCall: Private Syl Flt #3 Complete, SL FLT, Pwr Off Stall, BAI, TaLs"			3						1.0			1.0	1.0						
+10/12/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #5 Complete, SL FLT, Stalls, Emergencies, BAI, TaLs"			2						1.0			1.0	1.0						
+10/12/2007	C-152	N5499Q	KELN 	"Peter Liden: Private Syl Flt #4 Incomplete, SL FLT, Stalls, Emergencies, TaLs"			2						0.9			0.9	0.9						
+10/12/2007	C-152	N95429	KELN 	"Stephanie Leistritz: Private Syl Flt #4 Complete, SL FLT, Stalls, Emergencies, TaLs"			3						1.1			1.1	1.1						
+10/12/2007	C-152	N95539	KELN 	"Cody McCall: Private Syl Flt #4 Complete, SL FLT, Stalls, Steep Turns, Emergencies, TaLs"			2						1.1			1.1	1.1						
+10/13/2007	C-152	N5366M	KELN 	"Peter Liden: Private Syl Flt #4 Complete, SL FLT, Stalls, Steep Turns, TaLs"			3						1.0			1.0	1.0						
+10/13/2007	C-152	N5499Q	KELN 	"Adrian Lee: Private Syl Flt #3 Incomplete, SL FLT, Stalls, TaLs"			3						1.0			1.0	1.0						
+10/14/2007	C-152	N5366M	KELN 	"Peter Liden: Private Syl Flt #5 Incomplete, S-Turns, Turns around a PT, TaLs"			3						1.1			1.1	1.1						
+10/14/2007	C-152	N5499Q	KELN 	"Carissa Lord: Private Syl Flt #4 Complete, SL FLT, Steep Turns, Emergencies, Stalls, TaLs"			3						1.2			1.2	1.2						
+10/15/2007	C-152	N95539	KELN 	"Stephanie Leistritz: Private Syl Flt #5 Incomplete, S-Turns, Turns around a PT, TaLs"			3						1.0			1.0	1.0						
+10/15/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #6 Incomplete, TaLs, Slips"			6						0.8			0.8	0.8						
+10/15/2007	C-152	N95539	KELN 	"Peter Liden: Private Syl Flt #5 Incomplete, Stalls, SL FLT, Steep Turns, BAI, Emergencies"			1						1.1			1.1	1.1						
+10/15/2007	C-152	N5366M	KELN 	"Carissa Lord: Private Syl Flt #5 Incomplete, S-Turns, Turns around a PT, TaLs"			3						1.0			1.0	1.0						
+10/16/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #6 Incomplete, S-Turns, Turns around a PT, TaLs"			3						1.0			1.0	1.0						
+10/16/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #6 Incomplete, S-Turns, Turns around a PT, TaLs"			2						0.9			0.9	0.9						
+10/16/2007	C-152	N95429	KELN 	"Cody McCall: Private Syl Flt #5 Incomplete, S-Turns, Turns around a PT, TaLs"			2						1.0			1.0	1.0						
+10/16/2007	C-152	N95539	KELN 	"Adrian Lee: Private Syl Flt #3 Comp. BAI Turns, Climbs, Descents, TaLs"			3						1.0			1.0	1.0						
+10/16/2007	C-152	N95539	KELN 	"Carissa Lord: Private Syl Flt #5 Comp. SL FLT, Stalls, Emergencies, BAI, TaLs"			3						1.3			1.3	1.3						
+10/17/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #6 Incomplete, Go-Arounds, TaLs"			8						1.0			1.0	1.0						
+10/17/2007	C-152	N95429	KELN 	"Carissa Lord: Private Syl Flt #6 Incomplete, S-Turns, Turns around a PT, TaLs"			3						1.3			1.3	1.3						
+10/17/2007	C-152	N95606	KELN 	"Cody McCall: Private Syl Flt #5 Comp. SL FLT, Stalls, Steep Turns, Emergencies, TaLs"			3						1.1			1.1	1.1						
+10/19/2007	C-152	N95539	KELN 	"Adrian Lee: Private Syl Flt #4 Incomplete, Steep Turns, SL FLT, Emergencies, TaLs"			3						1.0			1.0	1.0						
+10/21/2007	PA34-200T	N7609C	KPSC - KELN 	X-C to Ellensburg; GPS App. Safety Pilot: Kelly Bennett	H T	1	4		2.8			1.3				2.8	2.8						
+10/22/2007	C-152	N95539	KELN 	"Cody McCall: Private Syl Flt #6 Incomplete, S-Turns, Turns around a PT, TaLs"			3						1.1			1.1	1.1						
+10/22/2007	C-152	N5366M	KELN 	"Evan Marshall: Private Syl Flt #6 Complete, TaLs"			6						0.9			0.9	0.9						
+10/22/2007	C-152	N5499Q	KELN 	"Thomas Johnson: Private Syl Flt #6 Complete, TaLs"			7						1.0			1.0	1.0						
+10/22/2007	C-152	N95606	KELN 	"Stephanie Leistritz: Private Syl Flt #5 Incomplete, Pwr Off Stall, BAI, TaLs"			3						0.9			0.9	0.9						
+10/25/2007	C-152	N95539	KELN 	"Peter Liden: Private Syl Flt #5 Comp. Pwr Off Stalls, SL FLT, TaLs "			3						1.2			1.2	1.2						
+10/25/2007	C-152	N95539	KELN 	"Adrian Lee: Private Syl Flt #4 Comp. BAI, TaLs"			3						0.9			0.9	0.9						
+10/25/2007	C-152	N5366M	KELN 	"Carissa Lord: Private Syl Flt #6 Comp. S-Turns, Turns around a PT, TaLs"			3						1.0			1.0	1.0						
+10/26/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #7 Incomplete, BAI, TaLs"			3						1.2			1.2	1.2						
+10/26/2007	C-152	N95995	KELN 	"Cody McCall: Private Syl Flt #6 Incomplete, TaLs"			9						1.2			1.2	1.2						
+10/27/2007	C-152	N5499Q	KELN 	"Stephanie Leistritz: Private Syl Flt #5 Complete, TaLs"			9						1.1			1.1	1.1						
+10/27/2007	C-152	N95606	KELN 	"Carissa Lord: Private Syl Flt #7 Incomplete, BAI, Emergencies, TaLs"			4						1.2			1.2	1.2						
+10/27/2007	C-152	N95539	KELN 	"Adrian Lee: Private Syl Flt #5 Incomplete, S-Turns, Turns around a PT, TaLs"			3						1.0			1.0	1.0						
+10/28/2007	C-152	N5366M	KELN 	"Stephanie Leistritz: Private Syl Flt #6 Incomplete, Ground Ref. TaLs"			3						1.0			1.0	1.0						
+10/28/2007	C-152	N5366M	KELN 	"Adrian Lee: Private Syl Flt #5 Complete, SL FLT, Stalls, Steep Turns, TaLs"			3						1.1			1.1	1.1						
+10/28/2007	C-152	N5366M	KELN 	"Cody McCall: Private Syl Flt #6 Complete, TaLs"			6						0.8			0.8	0.8						
+10/29/2007	C-152	N95539	KELN 	"Stephanie Leistritz: Private Syl Flt #6 Complete, TaLs"			8						1.0			1.0	1.0						
+10/29/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #7 Incomplete, BAI, TaLs"			3						1.0			1.0	1.0						
+10/29/2007	C-152	N95539	KELN 	"Peter Liden: Private Syl Flt #6 Incomplete, S-Turns, Turns around a PT, TaLs"			1						0.9			0.9	0.9						
+10/30/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #7 Complete, Ground Ref. Emergencies, TaLs"			3						1.2			1.2	1.2						
+10/30/2007	C-152	N95539	KELN 	"Evan Marshall: Private Syl Flt #7 Complete, Ground Ref. Emergencies, TaLs"			3						0.9			0.9	0.9						
+10/30/2007	C-152	N95429	KELN 	"Cody McCall: Private Syl Flt #7 Incomplete, BAI, TaLs"			3						1.0			1.0	1.0						
+10/30/2007	C-152	N5366M	KELN 	"Stephanie Leistritz: Private Syl Flt #7 Incomplete, BAI, TaLs"			3						1.1			1.1	1.1						
+10/31/2007	C-152	N95539	KELN 	"Thomas Johnson: Private Syl Flt #8 Incomplete, Stalls, SL FLT, Steep Turns, TaLs"			1						1.0			1.0	1.0						
+10/31/2007	C-152	N95429	KELN 	"Carissa Lord: Private Syl Flt #7 Complete, Ground Ref. TaLs"			3						1.0			1.0	1.0						
+10/31/2007	C-152	N95606	KELN 	"Cody McCall: Private Syl Flt #7 Complete, Ground Ref. TaLs"			3						1.1			1.1	1.1						
+10/31/2007	C-152	N5366M	KELN - KPSC 	"Angela Zevely: Comm. Syl Flt #42 Incomplete, X-C Procedures"				3	2.6	2.6			2.6			2.6	2.6						
+11/1/2007	C-152	N95606	KELN 	"Peter Liden: Private Syl Flt #6 Complete, TaLs, Pattern Proc."			7						1.0			1.0	1.0						
+11/2/2007	C-152	N95606	KELN 	"Peter Liden: Private Syl Flt #7 Incomplete, BAI, TaLs"			4						1.2			1.2	1.2						
+11/2/2007	C-152	N95539	KELN 	"Adrian Lee: Private Syl Flt #6 Complete, Ground Ref. TaLs"			4						0.8			0.8	0.8						
+11/2/2007	C-152	N5366M	KELN 	"Cody McCall: Private Syl Flt #8 Incomplete, Stalls, SL FLT, Steep Turns, TaLs"			5						1.2			1.2	1.2						
+11/3/2007	PA34-200T	N7609C	KPSC - KMWH - KELN - KYKM 	"Multi-Instrument FLT; 1 - ILS MWH, 1 -GPS ELN, 1 - VOR YKM, 1 - ILS PSC; Safety Pilot: Cresap Watson"	H T	4	4		3.0			2.6				3.0	3.0						
+11/3/2007	PA34-200T	N7609C	KPSC - KPDT - KALW 	"X-C Multi FLT to Pendleton, Walla Walla, & Pasco"			3									1.2	1.2						
+11/5/2007	C-152	N95429	KELN 	"Cody McCall: Private Syl Flt #8 Comp. BAI, Ground Ref. TaLs"			3						1.1			1.1	1.1						
+11/5/2007	C-152	N95995	KELN 	"Carissa Lord: Private Syl Flt #8 Incomplete, BAI, Ground Ref. TaLs"			1						1.0			1.0	1.0						
+11/7/2007	C-152	N95429	KELN 	"Thomas Johnson: Private Syl Flt  #8 Comp. BAI, Ground Ref. TaLs"			3						1.0			1.0	1.0						
+11/7/2007	C-152	N5366M	KELN 	Peter Liden: Private Syl Flt #7 Comp. Ground Ref. TaLs			4						1.0			1.0	1.0						
+11/7/2007	C-152	N95429	KELN 	"Carissa Lord: Private Syl Flt #8 Comp. SL FLT, Stalls, Steep Turns, TaLs"			3						0.9			0.9	0.9						
+11/7/2007	C-152	N95429	KELN 	Stephanie Leistritz: Private Syl Flt #7 Comp. Ground Ref. TaLs			3						1.0			1.0	1.0						
+11/7/2007	C-152	N95995	KELN 	"Adrian Lee: Private Syl Flt #7 Incomplete, Ground Ref. TaLs"			4						0.9			0.9	0.9						
+11/8/2007	C-152	N95995	KELN 	"Adrian Lee: Private Syl Flt #7 Comp. BAI, TaLs"			4						1.0			1.0	1.0						
+11/8/2007	C-152	N5499Q	KELN 	"Stephanie Leistritz: Private Syl Flt #8 Inc. Stalls, SL FLT, Night Ops, TaLs"				4		1.1			1.1			1.1	1.1						
+11/13/2007	C-152	N95995	KELN 	"Thomas Johnson: Review, Pattern Proc. TaLs"			7						1.0			1.0	1.0						
+11/13/2007	C-152	N95995	KELN 	"Evan Marshall: Private Syl Flt #8 Inc. BAI, Ground Ref. "			1						0.9			0.9	0.9						
+11/13/2007	C-152	N95995	KELN 	"Adrian Lee: Private Syl Flt #8 Inc. SL FLT, BAI, TaLs, Ground Ref."			4						1.0			1.0	1.0						
+11/13/2007	C-152	N5366M	KELN 	"Carissa Lord: Review, Pattern Proc. Go-Arounds, TaLs"				6		0.9			0.9			0.9	0.9						
+11/14/2007	C-152	N95995	KELN 	"Thomas Johnson: Review, Pattern Proc. TaLs"			8						1.0			1.0	1.0						
+11/14/2007	C-152	N95429	KELN 	"Carissa Lord: Review, Pattern Proc. Go-Arounds, TaLs"			8						1.1			1.1	1.1						
+11/14/2007	C-152	N95429	KELN 	"Cody McCall: Review, Pattern Proc. Go-Arounds, TaLs"			9						1.1			1.1	1.1						
+11/15/2007	C-152	N95429	KELN 	"Evan Marshall: Private Syl Flt #8 Comp. SL FLT, Stalls, Ground Ref. TaLs"			3						1.2			1.2	1.2						
+11/15/2007	C-152	N95995	KELN 	Stephanie Leistritz: Private Syl Flt #8 Comp. Ground Ref. TaLs			4						1.1			1.1	1.1						
+11/15/2007	C-152	N95995	KELN 	"Peter Liden: Private Syl Flt #8 Comp. Ground Ref. BAI, TaLs"			3						0.9			0.9	0.9						
+11/16/2007	C-152	N95606	KELN 	"Peter Liden: Review, Pattern Proc. TaLs"			4						0.7			0.7	0.7						
+11/27/2007	C-152	N95539	KELN 	"Thomas Johnson: Review, Pattern Proc. TaLs"			7						0.9			0.9	0.9						
+11/27/2007	C-152	N95539	KELN 	"Evan Marshall: Review, Pattern Proc. TaLs"			7						0.9			0.9	0.9						
+11/27/2007	C-152	N95995	KELN 	"Adrian Lee: Private Syl Flt #8 Comp. Stalls, SL FLT, TaLs"			1						0.7			0.7	0.7						
+11/28/2007	C-152	N95539	KELN 	"Thomas Johnson: Review, Pattern Proc. TaLs"			8						1.0			1.0	1.0						
+11/28/2007	C-152	N95995	KELN 	"Carissa Lord: Review, Pattern Proc. Go-Arounds, TaLs"			9						1.2			1.2	1.2						
+11/28/2007	C-152	N95606	KELN 	"Cody McCall: Review, Pattern Proc. Go-Arounds, TaLs"			8						1.0			1.0	1.0						
+11/30/2007	C-152	N95539	KELN 	"Peter Liden: Review, Pattern Proc. TaLs"			4						0.7			0.7	0.7						
+11/30/2007	C-152	N95539	KELN 	"Adrian Lee: Review, Pattern Proc. TaLs, Go-Arounds"			8						1.0			1.0	1.0						
+12/1/2007	C-152	N5499Q	KELN 	"Stephanie Leistritz: Review, Pattern Proc. TaLs"			9						1.1			1.1	1.1						
+12/4/2007	C-152	N95995	KELN 	"Stephanie Leistritz: Review, Pattern Proc. TaLs"			8						1.1			1.1	1.1						
+12/4/2007	C-152	N95429	KELN 	"Carissa Lord: Review, Pattern Proc. Go-Arounds, TaLs"			8						1.0			1.0	1.0						
+12/5/2007	C-152	N95995	KELN 	"Shane Grigg: Review FLT: Stalls, SL FLT, Steep Turns, Emergencies, TaLs"			4						1.0			1.0	1.0						
+12/5/2007	C-152	N95995	KELN 	"Thomas Johnson: Review, Pattern Proc. TaLs"			8						1.2			1.2	1.2						
+12/6/2007	C-152	N95995	KELN 	"Stephanie Leistritz: Review, Pattern Proc. TaLs"			4						0.6			0.6	0.6						
+12/6/2007	C-152	N5366M	KELN 	"Peter Liden: Review, Pattern Proc. TaLs"			9						1.2			1.2	1.2						
+12/6/2007	C-152	N5366M	KELN 	"Cody McCall: Private Syl Flt #9 Comp. First Solo, TaLs"			3						0.5			0.5	0.5						
+12/6/2007	C-152	N95429	KELN 	"Carissa Lord: Review, Pattern Proc. Go-Arounds, TaLs"			8						1.1			1.1	1.1						
+12/7/2007	C-152	N95995	KELN 	"Carissa Lord: Private Syl Flt #9 Comp. First Solo, TaLs"			3						0.4			0.4	0.4						
+12/7/2007	C-152	N95429	KELN 	"Adrian Lee: Review, Pattern Proc. TaLs, Go-Arounds"			9						1.2			1.2	1.2						
+12/8/2007	C-152	N95606	KELN 	"Myles Clark: Review FLT, Stalls, SL FLT, Emergencies, TaLs"			3						1.2			1.2	1.2						
+12/8/2007	C-152	N95539	KELN 	"Douglas Dawson: Review FLT, Stalls, SL FLT, Emergencies, TaLs"			4						1.2			1.2	1.2						
+12/8/2007	C-152	N95429	KELN 	"Carissa Lord: Review FLT, Stalls, SL FLT, Emergencies, TaLs"			1						1.1			1.1	1.1						
+12/12/2007	C-152	N95429	KELN 	"Adrian Lee: Review FLT, Pattern Proc. TaLs, Go-Arounds"			9						1.1			1.1	1.1						
+12/13/2007	C-152	N5499Q	KELN 	Adrian Lee: Private Syl Flt #9 Comp. Pattern Proc. TaLs			3						0.4			0.4	0.4						
+12/13/2007	C-152	N95995	KELN 	"Adrian Lee: Review FLT, Second Solo"			3						0.4			0.4	0.4						
+12/30/2007	C-152	N95995	KELN 	"Stephanie Leistritz: Review FLT, TaLs, Stalls, Emergencies, SL FLT"			1						0.9			0.9	0.9						
+1/7/2008	C-152	N5366M	KELN 	"Adrian Lee: Review FLT, TaLs, Stalls, SL FLT, Emergencies"			1						1.0			1.0	1.0						
+1/9/2008	C-152	N95429	KELN 	"Stephanie Leistritz: Review FLT, Pattern Proc. Stalls, SL FLT, TaLs"			1						1.0			1.0	1.0						
+1/9/2008	C-152	N5499Q	KELN 	"Cody McCall: Review FLT, SL FLT, Stalls, Emergencies, TaLs"			1						1.1			1.1	1.1						
+1/9/2008	C-152	N95539	KELN 	"Carissa Lord: Private Syl Flt #11 Inc. Shorts/Softs TaLs, Turns around a PT"			5						1.2			1.2	1.2						
+1/13/2008	C-152	N95429	KELN 	"Carissa Lord; Private Syl Flt #11 Comp. Short/Softs TaLs, Turns around a PT, S-Turns, SL FLT"			4						1.0			1.0	1.0						
+1/15/2008	C-152	N95995	KELN 	"Angela Zevely: Comm. Syl Flt #51 Comp. Lazy 8s, Chandelles, Steep Spiral, TaLs"			3						1.2			1.2	1.2						
+1/15/2008	C-152	N5499Q	KELN 	"Carissa Lord: Private Syl Flt #14 Comp. VOR NAV, Unusual Att. TaLs"			2						1.2			1.2	1.2						
+1/16/2008	C-152	N95539	KELN 	"Evan Marshall: Review, Pattern Proc. TaLs"			10						1.3			1.3	1.3						
+1/16/2008	C-152	N5366M	KELN 	"Adrian Lee: Review FLT, Pattern Proc. TaLs, Shorts/Softs"			8						1.0			1.0	1.0						
+1/18/2008	C-152	N95606	KELN 	"Angela Zevely: Comm. Syl Flt #52 Comp. Shorts/Softs Pwr Off 180s, TaLs"			7						1.1			1.1	1.1						
+1/18/2008	C-152	N95539	KELN 	"Cody McCall: Review FLT, SL FLT, Stalls, Emergencies, TaLs"			3						1.0			1.0	1.0						
+1/18/2008	C-152	N5366M	KELN 	"Tanya Kumma: Comm. Syl Flt #31 Comp. SL FLT, Stalls, Steep Turns, TaLs"				5		1.1			1.1			1.1	1.1						
+1/19/2008	C-172	N7589D	KELN 	"Kendra Cabbage: Bergstrom Checkout, SL FLT, Stalls, TaLs"			4						1.0			1.0	1.0						
+1/23/2008	C-152	N95429	KELN 	"Stephanie Leistritz: Private Syl Flt #11 Inc. SL FLT, Emergencies, TaLs, Ground Ref."			2						1.3			1.3	1.3						
+1/23/2008	C-152	N95539	KELN 	"Cody McCall: Review FLT, SL FLT, Emergencies, TaLs, Go-Arounds"			4						1.0			1.0	1.0						
+1/23/2008	C-152	N5366M	KELN 	"Adrian Lee: Private Syl Flt #11 Comp. SL FLT, Emergencies, Ground Ref. Shorts/Softs TaLs"			4						1.0			1.0	1.0						
+1/24/2008	C-152	N95995	KELN 	"Stephanie Leistritz: Private Syl Flt #11 Comp. Shorts/Softs TaLs, Go-Arounds"			7						1.2			1.2	1.2						
+1/24/2008	C-152	N95429	KELN 	"Evan Marshall: Review, Pattern Proc. TaLs"			8						1.0			1.0	1.0						
+1/24/2008	C-152	N95539	KELN 	"Angela Zevely: Comm Syl Flt #53 Comp. Lazy 8s, Steep Spiral, TaLs, Pwr Off 180s"			6						1.3			1.3	1.3						
+1/25/2008	C-152	N95995	KELN 	"Angela Zevely: Comm Syl Flt #57 Comp. Shorts/Softs TaLs, Pwr Off 180s"			9						1.3			1.3	1.3						
+1/25/2008	C-152	N95429	KELN 	"Peter Liden: Review, Pattern Proc. TaLs"			10						1.4			1.4	1.4						
+1/26/2008	C-152	N95606	KELN 	"Angela Zevely: Comm Syl Flt #58 Inc. 8s On, Lazy 8s, TaLs"			5						1.4			1.4	1.4						
+1/28/2008	C-152	N95606	KELN 	"Angela Zevely: Comm Syl Flt #58 Comp. 8's On, Shorts/Softs TaLs"			5						1.1			1.1	1.1						
+1/30/2008	C-152	N95429	KELN 	"Evan Marshall: Review, Pattern Proc. TaLs"			10						1.3			1.3	1.3						
+1/30/2008	C-152	N95429	KELN 	"Peter Liden: Review, Pattern Proc. TaLs"			7						1.0			1.0	1.0						
+1/30/2008	C-152	N95429	KELN 	"Angela Zevely: Comm Syl Flt #64/65 Comp. Chandelles, 8's On, Steep Spiral, TaLs"			7						1.4			1.4	1.4						
+1/30/2008	C-152	N95539	KELN 	"Adrian Lee: Pvt Syl Flt #14 Inc. BAI, VOR NAV, TaLs"			3						1.0			1.0	1.0						
+2/1/2008	C-152	N95429	KELN 	"Stephanie Leistritz: Pvt Syl Flt #14 Inc. BAI, VOR NAV, TaLs, Flat Tire"			3						1.0			1.0	1.0						
+2/3/2008	PA34-200T	N7609C	KPSC 	A/C & Twin Currency; Pasco			3							0.5		0.5	0.5						
+2/4/2008	C-152	N5366M	KELN 	Adrian Lee: Pvt Syl Flt #12 Comp. Pattern Proc. TaLs			4						0.6			0.6	0.6						
+2/6/2008	C-152	N95429	KELN 	"Stephanie Leistritz: Pvt Syl Flt #14 Comp. BAI, VOR NAV, Unusual Att. TaLs"			3						0.9			0.9	0.9						
+2/6/2008	C-152	N95539	KELN 	Cody McCall: Pvt Syl Flt #11 Inc. Shorts/Softs TaLs			7						1.0			1.0	1.0						
+2/7/2008	C-152	N95429	KELN 	"Evan Marshall: Review, Pattern Proc. TaLs"			7						0.9			0.9	0.9						
+2/9/2008	C-152	N5499Q	KELN - KPSC 	Carissa Lord: Private Syl Flt #17 Inc. X-Country Planning to Pasco			2		2.7				2.7			2.7	2.7						
+2/11/2008	C-152	N95606	KELN - KPSC 	Cody McCall: Private Syl Flt #17 Inc. X-Country Planning to Pasco			2		2.1				2.1			2.1	2.1						
+2/11/2008	PA28-161	N512MS	KELN 	"Basic Manuevers; Steep Turns, SL FLT, TaLs"			1								1.4	1.4	1.4						
+2/12/2008	C-152	N5366M	KELN 	"Evan Marshall: Review, Pattern Proc. TaLs"			8						1.1			1.1	1.1						
+2/12/2008	C-152	N95539	KELN - KPSC 	"Stephanie Leistritz: Private Syl Flt #17 Inc. Pilotage, Dead Reckoning, X-C Planning"			2		2.4				2.4			2.4	2.4						
+2/13/2008	C-152	N5499Q	KELN 	"Carissa Lord: Private Syl Flt #16 Comp. SL FLT, Steep Turns, TaLs, Night Ops."				4		1.1			1.1			1.1	1.1						
+2/14/2008	C-152	N5366M	KELN 	Cody McCall: Private Syl Flt #11 Comp. Ground Ref. Shorts/Softs TaLs			4						1.3			1.3	1.3						
+2/14/2008	C-152	N95429	KELN 	"Adrian Lee: Private Syl Flt #14 Comp. BAI, VOR NAV, Unusual Att. TaLs"			4						1.1			1.1	1.1						
+2/15/2008	C-152	N5366M	KELN - KMWH - 80T 	"Cody McCall: Private Syl Flt #17 Comp. Pilotage, Dead Reck. Diversion, Lost Proc."			3		2.0				2.0			2.0	2.0						
+2/15/2008	C-152	N5499Q	KELN - KMWH - 80T 	"Stephanie Leistritz: Private Syl Flt #17 Comp. Pilotage, Dead Reck. Diversion, Lost Proc."			3		1.8				1.8			1.8	1.8						
+2/19/2008	C-152	N95429	KELN 	"Cody McCall: Private Syl Flt #14 Inc. VOR NAV, BAI, Soft TaLs"			4						1.3			1.3	1.3						
+2/19/2008	C-152	N5366M	KELN 	"Evan Marshall: Review, Pattern Proc. TaLs"			8						1.1			1.1	1.1						
+2/20/2008	C-152	N95995	KELN 	"Peter Liden: Review, Pattern Proc. TaLs, Go-Around"			8						1.1			1.1	1.1						
+2/20/2008	C-152	N95995	KELN - KPSC 	"Adrian Lee: Private Syl Flt #17 Inc. Pilotage, Dead Reck. Lost Proc."			2		2.4				2.4			2.4	2.4						
+2/21/2008	PA28R-201	N514MS	KELN 	Part 141 Complex Commercial Standardization			3								1.4	1.4	1.4						
+2/21/2008	C-152	N95429	KELN 	"Peter Liden: Review FLT, Pattern Proc. TaLs, Go-Around"			6						0.8			0.8	0.8						
+2/23/2008	C-152	N95995	KELN 	"Peter Liden: Private Syl Flt #9 Comp. TaLs, Pattern Proc. Go-Arounds"			4						0.5			0.5	0.5						
+2/23/2008	C-152	N95539	KELN 	"Carissa Lord: Private Syl Flt #18 Inc. Dead Reck. Pilotage, Diversion, TaLs"				4		1.2			1.2			1.2	1.2						
+2/25/2008	C-152	N5366M	KELN 	"Evan Marshall: Private Syl Flt #9 Comp. Pattern Proc. TaLs, Go-Around"			4						0.5			0.5	0.5						
+2/25/2008	C-152	N95995	KELN 	"Cody McCall: Private Syl Flt #14 Comp. Unusual Att. BAI, Short Field TaLs"			4						1.1			1.1	1.1						
+2/25/2008	C-152	N5366M	KELN 	"Peter Liden: Review FLT, Stalls, SL FLT, TaLs"			4						1.0			1.0	1.0						
+2/25/2008	C-152	N95995	KELN 	"Stephanie Leistritz: Private Syl Flt #16 Inc. BAI, Pattern Proc. TaLs"				2		0.8			0.8			0.8	0.8						
+2/28/2008	C-152	N95429	KELN - KMWH 	"Adrian Lee: Private Syl Flt #17 Inc. Pilotage, Dead Reck. Lost Proc."			2		1.7				1.7			1.7	1.7						
+2/28/2008	PA28R-201	N518MW	KELN 	"Angela Zevely: Comm. Syl Flt #46A Comp. Steep Turns, Stalls, TaLs"			4						1.1			1.1	1.1						
+2/29/2008	C-152	N95606	KELN 	"Peter Liden: Review FLT, Pattern Proc. TaLs, Go-Around"			9						1.2			1.2	1.2						
+2/29/2008	C-152	N95606	KELN 	"Evan Marshall: Review, Pattern Proc. TaLs"			4						0.6			0.6	0.6						
+2/29/2008	PA28R-201	N514MS	KELN 	"Angela Zevely: Comm. Syl Flt #46B Comp. Steep Turns, SL FLT, Stalls, TaLs, Go-Around"			3						1.1			1.1	1.1						
+3/2/2008	PA28-161	N235SR	KELN - PSC	"BAI, Cockpit Check, ILS via Vectors, Climbs, Descents"	H T	1	1		1.0			0.8			1.0	1.0	1.0						
+3/2/2008	PA34-200T	N7609C	KPSC - KPDT 	Pasco - Pendleton - Pasco: ILS Rwy 25 PDT; Safety Pilot: Kelly Bennett	H T	1	2					1.0				1.4	1.4						
+3/2/2008	PA28-161	N235SR	KPSC - KELN  	"Soft Field T/O & Lndg, Steep Turns, C.A.T"			1		1.0						1.0	1.0	1.0						
+3/3/2008	C-152	N95995	KELN 	"Adrian Lee: Pvt Syl Flt #14 Comp. SL FLT, Stalls, S-Turns, Turns around a PT"			4						1.1			1.1	1.1						
+3/3/2008	C-152	N95995	KELN 	"Peter Liden: Review FLT, Pattern Proc. TaLs, Go-Around"			6						0.9			0.9	0.9						
+3/3/2008	C-152	N95995	KELN 	"Cody McCall: Pvt Syl Flt #16 Comp. BAI, Steep Turns, Night Ops, TaLs"				5		1.1			1.1			1.1	1.1						
+3/5/2008	C-152	N95606	KELN 	Adrian Lee: Pvt Syl Flt #12 Comp. Pattern Proc. TaLs			3						0.5			0.5	0.5						
+3/5/2008	PA28R-201	N514MS	KELN 	"Angela Zevely: Comm Syl Flt #47A Comp. Steep Turns, SL FLT, BAI, HSI, TaLs"			3						1.1			1.1	1.1						
+3/6/2008	C-152	N5366M	KELN - KMWH 	Carissa Lord: Pvt Syl Flt #17 Comp. X-C Proc. Lost Proc. Diversion			2		1.5				1.5			1.5	1.5						
+3/6/2008	C-152	N95995	KELN 	"Evan Marshall: Review Flt, Pattern Proc. TaLs, SL FLT, Stalls, Emergencies, Go-Arounds"			3						1.1			1.1	1.1						
+3/6/2008	PA28R-201	N518MW	KELN 	"Angela Zevely: Comm Syl Flt #47B Comp. SL FLT, Stalls, Emergencies, Steep Turns, TaLs"			3						1.1			1.1	1.1						
+3/7/2008	C-152	N5499Q	KELN 	"Evan Marshall: Review Flt, SL FLT, Emergencies, TaLs, Go-Around"			3						1.2			1.2	1.2						
+3/7/2008	PA28R-201	N518MW	KELN 	"Angela Zevely: Comm Syl Flt #48A Comp. Stalls, Steep Turns, Emergencies, TaLs"			4						1.1			1.1	1.1						
+3/7/2008	C-152	N5499Q	KELN 	"Ryan Sackett: Comm Syl Flt #77 Inc. Chandelles, Lazy 8s, Steep Spiral, Steep Turns, TaLs, Go-Around"			5						1.1			1.1	1.1						
+3/8/2008	PA28R-201	N514MS	KELN 	"Angela Zevely: Comm Syl Flt #48B Comp. GPS, Auto Pilot, NAV, TaLs"			1						1.2			1.2	1.2						
+3/9/2008	C-152	N5499Q	KELN 	"Peter Liden: Review FLT, Pattern Proc. TaLs, Go-Around"			3						0.5			0.5	0.5						
+3/9/2008	C-152	N5366M	KELN - M94 - 80T 	Matt Akers: Comm Syl Flt #76 & 77 Comp. TaLs			7						2.3			2.3	2.3						
+3/9/2008	PA28R-201	N514MS	KELN 	"Angela Zevely: Comm Syl Flt #49 Inc. BAI, Radial Tracking, SL FLT, Pwr Off Stalls, TaLs"			1						0.8			0.8	0.8						
+3/10/2008	PA28R-201	N518MW	KELN 	"Angela Zevely: Comm Syl Flt #49 Comp. Steep Turns, Stalls, Emergency Descent, TaLs"			2						0.8			0.8	0.8						
+3/12/2008	C-152	N95606	KELN - KMW 	"Cody McCall: Review, X-C Procedures, Pilotage, Dead Reck. Radio Proc."			2		1.6				1.6			1.6	1.6						
+3/12/2008	C-152	N5366M	KELN 	"Evan Marshall: Review, SL FLT, Stalls, Emergencies, TaLs, Go-Around"			3						1.0			1.0	1.0						
+3/12/2008	C-152	N95995	KELN 	"Peter Liden: Review, SL FLT, TaLs"			1						0.6			0.6	0.6						
+3/12/2008	C-152	N95429	KELN - KMWH 	"Stephanie Leistritz: X-C Procedures, Pilotage, Dead Reck. Radio Proc."			3		1.6				1.6			1.6	1.6						
+3/14/2008	C-152	N95539	KELN 	"Evan Marshall: Review, SL FLT, TaLs"			1						0.6			0.6	0.6						
+3/14/2008	FRASCA	141	ELN	"BAI, Climbs, Arcs, VOR Tracking, Partial Panel"	H T										1.1								
+3/16/2008	PA34-200T	N7609C	KPSC - KELN	"IFR Procedures; Acting Safety Pilot for Kelly Bennett, GPS Rwy 29"												0.8	0.8						
+3/16/2008	PA34-200T	N7609C	KELN - KPSC   	IFR Procedures; BAI; X-C FLT Back to PSC; Safety Pilot: Luke Irving			1		1.0			0.7				1.0	1.0						
+3/17/2008	C-152	N95995	KELN 	"Evan Marshall: Review, SL FLT, Stalls, Emergencies, TaLs, Go-Around"			3						1.1			1.1	1.1						
+3/17/2008	C-152	N95995	KELN 	"Peter Liden: SL FLT, Emergencies, Pattern Proc. TaLs, Go-Arounds"			4						1.1			1.1	1.1						
+3/18/2008	C-152	N95539	KELN 	"Evan Marshall: Stalls, Emergencies, TaLs, Go-Around"			4						1.3			1.3	1.3						
+3/18/2008	FRASCA	141	ELN	"Partial Panel Climbs/Turns, VOR Tracking, Holding, Arc, Mag Compass Turns"	H T										1.3								
+3/19/2008	C-152	N95995	KELN 	"Evan Marshall: Stalls, Emergencies, TaLs"			4						0.8			0.8	0.8						
+3/19/2008	C-152	N95995	KELN 	"Peter Liden: SL FLT, Stalls, Emergencies, TaLs"			3						1.3			1.3	1.3						
+3/19/2008	PA28-161	N235SR	KELN 	"Stalls, Unusual Att. Holding, Partial Panel, Compass Turns"	H T	1	2					0.9			1.1	1.1	1.1						
+3/20/2008	C-152	N95995	KELN 	"Peter Liden: SL FLT, Stalls, TaLs, Go-Around"			4						1.2			1.2	1.2						
+3/20/2008	PA28-161	N519MS	KELN - KYKM 	"Holding, Tracking, Non-Precision & Precision App."	H T	2	2					1.5			1.7	1.7	1.7						
+3/21/2008	PA28-181	N4499E	KELN - KYKM 	"Holding, ILS App. Timed Turns, Lost Comm."	H T	2	2					1.3			1.6	1.6	1.6						
+3/25/2008	C-152	N5499Q	KELN 	"Carissa Lord: Pvt Syl Flt #15 Inc. Shorts/Softs TaLs, BAI"			5						1.1			1.1	1.1						
+3/25/2008	C-152	N5366M	KELN 	"Peter Liden: Review FLT, SL FLT, Stalls, TaLs"			1						0.8			0.8	0.8						
+3/26/2008	C-152	N5366M	KELN 	"Adrian Lee: Pvt Syl Flt #15 Inc. TaLs, BAI, VOR NAV"			6						1.2			1.2	1.2						
+3/27/2008	C-152	N95429	KELN 	Evan Marshall: Pvt Syl Flt #11 Inc. Short/Soft TaLs; Ground Ref.			6						1.3			1.3	1.3						
+3/27/2008	C-152	N5499Q	KELN 	"Peter Liden: Review FLT, Stalls, SL FLT, Emergencies, TaLs"			3						1.1			1.1	1.1						
+3/27/2008	PA28R-201	N518MW	KELN 	"Angela Zevely: Comm Syl Flt #50 Inc. Emergencies, BAI, TaLs"			1						0.8			0.8	0.8						
+3/29/2008	C-152	N5499Q	KELN 	"Adrian Lee: Pvt Syl Flt #15 Comp. Short/Soft TaLs, X-Wind TaLs"			8						1.2			1.2	1.2						
+3/29/2008	C-152	N5499Q	KELN 	"Carissa Lord: Review FLT, SL FLT, Stalls, Diversion, Short/Soft TaLs"			5						1.1			1.1	1.1						
+3/31/2008	PA28R-201	N518MW	KELN 	"Angela Zevely: Comm Syl Flt #50 Comp. SL FLT, Stalls, Emergencies, TaLs"			3						1.2			1.2	1.2						
+3/31/2008	C-152	N5499Q	KELN 	Evan Marshall: Pvt Syl Flt #11 Inc. TaLs			2						0.4			0.4	0.4						
+3/31/2008	C-152	N95539	KELN 	"Adrian Lee: Pvt Syl Flt #17 Comp. Pilotage, Diversion"			1						0.8			0.8	0.8						
+4/1/2008	PA28-161	N235SR	KELN - KYKM 	"CFII Checkride Complete, ILS & VOR-B, Instrument Proc."	H T C	1	2					0.8				1.5	1.5						
+4/1/2008	C-152	N95539	KELN 	"Peter Liden: Review FLT, SL FLT, Stalls, Emergencies, TaLs"			4						1.3			1.3	1.3						
+4/2/2008	C-152	N95429	KELN - KMWH 	"Stephanie Leistritz: Review FLT, X-C Proc. Pilotage, Dead Reck."			3		1.6				1.6			1.6	1.6						
+4/2/2008	C-152	N95429	KELN 	Evan Marshall: Pvt Syl Flt #11 Comp. Shorts/Softs TaLs			6						1.0			1.0	1.0						
+4/2/2008	PA28R-201	N514MS	KELN 	"Angela Zevely: Comm Syl Flt #66 Inc. BAI, Unn. Att. Steep Turns, TaLs"			4						1.1			1.1	1.1						
+4/3/2008	PA28R-201	N518MW	KELN 	"Angela Zevely: Comm Syl Flt #66 Comp. Unn. Att. Steep Turns, Stalls, TaLs"			4						1.3			1.3	1.3						
+4/4/2008	C-152	N95995	KELN 	Cody McCall: Pvt Syl Flt #15 Inc. Shorts/Softs TaLs			6						1.1			1.1	1.1						
+4/5/2008	C-152	N95539	KELN 	"Peter Liden: Pvt Syl Flt #11 Inc. TaLs, Broken Radio"			1						0.4			0.4	0.4						
+4/5/2008	C-152	N5499Q	KELN 	"Adrian Lee: Review FLT, Shorts/Softs TaLs"			7						1.0			1.0	1.0						
+4/6/2008	C-152	N5499Q	KELN 	"Peter Liden: Pvt Syl Flt #11 Comp. Short/Soft TaLs, Ground Ref."			7						1.3			1.3	1.3						
+4/7/2008	C-152	N95995	KELN 	"Evan Marshall: Pvt Syl Flt #14 Comp. BAI, VOR NAV, Soft TaLs"			2						1.2			1.2	1.2						
+4/8/2008	PA28R-201	N514MS	KELN 	"Angela Zevely: Review FLT, SL FLT, Stalls, Steep Turns, Emergencies, TaLs"			2						1.2			1.2	1.2						
+4/9/2008	C-152	N95995	KELN 	"Cody McCall: Pvt Syl Flt #15 Comp. SL FLT, Stalls, Diversion, TaLs"			2						0.9			0.9	0.9						
+4/11/2008	C-152	N5499Q	KELN 	"Adrian Lee: Review FLT, SL FLT, Stalls, Emergencies, Diversion, TaLs"			4						1.3			1.3	1.3						
+4/11/2008	C-152	N5499Q	KELN 	"Angela Zevely: Comm Syl Flt #68A Comp. SL FLT, Stalls, Emergencies, TaLs"			5						1.2			1.2	1.2						
+4/11/2008	BE-S35	N5840S	KELN 	"SL FLT, Stalls, TaLs"			5								1.2	1.2	1.2						
+4/16/2008	C-152	N95606	KELN 	"Evan Marshall: Pvt Syl Flt #17 Inc. Pilotage, Dead Reck. X-C Planning"			2						2.4			2.4	2.4						
+4/19/2008	C-152	N95606	KELN 	"Peter Liden: Pvt Syl Flt #14 Inc. X-C Proc. VOR NAV, BAI, TaLs"			1						1.5			1.5	1.5						
+4/21/2008	C-152	N5499Q	KELN 	"Angela Zevely: Comm Syl Flt #69A Comp. Lazy 8s, Pwr Off 180s, TaLs"			6						1.3			1.3	1.3						
+4/22/2008	C-152	N95429	KELN 	"Peter Liden: Pvt Syl Flt #14 Comp. Short/Soft TaLs, Go-Arounds"			8						1.2			1.2	1.2						
+4/22/2008	C-152	N95539	KELN 	Stephanie Leistritz: Pvt Syl Flt #15 Inc. TaLs/Soft Fields			8						1.2			1.2	1.2						
+4/23/2008	C-152	N95539	KELN 	"Angela Zevely: Comm Syl Flt #72 Comp. TaLs, Go-Arounds"			6						1.2			1.2	1.2						
+4/24/2008	C-152	N5366M	KELN 	"Cody McCall: Review FLT, Pattern Proc. TaLs"			6						0.8			0.8	0.8						
+4/24/2008	C-152	N5366M	KELN 	"Angela Zevely: Comm Syl Flt #76 Inc. 8's On, TaLs"			6						1.1			1.1	1.1						
+4/25/2008	C-152	N5366M	KELN 	"Adrian Lee: Review FLT, Pattern Proc. TaLs, Shorts/Softs"			8						1.2			1.2	1.2						
+4/25/2008	C-152	N95539	KELN 	"Carissa Lord: Pvt Syl Flt #23 Inc. TaLs, Soft Fields"			5						0.7			0.7	0.7						
+4/26/2008	C-152	N5499Q	KELN 	"Cody McCall: Review FLT, TaLs, Short/Softs"			10						1.4			1.4	1.4						
+4/26/2008	C-152	N95539	KELN 	Stephanie Leistritz: Pvt Syl Flt #15 Inc. TaLs/Soft Fields			5						0.8			0.8	0.8						
+4/26/2008	C-152	N95539	KELN 	"Peter Liden: Pvt Syl Flt #16 Comp. SL FLT, Steep Turns, TaLs"				6		1.3			1.3			1.3	1.3						
+4/27/2008	C-152	N95606	KELN - KPSC 	"Peter Liden: Pvt Syl Flt #17 Inc. X-C Proc. Pilotage, Dead Reck."			2		2.2				2.2			2.2	2.2						
+4/30/2008	C-152	N95429	KELN 	Carissa Lord: Pvt Syl Flt #23 Inc. Ground Ref. TaLs			3						1.1			1.1	1.1						
+5/1/2008	C-152	N95606	KELN 	"Carissa Lord: Pvt Syl Flt #23 Comp. Steep Turns, TaLs"			4						1.1			1.1	1.1						
+5/2/2008	C-152	N5499Q	KELN 	"Adrian Lee: Review FLT, Shorts/Softs TaLs"			8						1.3			1.3	1.3						
+5/2/2008	C-152	N5499Q	KELN - KMWH 	Peter Liden: Pvt Syl Flt #17 Inc. X-C Proc. Diversion			2		1.6				1.6			1.6	1.6						
+5/2/2008	C-152	N95606	KELN - KMWH	Evan Marshall: Pvt Syl Flt #17 Inc. X-C Proc. Lost Proc.			2		1.7				1.7			1.7	1.7						
+5/3/2008	C-152	N95539	KELN - 80T 	Evan Marshall: Pvt Syl Flt #17 Comp. X-C Proc. Diversion			2						1.4			1.4	1.4						
+5/6/2008	C-152	N95539	KELN 	Carissa Lord: Pvt Syl Flt #24 Inc. Shorts/Softs TaLs			7						1.0			1.0	1.0						
+5/6/2008	C-152	N95539	KELN 	"Peter Liden: Pvt Syl Flt #15 Inc. TaLs, Go-Arounds"			5						0.7			0.7	0.7						
+5/6/2008	C-152	N95539	KELN 	"Adrian Lee: Short/Soft TaLs, Go-Arounds"			5						0.8			0.8	0.8						
+5/9/2008	C-152	N95429	KELN - 80T 	"Peter Liden: Pvt Syl Flt #17 Comp. Diversion, Lost Proc."			2						1.5			1.5	1.5						
+5/9/2008	C-152	N95429	KELN 	Stephanie Leistritz: Pvt Syl Flt #15 Comp. TaLs			3						0.6			0.6	0.6						
+5/12/2008	C-152	N95539	KELN 	"Stephanie Leistritz: Review FLT, Stalls, TaLs"			5						1.1			1.1	1.1						
+5/13/2008	C-152	N95606	KELN 	Carissa Lord: Pvt Syl Flt #24 Inc. Shorts/Softs TaLs			9						1.3			1.3	1.3						
+5/14/2008	C-152	N5499Q	KELN 	"Carissa Lord: Pvt Syl Flt #24 Comp. SL FLT, Stalls, TaLs, BAI"			3						1.0			1.0	1.0						
+5/14/2008	C-152	N5366M	KELN 	Evan Marshall: Pvt Syl Flt #15 Inc. TaLs			3						0.5			0.5	0.5						
+5/15/2008	C-152	N95429	KELN 	"Evan Marshall: Pvt Syl Flt #15 Inc. BAI, TaLs"			4						1.3			1.3	1.3						
+5/15/2008	C-152	N95429	KELN 	"Peter Liden: Pvt Syl Flt #15 Comp. Tals, BAI"			7						1.3			1.3	1.3						
+5/15/2008	C-152	N5499Q	KELN 	"Carissa Lord: Review Flt, Ground Ref. Stalls, Steep Turns, Emergencies"			1						1.2			1.2	1.2						
+5/16/2008	C-152	N5499Q	KELN 	"Peter Liden: Review FLT, SL FLT, Stalls, TaLs"			4						1.1			1.1	1.1						
+6/23/2008	PA34-200T	N7609C	KPSC 	"Engine Failures, Slow FLT, Stalls, Steep 360s, TaLs"			3								0.9	0.9	0.9						
+6/26/2008	C-182	N1090M	KPSC 	Photo Survey FLT: Turn Back Due to Wx			1									0.4	0.4						
+6/27/2008	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+6/27/2008	C-172	N738ST	KPSC 	Scenic FLT Around the Tri-Cities			1									0.5	0.5						
+6/27/2008	C-172	N7589D	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+6/28/2008	C-172	N738ST	KPSC 	Scenic FLT Around the Tri-Cities			1									0.6	0.6						
+7/2/2008	C-182	N1090M	KPSC 	"Photo Survey FLT: Richland, West Richland"			1									1.2	1.2						
+7/4/2008	C-172	N2383Q	KPSC 	"Jane Grebil: Intro FLT, Turns, Climbs, Descents"			1						1.0			1.0	1.0						
+7/4/2008	C-172	N426SK	KPSC 	Scenic FLT Around the Tri-Cities			1									0.5	0.5						
+7/6/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+7/7/2008	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+7/9/2008	C-182	N1090M	KPSC - KLWS 	Photo Survey FLT: C-182 Checkout			2		3.2				0.5			3.2	3.2						
+7/11/2008	C-172	N738ST	KPSC 	"Rick Daviscourt: A/C Check-Out, SL FLT, Stalls, TaLs"			7						1.4			1.4	1.4						
+7/19/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+7/19/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+7/19/2008	C-172	N426SK	KPSC 	"Bill Harlan: Turns, Climbs, Descents, SL FLT, Turns"			1						1.2			1.2	1.2						
+7/24/2008	C-172	N2383Q	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+7/28/2008	C-172	N2383Q	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+8/2/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+8/3/2008	C-172	N426SK	KPSC 	"Matt Dibble: A/C Famil. Basic Manuevers, Steep Turns, SL FLT, Stalls, TaLs"			4						1.0			1.0	1.0						
+8/5/2008	C-172	N2383Q	KPSC 	"Graham Loynd: Flight Review Comp. SL FLT, Stalls, Emergencies, TaLs"			3						1.1			1.1	1.1						
+8/5/2008	C-172	N2383Q	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+8/5/2008	C-172	N2383Q	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+8/9/2008	C-172	N738ST	KPSC 	Intro FLT; Landings			2						1.1			1.1	1.1						
+8/10/2008	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+8/11/2008	C-182	N1090M	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+8/12/2008	C-172	N738ST	KPSC 	"Ondrea Sneed: SL FLT, Stalls, Emergecies, TaLs"			4						1.3			1.3	1.3						
+8/12/2008	C-172	N426SK	KPSC 	"Dick Mumma: SL FLT, TaLs"			5						1.1			1.1	1.1						
+8/13/2008	C-172	N426SK	KPSC 	"Ondrea Sneed: Shorts/Softs TaLs, Slips to Lndg"			9						1.1			1.1	1.1						
+8/14/2008	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+8/14/2008	C-172	N426SK	KPSC 	"Ondrea Sneed: SL FLT, Stalls, TaLs, Emergencies"			3						1.1			1.1	1.1						
+8/14/2008	C-172	N426SK	KPSC 	"Art Napier: SL FLT, Stalls, Steep Turns, Emergencies, TaLs"			6						1.1			1.1	1.1						
+8/20/2008	C-172	N738ST	KPSC 	"Photo Survey FLT: Ice Harbor, Hermiston Area"			1									2.4	2.4						
+8/20/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						1.0			1.0	1.0						
+8/20/2008	C-172	N7589D	KPSC 	Photo Survey FLT: Tri-City Herald			1									0.7	0.7						
+8/23/2008	C-172	N426SK	KPSC 	Scenic FLT Around the Tri-Cities			1									0.5	0.5						
+8/23/2008	C-172	N2383Q	KPSC 	"Gloria Sherfey: SL FLT, Stalls, Steep Turns, TaLs"			4						1.2			1.2	1.2						
+8/25/2008	C-172	N426SK	KPSC 	"Corbin Harder: SL FLT, Stalls, Steep Turns, TaLs"			2						1.0			1.0	1.0						
+8/26/2008	C-172	N426SK	KPSC 	"Ondrea Sneed: Stalls, Steep Turns, TaLs"			5						1.1			1.1	1.1						
+9/3/2008	C-182	N1090M	KPSC - 16W 	"Survey FLT; Photo Mission over the Snake, Soft Field Proc."			2		2.5				1.0			2.5	2.5						
+9/4/2008	C-172	N738ST	KPSC 	"Tarik Dillsi: BAI, Unn. Att. Partial Panel, GPS Rwy 19, ILS Rwy 21R, Hold, VOR 21R"			1						2.2			2.2	2.2						
+9/14/2008	PA34-200T	N7609C	KPSC 	"RNAV 19 RLD, ILS 21R PSC, Engine Out Proc. RNAV 30 PSC"	H T	3	3					1.0			1.6	1.6	1.6						
+9/16/2008	C-172	N7589D	KPSC 	"Randy Mullen: Climbs, Turns, Descents, SL FLT, Steep Turns"			1						1.2			1.2	1.2						
+9/16/2008	C-172	N7589D	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+9/16/2008	C-182	N1090M	KPSC 	Intro FLT; Landings			1						1.0			1.0	1.0						
+9/18/2008	C-172	N7589D	KPSC 	"Randy Mullen: SL FLT, Stalls, Turns, Climbs, Descents, Steep Turns"			1						1.2			1.2	1.2						
+9/20/2008	C-172	N738ST	KPSC 	"Craig Cooper: Turn Back Due to Clouds, Wx"			1						0.7			0.7	0.7						
+9/21/2008	C-182	N1090M	KPSC - KRLD 	"Marjy Wells: Normal TaLs, X-Wind TaLs, X-Wind Proc."			8						1.1			1.1	1.1						
+9/21/2008	PA34-200T	N7609C	KPSC 	"Hold @ CITYS, VOR 21R, GPS/RNAV 30, ILS 21R @ PSC, DME Arc, Failed HSI, X-Wind Lndg"	H T	3	2					1.2			1.5	1.5	1.5						
+9/23/2008	C-182	N1090M	KPSC 	"Marjy Wells: SL FLT, Steep Turns, TaLs"			3						1.0			1.0	1.0						
+9/23/2008	C-172	N426SK	KPSC 	"Randy Mullen: Turns, Steep Turns, Ground Ref. Turns around a PT"			1						1.2			1.2	1.2						
+9/24/2008	C-172	N738ST	KPSC 	"Alan Turner: SL FLT, Steep Turns, Pwr Off Stalls, TaLs"			5						1.2			1.2	1.2						
+9/30/2008	C-172	N738ST	KPSC 	"BFR Complete: Soft Field TaLs, Normal TaLs"			6								1.0	1.0	1.0						
+10/1/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+10/1/2008	C-172	N426SK	KPSC 	Photo Survey FLT: Kadlec Medical Center			1									0.7	0.7						
+10/1/2008	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+10/6/2008	C-172	N738ST	KPSC 	"Randy Mullen: SL FLT, Emergency Proc. S-Turns, Turns around a PT, TaLs"			2						1.1			1.1	1.1						
+10/6/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+10/8/2008	C-172	N738ST	KPSC - KRLD 	"Jim Walker: SL FLT, Emergencies, TaLs, Go-Around"			6						1.3			1.3	1.3						
+10/9/2008	C-172	N738ST	KPSC 	"Jim Walker: TaLs, Short App."			8						1.1			1.1	1.1						
+10/9/2008	C-172	N7589D	KPSC 	Photo Survey FLT; Road 68 PSC			1									0.4	0.4						
+10/11/2008	PA34-200T	N7609C	KPSC - KALW 	"Low App. RLD, TaLs @ ALW, X-Wind TaLs"			4								1.4	1.4	1.4						
+10/13/2008	C-172	N738ST	KPSC - KRLD	"Jim Walker: SL FLT, Steep Turns, Pilotage, GPS NAV, X-Wind TaLs"			3						1.0			1.0	1.0						
+10/13/2008	C-172	N738ST	KPSC - KRLD 	"Randy Mullen: S-Turns, Turns around a PT, Traffic Patterns, Go-Arounds, TaLs"			4						1.3			1.3	1.3						
+10/13/2008	C-182	N1090M	KPSC 	Scenic FLT Around the Tri-Cities			1									0.6	0.6						
+10/14/2008	C-172	N426SK	KPSC 	Photo Survey Flt; Corn Maze PSC			1									0.3	0.3						
+10/14/2008	C-172	N426SK	KPSC - KRLD 	"Night X-C Procedures, Pilotage, Night Currency, TaLs"				4		1.4				1.4		1.4	1.4						
+10/15/2008	C-172	N738ST	KPSC - KRLD 	"Randy Mullen: Right & Left Traffic Patterns, Normal TaLs"			9						1.3			1.3	1.3						
+10/16/2008	C-172	N738ST	KPSC - KRLD 	"Night X-C Procedures, Night Traffic Patterns, TaLs"				4		1.7				1.7		1.7	1.7						
+10/17/2008	C-172	N426SK	KPSC 	Randy Mullen: Traffic Proc. ATC Proc. TaLs			6						1.1			1.1	1.1						
+10/17/2008	C-172	N426SK	KPSC 	"Gloria Sherfey: 90 Day Currency, Normal TaLs"			6						0.9			0.9	0.9						
+10/19/2008	C-172	N426SK	KPSC 	Scenic FLT Around the Tri-Cities			1									0.5	0.5						
+10/19/2008	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+10/21/2008	C-172	N7589D	KPSC 	"John Conrad: SL FLT, Steep Turns, TaLs"			6						1.2			1.2	1.2						
+10/22/2008	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+10/23/2008	C-182	N1090M	KPSC 	"Ryan Scott: 90 Day Currency, TaLs"			3						0.4			0.4	0.4						
+10/24/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+10/26/2008	C-172	N7589D	KPSC 	"Mike Ilin: Intro to Area, Turns, Climbs, Descents"			1						0.6			0.6	0.6						
+10/27/2008	PA28R-200	N56211	KPSC 	"Joe Sutherland: BFR, Steep Turns, SL FLT, Stalls, Lazy 8s, TaLs"			3						1.3			1.3	1.3						
+10/30/2008	C-172	N738ST	KPSC 	Randy Mullen: Pattern Proc. TaLs			9						1.2			1.2	1.2						
+10/31/2008	C-172	N738ST	KPSC 	"Randy Mullen: VOR Intro. Wind Shear Awareness, TaLs"			1						0.7			0.7	0.7						
+11/1/2008	C-182	N1090M	KPSC 	Lance Stevens: Pattern Proc. TaLs			5						0.7			0.7	0.7						
+11/3/2008	C-172	N426SK	KPSC 	"Ray Trevino: Steep Turns, SL FLT, Stalls, TaLs, Emergencies"			4						1.1			1.1	1.1						
+11/3/2008	C-172	N426SK	KPSC 	Scenic FLT Around the Tri-Cities			1									0.5	0.5						
+11/10/2008	C-172	N738ST	KPSC 	Randy Mullen: Pattern Proc. TaLs			7						1.0			1.0	1.0						
+11/11/2008	C-172	N738ST	KPSC 	Randy Mullen: Pattern Proc. X-Wind TaLs			5						0.8			0.8	0.8						
+11/17/2008	C-172	N426SK	KPSC 	"Ray Trevino: Short & Soft TaLs, Slips to Lndg"			7						1.0			1.0	1.0						
+11/17/2008	C-172	N7589D	KPSC 	"Photo Survey FLT: Connell, Othello"			1									1.2	1.2						
+11/21/2008	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+11/23/2008	C-172	N7589D	KPSC - KALW 	Gloria Sherfey: X-Country Proc. TaLs			4						1.4			1.4	1.4						
+11/25/2008	C-172	N738ST	KPSC - KRLD 	"Zach Miller: A/C Check-Out, SL FLT, Night Proc. TaLs"				4		1.5			1.5			1.5	1.5						
+11/28/2008	C-182	N1090M	KPSC 	Scenic FLT Around the Tri-Cities			1									0.8	0.8						
+12/4/2008	C-172	N7589D	KPSC 	Photo Survey FLT; Lampson Crane			1									0.5	0.5						
+12/4/2008	C-172	N7589D	KPSC 	Photo Survey FLT; Snake & Columbia River			1									0.4	0.4						
+12/5/2008	C-172	N426SK	KPSC - KRLD 	"Ray Trevino: SL FLT, Steep Turns, Go-Around, TaLs"			3						1.6			1.6	1.6						
+12/7/2008	PA34-200T	N7609C	KPSC 	"Commercial/MEI Manuevers: Steep Turns, Stalls, Vmc & Drag Demos, Normal/Short TaLs"			7								1.4	1.4	1.4						
+12/8/2008	C-172	N426SK	KPSC - KRLD 	"Ray Trevino: Short & Soft TaLs, Uncontrolled Field Proc."			8						1.3			1.3	1.3						
+12/9/2008	BE-90	N190EF	KPSC - S70 - KRNT 	"Charter FLT: Mario Segale, Pickup: Othello, Drop Off: Renton, Back to Pasco"			1	1	1.7	1.0	1.0					1.7	1.7						
+12/10/2008	C-172	N2383Q	KPSC 	Intro FLT; Landings				1		0.6			0.6			0.6	0.6						
+12/13/2008	PA34-200T	N7609C	KPSC 	"Steep Turns, Slow Flight, ILS 21R PSC, Short Field TaLs, Eng. Failure In FLT & TO"	H T	1	3				0.3				1.0	1.0	1.0						
+12/17/2008	C-172	N426SK	KPSC 	"Mike Barnes: Pre-Flt, Turns, Climbs, Descents, SL FLT"			1						1.0			1.0	1.0						
+1/3/2009	BE-90	N190EF	KPSC - KRNT - S70 	"Charter FLT: Mario Segale, Pickup: Renton, Drop Off: Othello, Back to Pasco"			3		1.7		0.3					1.7	1.7						
+1/4/2009	BE-20	N456PF	KPSC - KYKM - KTRM 	"Charter FLT: Arvid & Susan Monson, Pickup: Yakima, Drop Off: Thermal, CA, Back to Pasco"	H T	2	2	1	6.4	0.6	1.0					6.4	6.4						
+1/9/2009	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+1/10/2009	C-172	N426SK	KPSC - 1S5	"Gloria Sherfey: X-Country to Sunnyside, TaLs"			4						1.3			1.3	1.3						
+1/10/2009	PA34-200T	N7609C	KPSC 	"MEI: All Manuevers, Steep Turns, Slow FLT, Stalls, Vmc/Drag Demos, Short & Norm. TaLs"			6								1.9	1.9	1.9						
+1/11/2009	PA34-200T	N7609C	KPSC - KRLD 	"Steep Turns, Slow Flight, Short Field TaLs, Eng. Failures"			6								1.2	1.2	1.2						
+1/13/2009	C-172	N738ST	KPSC 	"Photo Survey FLT; Battelle, Hanford"			1									0.5	0.5						
+1/16/2009	BE-90	N190EF	KPSC - KBFI 	"Charter FLT: Mario Segale, Pickup: Boeing Field, Drop Off: Pasco"	H T	1	2		1.8		0.4					1.8	1.8						
+1/24/2009	J3C-65	N6558H	KPSC 	"Normal 3Pt TaLs, Tailwheel Proc."			8								1.4		1.4						
+1/25/2009	PA34-200T	N7609C	KPSC 	"MEI Checkride Prep: All Manuevers, & Emg. Gear Ext."			2								1.2	1.2	1.2						
+1/25/2009	J3C-65	N6558H	KPSC 	"X-Wind 3Pt TaLs, Tailwheel Proc."			6								1.3		1.3						
+1/26/2009	C-172	N7589D	KPSC 	Photo Survey FLT; Snake Dock Construction			1									0.4	0.4						
+1/27/2009	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+1/30/2009	SR-22	N504LM	KPSC 	Kevin Heinen: 21R ILS @ PSC & 21R VOR @ PSC			1						1.6			1.6	1.6						
+1/30/2009	PA34-200T	N7609C	KPSC 	Multi Engine Instructor Checkride Satisfactory	C		3									1.1	1.1						
+1/30/2009	SR-22	N504LM	KPSC - KRLD 	"Kevin Heinen: LOC 19 @ RLD, VOR 30 @ PSC, GPS 30 @ PSC, ILS 21R @ PSC"			3						2.0			2.0	2.0						
+1/31/2009	SR-22	N504LM	KPSC 	"Kevin Heinen: GPS 12 @ PSC, GPS 21R @ PSC, ILS 21R @ PSC, Partial Panel, Hold"			1						1.8			1.8	1.8						
+1/31/2009	PA34-200T	N7609C	KPSC - KYKM 	"Justin Wolf: LOC BC 9 @ YKM, ILS 27 @ YKM, GPS 21R @ PSC"			2		1.8				1.8			1.8	1.8						
+1/31/2009	SR-22	N504LM	KPSC - KALW 	"Kevin Heinen: ILS 20 @ ALW, GPS 20 @ ALW, GPS 30 @ PSC, VOR 21R @ PSC"			3				0.3		2.0			2.0	2.0						
+2/1/2009	SR-22	N504LM	KPSC - KRLD 	"Kevin Heinen: GPS 19 @ RLD, GPS 26 @ RLD, GPS 12 @ PSC, GPS 3L @ PSC"			2						2.2			2.2	2.2						
+2/2/2009	SR-22	N504LM	KPSC - KPDT	"Kevin Heinen: ILS 25 @ PDT, VOR 7 @ PDT, Hold, ILS 21R @ PSC, GPS 21R @ PSC"			2						2.1			2.1	2.1						
+2/4/2009	SR-22	N504LM	KPSC - KRLD 	"Kevin Heinen: LOC 19 @ RLD, GPS 26 @ RLD, ILS 21R @ PSC, VOR 21R @ PSC"			3						2.0			2.0	2.0						
+2/5/2009	SR-22	N504LM	KPSC - KRLD 	"Kevin Heinen: LOC 19 @ RLD, GPS 19 @ RLD, GPS 30 @ PSC, VOR 30 @ PSC"			3						1.8			1.8	1.8						
+2/8/2009	SR-22	N504LM	KPSC 	"Kevin Heinen: ILS 21R via Arc & Vectors @ PSC, GPS 30 @ PSC"	H T	3	1				0.8		1.4			1.4	1.4						
+2/11/2009	C-172	N2383Q	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+2/12/2009	C-172	N426SK	KPSC - KRLD 	"Night Currency, Scenic Flight"				7		1.3				1.3		1.3	1.3						
+2/13/2009	C-172	N738ST	KPSC - S98 	"Gloria Sherfey: SL FLT, Steep Turns, TaLs"			7						1.3			1.3	1.3						
+2/14/2009	C-172	N7589D	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+2/14/2009	C-182	N1090M	KPSC 	"Craig Cooper: HP Proc. SL FLT, Stalls, Steep Turns, TaLs"			4						1.3			1.3	1.3						
+2/17/2009	C-172	N7589D	KPSC 	"Photo Survey FLT; Battelle, Hanford"			1									0.5	0.5						
+2/21/2009	PA34-200T	N7609C	KPSC - KPDT - KALW 	"ILS 25 @ PDT, Missed & Hold, ILS 20 @ ALW, GPS 30 @ PSC"	H T	3	3				0.8				1.9	1.9	1.9						
+2/25/2009	C-172	N426SK	KPSC 	"John Medica: Review, Pre-Flight, Turns, Climbs, Descents, SL FLT, Steep Turns"			1						1.0			1.0	1.0						
+2/27/2009	C-172	N7589D	KPSC 	"Anthony Primerano: Spin Entry, Spins, Spin Recovery Proc."			1						0.9			0.9	0.9						
+2/27/2009	C-172	N426SK	KPSC 	"John Medica: Turns, Climbs, Descents, S-Turns, Turns around a PT"			1						1.0			1.0	1.0						
+3/1/2009	C-182	N1090M	KPSC - KRLD 	"Craig Cooper: Normal TaLs, Emergency Proc. HP Proc."			8						1.3			1.3	1.3						
+3/4/2009	C-172	N2383Q	KPSC 	"Intro FLT: KEPR, Lets Go Flying! Promo."			1						0.6			0.6	0.6						
+3/4/2009	C-182	N1090M	KPSC 	Scenic FLT Around the Tri-Cities			1									0.5	0.5						
+3/4/2009	C-172	N738ST	KPSC - KRLD 	"Mike Pippins: Steep Turns, SL FLT, Sim. Forced Lndg. S-Turns, Turns around a PT, X-Wind TaLs"			5						1.4			1.4	1.4						
+3/6/2009	C-182	N1090M	KPSC - S98 - KRLD 	"Craig Cooper: HP Proc. Normal TaLs, Go-Arounds, ILS 21R @ PSC"			7						1.6			1.6	1.6						
+3/6/2009	BE-S35	N5840S	KPSC - KYKM 	"Matt Taubman: ILS 27 @ YKM, VOR-A @ YKM, LOC BC @ YKM, Missed, Hold, Short App. TaLs"			4		2.2				2.2			2.2	2.2						
+3/8/2009	J3C-65	N6558H	KPSC 	Wheel X-Wind TaLs			4								0.8		0.8						
+3/8/2009	PA34-200T	N7609C	KPSC - KEPH 	"Justin Wolf: ILS Y @ EAT, GPS 3 @ EPH, ILS 21R @ PSC, Sim. Eng. Failure"			2		2.2		0.7		2.2			2.2	2.2						
+3/8/2009	BE-S35	N5840S	KPSC - KRLD 	"Recurrency, Normal TaLs"			4								0.6	0.6	0.6						
+3/11/2009	C-172	N2383Q	KPSC 	"Andrew Smith: A/C Checkout, SL FLT, Steep Turns, Sim. Emg. Lndg, Go-Around, TaLs"			4						0.9			0.9	0.9						
+3/13/2009	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+3/13/2009	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+3/17/2009	C-172	N738ST	KPSC 	"Jeff Columga: BAI, S-Turns, Turns around a PT, X-Wind TaLs"			3						1.3			1.3	1.3						
+3/17/2009	C-182	N1090M	KPSC - KRLD 	"Craig Cooper: GPS 19 @ RLD, VOR 21R @ PSC, X-Wind TaLs"			2						1.1			1.1	1.1						
+3/20/2009	XL2	N638XL	KPSC - KRLD 	"Liberty XL2 Demo FLT: Steep Turns, SL FLT, Stalls, TaLs"			2									1.1	1.1						
+3/24/2009	C-172	N738ST	KPSC 	"Photo Survey FLT; Battelle, Hanford"			1									0.4	0.4						
+3/26/2009	C-172	N738ST	KPSC 	"Tyler Shurpe: Pre-FLT, Turns, Climbs, Descents, Ground Ref. TaLs"			1						1.1			1.1	1.1						
+3/26/2009	C-172	N426SK	KPSC 	"Wayne Dooley: Area Intro, Steep Turns, Turns around a PT, TaLs"			1						1.3			1.3	1.3						
+3/27/2009	C-172	N738ST	KPSC - KRLD 	"Tyler Shurpe: SL FLT, Stalls, GPS NAV, TaLs"			4						1.2			1.2	1.2						
+3/29/2009	C-182	N1090M	KPSC 	"Craig Cooper: ILS 21R @ PSC, GPS 21R @ PSC, TaLs"			4						1.4			1.4	1.4						
+3/29/2009	PA34-200T	N7609C	KPSC 	"Mitch Coates: Steep Turns, SL FLT, Stalls, TaLs"			4						1.0			1.0	1.0						
+3/30/2009	PA34-200T	N7609C	KPSC - KRLD 	"Mitch Coates: Short TaLs, Drag Demo, Vmc Demo, Engine Shutdown Proc. SE App. Go-Around"			5						1.4			1.4	1.4						
+4/1/2009	C-172	N738ST	KPSC - S98 - KRLD 	"Gloria Sherfey: Tri-City Tour, X-Wind TaLs, Sim. Engine Failure"			9						1.2			1.2	1.2						
+4/5/2009	SR-22	N504LM	KPSC - KGEG - KSFF	"Kevin Heinen: ILS 3 @ GEG, ILS 21R @ SFF, ILS 3 @ GEG, ILS 21R @ PSC, XC Proc. "			4		3.0				3.0			3.0	3.0						
+4/5/2009	SR-22	N504LM	KPSC - KALW 	"Kevin Heinen: ILS 20 @ ALW, GPS 30 @ PSC, XC Proc."			2						1.3			1.3	1.3						
+4/6/2009	PA34-200T	N7609C	KPSC - KRLD	"Elias Lewis: Short & Normal TaLs, Steep Turns, SL FLT, Stalls, Vmc Demo. SE App."			5						1.6			1.6	1.6						
+4/7/2009	C-182	N1090M	KPSC 	"Photo Survey FLT; Perma Fix, Hanford"			1									0.5	0.5						
+4/7/2009	PA28R-200	N56211	KPSC - KRLD 	"Milon Meyer: Complex Review, Steep Turns, SL FLT, Stalls, Normal TaLs, Go-Around"			5						1.1			1.1	1.1						
+4/10/2009	PA28R-200	N56211	KPSC - KRLD	"Milon Meyer: Ground Ref. Manuevers, Emg. Gear Ext. Normal TaLs, Pwr Off 180, Go-Around"			5						1.4			1.4	1.4						
+4/12/2009	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+4/12/2009	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+4/14/2009	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+4/14/2009	SR-22	N504LM	KPSC - KRLD	"Kevin Heinen: LOC 19 @ RLD, GPS 26 @ RLD, GPS 12 @ PSC, Hold"			2						1.6			1.6	1.6						
+4/15/2009	C-172	N2383Q	KPSC - KMWH 	"Will Saltiel-Gracian: IPC Incomplete, ILS 32R @ MWH, VOR-1 14L @ MWH"			2		2.3				2.3			2.3	2.3						
+4/16/2009	PA34-200T	N7609C	KPSC - KRLD	"Elias Lewis: Short TaLs, Engine Shutdown & Restart, LOC 19 @ RLD"			3						1.6			1.6	1.6						
+4/17/2009	C-182	N1090M	KPSC - KRLD 	"James Franz: HP Proc. GPS Ops. LOC 19 @ RLD x 2, Normal TaLs"			5						1.2			1.2	1.2						
+4/17/2009	PA34-200T	N7609C	KPSC 	"Mitch Coates: MEI Manuevers, SL FLT, Stalls, Steep Turns, Drag Demo, TaLs"			1						1.0			1.0	1.0						
+4/20/2009	PA34-200T	N7609C	KPSC 	Mx FLT: SE Ops. TaLs			1									0.6	0.6						
+4/20/2009	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+4/21/2009	C-182	N1090M	KPSC - KRLD	"James Franz: GPS 19 @ RLD, GPS 26 @ RLD, Circle to Land, Hold"			2						1.1			1.1	1.1						
+4/29/2009	C-172	N2383Q	KPSC - S40 - 1S5	Joe Pedalino: XC Proc. FLT to Prosser & Sunnyside			5						1.4			1.4	1.4						
+4/30/2009	C-172	N738ST	KPSC 	"Mark Ritchie: LOC 21R @ PSC x2, ILS 21R @ PSC, Published Missed & Hold"			1						1.3			1.3	1.3						
+4/30/2009	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+5/1/2009	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+5/1/2009	C-182	N1090M	KPSC - KRLD	"James Franz: GPS 26 @ RLD, GPS 21R @ PSC, GPS 30 @ PSC, TaLs"			2						1.5			1.5	1.5						
+5/3/2009	PA34-200T	N7609C	KPSC - KRLD 	"LOC 19 RLD, GPS 26 RLD, Hold, ILS 21R PSC x2, (1 Eng. Out)"	H T	4	3					1.1			1.5	1.5	1.5						
+5/4/2009	C-172	N738ST	KPSC 	"Will MacHugh: Steep Turns, SL FLT, Stalls, Sim. Forced Lndg.   S-Turns, Turns around a PT, TaLs"			4						1.4			1.4	1.4						
+5/4/2009	C-172	N738ST	KPSC 	Intro FLT; Landings			1						0.4			0.4	0.4						
+5/4/2009	PA34-200T	N7609C	KPSC - KRLD 	"Elias Lewis: GPS 19 @ RLD, ILS 21R @ PSC, GPS 12 @ PSC, TaLs"			2						1.5			1.5	1.5						
+5/6/2009	C-172	N426SK	KPSC - KRLD	"Will MacHugh: S-Turns, Turns around a PT, Diversion, Short & Soft TaLs"			6						1.4			1.4	1.4						
+5/6/2009	C-172	N426SK	KPSC 	"Scott Hymas: Steep Turns, SL FLT, S-Turns, Turns around a PT, TaLs"			4						1.2			1.2	1.2						
+5/10/2009	PA34-200T	N7609C	KPSC - KRLD	"LOC 19 @ RLD, ILS 21R - F. Proc./P. Panel @ PSC, RNAV 30 @ PSC, Hold"	H T	3	5					1.1			1.5	1.5	1.5						
+5/13/2009	C-172	N426SK	KPSC 	"Will MacHugh: SL FLT, Steep Turns, Stalls, Sim. Forced Lndg.   S-Turns, Turns around a PT, TaLs"			5						1.5			1.5	1.5						
+5/18/2009	C-172	N738ST	KPSC 	"Will MacHugh: Normal & X-Wind TaLs, Go-Arounds"			3						0.4			0.4	0.4						
+5/20/2009	C-172	N426SK	KPSC - S40	"Will MacHugh: XC Proc. Diversion Proc. Short & Soft TaLs, X-Wind TaLs"			6						1.4			1.4	1.4						
+5/20/2009	C-172	N738ST	KPSC 	"Will Saltiel-Gracian: ILS 21R @ PSC, GPS 21R @ PSC, Hold, VOR 21R @ PSC"			2						1.6			1.6	1.6						
+5/20/2009	C-172	N738ST	KPSC 	Randy Watson: Normal & X-Wind TaLs			7						1.0			1.0	1.0						
+5/21/2009	BE-S35	N5840S	KPSC 	"Lonnie Blasdel: 90 Day Currency, Normal & X-Wind TaLs"			3						0.5			0.5	0.5						
+5/21/2009	C-172	N738ST	KPSC - KRLD 	"Scot Hymas: Normal & X-Wind TaLs, Go-Arounds"			8						1.2			1.2	1.2						
+5/26/2009	C-172	N426SK	KPSC 	"Scot Hymas: Steep Turns, SL FLT, Stalls, Sim. Forced Lndg. Ground Ref. TaLs"			4						1.3			1.3	1.3						
+5/26/2009	C-172	N426SK	KPSC - KRLD 	"Will Saltiel-Gracian: LOC 19 @ RLD, ILS 21R @ PSC, VOR 30 @ PSC, Circle to Land, TaLs"			2						1.5			1.5	1.5						
+5/27/2009	C-172	N426SK	KPSC 	Scenic FLT Around the Tri-Cities			2									0.6	0.6						
+5/27/2009	C-172	N426SK	KPSC 	"Photo Survey FLT; Battelle, Hanford"			1									0.5	0.5						
+5/28/2009	C-172	N426SK	KPSC 	Photo Survey FLT; Walla Walla Mall			1									1.1	1.1						
+5/28/2009	C-172	N738ST	KPSC - KALW 	"Will Saltiel-Gracian: ILS 20 @ ALW x2, GPS 30 @ PSC, Partial Panel, Hold"			3						1.8			1.8	1.8						
+5/28/2009	C-172	N738ST	KPSC - KRLD - S40	"Dave Greenaway: XC Proc. Climbs, Turns, Descents, TaLs, Go-Arounds"			6						1.5			1.5	1.5						
+5/29/2009	C-172	N426SK	KPSC 	"Jim Rolph: Pre-FLT, Turns, Climbs, Descents, SL FLT, Stalls, Steep Turns"			1						1.2			1.2	1.2						
+5/31/2009	BE-S35	N5840S	KPSC - KMWH	"Justin Wolf: ILS 32R @ MWH, VOR-1 14L @ MWH, LOC 21R @ PSC, Partial Panel"			2		1.4				1.4			1.4	1.4						
+6/4/2009	C-182	N1090M	KPSC 	"Photo Survey FLT; Hermiston, OR; WA Side"			1									1.1	1.1						
+6/5/2009	C-172	N426SK	KPSC - KRLD	"Scot Hymas: BAI, VOR-NAV, X-C Proc. Normal & X-Wind TaLs"			7						1.3			1.3	1.3						
+6/7/2009	C-172	N426SK	KPSC 	"Jim Rolph: Turns, Climbs, Descents, SL FLT, Sim. Emergency Frcd. Lndg."			1						1.2			1.2	1.2						
+6/7/2009	C-172	N738ST	KPSC - KRLD - S40	"Night Currency, X-C Proc. Pilotage, Normal & X-Wind TaLs"				6		1.4				1.4		1.4	1.4						
+6/8/2009	C-172	N738ST	KPSC - 1S5	"Gerald Woodcock: BFR Complete, X-C Proc. Diversion, GPS Proc. TaLs"			2						1.3			1.3	1.3						
+6/8/2009	C-172	N426SK	KPSC - S40	"Photo Survey FLT; Prosser Chevron, Winery District"			3									1.1	1.1						
+6/8/2009	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.5			0.5	0.5						
+6/9/2009	C-172	N738ST	KPSC - S40 	"Scot Hymas: X-C Proc. Uncontrolled Field Proc. Go-Around, TaLs"			6						1.4			1.4	1.4						
+6/9/2009	C-182RG	N3183C	KPSC - KRLD	"Doug Overturf: BAI, Partial Panel, VOR & LOC Tracking, LOC 19 @ RLD, ILS 21R @ PSC, Circle to Land"			2						1.4			1.4	1.4						
+6/10/2009	C-172	N426SK	KPSC 	Intro FLT; Landings			1						0.6			0.6	0.6						
+6/11/2009	C-172	N738ST	KPSC 	"Scot Hymas: Normal & X-Wind TaLs, Pattern Proc."			8						1.2			1.2	1.2						
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							

@@ -1,0 +1,133 @@
+Date	Plane	Type	Route	Total	PIC	Solo	SIC	Dual Received	Dual Given	Actual Instrument	Simulated Instrument	Approaches	Night	Cross Country	Day Landings	Night Landings	Simulator	Student	Instructor	Captain	First Officer	Flight Number	Remarks	Flying	Non-flying
+6/8/2005	N857CP	C172R	KSGR--KSGR	0.9				0.9							1										
+6/10/2005	N1629E	C172N	KSGR--KSGR	1.1				1.1							2										
+6/13/2005	N857CP	C172R	KSGR--KSGR	1.4				1.4							3										
+6/15/2005	N857CP	C172R	KSGR--KSGR	1.2				1.2							2										
+6/20/2005	N857CP	C172R	KSGR--KSGR	1.3				1.3							3										
+6/22/2005	N857CP	C172R	KSGR--KSGR	1.4				1.4							3										
+6/24/2005	N857CP	C172R	KSGR--KSGR	1.2				1.2							1										
+6/27/2005	N857CP	C172R	KSGR--KSGR	1.1				1.1			0.3				1										
+6/29/2005	N857CP	C172R	KSGR--KSGR	1.2				1.2			0.4				2										
+7/1/2005	N17SJ	C172S	KSGR--KSGR	1				1							6										
+7/7/2005	N17SJ	C172S	KSGR--KSGR	1				1							5										
+7/9/2005	N857CP	C172R	KSGR--KSGR	1.4				1.4							2										
+7/11/2005	N17SJ	C172S	KSGR--KSGR	1.4				1.4			0.3				5										
+7/13/2005	N17SJ	C172S	KSGR--KSGR	0.9				0.9							5										
+7/17/2005	N857CP	C172R	KSGR--KSGR	1.4				1.4							6										
+7/19/2005	N857CP	C172R	KSGR--KSGR	1.2				1.2							1										
+7/25/2005	N17SJ	C172S	KSGR--KSGR	1.3				1.3							4										
+7/30/2005	N857CP	C172R	KSGR--KSGR	1.2				1.2							3										
+8/1/2005	N17SJ	C172S	KSGR--KSGR	0.7				0.7							3										
+8/3/2005	N17SJ	C172S	KSGR--KSGR	1.2				1.2							6										
+8/4/2005	N17SJ	C172S	KSGR--KSGR	1.2				1.2							4										
+8/8/2005	N857CP	C172R	KSGR--KSGR	1.4				1.4							3										
+8/11/2005	N857CP	C172R	KSGR--KSGR	1.3				1.3							1										
+8/13/2005	N857CP	C172R	KSGR-KPSX-KSGR	1.9				1.9						1.9	2										
+8/18/2005	N857CP	C172R	KSGR--KSGR	1.1				1.1			0.6				1										
+8/27/2005	N2141Y	C172S	KSGR-KCLL-KSGR	1.8				1.8						1.8	2										
+8/31/2005	N857CP	C172R	KSGR--KSGR	1.4				1.4			0.5				2										
+9/7/2005	N17SJ	C172S	KSGR--KSGR	1.2				1.2							5										
+10/5/2005	N857CP	C172R	KSGR--KSGR	1.2				1.2							2										
+10/7/2005	N857CP	C172R	KSGR--KSGR	1.5				1.5							1										
+10/15/2005	N857CP	C172R	KSGR--KSGR	1.2				1.2							7										
+12/18/2005	N857CP	C172R	KSGR--KSGR	1.4				1.4							3										
+12/23/2005	N17SJ	C172S	KSGR--KSGR	1.2				1.2							9										
+1/7/2006	N17SJ	C172S	KSGR--KSGR	0.8				0.8							6										
+1/8/2006	N857CP	C172R	KSGR--KSGR	1				1							8										
+1/15/2006	N857CP	C172R	KSGR--KSGR	1.1		0.4		0.7							7										
+1/19/2006	N857CP	C172R	KSGR--KSGR	1.2				1.2			0.8				1										
+2/26/2006	N857CP	C172R	KSGR--KSGR	1.2				1.2							1										
+3/5/2006	N857CP	C172R	KSGR--KSGR	0.7		0.4		0.3							5										
+3/11/2006	N857CP	C172R	KSGR--KSGR	1.5				1.5							1										
+3/26/2006	N17SJ	C172S	KSGR-T78-KSGR	1.7				1.7						1.7	2										
+3/31/2006	N17SJ	C172S	KSGR--KSGR	0.4				0.4							3										
+3/31/2006	N17SJ	C172S	KSGR--KSGR	1		1									10										
+4/15/2006	N857CP	C172R	KSGR--KSGR	1				1							10										
+4/23/2006	N857CP	C172R	KSGR--KSGR	1.2				1.2							10										
+4/30/2006	N857CP	C172R	KSGR--KSGR	1.4		1.4									12										
+5/7/2006	N17SJ	C172S	KSGR--KSGR	1.1		1.1									2										
+5/13/2006	N857CP	C172R	KSGR--KSGR	1.2		1.2									1										
+5/20/2006	N17SJ	C172S	KSGR-3T5-KSGR	2		2								2	2										
+6/3/2006	N17SJ	C172S	KSGR--KSGR	0.9		0.9									8										
+6/10/2006	N17SJ	C172S	KSGR-KEYQ-KSGR	1				1							6										
+6/24/2006	N17SJ	C172S	KSGR-KPSX-KVCT-KSGR	2.4		2.4								2.4	3										
+7/2/2006	N17SJ	C172S	KSGR--KSGR	1.1				1.1			0.3				1										
+7/9/2006	N857CP	C172R	KSGR--KSGR	0.7		0.7									7										
+7/16/2006	N857CP	C172R	KSGR--KSGR	0.9		0.9									1										
+8/5/2006	N857CP	C172R	KSGR--KSGR	1.4				1.4							1										
+8/20/2006	N17SJ	C172S	KSGR--KSGR	1.1		1.1									3										
+8/22/2006	N857CP	C172R	KSGR--KSGR	0.7				0.7					0.7			3									
+9/10/2006	N857CP	C172R	KSGR--KSGR	0.9				0.9							7										
+9/17/2006	N17SJ	C172S	KSGR--KSGR	0.7		0.7									6										
+9/19/2006	N17SJ	C172S	KSGR-KCLL-11R-KSGR	2.6				2.6					2.6	2.6		7									
+10/8/2006	N857CP	C172R	KSGR--KSGR	0.9				0.9							7										
+10/14/2006	N857CP	C172R	KSGR--KSGR	1.1				1.1							4										
+10/21/2006	N857CP	C172R	KSGR--KSGR	1.3				1.3							1										
+11/2/2006	N857CP	C172R	KSGR--KSGR	1.1				1.1							1										
+11/9/2006	N857CP	C172R	KSGR--KSGR	0.5		0.5									4										
+11/18/2006	N857CP	C172R	KSGR-11R-KSGR	1.6		1.6								1.6	2										
+11/26/2006	N857CP	C172R	KSGR-KIWS-KSGR	1.3				1.3							3										
+12/9/2006	N857CP	C172R	KSGR--KSGR	0.9		0.9									3										
+12/12/2006	N857CP	C172R	KSGR--KSGR	1.5	1.5						0.2				4								Comments: PPL ASEL Checkride!!!! 		
+12/17/2006	N857CP	C172R	KSGR--KSGR	1.3	1.3										1										
+1/7/2007	N857CP	C172R	KSGR--KSGR	1.2	1.2										1										
+1/21/2007	N857CP	C172R	KSGR-ARM-KSGR	1.3	1.3										5										
+2/3/2007	N17SJ	C172S	KSGR-11R-KSGR	1.7	1.7									1.7	2								Passengers: Joyce  		
+2/19/2007	N17SJ	C172S	KSGR--KSGR	0.6	0.6										4								Comments: Practice in strong winds 17G22		
+2/25/2007	N17SJ	C172S	KSGR-KPSX-KSGR	2.6	2.6									2.6	2								Comments: Flight up the to freeport	 down to Palacios	 back to SGR. Passengers: Joyce 
+3/10/2007	N17SJ	C172S	KSGR--KSGR	1.3	1.3										1										
+4/5/2007	N17SJ	C172S	KSGR--KSGR	0.8	0.8										1										
+4/22/2007	N17SJ	C172S	KSGR--KSGR	1.4	1.4										1										
+4/28/2007	N17SJ	C172S	KSGR--KSGR	1.8	1.8										2										
+5/26/2007	N857CP	C172R	KSGR--KSGR	1.1	1.1										7										
+6/29/2007	N17SJ	C172S	KSGR-ARM-KSGR	1.5				1.5			0.2				5										
+7/8/2007	N857CP	C172R	KSGR--KSGR	0.9	0.9										7										
+7/14/2007	N17SJ	C172S	KSGR--KSGR	1.1	1.1										2										
+7/29/2007	N17SJ	C172S	KSGR--KSGR	1.3	1.3										1										
+8/12/2007	N17SJ	C172S	KSGR-3T5-KSGR	2	2									2	2										
+8/27/2007	N857CP	C172R	KSGR--KSGR	0.9	0.9										1								Comments: Daniel's first flight in a small plane.		
+9/9/2007	N857CP	C172R	KSGR--KSGR	0.8	0.8										1										
+9/22/2007	N17SJ	C172S	KSGR-KPSX-KSGR	1.7	1.7									1.7	2										
+10/5/2007	N857CP	C172R	KSGR-KELA-KSGR	1.5	1.5										2										
+10/20/2007	N17SJ	C172S	KSGR--KSGR	0.9	0.9										1										
+11/10/2007	N857CP	C172R	KSGR--KSGR	0.9	0.9										8										
+12/5/2007	N857CP	C172R	KSGR-KHYI-KSGR	2.7	2.7									2.7	2										
+12/16/2007	N857CP	C172R	KSGR--KSGR	1.3	1.3										1										
+1/1/2008	N857CP	C172R	KSGR-84R-KSGR	2.2	2.2									2.2	2										
+2/9/2008	N857CP	C172R	KSGR--KSGR	1.3	1.3										1										
+3/8/2008	N857CP	C172R	KSGR-11R-KSGR	1.7	1.7									1.7	2										
+4/6/2008	N857CP	C172R	KSGR--KSGR	0.6	0.6										5										
+4/12/2008	N857CP	C172R	KSGR-11R-KSGR	1.8	1.8									1.8	2										
+5/11/2008	N928MA	C172R	KSGR--KSGR	1.2	1.2										1										
+5/18/2008	N857CP	C172R	KSGR-BYY-KSGR	1.4	1.4										2										
+5/31/2008	N857CP	C172R	KSGR-T78-KSGR	1.7	1.7									1.7	2										
+6/15/2008	N857CP	C172R	KSGR--KSGR	0.8	0.8										1										
+6/29/2008	N900CA	C172R	KIWS-KELA-KIWS	1.5	1.5										3										
+7/13/2008	N857CP	C172R	KSGR-ARM-KSGR	1.2	1.2										4										
+7/20/2008	N857CP	C172R	KSGR--KSGR	0.8	0.8										1										
+8/17/2008	N928MA	C172R	KSGR--KSGR	1	1										8										
+9/10/2008	N857CP	C172R	KSGR--KSGR	1.2	1.2										3										
+9/21/2008	N928MA	C172R	KSGR-KLBX-KSGR	1.2	1.2										2										
+9/26/2008	N928MA	C172R	KSGR-11R-KSGR	1.7	1.7									1.7	2										
+10/18/2008	N928MA	C172R	KSGR--KSGR	1.1	1.1										1										
+10/28/2008	N17SJ	C172S	KSGR-11R-KSGR	2	2									2	2										
+12/6/2008	N928MA	C172R	KSGR--KSGR	1.1	1.1										1								Comments: BFR Pt 1		
+12/7/2008	N857CP	C172R	KSGR--KSGR	0.9	0.9										1								Comments: BFR Pt 2 Flew into Class BEndorsements: BFR Complete		
+12/31/2008	N857CP	C172R	KSGR--KSGR	1.1	1.1										1										
+1/10/2009	N17SJ	C172S	KSGR-T54-KSGR	1	1										6										
+1/31/2009	N857CP	C172R	KSGR-KBAZ-KSGR	2.8	2.8									2.8	2										
+2/15/2009	N857CP	C172R	KSGR--KSGR	1.1	1.1										1										
+3/1/2009	N928MA	C172R	KSGR--KSGR	1.2	1.2										1										
+3/20/2009	N857CP	C172R	KSGR--KHYI	1.3	1.3									1.3	1										
+3/20/2009	N857CP	C172R	KHYI--KHYI	1	1										1										
+3/21/2009	N857CP	C172R	KHYI--KSGR	1.4	1.4									1.4	1										
+4/4/2009	N5026N	8KCAB	KAXH--KAXH	1				1							2										
+4/10/2009	N72EB	7GCBC	KAXH--KAXH	1.3				1.3							7										
+4/19/2009	N72EB	7GCBC	KAXH--KAXH	0.9				0.9							8										
+5/9/2009	N72EB	7GCBC	KAXH-KSGR-KAXH	1.4				1.4							9										
+5/16/2009	N72EB	7GCBC	KAXH--KAXH	1.1				1.1							10										
+5/22/2009	N928MA	C172R	KSGR--KSGR	1.3	1.3										12										
+5/23/2009	N72EB	7GCBC	KAXH--KAXH	0.9				0.9							4										
+5/25/2009	N928MA	C172R	KSGR--KSGR	0.9	0.9										1										
+5/30/2009	N72EB	7GCBC	KAXH--KAXH	1.1				1.1							8										
+6/6/2009	N72EB	7GCBC	KAXH--KAXH	1.1				1.1							8										

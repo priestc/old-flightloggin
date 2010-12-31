@@ -1,0 +1,248 @@
+Date	Registration	Route	Total	Sim	PIC	SIC	Solo	Night	Dual Received	Dual Given	Cross Country	Actual Instrument	Simulated Instrument	Night Landings	Day Landings	Approaches	Person	Remarks	Flying
+2006-08-27	SF4002	UND UND		0.9													Christopher Gagnon		
+2006-08-28	N222ND	GFK GFK	1.2						1.2						1		Christopher Gagnon		
+2006-09-01	N238ND	GFK GFK	1.3						1.3						3		Christopher Gagnon		
+2006-09-04	N224ND	GFK GFK	1.6						1.6						5		Christopher Gagnon		
+2006-09-06	N220ND	GFK GFK	1.5						1.5						1		Christopher Gagnon		
+2006-09-07	N221ND	GFK GFK	1.0						1.0						7		Christopher Gagnon		
+2006-09-08	SF4002	UND UND		1.1													Christopher Gagnon		
+2006-09-13	N263ND	GFK GFK	1.8						1.8						5		Christopher Gagnon		
+2006-09-20	N236ND	GFK CKN GFK	1.6						1.6						9		Christopher Gagnon		
+2006-09-20	N220ND	GFK GFK	1.0						1.0						7		Christopher Gagnon		
+2006-09-25	N350ND	GFK GFK	0.8						0.8						5		Christopher Gagnon		
+2006-09-25	N350ND	GFK GFK	1.0		1.0										9			First Solo - Pattern	
+2006-09-27	N245ND	GFK D37 GFK	1.6						1.6						7		Christopher Gagnon		
+2006-09-30	N224ND	GFK GFK	1.8						1.8						1		Christopher Gagnon		
+2006-10-02	N274ND	GFK GFK	1.5						1.5						1		Christopher Gagnon		
+2006-10-06	N357ND	GFK D56 GFK	1.7						1.7						8		Christopher Gagnon		
+2006-10-14	N224ND	GFK CKN GFK	1.4						1.4						3		CLEF	UND 102 Stage 14 SAT!	
+2006-10-18	N274ND	GFK GFK	1.5						1.5						1		Christopher Gagnon		
+2006-10-18	SF4001	UND UND		1.2													Christopher Gagnon		
+2006-10-25	N276ND	GFK CKN GFK	1.5						1.5						8		Christopher Gagnon		
+2006-10-26	N263ND	GFK D37 GFK	1.5						1.5				1.0		3		Christopher Gagnon		
+2006-10-27	N220ND	GFK CKN GFK	0.3						0.3						2		Christopher Gagnon		
+2006-10-27	N220ND	GFK CKN GFK	1.6						1.6				1.0		4		Christopher Gagnon		
+2006-11-02	N229ND	GFK GFK	1.4		1.4										1			First Solo to practic area	
+2006-11-02	N229ND	GFK GFK	0.5						0.5						3		Christopher Gagnon		
+2006-11-06	N355ND	GFK JMS-FAR DTL	2.8						2.8		2.8		0.4		3		Christopher Gagnon		
+2006-11-06	N355ND	DTL GFK	1.0						1.0			0.5	0.4		1		Christopher Gagnon		
+2006-11-11	N357ND	GFK GFK	1.4					1.4	1.4					5			BOYE		
+2006-11-20	N356ND	GFK PKD-FAR GFK	3.7					3.7	3.7		3.7		0.5	5			Peter Masset		
+2006-12-04	N220ND	GFK GFK	1.8						1.8				0.2		1		Christopher Gagnon		
+2006-12-06	N238ND	GFK GFK	1.5						1.5						12		Christopher Gagnon		
+2006-12-07	N267ND	GFK GFK	1.4						1.4				0.1		1		Christopher Gagnon		
+2006-12-18	N275ND	GFK GFK	1.6						1.6				0.2		3		BCOO	UND 102 Stage 26 SAT!	
+2006-12-19	N239ND	GFK DVL-JMS GFK	3.2		3.2						3.2				3				
+2007-01-10	N222ND	GFK GFK	1.7						1.7				0.4		1		Christopher Gagnon		
+2007-01-11	N222ND	GFK GFK	0.8						0.8						5		Christopher Gagnon		
+2007-01-17	N267ND	GFK 4V4 GFK	1.9						1.9				0.3		3		JERE	UND 102 Stage 30 SAT!	P
+2007-01-22	N369ND	GFK GFK	1.2						1.2						4		Kaneda Koichiro		
+2007-01-30	N229ND	GFK BDE-TVF GFK	3.1					3.1	3.1		3.1			5			Kaneda Koichiro		
+2007-02-10	N238ND	GFK FFM-FAR GFK	2.9						2.9		2.9				4		Kaneda Koichiro		
+2007-02-10	N277ND	GFK GFK	0.7		0.7			0.7						6				Night Landings	
+2007-02-14	SF4002	UND UND		1.0													Kaneda Koichiro		
+2007-02-19	N437ND	GFK FSD-ABR GFK	6.1		6.1			3.3			6.1			4	1			First flight home, Dad filmed	
+2007-03-03	N359ND	GFK GFK	1.7					0.4	1.7				1.4		1		Kaneda Koichiro		
+2007-03-05	N221ND	GFK GFK	1.5						1.5				1.2		1		Kaneda Koichiro		
+2007-03-06	SF4004	UND UND		1.0													Kaneda Koichiro		
+2007-03-26	N263ND	GFK GFK	1.8					1.8	1.8				1.1	5			Kaneda Koichiro		
+2007-03-28	SF4001	UND UND		1.0													Kaneda Koichiro		
+2007-04-14	N276ND	GFK FSD GFK	5.5		5.5			2.5			5.5			1	1			Solo home, met Kayla and Lance for Famous Dave's	
+2007-04-18	N275ND	GFK GFK	0.7						0.7						2		Kaneda Koichiro	WARR currency for Parent's Weekend	
+2007-04-21	N238ND	GFK GFK	0.7		0.7										4			Parent's Weekend, low ceilings and vis, traffic pattern with mom, dad, and Sarah	
+2007-05-09	N267ND	GFK CKN GFK	1.5						1.5				1.2		2		Kaneda Koichiro		
+2007-07-26	N275ND	GFK GFK	1.5						1.5				1.2		5		Jacob Hedberg		
+2007-07-27	N220ND	GFK CKN GFK	1.8						1.8				1.2		2		Jacob Hedberg		
+2007-07-28	N245ND	GFK BRD GFK	3.5		3.5						3.5				2			UND 221 Lsn 7	
+2007-08-01	N245ND	GFK CKN GFK	1.5						1.5				0.8		6		Jacob Hedberg		
+2007-08-07	N355ND	GFK GFK	1.2						1.2				0.7		5		Chris Young	UND 221 Stage 20 SAT!	
+2007-08-11	SF4001	UND UND		1.1												1 T	Jacob Hedberg		T
+2007-08-11	SF4001	UND UND		0.9												1 T	Jacob Hedberg		T
+2007-08-11	SF4001	UND UND		1.1													Jacob Hedberg		
+2007-08-13	SF4003	UND UND		1.0												1 T	Jacob Hedberg		T
+2007-08-13	SF4003	UND UND		1.0												1 T	Jacob Hedberg		T
+2007-08-13	SF4002	UND UND		1.3												1 T	Jacob Hedberg		T
+2007-08-29	SF4001	UND UND		1.2													GERE	UND 221 Stage 27 SAT!	
+2007-09-12	N446ND	GFK GFK	1.5					1.5	1.5				1.3	1		2 HT	Emily Knisley		HT
+2007-09-12	SF4001	UND UND		1.3												2 T	Emily Knisley		T
+2007-09-14	SF4004	UND UND		1.5												2 HT	Emily Knisley		HT
+2007-09-19	N442ND	GFK GFK	1.5						1.5				1.2		1	2 HT	Emily Knisley		HT
+2007-09-22	N442ND	GFK GFK	1.6						1.6				1.3		1	2 HT	Emily Knisley		HT
+2007-09-26	N460ND	GFK GAF GFK	1.5						1.5		1.5		1.2		2	2 HT	Emily Knisley		HT
+2007-09-27	SF4004	UND UND		1.6												3 HT	Emily Knisley		HT
+2007-09-28	N460ND	GFK GFK	1.5						1.5				1.2		1	2 T	Emily Knisley		T
+2007-10-01	N434ND	GFK GFK	1.8					1.8	1.8				1.5	1		3 T	Emily Knisley		T
+2007-10-03	N449ND	GFK GFK	1.1						1.1				0.8		1	2 HT	Emily Knisley		HT
+2007-10-04	N443ND	GFK GFK	0.9					0.9	0.9				0.6	2		2 T	Emily Knisley		T
+2007-10-04	SF4003	UND UND		1.4												3 T	Emily Knisley		T
+2007-10-12	N433ND	GFK GFK	1.2						1.2				0.9		1	2 HT	James Richardson		HT
+2007-10-14	SF4004	UND UND		1.0												2 HT	James Richardson		HT
+2007-10-15	N460ND	GFK GFK	1.7						1.7				1.4		1	2 HT	Emily Knisley		HT
+2007-10-19	N433ND	GFK GFK	1.7						1.7			1.2	0.2		1	2 HT	Emily Knisley		HT
+2007-10-21	N431ND	GFK GFK	1.8						1.8				1.5		1	3 HT	Emily Knisley		HT
+2007-10-29	N462ND	GFK GFK	1.4						1.4				1.2		1	3 HT	Chris Young	UND 222 Stage 46 SAT!	HT
+2007-11-16	SF4003	UND UND		2.1												2 HT	Emily Knisley		HT
+2007-11-19	N453ND	GFK FAR-AXN GFK	4.2					2.0	4.2		4.2		3.8	2	1	3 HT	Emily Knisley		HT
+2007-12-05	N444ND	GFK FAR-3H4 GFK	2.2						2.2				1.9		1	3 HT	Emily Knisley		HT
+2007-12-07	N447ND	GFK JMS-FAR GFK	3.2						3.2		3.2		2.8		3	3 HT	Emily Knisley		HT
+2007-12-18	N460ND	GFK FAR-CKN GFK	2.3						2.3		2.3		2.0		2	3 HT	SBAL	UND 222 Stage 53 SAT!	HT
+2008-01-14	N279ND	GFK GFK	1.3						1.3						4		Daniel Olsem		
+2008-01-17	N804ND	GFK GFK	1.4						1.4						4		Daniel Olsem		
+2008-01-24	N204ND	GFK GFK	1.0						1.0						8		Daniel Olsem		
+2008-02-02	N804ND	GFK Y37 GFK	1.5						1.5						5		Daniel Olsem		
+2008-03-13	N289ND	GFK GFK	1.1						1.1						1		Daniel Olsem		
+2008-03-15	N278ND	GFK D81	0.8						0.8						4		Matthew Eckert		
+2008-03-15	N278ND	D81 GFK	1.0						1.0						4		Matthew Eckert		
+2008-03-16	N405ND	GFK CKN GFK	1.4						1.4						2		Matthew Eckert		
+2008-03-20	N350ND	GFK GFK	0.7					0.7	0.7					5			Matthew Eckert		
+2008-03-29	N287ND	GFK 3H4 GFK	1.4						1.4						5		Daniel Olsem		
+2008-03-31	N405ND	GFK GFK	1.2						1.2						1		Daniel Olsem		
+2008-04-03	N278ND	GFK GFK	1.4						1.4						4		Daniel Olsem		
+2008-04-03	N278ND	GFK 6D8 GFK	1.5		1.5			0.8			1.5			1	1			Building hours	
+2008-04-08	N204ND	GFK 4V4 GFK	1.5						1.5						4		Daniel Olsem		
+2008-04-12	N220ND	GFK FSD GFK	5.7		5.7						5.7				2			Building hours, Dad's new Explorer from work	
+2008-04-22	N204ND	GFK GFK	1.4						1.4						1		Daniel Olsem		
+2008-04-29	N405ND	GFK GFK	0.8						0.8						8		Daniel Olsem	Record Correction in Paper Logbook Page 8	
+2008-05-04	N355ND	GFK BIS GFK	4.1		4.1						4.1				2			Building hours, turbulent the whole trip, 80's ghetto van in BIS	
+2008-05-05	N287ND	GFK GFK	2.2						2.2						5		Nicholas Jeter	UND 323 Stage 70 SAT!	
+2008-08-29	SF5001	UND UND		1.2													Joseph Moen		
+2008-08-30	SF5003	UND UND		0.8													Joseph Moen		
+2008-09-01	N299ND	GFK TVF GFK	1.6						1.6						3		Joseph Moen		
+2008-09-07	SF5001	UND UND		1.2													Joseph Moen		
+2008-09-10	SF5003	UND UND		1.2													Joseph Moen		
+2008-09-12	N491ND	GFK TVF GFK	1.7						1.7						4		David Schleisman		
+2008-09-15	N494ND	GFK BWP-FAR GFK	2.4						2.4		2.4				4		David Schleisman		
+2008-09-16	N582ND	GFK FFM-DTL GFK	2.3					2.3	2.3		2.3			5			David Schleisman	Heard a loud noise and hit what must have been a small bird over the city of Fergus Falls, MN (about TPA). Everything was running fine so we completed the lesson, no damage was found upon landing in Grand Forks, just some blood just above the windscreen on the left of the Seminole. Lucky it didn't hit the tail I think.	
+2008-09-20	N581ND	GFK STP-4V4 GFK	4.4					2.5	4.4		4.4			4	1		David Schleisman	Don Lee observed, met Melissa H. and Ashley L. in STP for dinner at ???	
+2008-09-23	SF5002	UND UND		1.2												2 T	Joseph Moen		T
+2008-09-29	SF5001	UND UND		1.2												2 HT	Joseph Moen		HT
+2008-10-07	N491ND	GFK FAR	1.4					1.4	1.4		1.4			7			Joseph Moen		
+2008-10-07	N491ND	FAR GFK	1.2					1.2	1.2		1.2			3			Joseph Moen		
+2008-10-09	N581ND	GFK TVF GFK	1.4						1.4				1.2		2	2 HT	Joseph Moen		HT
+2008-10-12	SF8001	UND UND		2.2												2 HT	Joseph Moen		HT
+2008-10-22	SF5001	UND UND		1.1												2 HT	David Schleisman		HT
+2008-10-23	SF5002	UND UND		1.0												2 T	David Schleisman		T
+2008-10-24	SF5001	UND UND		0.8												1 T	David Schleisman		T
+2008-10-25	N494ND	GFK GFK	1.2						1.2				0.9		1	1 HT	David Schleisman		HT
+2008-10-27	N298ND	GFK GFK	0.9						0.9				0.6		1	1 T	David Schleisman		T
+2008-11-03	SF8001	UND UND		2.3												2 HT	David Schleisman		HT
+2008-11-20	N580ND	GFK GPZ-FAR GFK	3.7					3.7	3.7		3.7		3.4		3	3 T	Joseph Moen		T
+2008-11-24	SF5001	UND UND		1.1												2 T	Joseph Moen		T
+2008-12-02	SF5003	UND UND		1.9												2 T	Ryan Munden		T
+2008-12-03	SF5003	UND UND		1.1												2 T	Ryan Munden		T
+2008-12-04	SF5002	UND UND		0.8												2 T	Ryan Munden		T
+2008-12-07	SF5001	UND UND		1.1												2 T	Ryan Munden		T
+2008-12-07	SF5001	UND UND		1.0												2 T	Takagi Haruo	UND 325 Stage 99 SAT!	T
+2009-01-06	N326ND	GFK TVF GFK	1.6						1.6				0.6		1	2 HT	Joseph Moen		HT
+2009-01-08	N580ND	GFK GFK	1.4					0.3	1.4				0.5		2	2 T	Joseph Moen		T
+2009-01-26	N580ND	GFK RDR GFK	1.8						1.8				0.5		3	2 T	Paula Carlson	UND 325 Stage 103 SAT!	PT
+2009-02-14	N516ND	GFK GFK	1.3						1.3						3		Travis Sando		
+2009-02-16	N563ND	GFK GFK	1.4						1.4						2		Travis Sando		
+2009-02-21	N563ND	GFK GFK	1.3						1.3						3		Travis Sando		
+2009-03-01	N539ND	GFK 3H4	1.1						1.1						4		Travis Sando		
+2009-03-01	N539ND	3H4 GFK	1.0						1.0						7		Travis Sando		
+2009-03-02	N565ND	GFK GAF GFK	1.3					1.3	1.3					4			Travis Sando		
+2009-03-03	N568ND	GFK GFK	1.3						1.3						3		Travis Sando		
+2009-03-06	N552ND	GFK GFK	1.2						1.2						2		Travis Sando		
+2009-03-13	N405ND	GFK 3H4 GFK	1.5						1.5						3		Travis Sando		
+2009-03-15	N289ND	GFK GFK	1.4						1.4						3		Travis Sando		
+2009-03-18	N539ND	GFK BJI GFK	2.3						2.3		2.3				1		Russel Shultz		
+2009-03-19	N384ND	GFK GFK	1.4						1.4						3		Russel Shultz		
+2009-04-03	N289ND	GFK GAF GFK	1.5						1.5						3		Travis Sando		
+2009-04-11	N204ND	GFK GFK	1.4						1.4						4		Travis Sando		
+2009-04-20	N525ND	GFK GFK	0.8						0.8						1		Nicholas Jeter	UND 414 Lsn 7 First Spin, Blast! Didn't Vomit!, Quick descent forced into layer	
+2009-04-25	N176ND	GFK GFK	0.9		0.9										1			River tour with Dad & Dean of Red River and Oslo during the flood.	
+2009-04-25	N176ND	GFK GFK	0.8		0.8										1			Lady's turn with Mom, Sarah, & Katie	
+2009-05-02	N405ND	GFK D41 GFK	1.7						1.7						4		Travis Sando		
+2009-05-03	N279ND	GFK GAF GFK	1.6						1.6						4		Travis Sando		
+2009-05-11	N279ND	GFK GAF GFK	2.1						2.1				0.1		5		Patrick Bowers	UND 414 Stage 31 SAT!	
+2009-05-17	N287ND	GFK GFK	1.3						1.3						2		Travis Sando		
+2009-05-27	N68ND	GFK GFK	0.7						1.7						1			UND 414 Spins, Acro Maneuvers (hammerhead, half cuban, cuban, 8 point roll, rolls, falling leaf...)	
+2009-07-08	N405ND	GFK D56 GFK	1.4						1.4						3		Travis Sando		
+2009-07-13	N384ND	GFK GFK	1.5						1.5				0.1		2		Paula Carlson	UND 414 Stage 33 SAT!	C
+2009-08-17	N565ND	GFK GFK	0.9		0.9				0.9	0.9					4		Jim King	UND STANDARDIZATION	
+2009-08-26	N443ND	GFK GAF GFK	1.7						1.7						5		Ben Mettler	UND STANDARDIZATION	
+2009-09-04	SF8061	UND UND		1.6												3 HT	Dan Ellenwood	UND 414 Lsn 3 IPC	IHT
+2009-09-05	N440ND	GFK GFK	1.5		1.5					1.5					1		Matthew Fejfar	UND 102/3C Thomas Byun	
+2009-09-19	SF8062	UND-UND		0.8													Dan Ellenwood		
+2009-09-21	SF8062	UND-UND		0.8													Dan Ellenwood		
+2009-09-24	N511ND	KGFK-KGFK	1.1						1.1						1		Dan Ellenwood		
+2009-09-30	N529ND	KGFK-KGFK	1.4						1.4				0.8		1	2 HT	Dan Ellenwood		HT
+2009-10-03	N520ND	KGFK-KGAF	1.0						1.0			0.5	0.2		1	2 HT	Dan Ellenwood	Riding layer at 5,600' draped in dim red sunset	HT
+2009-10-03	N520ND	KGAF-KGFK	0.9					0.5	0.9			0.5	0.1	1		1 HT	Dan Ellenwood		HT
+##RECORDS
+""
+##PLANES
+N68ND	Bellanca	Decathlon	1	Tailwheel
+N565ND	Cessna	Skyhawk	1	
+N568ND	Cessna	Skyhawk	1	
+N520ND	Cessna	Skyhawk	1	
+N525ND	Cessna	Skyhawk	1	
+N563ND	Cessna	Skyhawk	1	
+N516ND	Cessna	Skyhawk	1	
+N511ND	Cessna	Skyhawk	1	
+N552ND	Cessna	Skyhawk	1	
+N529ND	Cessna	Skyhawk	1	
+N539ND	Cessna	Skyhawk	1	
+SF8001	FRASCA		16	
+SF4001	FRASCA		16	
+SF4002	FRASCA		16	
+SF4004	FRASCA		16	
+SF4003	FRASCA		16	
+SF5001	FRASCA		16	
+SF5002	FRASCA		16	
+SF5003	FRASCA		16	
+N581ND	Piper	Seminole	2	Complex
+N580ND	Piper	Seminole	2	Complex
+N326ND	Piper	Seminole	2	Complex
+N239ND	Piper	Warrior	1	
+N222ND	Piper	Warrior	1	
+N275ND	Piper	Warrior	1	
+N298ND	Piper	Seminole	2	Complex
+N369ND	Piper	Warrior	1	
+N442ND	Piper	Warrior	1	
+N460ND	Piper	Warrior	1	
+N434ND	Piper	Warrior	1	
+N277ND	Piper	Warrior	1	
+N279ND	Piper	Arrow	1	Complex
+N804ND	Piper	Arrow	1	Complex
+N220ND	Piper	Warrior	1	
+N289ND	Piper	Arrow	1	Complex
+N278ND	Piper	Arrow	1	Complex
+N437ND	Piper	Warrior	1	
+N446ND	Piper	Warrior	1	
+N359ND	Piper	Warrior	1	
+N440ND	Piper	Warrior	1	
+N267ND	Piper	Warrior	1	
+N444ND	Piper	Warrior	1	
+N453ND	Piper	Warrior	1	
+N355ND	Piper	Warrior	1	
+N462ND	Piper	Warrior	1	
+N431ND	Piper	Warrior	1	
+N433ND	Piper	Warrior	1	
+N443ND	Piper	Warrior	1	
+N449ND	Piper	Warrior	1	
+N447ND	Piper	Warrior	1	
+N356ND	Piper	Warrior	1	
+N357ND	Piper	Warrior	1	
+N204ND	Piper	Arrow	1	Complex
+N221ND	Piper	Warrior	1	
+N238ND	Piper	Warrior	1	
+N229ND	Piper	Warrior	1	
+N236ND	Piper	Warrior	1	
+N350ND	Piper	Warrior	1	
+N274ND	Piper	Warrior	1	
+N245ND	Piper	Warrior	1	
+N276ND	Piper	Warrior	1	
+N224ND	Piper	Warrior	1	
+N263ND	Piper	Warrior	1	
+N405ND	Piper	Arrow	1	Complex
+N287ND	Piper	Arrow	1	Complex
+N582ND	Piper	Seminole	2	Complex
+N176ND	Piper	Arrow	1	Complex
+N384ND	Piper	Arrow	1	Complex
+N491ND	Piper	Seminole	2	Complex
+N299ND	Piper	Seminole	2	Complex
+N494ND	Piper	Seminole	2	Complex
+SF8062	Tru Flite		16	
+SF8061	Tru Flite		16	

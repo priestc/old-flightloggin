@@ -1,0 +1,19 @@
+Date	Time	TYPE	PLANE		Route	Day LANDINGS	Night LANDINGS	APPROACHES	Day	Night	SEL	MEL	SES	MES	Experimental A/C	Complex	High Perf.	Tail Dragger	SIMULATED INSTRUMENT	ACTUAL INSTRUMENT	Cross Country	Dual Given	Dual Rcvd	PILOT IN COMMAND	Total	
+5/14/2009		BE36TC	36TN		ADH-LCL	5			0.8		0.8					0.8	0.8							0.8	0.8	
+5/16/2009		SR22	500RC		ADH-OKC	1			0.5		0.5						0.5				0.5			0.5	0.5	
+5/20/2009		C172RG	9463D		PWA-RCE-HSD-PWA	7			1.6		1.6					1.6							1.6	1.6	1.6	
+5/21/2009		BE36TC	36TN		ADH-LCL	1		3	1.0		1.0					1.0	1.0		1.0					1.0	1.0	
+5/22/2009		BE36TC	36TN		ADH-IOB	1			3.8		3.8					3.8	3.8			0.5	3.8			3.8	3.8	
+5/25/2009		BE36TC	36TN		IOB-ADH	1			3.8		3.8					3.8	3.8			1.5	3.8			3.8	3.8	
+5/30/2009		SR22	223TN		ADH-LCL	2			2.2		2.2				2.2		2.2							2.2	2.2	
+5/31/2009		SR22	223TN		ADH-LCL	1			1.0		1.0				1.0		1.0							1.0	1.0	
+6/2/2009		SR22	223TN		ADH-LCL	1			0.8		0.8				0.8		0.8							0.8	0.8	
+6/4/2009		SR22	518CP		ADH-PWA	1			0.6		0.6						0.6				0.6			0.6	0.6	
+6/8/2009		SR22	942SR		ADH-DFW-ADH	2			2.4		2.4						2.4				2.4			2.4	2.4	
+6/8/2009		SR22	942SR		ADH-HSD-FOD-DLH	3		1	4.5		4.5						4.5			0.8	4.5			4.5	4.5	
+6/9/2009		SR22	223TN		DLH-ADH	1			4.2		4.2				4.2		4.2			1.0	4.2			4.2	4.2	
+6/9/2009		C172RG	9463D		PWA-HSD-PWA	2			0.5		0.5					0.5							0.5	0.5	0.5	
+6/10/2009		C172RG	9463D		PWA-LCL	1			1.0		1.0					1.0								1.0	1.0	
+6/19/2009		C172	72TN		ADH-OKC-HSD-ADH	3			2.2		2.2						2.2				2.0			2.2	2.2	
+6/19/2009		C172	72TN		ADH-OKC-ADH	2			1.3		1.3						1.3				1.3			1.3	1.3	
+6/20/2009		C172	72TN		ADH-LCL	8			1.5		1.5						1.5							1.5	1.5	

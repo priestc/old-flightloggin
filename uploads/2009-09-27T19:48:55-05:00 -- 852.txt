@@ -1,0 +1,8 @@
+Date	Plane	Type	Route	Total	PIC	Solo	SIC	Dual Received	Dual Given	Actual Instrument	Simulated Instrument	Approaches	Night	Cross Country	Day Landings	Night Landings	Simulator	Student	Instructor	Captain	First Officer	Flight Number	Remarks	Flying	Non-flying
+6/12/2009	N2097T	172	M01-M01	0.8				0.8							1										
+6/13/2009	N2097T	172	M01-M01	1.1				1.1							1										
+6/18/2009	N2097T	172	M01-M01	1.1				1.1							1										
+6/22/2009	N2097T	172	M01-M01	1.2				1.2							1										
+7/1/2009	N2097T	172	M01-M01	1.1				1.1							2										
+7/11/2009	N2097T	172	M01-M01	1.1				1.1							1										
+7/16/2009	N2097T	172	M01-M01	0.7				0.7							1										

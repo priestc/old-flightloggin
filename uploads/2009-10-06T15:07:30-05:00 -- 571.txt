@@ -1,0 +1,425 @@
+Date	Make/Model	Plane	Route	Total	PIC	SOLO	DUAL	CFI	ACT	SIM	App.	NIGHT	X/C	DAY	NIGHT	Remarks
+01/14/06	C-172	N989AV	AZO	1.3			1.3									WMU Lesson 1
+01/15/06	C-172	N984BT	AZO	1.2			1.2									WMU Lesson 2
+01/21/06	C-172	N986AV	AZO	1.2			1.2									WMU Lesson 3
+01/27/06	C-172	N986WU	AZO	1.3			1.3									WMU Lesson 4
+01/28/06	C-172	N984AV	AZO	1.3			1.3									WMU Lesson 5
+02/07/06	C-172	N986WU	AZO	1.3			1.3									WMU Lesson 6
+02/10/06	C-172	N979BC	AZO	1.3			1.3							1		WMU Lesson 7
+02/12/06	C-172	N977BC	AZO	1.2			1.2							2		WMU Lesson 7
+02/20/06	C-172	N985AV	AZO	1.3			1.3							1		WMU Lesson 8
+03/11/06	C-172	N986AV	AZO	1.2			1.2							1		WMU Lesson 9
+03/17/06	C-172	N982BT	AZO	1.4			1.4							5		WMU Lesson 9-10
+03/18/06	C-172	N984BT	AZO	1.4			1.4							3		WMU Lesson 11
+03/19/06	C-172	N982BT	AZO PATTERN	0.9			0.9							3		WMU Lesson 11
+03/20/06	C-172	N979BC	AZO PATTERN	0.8			0.8							4		WMU Lesson 13
+03/24/06	C-172	N987BC	AZO PATTERN	0.7			0.7							4		WMU Lesson
+03/25/06	C-172	N986WW	AZO	1.1			1.1							6		WMU Lesson
+03/26/06	C-172	N986WW	AZO	1.0			1.0							6		WMU Lesson
+03/27/06	C-172	N984BT	AZO	0.8			0.8							5		WMU Lesson
+04/01/06	C-172	N979BC	AZO PATTERN	0.7			0.7							3		WMU Lesson
+04/09/06	C-172	N988AV	AZO PATTERN	1.1			1.1							7		WMU Lesson
+04/14/06	C-172	N984BT	AZO PATTERN	0.6			0.6							3		WMU Lesson
+04/15/06	C-172	N986WU	AZO PATTERN	0.8			0.8							3		
+04/15/06	C-172	N986WU	AZO PATTERN	0.3	0.3	0.3								1		First Solo
+04/15/06	C-172	N986AV	AZO PATTERN	0.8			0.8							3		
+04/15/06	C-172	N986AV	AZO PATTERN	0.4	0.4	0.4								3		Solo - 3 Full Stop landings
+04/17/06	C-172	N986AV	AZO	1.3			1.3							4		
+04/18/06	C-172	N985AV	AZO	1.5			1.5							1		
+04/21/06	C-172	N986AV	AZO	1.3			1.3									
+04/21/06	C-172	N986AV	AZO	0.9	0.9	0.9								1		
+04/23/06	C-172	N982BT	AZO	1.7			1.7							3		
+04/24/06	C-172	N981BC	AZO	0.6			0.6							1		
+05/04/06	C-172	N987BC	AZO	1.4			1.4							2	
+05/05/06	C-172	N987BC	AZO	1.2			1.2			1.0				1	
+05/08/06	C-172	N973BC	BTL	1.3			1.3			1.0				1	
+05/09/06	C-172	N984WU	BTL	1.7			1.7						1.7	2	
+05/11/06	F142	W10		0.0											
+05/19/06	C-172	N984WU	BTL	2.2			2.2						2.2	2	
+05/22/06	C-172	N988BC	BTL	1.7	1.7	1.7							1.7	2	
+05/23/06	C-172	N983BT	BTL	1.9			1.9						1.9	2	
+05/28/06	C-172	N972BC	BTL	1.6	1.6	1.6							1.6	2	
+05/31/06	C-172	N972BC		0.6			0.6					0.6			3
+06/01/06	C-172	N973BC		1.2			1.2			0.9				1	
+06/01/06	C-172	N979BC		2.4			2.4					2.4	2.4		7
+06/04/06	C-172	N981BC		3.6	3.6	3.6							3.6	3	
+06/05/06	C-172	N979BC		1.5			1.5							3	
+06/06/06	C-172	N988BC		1.5			1.5							3	
+06/07/06	C-172	N988AV		1.3			1.3							1	
+06/08/06	C-172	N982BT		1.4			1.4			0.3				4		
+06/10/06	C-172	N984BT		1.3	1.3	1.3								1		
+06/12/06	C-172	N982BT		1.5			1.5							3		
+06/13/06	C-172	N979BC		1.6			1.6							3		
+06/20/06	C-172	N978BT		1.5			1.5			0.2				3		
+06/26/06	C-172	N983BT	BTL	1.2			1.2							4		
+06/27/06	C-172	N982BT	BTL	1.4	1.4									4		Private SEL Checkride
+07/19/06	SR-20	N70RB	BTL	3.0	1.5		1.5							4		
+07/20/06	SR-20	N54DN	BTL	3.8	1.9		1.9		1.0				1.9	2		
+07/21/06	SR-20	N94RS	BTL	6.2	3.1		3.1		1.5				3.1	2		
+07/25/06	SR-20	N154WF	BTL	7.4	3.7		3.7			1.2			3.7	6		
+07/27/06	SR-20	N481RA	BTL	3.0	1.5		1.5		1.1				1.5	2		
+07/28/06	SR-20	N94RS	BTL	2.6	1.3		1.3			1.1				1		
+07/29/06	SR-20	N746TM	BTL	3.8	1.9		1.9			1.7			1.9	2		
+08/01/06	SR-20	N191JG	BTL	3.0	1.5		1.5			1.3				1		
+08/02/06	SR-20	N22WU	BTL	3.0	1.5		1.5			1.3				1		
+08/04/06	SR20	N70RB	BTL	3.6	1.8		1.8			1.4				2	
+08/05/06	SR22	N563RM	BTL	2.4	1.2		1.2			1.0				3	
+08/08/06	SR-20	N1281	BTL	3.0	1.5		1.5			1.1				1	
+08/12/06	SR-20	N154WF	BTL	3.8	1.9		1.9			1.6				1	
+08/13/06	SR-20	N267DS	BTL	3.6	1.8		1.8			1.6				1	
+08/13/06	SR-20	N1180	BTL	3.2	1.6		1.6			1.4				1	
+08/14/06	SR-20	N54DN	BTL	3.2	1.6		1.6			1.4				3	
+08/15/06	SR-20	N1180	BTL	3.2	1.6		1.6			1.4				3	
+08/16/06	SR-20	N481RA	BTL	3.4	1.7		1.7			1.5				2	
+08/17/06	SR-20	N156CS	BTL	3.2	1.6		1.6			1.4				3	
+08/26/06	SR-20	N156CS	BTL	4.0	2.0		2.0		1.6	0.2			2.0	2	
+08/27/06	SR-20	N156CS	BTL	2.2	1.1		1.1		0.5	0.3				1	
+08/27/06	SR-20	N156CS	BTL	4.4	2.2		2.2		1.5	0.5			2.2	2	
+09/08/06	SR-20	N140AF	BTL	4.4	2.2		2.2			2.0			2.2	2	
+09/09/06	SR-20	N851ST	BTL	5.2	2.6		2.6		2.0				2.6	2	
+09/10/06	SR-20	N140AF	BTL	4.6	2.3		2.3		1.8	0.3			2.3	2	
+09/14/06	SR-22	N563RM	BTL	5.6	2.8		2.8		2.2	0.4		2.1	2.8	1	3
+09/15/06	SR-20	N42VR	BTL	4.2	2.1		2.1		1.7	0.2			2.1	2	
+09/16/06	SR-20	N923JW	BTL	4.6	2.3		2.3		1.5	0.6			2.3	2	
+09/19/06	SR-20	N53PB	BTL	2.8	1.4		1.4			1.0				3	
+09/20/06	SR-20	N154WF	BTL	4.2	2.1		2.1			1.9		2.1	2.1		2
+09/21/06	SR-20	N65TH	BTL	3.8	1.9		1.9			1.7			1.9	3	
+09/21/06	SR-20	N651BS	BTL	1.9	1.9	1.9								6	
+09/22/06	SR-20	N191JG	BTL	4.2	2.1		2.1		1.0	0.9			2.1	2	
+09/24/06	SR-20	N140AF	BTL	7.4	3.7		3.7		1.2	2.3			3.7	3	
+09/26/06	SR-20	N57JW	BTK	4.4	2.2		2.2			2.0		2.2	2.2		3
+09/29/06	SR-20	N861SH	BTL	1.8	1.8	1.8							1.8	3	
+10/05/06	SR-20	N94RS	BTL	1.4	1.4	1.4								4	
+10/14/06	SR-20	N65TH	BTL	2.6	1.3		1.3			1.1				2	
+10/16/06	SR-20	N923JW	BTL	2.8	1.4		1.4			1.2				3	
+10/18/06	SR-20	N923JW	BTL	2.2	1.1		1.1			0.9				1	
+10/20/06	SR-20	N22WU	BTL	3.4	1.7		1.7		1.0	0.5				1	
+10/21/06	SR-20	N94RS	BTL	2.8	1.4		1.4			1.2				2		
+10/25/06	SR-20	N651BS	BTL	3.4	1.7		1.7			1.5				3		
+10/30/06	SR-20	N1180	BTL	3.0	1.5		1.5			1.1				1		
+11/03/06	SR-20	N746TH	BTL	1.5	1.5					1.1				1		IRA Checkride
+11/17/06	SR-20	N861SH	BTL	3.2	1.6		1.6						1.6	2		
+11/18/06	SR-20	N651BS	BTL	4.0	2.0		2.0						2.0	2		
+11/21/06	SR-20	N70RB	BTL	1.3	1.3	1.3							1.3	2		
+12/02/06	SR-20	N54DN	BTL	3.0	1.5		1.5					1.5			4	
+12/08/06	SR-20	N57JW	BTL	2.6	1.3		1.3							4		
+12/08/06	SR-22	N563RM	BTL	4.6	2.3		2.3					2.3	2.3		2	
+12/13/06	SR-20	N57JW	BTL	0.6	0.6	0.6						0.6			1	
+01/24/07	SR-20	N70RB	BTL	1.6	0.8		0.8					0.8			6	
+01/31/07	SR-20	N93TA	BTL	2.0	2.0	2.0						2.0	2.0		3	
+02/10/07	SR-20	N156CS	BTL	4.6	4.6	4.6						1.6	4.6	2	1	Comm. Long X/C
+02/14/07	SR-20	N65TH	BTL PATTERN	1.1	1.1	1.1						1.1			5	
+03/13/07	PA-28	N414WM	BTL PATTERN	2.4	1.2		1.2							3		
+03/16/07	PA-28	N414WM	BTL	3.2	1.6		1.6							1	
+03/17/07	PA-28	N414WM	BTL	3.4	1.7		1.7							4	
+03/23/07	PA-28	N414WM	BTL	3.6	1.8		1.8		0.6	0.2				1	
+03/24/07	PA-28	N414WM	BTL	2.8	1.4		1.4			0.3				3	
+03/27/07	PA-28	N414WM	BTL	3.0	1.5		1.5			0.4				3	
+03/29/07	PA-28	N414WM	BTL	3.6	1.8		1.8			1.5			1.8	2	
+03/31/07	PA-28	N414WM	BTL	2.4	1.2		1.2							5	
+04/13/07	PA-28	N515WM	BTL	3.6	1.8		1.8			0.4				3	
+04/14/07	PA-28	N414WM	BTL PATTERN	3.2	1.6		1.6							12	
+04/16/07	PA-28	N515WM	BTL	1.8	0.9		0.9							3	
+10/12/07	SR-20	N80GD	BTL	3.4	1.7		1.7							4	
+10/13/07	SR-20	N54DN	BTL	3.0	1.5		1.5							7	
+10/15/07	SR-20	N80GD	BTL	3.6	1.8		1.8							5	
+10/19/07	SR-20	N1281	BTL	3.4	1.7		1.7							2	
+10/22/07	SR-20	N267DS	BTL	3.2	1.6		1.6							3	
+10/22/07	SR-20	N154WF	BTL	1.6	1.6	1.6								4	
+10/29/07	SR-20	N861SH	BTL	3.0	1.5		1.5							3	
+11/02/07	SR-20	N94RS	BTL	2.8	1.4		1.4			0.3				3	
+11/03/07	SR-20	N861SH	BTL	3.4	1.7		1.7			0.3				4	
+11/05/07	SR-20	N80GD	BTL	2.6	1.3		1.3							6	
+05/15/08	SR-20	N65TH	BTL	3.0	1.5		1.5							2	
+05/18/08	SR-20	N81EZ	BTL	3.0	1.5		1.5							7	
+05/20/08	SR-20	N54DN	BTL	3.2	1.6		1.6							3	
+05/22/08	SR-20	N156CS	BTL	1.6	1.6	1.6								1	
+05/27/08	SR-20	N22WU	BTL	2.6	1.3		1.3							1	
+06/08/22	PA-28	N414WM	BTL	2.6	1.3		1.3							8	
+06/12/08	PA-28	N515WM	BTL	4.0	2.0		2.0			1.0		2.0	2.0		2
+06/17/08	SR-20	N65TH	BTL	2.4	1.2		1.2							5	
+06/18/08	SR-20	N54SJ	BTL	2.8	1.4		1.4			0.2				5	
+06/19/08	PA-28	N414WM	BTL	2.4	1.2		1.2							6	
+06/23/08	PA-28	N414WM	BLT	2.8	1.4		1.4							9	
+06/24/08	SR-20	N94RS	BTL	3.6	1.8		1.8			0.5				8	
+06/26/08	SR-20	N746TM	BTL	2.8	1.4		1.4							2		
+07/01/08	SR-20	N65TH	BTL	2.4	1.2		1.2							3		
+07/02/08	SR-20	N481RA	BTL	1.8	1.8	1.8								6		
+07/07/08	SR-20	N22WU	BTL	3.0	1.5		1.5			1.1				1		Instrument Proficiency Check
+07/09/08	PA-28	N515WM	BTL	3.0	1.5		1.5							6		
+07/10/08	PA-28	N515WM	BTL	3.4	1.7		1.7							11		
+07/11/08	SR-20	N70RB	BTL	3.8	1.9		1.9							8		
+07/14/08	SR-20	N651BS	BTL	3.0	1.5		1.5							2		
+07/16/08	SR-20	N65TH	BTL	1.5	1.5	1.5								3		
+07/16/08	SR-20	N851ST	BTL	2.6	1.3		1.3							3		
+07/17/08	SR-20	N54DN	BTL	1.7	1.7	1.7								5		
+07/21/08	SR-20	N267DS	BTL	0.6	0.6	0.6								1		
+07/22/08	SR-20	N91SA	BTL	2.4	1.2		1.2							4		
+07/23/08	SR-20	N43TA	BTL	1.3	1.3	1.3								3		
+07/24/08	PA-28	N515WM	BTL	2.4	1.2		1.2							9		
+07/25/08	SR-20	N156CS	BTL	1.7	1.7	1.7								4		
+07/27/08	SR-20	N861SH	BTL	3.2	1.6		1.6							3		
+07/27/08	PA-28	N515WM	BTL	1.0	0.5		0.5							3		
+08/01/08	SR-20	N1180	BTL	1.3	1.3	1.3								5		
+08/04/08	SR-20	N57JW	BTL	3.0	1.5		1.5							3		
+08/07/08	SR-20	N93TA	BTL	1.1	1.1	1.1								5		
+08/11/08	PA-28	N414WM	BTL	2.6	1.3		1.3							6		
+08/13/08	SR-20	N481AF	BTL	2.6	1.3		1.3							4		
+08/14/08	PA-28	N414WM	BTL	0.5	0.5									1		
+08/14/08	SR-20	N140AF	BTL	1.4	1.4									3		Comm SEL Checkride
+08/21/08	F142	W10	BTL	1.0			1.0									
+08/21/08	PA-34	PA-34	BTL	1.3			1.3							1		
+08/24/08	PA-34	PA-34	BTL	1.7			1.7							4		
+08/25/08	F142	W10	BTL	1.1			1.1			0.3						
+08/27/08	PA-34	N9273Z	BTL	1.4			1.4			0.3				2		
+08/28/08	PA-34	N9273Z	BTL	1.4			1.4			0.3				2		
+09/02/08	F142	W12	BTL	1.5			1.5			1.3						
+09/03/08	PA-34	N9267W	BTL	1.5			1.5			1.0				2		
+09/05/08	PA-34	N9273Z	BTL	1.5			1.5		0.2	0.2				2		
+09/08/08	PA-34	N92721	BTL	1.5			1.5			0.3				3		
+09/11/08	PA-34	N9273Z	BTL	2.2			2.2			0.7				6		
+09/15/08	PA-34	N9273Z	BTL	1.2			1.2		0.2	0.4				4		
+09/17/08	PA-34	N92721	BTL	1.1	1.1					0.2				2		Comm. MEL Checkride
+10/10/08	SIMPRO		DPA	0.0												
+10/14/08	C172	N3517S	DKB	3.0	1.5		1.5			1.3				1		
+10/15/08	C172	N53AF	DPA	4.4	2.2		2.2		2.0					2		
+10/18/08	C172	N5239K	ARR	2.6	1.3		1.3			1.1				2		
+10/22/08	C172	N5239K	DPA	4.0	2.0		2.0			1.8				1		
+10/23/08	C172	N5239K	DPA	1.6	0.8		0.8							1		
+10/23/08	C172	N53AF	DPA	2.0	1.0		1.0			0.8				1		
+10/27/08	C172	N53AF	DPA	4.4	2.2		2.2		0.6	1.4				2		
+10/28/08	C172	N3517S	DPA	3.6	1.8		1.8			1.6				3		
+11/03/08	C172	N3517S	DPA	3.0	1.5		1.5			0.3				1		CFII Checkride
+11/04/08	C172RG	N4618R	DPA	2.4	1.2		1.2							3		
+11/18/08	C172RG	N6253R	DPA	3.2	1.6		1.6							3		
+11/20/08	C172RG	N6253R	DPA	1.6	0.8		0.8							2		
+11/21/08	C172RG	N6253R	DPA	3.0	1.5		1.5							4		
+11/25/08	C172RG	N4618R	DPA	2.8	1.4		1.4							4		
+12/10/08	C172RG	N6253R	DPA	1.5	1.5									1		CFIA checkride
+12/31/08	C172G	N1403R	PWK	1.6	0.8		0.8							4		G1000 Palwaukee flyers Checkout
+01/05/09	C172G	N1403R	PWK	0.5	0.5	0.5						0.5			3	90 Day Night Currency
+01/05/09	C172G	N1403R	PWK	0.9	0.9			0.9				0.9			2	"Night flight with Dawson, Mikhail - takeoffs, pattern, student followed thought on controls till crossing threshold"
+01/11/09	C150	747KA	PWK	0.4	0.4									2		
+01/11/09	C150	747KA	PWK	1.8	1.8			1.8						2		Stanciu
+01/16/09	C172	N73JA	PWK	1.1	1.1			1.1				1.1			1	"Lenihan, John - BADA Flight"
+01/18/09	C150	1478Q	PWK	1.1	1.1			1.1				1.1			1	"Emler, Sarah - BADA Flight"
+01/19/09	C150	N747KA	PWK	1.9	1.9			1.9						1		Stanciu
+01/22/09	C150	1478Q	PWK	0.9	0.9			0.9						1		Stanciu
+01/22/09	C172	73JA	PWK	1.6	1.6			1.6								"Fortis, Bobby"
+01/24/09	C150	N1478Q	PWK	1.0	1.0			1.0						1		"Roguska, Joana - Part 1"
+01/27/09	C172G	1403R	PWK	1.0	1.0			1.0						1		"Ornberg, Rich - BADA Flight"
+01/27/09	C172G	1403R	PWK	1.1	1.1			1.1						1		"Tennant, Jim - BADA flight"
+01/28/09	C172	N747KA	PWK	1.6	1.6			1.6								Stanciu
+01/30/09	C172	N87JA	PWK	1.4	1.4			1.4								Stanciu
+01/30/09	C150	N747KA	PWK	1.2	1.2			1.2						2		"Wald, Gary - Part 1"
+01/31/09	C150	747KA	PWK	0.8	0.8			0.8						1		"Kirkman, Rod - BADA Flight"
+01/31/09	C172	1403R	PWK	1.2	1.2			1.2						1		"Kilmer, Rick - BADA Flight"
+02/02/09	C172	73JA	PWK	1.2	1.2			1.2						2		Landing practice with Stanciu
+02/04/09	C172	N73JA	PWK	1.3	1.3			1.3								Stanciu
+02/06/09	C150	N1478Q	PWK	1.1	1.1			1.1						1		"Palandech, Kathryn - BADA Flight"
+02/06/09	C172	N87JA	PWK	1.1	1.1			1.1								Stanciu
+02/07/09	C172	N1403R	PWK	0.8	0.8			0.8						1		Claverie - BADA Flight
+02/08/09	C172	N73JA	PWK	2.1	2.1			2.1	0.5							ILS 02L DPA Actual
+02/08/09	C150	N1478Q	PWK	1.0	1.0			1.0						1		Snyder - BADA Flight
+02/09/09	C172	N1403R	PWK	1.0	1.0			1.0						1		"Malbasa, Nicola - BADA Flight"
+02/12/09	C172	N73JA		0.7	0.7			0.7								Stanciu
+02/13/09	C172	N73JA		1.3	1.3			1.3								Stanciu
+02/16/09	C172	N73JA	PWK	2.1	2.1			2.1								"Lundell, M"
+02/16/09	C150	N1478Q	PWK	0.9	0.9			0.9						1		"Carey, B - BADA Flight"
+02/16/09	C172	N73JA	PWK	1.3	1.3			1.3								Stanciu
+02/19/09	C172	N87JA	ARR	0.5	0.5	0.5								1		Ferry Flight
+02/25/09	DA40	N420AM	3CK	1.4	1.4									2		
+03/07/09	DA40	N420AM	3CK	1.9	1.9									2		
+03/14/09	DA40	N420AM	3CK	2.0	2.0									2		
+04/01/09	DA40	N420AM	3CK	4.2	4.2			3.7		0.5		2.1	4.2			RNAV 33 ARR ILS 10 DPA
+04/08/09	DA40	N420AM	3CK	1.8	1.8			1.8		1.2				1		ILS 23 UGN RNAV 23 UGN VOR 24R ENU VOR 29 BUU - IR 6 month currency complete
+04/15/09	DA40	N420AM		0.6	0.6							0.6			3	
+04/22/09	DA40	N420AM		1.3	1.3			1.3								
+06/03/09	DA40	N420AM		1.4	1.4			1.4								
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

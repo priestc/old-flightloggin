@@ -1,0 +1,18 @@
+Date	Time	Type	Plane	Route	Day landings	Night landings	approaches	Day	Night	SEL	Simulated Instrument	Actual instrument	Cross Country	Dual Given	Dual received	Pilot in command	Total	Remarks
+7/16/2009		C172	72TN	ADH-OKC-ADH	2			1.5		1.5			1.5			1.5	1.5	"picked up Vanessa, Whelchel as passenger"
+7/25/2009		BE36TC	36TN	ADH-OSH	1			4.1		4.1		0.7	4.1			4.1	4.1	"Oshkosh 2009, arrival was awesome"
+7/31/2009		BE36TC	36TN	OSH-ADH	1			4.0		4.0			4.0			4.0	4.0	"Oshkosh 2009, departure with SR22, vacuum pump failure"
+8/3/2009		C172	72TN	PWA-HSD-PWA	3			0.9		0.9						0.9	0.9	CFIA Checkride - PASSED!
+8/7/2009		BE36TC	36TN	ADH-RDU		1		1.0	4.1	5.1			5.1			5.1	5.1	"XC to RDU, great flight"
+8/8/2009		BE36TC	36TN	RDU-5W8-RDU	2			1.0		1.0						1.0	1.0	"flew Allen to Siler City, got fuel"
+8/8/2009		BE36TC	36TN	RDU-GSO-5W8-GSO	3			1.0		1.0			0.5	0.5		1.0	1.0	"flew to GSO, picked up parents, flew for fuel"
+8/9/2009		BE36TC	36TN	GSO-RDU-CTJ-OKM-ADH	4			7.9		7.9			7.9			7.9	7.9	"flew back, got to see Jim, good day"
+8/14/2009		BE36TC	36TN	ADH-HSD-OKC-ADH		4			1.1	1.1			0.9			1.1	1.1	picked up Kevin
+8/19/2009		C172	72TN	ADH-LCL	1			0.5		0.5						0.5	0.5	test flew 172
+8/26/2009		C172	72TN	ADH-SNL-ADH	3			1.5		1.5				1.5		1.5	1.5	"pilotage, dead reckoning, alternator failure, James Whelchel"
+8/29/2009		C172	72TN	ADH-SNL-SRE-ADH	6		6	3.0		3.0	2.0				3.0	3.0	3.0	"CFII review, ILS 17 @ SNL, NDB @ SRE, VOR A @ ADH, Jake Durham"
+8/28/2009		C172	72TN	ADH-SNL-ADH	4			1.5		1.5				1.5		1.5	1.5	"beginning flight instruction, touch-n-goes, pilotage, dead reckoning, Pacer Hill"
+8/31/2009		C172	72TN	ADH-PWA	1			0.6		0.6			0.6			0.6	0.6	flew up for CFII
+8/31/2009		C172	72TN	PWA-LCL	2		3	1.1		1.1	0.5					1.1	1.1	"Passed CFII Checkride, Ken Coplin"
+8/31/2009		C172	72TN	PWA-ADH	1			0.7		0.7			0.7			0.7	0.7	"flew back, CFII passed"
+8/31/2009		C172	72TN	ADH-3OK0-ADH	2			1.0		1.0				1.0		1.0	1.0	"flew with Pacer Hill, landings much better, Smith International"

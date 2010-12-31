@@ -1,0 +1,607 @@
+Date	Plane	Type	Route	Total	PIC	Solo	SIC	Dual Received	Dual Given	Actual Instrument	Simulated Instrument	Approaches	Night	Cross Country	Day Landings	Night Landings	Remarks				
+07/02/03	9615T	PA-38-112	TPF-TPF	0.5				0.5									"Preflight, certificates, documents, checklists"				
+07/10/03	9754T	PA-38-112	TPF-TPF	0.8				0.8							1		"Taxiing, takeoff, level off, cruise, descent turns"				
+07/16/03	2316K	PA-38-112	TPF-TPF	0.9				0.9							1		"Slow flight, power off/on stalls"				
+07/23/03	9754T	PA-38-112	TPF-TPF	0.9				0.9			0.3				1		"Power off/on stalls, ground ref., steep turns"				
+07/28/03	9615T	PA-38-112	TPF-TPF	1				1							1		"Ground reference mnh, turns around a point, s-turns"				
+08/16/03	9754T	PA-38-112	TPF-TPF	0.9				0.9							2		"Slips, emergency descents, engine failures"				
+08/23/03	9615T	PA-38-112	TPF-TPF	1				1			0.2				6		"Traffic pattern, communications, touch & go's"				
+08/30/03	9754T	PA-38-112	TPF-PCM-TPF	1.1				1.1							5		Touch & go's				
+09/13/03	2316K	PA-38-112	TPF-LAL-TPF	1.1				1.1							5		"class D comm procedures, VOR nav tracking"				
+09/20/03	9754T	PA-38-112	TPF-TPF	1				1							7		touch & go's				
+09/27/03	9754T	PA-38-112	TPF-TPF	1.1				1.1							3		Review maneuvers				
+10/12/03	9754T	PA-38-112	TPF-VDF-TPF	1				1							8		"Touch and go's, engine failures"				
+10/19/03	9754T	PA-38-112	TPF-PIE-SPG-TPF	1.1				1.1							5		"Touch and go's, Class B"				
+11/01/03	2316K	PA-38-112	TPF-TPF	1.1	0.3	0.3		0.8							8		"Touch and go's, crosswinds, solo"				
+11/08/03	9754T	PA-38-112	TPF-TPF	1.1				1.1							4		"slow flight, stalls, steep turns, review"				
+11/16/03	9615T	PA-38-112	TPF-TPF	1.1				1.1							7		short & soft field takeoffs and landings.				
+11/22/03	9615T	PA-38-112	TPF-TPF	0.7				0.7							3		x-wind takeoff & landings				
+11/30/03	2316K	PA-38-112	TPF-TPF	0.6	0.6	0.6									7		solo touch & go's				
+12/13/03	2316K	PA-38-112	TPF-VNC-TPF	1.5				1.5						1.5	2		"x-country procedures, dead-reckoning (Venice)"				
+12/20/03	9754T	PA-38-112	TPF-OCF-TPF	2.1				2.1						2.1	2		x-country (Ocala)				
+12/24/03	9754T	PA-38-112	TPF-TPF	1.1	1.1	1.1									14		Solo Touch + go's				
+12/27/03	9754T	PA-38-112	TPF-ISM-AVO-TPF	2.2				2.2						2.2	4		"x-country (Kissimmee, Avon Park)"				
+12/30/03	9754T	PA-38-112	TPF-VDF-TPF	1.2				1.2					1.2			4	"Intro to night operations, mnh at night"				
+01/17/04	9754T	PA-38-112	TPF-VNC-TPF	1.9	1.9	1.9								1.9	5		Solo x-country (Venice)				
+02/10/04	9754T	PA-38-112	TPF-VDF-TPF	1.2				1.2					1.2			4	Night Operations				
+02/21/04	9615T	PA-38-112	TPF-OCF-TPF	2	2	2								2	2		Solo x-country (Ocala)				
+03/14/04	9615T	PA-38-112	TPF-ISM-AVO-TPF	3.4	3.4	3.4								3.4	11		"x-country, 3 landings at controlled tower"				
+03/28/04	2316K	PA-38-112	TPF-TPF	1	1	1									10		"solo flight, landing practice"				
+04/10/04	9754T	PA-38-112	TPF-TPF	0.5				0.5							5		landing practice				
+05/01/04	9754T	PA-38-112	TPF-TPF	1.4				1.4			0.5				5		"stalls, steep turns, performance takeoffs"				
+05/08/04	9754T	PA-38-112	TPF-TPF	1.7				1.7			1				5		"review all manheuvers, test prep"				
+06/07/04	2316K	PA-38-112	TPF-TPF	1.4				1.4			0.5				4		"review all manheuvers, test prep"				
+10/19/04	2316K	PA-38-112	TPF-ORL-TPF	1.9				1.9					1.9	1.9		2	night x-country procedures				
+10/31/04	2316K	PA-38-112	TPF-TPF	1.1				1.1							3		"private pilot prep: steep turns, slow flight, stalls, ect"				
+11/06/04	9615T	PA-38-112	TPF-TPF	1.4				1.4			0.3				4		"private pilot prep: unusual attitudes, goggles"				
+11/13/04	2316K	PA-38-112	TPF-TPF	1.1				1.1			0.4				3		private pilot prep: Mock checkride				
+12/01/04	2316K	PA-38-112	TPF-TPF	1.2	1.2	1.2									6		Solo private pilot exam prep				
+12/04/04	9615T	PA-38-112	TPF-TPF	1.3	1.3						0.3				3		Private Pilot Checkride - Satisfactory				
+01/01/05	2316K	PA-38-112	TPF-TPF	0.8	0.8	0.8									3		Area flight				
+04/03/05	1009F	C172	TPF-TPF	1.1	1.1			1.1							3		C172 Checkout - Stan Hayes				
+05/07/05	738FC	C172	TPF-TPF	0.8	0.8	0.8									1		Area flight				
+08/04/05	738NU	C172	TPF-TPF	1.3	1.3	1.3									5		3 FULL STOPS				
+09/18/05	2316K	PA-38-112	TPF-TPF	0.5	0.5	0.5									1		Area flight				
+10/27/05	925ER	PA-44-180	DAB-DAB	1.3				1.3							1		133M Unit 208 FLT 1				
+11/01/05	925ER	PA-44-180	DAB-OMN-DAB	1.7				1.7							3		133M Unit 211 FLT 2				
+11/10/05	930ER	PA-44-180	DAB-XFL-DAB	1.4				1.4							3		133M Unit 214 FLT 3				
+11/12/05	938ER	PA-44-180	DAB-PIE-DAB	2.2				2.2						2.2	2		133M Unit 216 FLT 4				
+11/22/05	939ER	PA-44-180	DAB-XFL-DAB	1.5				1.5			0.1		1.5			2	133M Unit 218 FLT 5				
+11/28/05	937ER	PA-44-180	DAB-EVB-DAB	1.8				1.8							3		133M Unit 222 FLT 7				
+12/01/05	936ER	PA-44-180	DAB-CHS	2.3				2.3					2.3	2.3		1	133M Unit 220 FLT 6				
+12/04/05	936ER	PA-44-180	DAB-DAB	0.8				0.8							1		No Unit - Aircraft problem RTB				
+12/06/05	931ER	PA-44-180	DAB-XFL-DAB	2				2							4		133M Unit 224 FLT 8				
+12/12/05	931ER	PA-44-180	DAB-OMN-DAB	1.6				1.6			0.1				4		133M Unit 225 FLT 9				
+12/16/05	930ER	PA-44-180	DAB-XFL-DAB	1.9	1.9										4		No Unit - Failed checkride				
+01/04/06	2316K	PA-38-112	TPF-CDK-TPF	2.4	2.4	2.4								2.4	4		"Cedar Key XC, 3 Full Stop"				
+01/10/06	921ER	PA-44-180	DAB-DAB	1	1										1		133M Unit 227 EOF Checkride				
+01/20/06	N484ER	C172	DAB-DAB	1.6	1.6			1.6		0.1	1.2		1.6			1	232 U306 FLT 01				
+01/27/06	N484ER	C172	DAB-DAB	1.7	1.7			1.7			1.4	1	1.7			1	232 U311 FLT 02				
+02/04/06	N430ER	C172	DAB-DAB	1.6	1.6			1.6			1.3		1.6			1	232 U315 FLT 03				
+02/08/06	N501ER	C172	DAB-DAB	1.7	1.7			1.7			1.4		1.7			1	232 U319 FLT 04				
+02/10/06	N403ER	C172	DAB-MLB-DAB	2.1	2.1			2.1			1.6		2.1	2.1		2	232 U320 FLT 05				
+02/27/06	N931ER	PA-44-180	DAB-DAB	2	2			2			1.6	2	2			1	232 U327 FLT 06				
+03/05/06	N2316K	PA-38-112	TPF-CHN-BOW-TPF	1.4	1.4	1.4								1.4	3		"Wauchula, Bartow XC, 3 Full Stops"				
+03/07/06	N939ER	PA-44-180	DAB-DAB	1.5	1.5			1.5			1.2	2	1.5			1	232 U331 FLT 07				
+03/11/06	N925ER	PA-44-180	DAB-DAB	1.8	1.8			1.8			1.4	3			1		232 U334 FLT 08				
+04/05/06	N924ER	PA-44-180	DAB-DAB	1.6	1.6			1.6			1.2	3	0.6			1	232 U339 FLT 09				
+04/07/06	N934ER	PA-44-180	DAB-CRG-DAB	1.8	1.8			1.8			1.5	2	1.8	1.8		1	232 U341 FLT 11				
+04/12/06	N927ER	PA-44-180	DAB-FMY-VRB-DAB	4.3	4.3			4.3		0.7	3.2	3	4.3	4.3		3	232 U340 FLT 10				
+04/14/06	N934ER	PA-44-180	DAB-DAB	2.1	2.1			2.1			1.8	2	2.1			1	232 U343 FLT 12				
+04/19/06	N929ER	PA-44-180	DAB-DAB	1.4	1.4			1.4			1	2	1.4			1	No Unit				
+05/02/06	N928ER	PA-44-180	DAB-DAB	1.7	1.7			1.7			1.4	3			1		232 U346 EOCF 13				
+05/19/06	1033A	C172	TPF-TPF	1	1			1							3		Checkout C172 Atlas				
+05/19/06	32568	PA-28R-200	TPF-LAL-COI-TPF	2.2	2.2			2.2					1	2.2		3	Night XC to Merrit Island w/ Todd				
+05/25/06	2086E	C172	TPF-ZPH-BKV-X39-TPF	1.2	1.2	1.2								1.2	5						
+06/15/06	5871L	AA-5	PCM-73J-CRE	4.3	4.3							1		4.3	2		VOR 5 CRE				
+06/15/06	5871L	AA-5	CRE-73J-PCM	4.4	4.4	4.4								4.4	2						
+06/30/06	32568	PA-28R-200	TPF-LAL-TPF	0.4	0.4			0.4						0.4	1						
+06/30/06	1033A	C172	LAL-TPF	0.6	0.6								0.6	0.6		1					
+07/04/06	738NU	C172	TPF-TPF	0.6	0.6								0.6			2					
+07/06/06	1033A	C172	TPF-TPF	0.9	0.9								0.9			1					
+07/20/06	32426	PA-28-180	TPF-LAL	0.5	0.5									0.5	1						
+07/23/06	8151Y	SR22	TPF-TPF	0.5	0.5			0.5							1						
+07/23/06	1033A	C172	TPF-TPF	0.3	0.3								0.3			3					
+08/13/06	1033A	C172	TPF-TPF	0.3	0.3								0.3			4					
+08/19/06	564AT	C172	TPF-TPF	0.9	0.9			0.9							2						
+08/20/06	32426	PA-28-180	TPF-PCM	0.6	0.6						0.4	2			1		ILS 5 LAL / VOR 28 PCM w/ Safety Pilot				
+08/20/06	32426	PA-28-180	PCM-TPF	0.4													As Safety Pilot				
+09/08/06	939ER	PA-44-180	DAB-DAB	1.9	1.9			1.9							3						
+09/15/06	928ER	PA-44-180	DAB-EVB-DAB	1.6	1.6			1.6							5						
+09/22/06	931ER	PA-44-180	DAB-PIE-DAB	2.7	2.7			2.7						2.7	2						
+09/28/06	921ER	PA-44-180	DAB-JAX-DAB	3.5	3.5			3.5					3.5	3.5		9					
+10/04/06	939ER	PA-44-180	DAM-FMY-MTH-DAB	5.2	5.2			5.2					5.2	5.2		3					
+10/13/06	930ER	PA-44-180	DAB-DAB	0.4	0.4			0.4													
+10/18/06	928ER	PA-44-180	DAB-XFL-DAB	1.9	1.9			1.9							2						
+10/20/06	936ER	PA-44-180	DAB-OMN-DAB	1.6	1.6			1.6							4						
+10/25/06	931ER	PA-44-180	DAB-DED-DAB	2	2			2							3						
+10/27/06	921ER	PA-44-180	DAB-EVB-DAB	1.7	1.7			1.7							4						
+11/08/06	939ER	PA-44-180	DAB-OMN-DAB	1.6	1.6			1.6							3		Commercial TCEF				
+11/15/06	429ER	C172	DAB-XFL-DAB	2	2			2							3						
+11/17/06	404ER	C172	DAB-EVB-DAB	1.8	1.8			1.8							4						
+11/19/06	403ER	C172	DAB-OMN-DAB	1.5	1.5	1.5									3						
+11/20/06	422ER	C172	DAB-OMN-DAB	1.8	1.8			1.8							5						
+11/24/06	2086E	C172	TPF-TPF	1.3	1.3										10						
+11/25/06	406ER	C172	DAB-OMN-DAB	1.8	1.8	1.8									9						
+12/01/06	407ER	C172	DAB-XFL-DAB	2.2	2.2			2.2							4						
+12/04/06	409ER	C172	DAB-XFL-DAB	2.2	2.2			2.2							3						
+12/08/06	428ER	C172	DAB-EVB-DAB	1.6	1.6			1.6							4						
+12/14/06	430ER	C172	DAB-EVB-DAB	1.9	1.9										4		Single-Engine Addon TCEF				
+12/28/06	2086E	C172	TPF-TPF	1	1								0.5			1					
+12/31/06	2086E	C172	TPF-TPF	0.3	0.3	0.3							0.3			2	Full Stop Landings				
+12/31/06	2086E	C172	TPF-TPF	1.3	1.3						1.1	3	1.3			1	"ILS 5 LAL, LOC 5 LAL, RNAV 21 TPF-TPF w/ Safety Pilot"				
+01/01/07	2086E	C172	TPF-TPF	0.6	0.6												As safety pilot				
+01/26/07	464ER	C172	DAB-DAB	1.3	1.3			1.3							2						
+01/29/07	6009M	C172	DAB-DAB	1.5	1.5			1.5							1						
+02/07/07	249MA	Decathalon	DAB-DAB	1	1			1							1						
+02/16/07	24447	C172	DAB-DAB	1.6	1.6			1.6							1						
+02/19/07	465ER	C172	DAB-DAB	1.6	1.6			1.6							1						
+02/28/07	463ER	C172	DAB-GNV-DAB	2.3	2.3			2.3						2.3	2						
+03/09/07	24447	C172	DAB-DAB	1.7	1.7			1.7							1						
+03/12/07	470ER	C172	DAB-DAB	1.8	1.8			1.8							1						
+03/14/07	1835U	C172	DAB-DAB	1.5	1.5			1.5							1						
+04/04/07	454ER	C172	DAB-EVB-DAB	2.1	2.1			2.1					2.1			1					
+04/09/07	701ER	PA-28R-200	DAB-EVB-DAB	1.7	1.7			1.7							4						
+04/11/07	701ER	PA-28R-200	DAB-DAB	1.5	1.5			1.5							9						
+04/16/07	470ER	C172	DAB-DAB	1.4	1.4			1.4							1						
+04/18/07	1835U	C172	DAB-DAB	1.7	1.7			1.7							1						
+04/22/07	66113	C172	DAB-DAB	1.8	1.8						0.6	2			1		"ILS 7L DAB, VOR A X47"				
+04/23/07	962WW	PA-28R-200	DAB-DAB	1.5	1.5			1.5							6						
+05/15/07	454ER	C172	DAB-DAB	1.7	1.7										1						
+05/20/07	442ER	C172	DAB-EVB-DAB	2	2										5						
+05/23/07	446ER	C172	DAB-DAB	1.8	1.8			1.8			0.3				1						
+05/24/07	800JA	PA-28R-200	DAB-DAB	1.6	1.6			1.6							5						
+05/25/07	1140N	C172	DAB-DAB	2.3	2.3			2.3							1						
+05/27/07	684JB	C172	DAB-DAB	1.4	1.4	1.4									1						
+06/04/07	435ER	C172	DAB-DAB	1.6	1.6	1.6									1		FA417 Review Solo Flight				
+06/04/07	703ER	PA-28R-200	DAB-DAB	1.1	1.1			1.1							4		FA417 Review Flight				
+06/05/07	4174B	PA-28R-200	DAB-DAB	0.5	0.5										2		CFI Arrow Checkride (Scott Lavoy)				
+06/07/07	452ER	C172	DAB-DAB	1.7	1.7						0.1				1		CFI Cessna Checkride (Carolina Lenz)				
+07/08/07	2086E	C172	TPF-TPF	1.1	1.1										5						
+07/18/07	453ER	C172	DAB-DAB	1.7	1.7			1.7			1.1		1.7			1					
+07/21/07	1140N	C172	DAB-DAB	1.6	1.6			1.6		0.1	1	2			1		"GPS 34 DAB, GPS 8 OMN"				
+07/23/07	440ER	C172	DAB-DAB	1.6	1.6			1.6			1.1	3			1						
+07/27/07	447ER	C172	DAB-DAB	1.1	1.1						0.5	2			1		CFII C172 Flight (Carolina Lenz)				
+07/30/07	471ER	C172	DAB-OMN-DAB	1.1	1.1										6						
+07/31/07	454ER	C172	DAB-DAB	0.5	0.5										1		CFII Flight Re-Do (Dikko)				
+08/22/07	443ER	C172	DAB-OMN-DAB	1.3	1.3			1.3					1.3			3					
+08/23/07	443ER	C172	DAB-DAB	1.9	1.9			1.9							1						
+08/25/07	460ER	C172	DAB-DAB	2	2			2				1			1						
+08/27/07	481ER	C172	DAB-DAB	1.9	1.9			1.9							1		ERAU Acceptance Flight #1 (IP Singh) - Incomplete				
+08/29/07	1140G	C172	DAB-XFL-DAB	2.1	2.1			2.1							3		ERAU Acceptance Flight #2(Kriventchev) - Unsat				
+08/30/07	22266	C150	DAB-XFL-DAB	2	2			2							3						
+08/31/07	389ER	C172	DAB-DAB	1.1	1.1										1		ERAU Acceptance Flight #3(Kulesia) - Sat				
+09/06/07	22266	C150	DAB-DAB	1.3	1.3	1.3									7						
+09/09/07	422ER	C172	X47	0.7	0.7	0.7									1		EFT Ferry Flight				
+09/12/07	22266	C150	DAB-DAB	1.7	1.7	1.7									11						
+09/14/07	477ER	C172	DAB-DAB	1.7	1.7				1.7				1					221			
+09/15/07	430ER	C172	DAB-XFL	0.5	0.5										1						
+09/15/07	430ER	C172	XFL-XFL	0.6	0.6										1						
+09/15/07	430ER	C172	XFL-DAB	0.7	0.7										1						
+09/21/07	22266	C150	DAB-DAB	1.1	1.1	1.1									4						
+09/22/07	58ER	C150	XFL-XFL	0.5	0.5										3						
+09/24/07	375ER	C172	DAB-DAB	1.4	1.4				1.4	0.1			1.4			1		221			
+09/26/07	58ER	C150	DAB-DAB	1.2	1.2			1.2							5						
+09/26/07	465ER	C172	DAB-DAB	1.8	1.8				1.8	0.1			1.8					221			
+09/27/07	375ER	C172	DAB-DAB	2.1	2.1				2.1	0.1			2.1					221			
+09/28/07	453ER	C172	DAB-DAB	1.3	1.3				1.3									221			
+10/03/07	58ER	C150	DAB-DAB	1.3	1.3	1.3									7						
+10/06/07	58ER	C150	DAB-XFL	1	1	1									3						
+10/06/07	58ER	C150	XFL-DAB	1.4	1.4	1.4									6						
+10/07/07	463ER	C172	DAB-DAB	1.8	1.8				1.8						1			221			
+10/07/07	460ER	C172	DAB-DAB	2.3	2.3				2.3				2.3					221			
+10/10/07	471ER	C172	DAB-DAB	1.6	1.6				1.6				1.6			1		221			
+10/12/07	58ER	C150	DAB-DAB	1.5	1.5	1.5									7						
+10/12/07	463ER	C172	DAB-ZPH-DAB	3.3	3.3				3.3				3	3.3				221			
+10/13/07	422ER	C172	XFL-XFL	0.6	0.6			0.6							1						
+10/14/07	386ER	C172	DAB-SAV-JAX-DAB	4.8	4.8				4.8	0.4			4.8	4.8		1		221			
+10/20/07	454ER	C172	DAB-XFL	0.7	0.7										1						
+10/20/07	58ER	C150	XFL-XFL	0.6	0.6	0.6									3						
+10/20/07	454ER	C172	XFL-DAB	0.8	0.8										1						
+10/23/07	375ER	C172	DAB-DAB	1.5	1.5				1.5				1.5					221			
+10/25/07	491ER	C172	DAB-DAB	1.5	1.5				1.5	0.3			1.5					221			
+10/26/07	58ER	C150	DAB-DAB	1.2	1.2	1.2									3						
+10/27/07	58ER	C150	XFL-XFL	0.9	0.9	0.9									6						
+10/27/07	421ER	C172	XFL-DAB	0.6	0.6					0.3		1			1		ILS 7L DAB				
+10/28/07	481ER	C172	DAB-DAB	1.5	1.5				1.5	0.6								221			
+10/28/07	463ER	C172	DAB-DAB	1.9	1.9				1.9	1.2		1	1.9			1	ILS 7L DAB	221			
+11/03/07	58ER	C150	DAB-MLB	1.5	1.5	1.5								1.5	1						
+11/04/07	58ER	C150	MLB	1.2	1.2	1.2									10						
+11/04/07	53ER	C150	MLB	1	1	1									8						
+11/04/07	58ER	C150	MLB	1.7	1.7	1.7									16						
+11/05/07	53ER	C150	MLB-MLB	1.2	1.2	1.2									8						
+11/05/07	58ER	C150	MLB-MLB	1.4	1.4	1.4									11						
+11/05/07	58ER	C150	MLB-MLB	0.8	0.8										5						
+11/06/07	53ER	C150	MLB-MLB	1.1	1.1	1.1									9						
+11/06/07	58ER	C150	MLB-MLB	1.3	1.3	1.3									11						
+11/06/07	53ER	C150	MLB-MLB	1.1	1.1	1.1									9						
+11/07/07	53ER	C150	MLB-MLB	0.7	0.7	0.7									7						
+11/07/07	58ER	C150	MLB-MLB	1.4	1.4	1.4									8						
+11/08/07	53ER	C150	MLB-MLB	0.6	0.6	0.6									3		Regionals 2007 POWER-ON Landings				
+11/09/07	422ER	C172	MLB-MLB	0.5	0.5										1		Regionals 2007 MESSAGE DROP				
+11/10/07	53ER	C150	MLB-MLB	0.5	0.5	0.5									3		Regionals 2007 POWER-OFF Landings				
+11/11/07	58ER	C150	MLB-DAB	1.6	1.6	1.6								1.6	1						
+11/12/07	435ER	C172	DAB-DAB	2.3	2.3				2.3				2.3					221			
+11/14/07	482ER	C172	DAB-DAB	1.9	1.9				1.9				1.9					221			
+11/14/07	463ER	C172	DAB-DAB	1.6	1.6				1.6				1.6					221			
+11/15/07	472ER	C172	DAB-MLB	2.7	2.7				2.7				2.7	2.7				221			
+11/18/07	435ER	C172	DAB-F45-TIX-DAB	4.1	4.1				4.1	0.5			3.6	4.1				221			
+11/19/07	463ER	C172	DAB-ZPH-DAB	3.1	3.1				3.1				3.1	3.1		1		221			
+11/20/07	452ER	C172	DAB-DAB	1.6	1.6				1.6				1.6					121			
+11/25/07	468ER	C172	DAB-DAB	1.6	1.6				1.6						1			121			
+11/25/07	442ER	C172	DAB-DAB	1.9	1.9				1.9				0.5					221			
+11/28/07	460ER	C172	DAB-DAB	2.1	2.1				2.1	1			2.1					221			
+12/02/07	368ER	C172	DAB-DAB	1.7	1.7				1.7									221			
+12/02/07	447ER	C172	DAB-FMY-VRB-DAB	4.8	4.8				4.8	0.4			4.6	4.8				221			
+12/06/07	1140G	C172	DAB-BKV-DAB	3.2	3.2				3.2				3	3.2				221			
+12/08/07	470ER	C172	DAB-XFL-DAB	1.7	1.7				1.7						1			121			
+12/09/07	453ER	C172	DAB-DAB	1.7	1.7				1.7									121			
+12/09/07	1140N	C172	DAB-OMN-DAB	1.9	1.9				1.9									121			
+12/12/07	460ER	C172	DAB-OMN-XFL-DAB	2.4	2.4						0.4	1	0.6		5	1					
+12/26/07	564AT	C172	TPF-SPG-TPF	1.2	1.2										2						
+01/05/08	3552C	C172	TPF-TPF	1	1										1						
+01/10/08	53ER	C150	DAB-DAB	1.3	1.3	1.3									10						
+01/13/08	368ER	C172	DAB-GNV-DAB	2.6	2.6				2.6				2.6	2.6				121			
+01/15/08	53ER	C150	DAB-DAB	1	1	1									4						
+01/17/08	392ER	C172	DAB-XFL-DAB	1.8	1.8				1.8				1.8			1		121			
+01/21/08	477ER	C172	DAB-DAB	2.5	2.5				2.5				2.5					121			
+01/25/08	471ER	C172	DAB-DAB	1.4	1.4				1.4				1.2					221			
+01/31/08	58ER	C150	DAB-DAB	1.5	1.5	1.5									11						
+01/31/08	440ER	C172	DAB-DAB	1.8	1.8	1.8			1.8				1.8					221			
+02/02/08	428ER	C172	DAB-XFL	0.6	0.6										1						
+02/02/08	58ER	C150	XFL-XFL	0.6	0.6	0.6									3						
+02/02/08	428ER	C172	XFL-XFL	0.4	0.4										1						
+02/02/08	428ER	C172	XFL-DAB	0.6	0.6										1						
+02/05/08	481ER	C172	DAB-DAB	1.9	1.9				1.9				1.9					221			
+02/06/08	487ER	C172	DAB-DAB	2.1	2.1				2.1				2.1			1		221			
+02/09/08	53ER	C150	XFL-XFL	0.6	0.6	0.6									3						
+02/09/08	428ER	C172	XFL-XFL	1	1										2						
+02/10/08	386ER	C172	DAB-DAB	1.6	1.6				1.6						1			121			
+02/12/08	53ER	C150	DAB-DAB	1	1	1									7						
+02/16/08	462ER	C172	DAB-XFL-DAB	2.1	2.1				2.1									121			
+02/18/08	463ER	C172	DAB-DAB	2	2				2				2					221			
+02/19/08	53ER	C150	DAB-OMN-DAB	1.1	1.1	1.1									4						
+02/19/08	428ER	C172	DAB-OMN-DAB	2	2				2									121			
+02/19/08	443ER	C172	DAB-DAB	1.4	1.4				1.4				1.4			1		221			
+02/20/08	471ER	C172	DAB-DAB	2.4	2.4				2.4				2.4					221			
+02/21/08	421ER	C172	DAB-DED-DAB	1.6	1.6				1.6						1			121			
+02/22/08	466ER	C172	DAB-DAB	1.7	1.7				1.7				1.4					221			
+02/28/08	392ER	C172	DAB-DAB	1.6	1.6				1.6			1	1.6					221			
+02/28/08	368ER	C172	DAB-EVB-DAB	2.5	2.5				2.5				2.5			1		121			
+03/01/08	58ER	C150	XFL-XFL	0.6	0.6	0.6									1						
+03/01/08	440ER	C172	DAB-XFL-DAB	2.1	2.1				2.1						2			121			
+03/02/08	428ER	C172	DAB-DAB	1.9	1.9				1.9						2			121			
+03/05/08	470ER	C172	DAB-DAB	1.8	1.8				1.8				1.8					221			
+03/06/08	53ER	C150	DAB-DAB	1.7	1.7	1.7									11						
+03/06/08	421ER	C172	DAB-OMN-DAB	2.1	2.1				2.1						1			121			
+03/08/08	58ER	C150	DAB-XFL-DAB	1.1	1.1	1.1									2						
+03/09/08	53ER	C150	XFL-XFL	1.6	1.6	1.6									12						
+03/10/08	58ER	C150	DAB-DAB	0.9	0.9	0.9									6						
+03/13/08	491ER	C172	DAB-DAB	1.8	1.8				1.8				1.8					221			
+03/14/08	53ER	C150	DAB-DAB	1.8	1.8	1.8									15						
+03/16/08	421ER	C172	DAB-DAB	1.7	1.7				1.7									121			
+03/16/08	443ER	C172	DAB-CRG-DAB	2.2	2.2				2.2				2.2	2.2				121			
+03/17/08	428ER	C172	DAB-DAB	1.5	1.5				1.5						2			121			
+03/17/08	392ER	C172	DAB-DAB	1.9	1.9				1.9									221			
+03/17/08	53ER	C150	DAB-DAB	0.9	0.9	0.9									8						
+03/19/08	370ER	C172	DAB-DAB	1.2	1.2				1.2						1			221			
+03/25/08	53ER	C150	DAB-DAB	0.3	0.3	0.3															
+03/27/08	58ER	C150	DAB-DAB	1.2	1.2	1.2									8						
+03/27/08	428ER	C172	DAB-DAB	1.6	1.6				1.6						2			121			
+03/29/08	58ER	C150	XFL-XFL	0.8	0.8	0.8									6						
+03/29/08	394ER	C172	XFL-XFL	0.5	0.5										1						
+03/31/08	493ER	C172	DAB-MLB-DAB	2.1	2.1				2.1				2.1	2.1				121			
+04/01/08	421ER	C172	DAB-DAB	1.2	1.2				1.2									121			
+04/03/08	421ER	C172	DAB-DAB	1.9	1.9				1.9						1			121			
+04/04/08	495ER	C172	DAB-DAB	1.7	1.7				1.7									221			
+04/05/08	53ER	C150	DAB-XFL	1.1	1.1	1.1									7						
+04/06/08	466ER	C172	DAB-DAB	1.1	1.1					0.1					1						
+04/07/08	491ER	C172	DAB-DAB	1.7	1.7				1.7	1.4		4	1			1		221			
+04/08/08	474ER	C172	DAB-CRG-DAB	3.1	3.1				3.1	2.5		4	3.1	3.1		1		221			
+04/10/08	442ER	C172	DAB-F45-FPR-DAB	4.1	4.1				4.1	0.1			4	4.1		1		221			
+04/12/08	53ER	C150	XFL-XFL	0.8	0.8	0.8									4						
+04/12/08	472ER	C172	XFL-DAB	1.5	1.5				1.5						1			121			
+04/15/08	53ER	C150	DAB-EVB-DAB	1.3	1.3	1.3									8						
+04/17/08	421ER	C172	DAB-28J-DAB	2.5	2.5				2.5						3			121			
+04/20/08	376ER	C172	DAB-XFL-DAB	1.9	1.9				1.9									121			
+04/21/08	482ER	C172	DAB-0MN-DAB	2.1	2.1				2.1									221			
+04/22/08	58ER	C150	DAB-DAB	1.6	1.6										8						
+04/22/08	370ER	C172	DAB-DAB	1.6	1.6				1.6				0.2					221			
+04/26/08	53ER	C150	DAB-AYS	2.3	2.3	2.3								2.3	3						
+04/26/08	53ER	C150	AYS-MCN	1.7	1.7	1.7								1.7	3						
+04/28/08	53ER	C150	MCN-RMG	2.1	2.1	2.1								2.1	1						
+04/28/08	53ER	C150	RMG-THA	1.5	1.5	1.5								1.5	1						
+04/28/08	53ER	C150	THA-MQY	1	1	1							1			1					
+04/29/08	53ER	C150	MQY-MQY	1.5	1.5	1.5									18						
+04/29/08	58ER	C150	MQY-MQY	1.6	1.6	1.6									18						
+04/30/08	58ER	C150	MQY-MQY	1.6	1.6	1.6									13						
+04/30/08	53ER	C150	MQY-MQY	1.6	1.6	1.6									17						
+05/03/08	53ER	C150	MQY-MQY	1	1	1									7						
+05/04/08	392ER	C172	MBT-MBT	0.5	0.5				0.5						1			121			
+05/04/08	58ER	C150	MQY-MQY	0.8	0.8	0.8									6						
+05/07/08	58ER	C150	MQY-MQY	0.6	0.6	0.6									2		Nationals 08 - Power On				
+05/09/08	58ER	C150	MQY-MQY	0.5	0.5	0.5									2		Nationals 08 - Power Off				
+05/10/08	394ER	C172	MQY-MQY	0.5	0.5										1		Nationals 08 - Message Drop				
+05/12/08	394ER	C172	MQY-TMA	2.5	2.5				2.5					2.5	1			121			
+05/12/08	394ER	C172	TMA-DAB	1.6	1.6				1.6					1.6				121			
+06/11/08	158DJ	EA-50	BCT-GNV	1.5				1.5		0.2				1.5	1		First Eclipse 500 Flight!!!			1.5	
+08/07/08	135DJ	EA-50	GNV-BCT	1.7				1.7						1.7	1		Eclipse 500 Training Flight #1			1.7	
+08/08/08	135DJ	EA-50	BCT-LAL	1.9				1.9			1.5	3		1.9	3		Eclipse 500 Training Flight #2			1.9	
+08/11/08	134DJ	EA-50	LAL-BCT	1.8				1.8			1	4		1.8	3		Eclipse 500 Training Flight #3			1.8	
+08/25/08	58ER	C150	XFL-DAB	0.8	0.8	0.8									1						
+08/25/08	442ER	C172	DAB-DAB	1.6				1.6			0.3	1			1						
+08/27/08	58ER	C150	DAB-OMN-DAB	1.6	1.6	1.6									7						
+08/28/08	443ER	C172	DAB-DAB	1.4				1.4							1						
+08/29/08	58ER	C150	DAB-DAB	1.6	1.6	1.6									8						
+08/29/08	58ER	C150	DAB-DAB	0.5	0.5				0.5									121			
+08/29/08	454ER	C172	DAB-OMN-DAB	1.9	1.9				1.9						1			121			
+08/31/08	58ER	C150	DAB-XFL-DAB	2	2				2						1			121			
+08/31/08	460ER	C172	DAB-DAB	0.6	0.6	0.6							0.6			3					
+09/01/08	442ER	C172	DAB-DAB	2.2	2.2				2.2				2.2					121			
+09/03/08	58ER	C150	DAB-DAB	1.1	1.1				1.1						1			121			
+09/06/08	58ER	C150	XFL	0.9	0.9	0.9									6						
+09/07/08	440ER	C172	DAB-SAV-JAX-DAB	4.9	4.9				4.9	0.1				4.9				221			
+09/08/08	53ER	C150	DAB-DAB	1.5	1.5	1.5									16						
+09/12/08	58ER	C150	DAB-DAB	1.4	1.4	1.4									8						
+09/13/08	58ER	C150	XFL-XFL	0.7	0.7	0.7									3						
+09/15/08	53ER	C150	DAB-DAB	0.3	0.3	0.3															
+09/17/08	488ER	C172	DAB-MLB-DAB	2.3	2.3				2.3					2.3				121			
+09/22/08	58ER	C150	DAB-DAB	2	2	2									16						
+09/26/08	392ER	C172	DAB-GNV-DAB	2.4	2.4				2.4				2.4	2.4				121			
+09/27/08	58ER	C150	XFL-XFL	0.8	0.8	0.8									2						
+09/29/08	58ER	C150	DAB-DAB	1.7	1.7	1.7									14						
+10/04/08	421ER	C172	XFL-XFL	0.8	0.8				0.8						1			121			
+10/04/08	465ER	C172	DAB-XFL-DAB	1.4	1.4				1.4				1.4			1		321			
+10/10/08	472ER	C172	DAB-DAB	1.4	1.4				1.4									121			
+10/10/08	389ER	C172	DAB-XFL-DAB	2.4	2.4				2.4				2.4					121			
+10/11/08	53ER	C150	OMN-DAB-XFL	2	2	2									4						
+10/11/08	421ER	C172	XFL-XFL	0.8	0.8				0.8						1			121			
+10/11/08	53ER	C150	XFL-DAB	1	1	1									1						
+10/12/08	394ER	C172	DAB-DAB	0.4	0.4				0.4									121			
+10/13/08	58ER	C150	DAB-DAB	1.8	1.8	1.8									15						
+10/13/08	490ER	C172	DAB-DAB	1	1				1				1					121			
+10/18/08	421ER	C172	XFL-XFL	0.7	0.7				0.7						1			121			
+10/20/08	464ER	C172	DAB-OMN-DAB	2	2				2						2			121			
+10/21/08	53ER	C150	DAB-DAB	1.5	1.5	1.5									10						
+10/23/08	53ER	C150	DAB-DAB	1.2	1.2	1.2									9						
+10/24/08	450ER	C172	DAB-DAB	2	2				2	0.6		3	1.1					221			
+10/25/08	6186V	C172	DAB-EVB-DAB	2.1	2.1				2.1				2.1					321			
+10/26/08	58ER	C150	DAB-OMN-DAB	1.7	1.7	1.7									10						
+10/26/08	447ER	C172	DAB-DAB	1.9	1.9				1.9									121			
+10/27/08	53ER	C150	DAB-DAB	1.5	1.5										15						
+10/30/08	58ER	C150	DAB-DAB	0.5	0.5	0.5									3		Regionals 2008 Power-Off				
+10/31/08	58ER	C150	DAB-DAB	0.7	0.7	0.7									3		Regionals 2008 Power-On				
+11/02/08	469MB	C172	DAB-OMN-DAB	1.9	1.9				1.9									121			
+11/04/08	482ER	C172	DAB-DAB	2.1	2.1				2.1	0.7		1	1			1		221			
+11/06/08	385ER	C172	DAB-DAB	1.3	1.3				1.3				1.3					221			
+11/08/08	1318Q	C172	DAB-EVB-DAB	1.7	1.7				1.7						2			121			
+11/10/08	386ER	C172	DAB-XFL-DAB	1.9	1.9				1.9				1.9			1		321			
+11/11/08	446ER	C172	DAB-DAB	1.8	1.8				1.8									121			
+11/11/08	490ER	C172	DAB-DAB	1.6	1.6				1.6									121			
+11/11/08	385ER	C172	DAB-DAB	1.2	1.2				1.2				1.2					221			
+11/12/08	464ER	C172	DAB-DAB	1.9	1.9				1.9				1.9					321			
+11/14/08	6269Q	C172	DAB-OMN-DAB	1.4	1.4				1.4				1.4					321			
+11/15/08	440ER	C172	DAB-DAB	1.2	1.2				1.2						1			121			
+11/17/08	6269Q	C172	DAB-VQQ-DAB	2.7	2.7				2.7				2.7	2.7				221			
+11/18/08	466ER	C172	DAB-VQQ-DAB	2.2	2.2				2.2				2.2	2.2				121			
+11/19/08	463ER	C172	DAB-PIE-MLB-DAB	4.5	4.5				4.5				4.5	4.5				221			
+11/21/08	385ER	C172	DAB-GNV-DAB	2.1	2.1				2.1				2.1	2.1				121			
+11/22/08	385ER	C172	DAB-DAB	1.8	1.8				1.8									321			
+11/23/08	N450ER	C172	DAB-GNV-DAB	2.3	2.3				2.3					2.3				121			
+11/23/08	N463ER	C172	DAB-XFL-DAB	1.7	1.7				1.7						1			121			
+11/24/08	N483ER	C172	DAB-DAB	1.3	1.3				1.3				1.3			1		121			
+11/28/08	N567DD	C172	DAB-OCF-DAB	2.2	2.2				2.2					2.2				121			
+11/29/08	N495ER	C172	DAB-GNV-DAB	2.2	2.2				2.2					2.2				121			
+11/29/08	N437ER	C172	DAB-CRG-DAB	2.5	2.5				2.5	0.6			0.6	2.5				221			
+11/29/08	N437ER	C172	DAB-DAB	2.2	2.2				2.2				2.2					121			
+12/01/08	N466ER	C172	DAB-EVB-DAB	1.5	1.5				1.5				1.5					321			
+12/03/08	N368ER	C172	DAB-DAB	1.8	1.8				1.8									321			
+12/03/08	N442ER	C172	DAB-XFL-DAB	2.3	2.3				2.3				2.3			1		121			
+12/04/08	N453ER	C172	DAB-DAB	1.6	1.6				1.6				1.6			1		121			
+12/05/08	N483ER	C172	DAB-MLB-DAB	2	2				2				2	2				121			
+12/06/08	N24447	C172	DAB-PIE-MLB-DAB	4.5	4.5				4.5	1.5			0.3	4.5				221			
+12/07/08	N488ER	C172	DAB-DED-DAB	1.5	1.5				1.5									121			
+12/08/08	N442ER	C172	DAB-XFL-DAB	1.8	1.8				1.8				1.8					121			
+12/09/08	N452ER	C172	DAB-OMN-DAB	1.9	1.9				1.9						1			121			
+12/10/08	N368ER	C172	DAB-EVB-DAB	2	2				2				2					121			
+12/13/08	N470ER	C172	DAB-DED-DAB	1.9	1.9				1.9						1			121			
+12/13/08	N465ER	C172	DAB-DAB	1.3	1.3				1.3				1.3					121			
+12/26/08	N1033A	C172	TPF-TPF	1.3	1.3										2						
+01/08/09	N462ER	C172	DAB-DAB	1.8	1.8				1.8				1.8					221			
+01/09/09	N487ER	C172	DAB-DAB	1.5	1.5				1.5									121			
+01/09/09	N394ER	C172	DAB-DAB	1.7	1.7				1.7									121			
+01/10/09	N392ER	C172	DAB-DAB	1.7	1.7				1.7									221			
+01/10/09	N488ER	C172	DAB-DAB	1.7	1.7				1.7				1.7					221			
+01/12/09	N452ER	C172	DAB-DAB	1.7	1.7				1.7						1			121			
+01/13/09	N471ER	C172	DAB-DAB	1.5	1.5				1.5	1		3	1.5					221			
+01/14/09	N495ER	C172	DAB-OMN-DAB	1.8	1.8				1.8						1			121			
+01/14/09	N487ER	C172	DAB-DAB	1.9	1.9				1.9				1.9					221			
+01/15/09	N493ER	C172	DAB-DED-DAB	1.5	1.5				1.5						1			121			
+01/16/09	N465ER	C172	DAB-OMN-DAB	1.7	1.7				1.7						1			121			
+01/17/09	N447ER	C172	DAB-DAB	1.4	1.4				1.4									321			
+01/19/09	N452ER	C172	DAB-DAB	1.8	1.8				1.8									121			
+01/19/09	N452ER	C172	DAB-DAB	1.7	1.7				1.7				1.7			1		221			
+01/21/09	N450ER	C172	DAB-DAB	1.8	1.8				1.8									121			
+01/21/09	N440ER	C172	DAB-DAB	1.5	1.5				1.5				1.5					221			
+01/21/09	N470ER	C172	DAB-DAB	1.5	1.5				1.5				1.5					121			
+01/23/09	N464ER	C172	DAB-DED-DAB	1.8	1.8				1.8						1			121			
+01/23/09	N481ER	C172	DAB-SFB-DAB	1.5	1.5				1.5				1.5			1		221			
+01/23/09	N368ER	C172	DAB-CRG-DAB	1.9	1.9				1.9				1.9	1.9				121			
+01/24/09	N442ER	C172	DAB-DAB	1.6	1.6				1.6									121			
+01/24/09	N465ER	C172	DAB-DAB	1.4	1.4				1.4									121			
+01/26/09	N376ER	C172	DAB-XFL-DAB	1.9	1.9				1.9									121			
+01/27/09	N465ER	C172	DAB-DAB	1	1				1						1			121			
+01/27/09	N375ER	C172	DAB-OMN-DAB	1.9	1.9				1.9						1			121			
+01/27/09	N376ER	C172	DAB-DAB	2	2				2				2					221			
+01/28/09	N491ER	C172	DAB-DAB	1.7	1.7				1.7									321			
+01/29/09	N481ER	C172	DAB-DAB	2	2				2	1.6		4	1.2				4 Approaches + Hold	221			
+01/30/09	N470ER	C172	DAB-EVB-DAB	1.9	1.9				1.9						2			121			
+01/30/09	N483ER	C172	DAB-VQQ-DAB	2.5	2.5				2.5				2.5	2.5				121			
+01/31/09	N443ER	C172	DAB-DAB	1.7	1.7				1.7									221			
+01/31/09	N488ER	C172	DAB-DAB	1.8	1.8				1.8									121			
+02/02/09	N464ER	C172	DAB-DAB	1.3	1.3				1.3	0.5			1.3					221			
+02/03/09	N375ER	C172	DAB-XFL-DAB	2	2				2						1			121			
+02/04/09	N462ER	C172	DAB-DAB	2.1	2.1				2.1									121			
+02/05/09	N460ER	C172	DAB-OMN-DAB	1.8	1.8				1.8									121			
+02/05/09	N446ER	C172	DAB-DAB	1.2	1.2				1.2				1.2					121			
+02/07/09	N452ER	C172	DAB-EVB-DAB	1.8	1.8				1.8						1			121			
+02/09/09	N370ER	C172	DAB-DAB	1.7	1.7				1.7									121			
+02/09/09	N487ER	C172	DAB-OMN-XFL-DAB	2.1	2.1				2.1									121			
+02/10/09	N496ER	C172	DAB-DAB	1.4	1.4				1.4									121			
+02/10/09	N453ER	C172	DAB-XFL-DAB	1.9	1.9				1.9						1			121			
+02/10/09	N470ER	C172	DAB-DAB	1.5	1.5				1.5				1.5					221			
+02/12/09	N463ER	C172	DAB-DAB	1.7	1.7				1.7						1			121			
+02/14/09	N386ER	C172	DAB-DAB	1.4	1.4				1.4						1			121			
+02/16/09	N472ER	C172	DAB-DAB	1.5	1.5				1.5				1.4					221			
+02/16/09	N385ER	C172	DAB-XFL-DAB	1.6	1.6				1.6				1.6			1		121			
+02/17/09	N482ER	C172	DAB-OMN-DAB	2	2				2						1			121			
+02/19/09	N452ER	C172	DAB-CRG-DAB	2.8	2.8				2.8				2.8	2.8				121			
+02/20/09	N437ER	C172	DAB-OMN-DAB	2	2				2						1			121			
+02/20/09	N447ER	C172	DAB-OMN-DAB	1.6	1.6				1.6				1.6					321			
+02/25/09	N483ER	C172	DAB-DAB	1.8	1.8				1.8									121			
+02/26/09	N460ER	C172	DAB-XFL-DAB	1.9	1.9				1.9									121			
+02/27/09	N477ER	C172	DAB-OMN-DAB	1.7	1.7				1.7									121			
+02/27/09	N477ER	C172	DAB-XFL-DAB	2.1	2.1				2.1									121			
+02/27/09	N495ER	C172	DAB-DAB	1.8	1.8				1.8				1.8					221			
+02/27/09	N6269Q	C172	DAB-DAB	1.9	1.9				1.9				1.9					221			
+02/28/09	N491ER	C172	DAB-ZPH-DAB	2.9	2.9				2.9					2.9				221			
+03/02/09	N394ER	C172	DAB-DAB	1.6	1.6				1.6						1			121			
+03/02/09	N1318Q	C172	DAB-OMN-DAB	1.9	1.9				1.9				1.1					221			
+03/02/09	N471ER	C172	DAB-DAB	1.7	1.7				1.7				1.7					221			
+03/03/09	N446ER	C172	DAB-SSI-VQQ-DAB	4.2	4.2				4.2	0.1			4.2	4.2				221			
+03/04/09	N440ER	C172	DAB-DAB	1.4	1.4				1.4						1			121			
+03/04/09	N462ER	C172	DAB-DAB	1.8	1.8				1.8						2			121			
+03/05/09	N375ER	C172	DAB-XFL-DAB	2	2				2									121			
+03/07/09	N376ER	C172	DAB-MLB-DAB	2.1	2.1				2.1					2.1				221			
+03/07/09	N474ER	C172	DAB-XFL-DAB	2.8	2.8				2.8				2.8					121			
+03/09/09	N24447	C172	DAB-OMN-DAB	2	2				2						1			121			
+03/09/09	N24447	C172	DAB-EVB-DAB	1.6	1.6				1.6				1.6					321			
+03/10/09	N460ER	C172	DAB-EVB-DAB	1.9	1.9				1.9						1			121			
+03/13/09	N6269Q	C172	DAB-OMN-DAB	1.7	1.7				1.7				0.4					221			
+03/14/09	N477ER	C172	DAB-EVB-DAB	1.2	1.2				1.2						1			121			
+03/16/09	N447ER	C172	DAB-DAB	1.6	1.6				1.6									121			
+03/16/09	N460ER	C172	DAB-DAB	2	2				2				1					221			
+03/18/09	N452ER	C172	DAB-OMN-DAB	1.6	1.6				1.6									121			
+03/18/09	N474ER	C172	DAB-XFL-DAB	2.6	2.6				2.6				2.6					121			
+03/19/09	N394ER	C172	DAB-XFL-OMN-DAB	1.6	1.6				1.6									121			
+03/20/09	N2239Y	PJ-3-S	F57-F57	1.5				1.5							15						1.5
+03/20/09	N2239Y	PJ-3-S	F57-F57	1.6				1.6							16						1.6
+03/21/09	N2239Y	PJ-3-S	F57-F57	1.9				1.9							19						1.9
+03/21/09	N2239Y	PJ-3-S	F57-F57	0.8	0.8										5						0.8
+03/23/09	N450ER	C172	DAB-XFL-DAB	2.6	2.6				2.6				2.6					121			
+03/24/09	N483ER	C172	DAB-ZPH-DAB	2.4	2.4				2.4				2.4	2.4				121			
+03/25/09	N472ER	C172	DAB-XFL-DAB	2.4	2.4				2.4				2.4			1		121			
+03/30/09	N24447	C172	DAB-XFL-OMN-DAB	2.6	2.6				2.6						1			321			
+03/30/09	N474ER	C172	DAB-EVB-DAB	2.1	2.1				2.1				0.5		1	1	William Wallace's First Solo	121			
+03/31/09	N474ER	C172	DAB-DAB	0.8	0.8				0.8						1			121			
+03/31/09	N24447	C172	DAB-DAB	1.8	1.8				1.8									121			
+04/01/09	N477ER	C172	DAB-DAB	1.9	1.9				1.9				1.9					221			
+04/04/09	N471ER	C172	DAB-EVB-DAB	1.4	1.4				1.4						2			121			
+04/04/09	N375ER	C172	DAB-DAB	1.7	1.7				1.7						1			121			
+04/04/09	N370ER	C172	DAB-DAB	1.8	1.8				1.8						1			121			
+04/04/09	N376ER	C172	DAB-DAB	1.2	1.2				1.2									221			
+04/07/09	N466ER	C172	DAB-ZPH-DAB	2.6	2.6				2.6				2.6	2.6				121			
+04/08/09	N462ER	C172	DAB-XFL-DAB	1.7	1.7				1.7						2			121			
+04/08/09	N389ER	C172	DAB-VQQ-DAB	2.4	2.4				2.4				2.4	2.4				121			
+04/10/09	N376ER	C172	DAB-DAB	1.8	1.8				1.8						1			321			
+04/11/09	N471ER	C172	DAB-DAB	1.6	1.6				1.6						1			121			
+04/11/09	N443ER	C172	DAB-DAB	1.7	1.7				1.7						1			121			
+04/13/09	N389ER	C172	DAB-DAB	1.7	1.7				1.7									321			
+04/14/09	N462ER	C172	DAB-DAB	2.3	2.3				2.3				2.3					121			
+04/15/09	N481ER	C172	DAB-DAB	1.9	1.9				1.9									121			
+04/15/09	N493ER	C172	DAB-VQQ-DAB	2.8	2.8				2.8					2.8	1			121			
+04/15/09	N440ER	C172	DAB-DAB	1.3	1.3				1.3				1.3					121			
+04/17/09	N483ER	C172	DAB-DAB	1.8	1.8				1.8									121			
+04/17/09	N491ER	C172	DAB-LAL-DAB	2.5	2.5				2.5					2.5				121			
+04/18/09	M488ER	C172	DAB-EVB-SFB-DAB	2.1	2.1				2.1									121			
+04/18/09	N464ER	C172	DAB-DAB	1.8	1.8				1.8									121			
+04/21/09	N392ER	C172	DAB-XFL-DAB	2	2				2						2			121			
+04/21/09	N370ER	C172	DAB-CRG-DAB	2.2	2.2				2.2				2.2	2.2				121			
+04/22/09	N470ER	C172	DAB-VRB-MLB-DAB	3.1	3.1				3.1					3.1				121			
+04/22/09	N443ER	C172	DAB-DAB	1.7	1.7				1.7				1.7					221			
+04/23/09	N495ER	C172	DAB-EVB-DAB	1.7	1.7				1.7								Nikul Rana's First Solo	121			
+04/25/09	N446ER	C172	DAB-GNV-DAB	2.4	2.4				2.4					2.4				121			
+04/25/09	N471ER	C172	DAB-XFL-DAB	1.6	1.6				1.6				1.6			1		221			
+04/27/09	N375ER	C172	DAB-DAB	1.1	1.1				1.1									121			
+04/28/09	N443ER	C172	DAB-VQQ-DAB	2.3	2.3				2.3					2.3				121			
+04/28/09	N464ER	C172	DAB-DAB	2.1	2.1				2.1				2.1					221			
+04/29/09	N477ER	C172	DAB-ZPH-DAB	2.4	2.4				2.4					2.4	1			121			
+04/29/09	N454ER	C172	DAB-XFL-DAB	2.2	2.2				2.2				2.2			1		221			
+04/30/09	N470ER	C172	DAB-MLB-DAB	2.1	2.1				2.1				2.1	2.1				121			
+05/01/09	N385ER	C172	DAB-OCF-DAB	2.7	2.7				2.7					2.7	2			121			
+05/02/09	N443ER	C172	DAB-DAB	1	1										1		Danya's First Flight				
+05/04/09	N465ER	C172	DAB-GNV-SGJ-DAB	2.8	2.8				2.8					2.8				121			
+05/04/09	N463ER	C172	DAB-DAB	2	2				2									121			
+05/06/09	N465ER	C172	DAB-DAB	1.9	1.9				1.9									121			
+05/07/09	N460ER	C172	DAB-DAB	1.3	1.3				1.3									121			
+05/07/09	N481ER	C172	DAB-OMN-DAB	2	2				2						3			121			
+05/08/09	N453ER	C172	DAB-XFL-DAB	1.9	1.9				1.9						1			121			
+05/08/09	N490ER	C172	DAB-DAB	1.5	1.5				1.5									221			
+05/09/09	N440ER	C172	DAB-DAB	1.5	1.5				1.5									121			
+05/09/09	N375ER	C172	DAB-XFL-DAB	2	2				2				2					321			
+05/13/09	N496ER	C172	DAB-DAB	1.8	1.8				1.8						1			121			
+05/15/09	N385ER	C172	DAB-DAB	1.8	1.8				1.8									321			
+05/23/09	N491ER	C172	DAB-DAB	1.9	1.9				1.9	0.3		1					ILS 7L DAB	121			
+05/25/09	N452ER	C172	DAB-DAB	1.4	1.4				1.4									121			
+05/25/09	N435ER	C172	DAB-DAB	1.8	1.8				1.8									321			
+05/25/09	N483ER	C172	DAB-DAB	1.8	1.8				1.8						1			121			
+05/26/09	N460ER	C172	DAB-DAB	1.9	1.9				1.9									121			
+05/26/09	N462ER	C172	DAB-EVB-DAB	1.7	1.7				1.7						1			121			
+05/29/09	N482ER	C172	DAB-DAB	1.6	1.6				1.6						2			121			
+05/29/09	N491ER	C172	DAB-XFL-DAB	2	2				2				2					321			
+05/30/09	N452ER	C172	DAB-DAB	1.9	1.9				1.9	0.1								417A			
+05/30/09	N482ER	C172	DAB-OMN-DAB	1.7	1.7				1.7									121			
+06/01/09	N488ER	C172	DAB-XFL-DAB	2.2	2.2				2.2				2.2					321			
+06/05/09	N464ER	C172	DAB-DAB	0.8	0.8				0.8									121			
+06/05/09	N464ER	C172	DAB-DAB	2.2	2.2				2.2				2.2			1		417A			
+06/06/09	N470ER	C172	DAB-EVB-DAB	1.4	1.4				1.4									121			
+06/08/09	N493ER	C172	DAB-EVB-DAB	2	2				2						2			121			
+06/08/09	N462ER	C172	DAB-OMN-DAB	2	2				2									121			
+06/09/09	N495ER	C172	DAB-OMN-DAB	2.2	2.2				2.2						2			121			
+06/09/09	N471ER	C172	DAB-DAB	1.4	1.4				1.4				1.4					321			
+06/09/09	N483ER	C172	DAB-DAB	1.4	1.4				1.4				1.4					321			
+06/10/09	N375ER	C172	DAB-XFL-DAB	2.1	2.1				2.1				2.1					121			
+06/10/09	N462ER	C172	DAB-GNV-DAB	2.1	2.1				2.1				2.1	2.1				121			
+06/11/09	N437ER	C172	DAB-EVB-DAB	1.8	1.8				1.8						1			121			
+06/11/09	N462ER	C172	DAB-ISM-DAB	2.2	2.2				2.2				2.2	2.2				121			
+06/12/09	N490ER	C172	DAB-OMN-DAB	2	2				2									121			
+06/13/09	N454ER	C172	DAB-DED-DAB	2.3	2.3				2.3									121			
+06/15/09	N442ER	C172	DAB-DAB	1.7	1.7				1.7									121			
+06/15/09	N491ER	C172	DAB-DAB	1.3	1.3				1.3				0.4					121			
+08/19/09	N386ER	C172	DAB-DAB	1.3	1.3			1.3			0.3	1			1		Annual Stands – GPS 16 DAB				
+08/22/09	N466ER	C172	DAB-XFL-DAB	1.7	1.7			1.7		0.4		2			3		"GPS 16 DAB, ILS 7L DAB"				
+08/24/09	N437ER	C172	DAB-DAB	1.7	1.7				1.7									221			
+08/24/09	N495ER	C172	DAB-OMN-DAB	1	1	1							1			3					
+08/27/09	N389ER	C172	DAB-DAB	1.2	1.2				1.2				1.2					417I			
+08/28/09	N375ER	C172	DAB-DAB	1.6	1.6				1.6									221			
+08/29/09	N477ER	C172	DAB-DAB	1	1	1									1						
+08/29/09	N471ER	C172	DAB-DAB	1.4	1.4				1.4						1			121			
+08/29/09	N375ER	C172	DAB-DAB	1.1	1.1				1.1									121			
+08/31/09	N488ER	C172	DAB-DAB	1.9	1.9				1.9									221			
+09/05/09	N394ER	C172	DAB-DAB	1.7	1.7				1.7									221			
+09/05/09	N490ER	C172	DAB-DAB	1.4	1.4				1.4				1.4					121			
+09/07/09	N460ER	C172	DAB-XFL-DAB	1.9	1.9				1.9				1.9			1		121			
+09/08/09	N491ER	C172	DAB-DAB	1.4	1.4				1.4									121			
+09/08/09	N386ER	C172	DAB-DED-DAB	1.8	1.8				1.8				1.8			1		121			
+09/09/09	N472ER	C172	DAB-DAB	1.6	1.6				1.6	0.5								221			
+09/11/09	N474ER	C172	DAB-OMN-DAB	1.9	1.9				1.9	0.5								221			
+09/14/09	N490ER	C172	DAB-DAB	1.6	1.6				1.6									221			
+09/15/09	N460ER	C172	DAB-DAB	1.5	1.5				1.5									121			
+09/15/09	N376ER	C172	DAB-DAB	2.4	2.4				2.4				2.4					221			
+09/16/09	N386ER	C172	DAB-DAB	1.8	1.8				1.8				1.8					221			
+09/16/09	N472ER	C172	DAB-DAB	2	2				2				2					221			
+09/17/09	N394ER	C172	DAB-DAB	1.9	1.9				1.9	0.1								221			
+09/17/09	N471ER	C172	DAB-DAB	1.6	1.6				1.6				1.6			1		121			
+09/18/09	N482ER	C172	DAB-EVB-DAB	1.7	1.7				1.7				1.7					121			
+09/19/09	N483ER	C172	DAB-DAB	1.5	1.5				1.5									121			
+09/19/09	N443ER	C172	DAB-DAB	1.5	1.5				1.5									221			
+09/23/09	N496ER	C172	DAB-DAB	1.6	1.6				1.6									221			
+09/23/09	N370ER	C172	DAB-DAB	2.3	2.3				2.3				2.3					221			
+09/24/09	N442ER	C172	DAB-DAB	2	2				2									121			
+09/24/09	N482ER	C172	DAB-DAB	1.7	1.7				1.7				1.7					121			
+09/28/09	N376ER	C172	DAB-DAB	2.1	2.1				2.1						1			221			
+09/28/09	N368ER	C172	DAB-XFL-DAB	2	2				2				2					321			
+09/29/09	N389ER	C172	DAB-DAB	1.8	1.8				1.8						1			221			
+09/29/09	N471ER	C172	DAB-DAB	1.7	1.7				1.7									121			
+09/30/09	N453ER	C172	DAB-DAB	1.8	1.8				1.8		0.3	1					ILS 7L DAB	221			
+10/01/09	N496ER	C172	DAB-DAB	1.4	1.4				1.4				0.6					221			
+10/01/09	N496ER	C172	DAB-DAB	1.9	1.9				1.9				1.9					221			
+10/02/09	N440ER	C172	DAB-DAB	1.2	1.2				1.2				1.2			1		121			
+10/03/09	N472ER	C172	DAB-XFL-DAB	1.7	1.7				1.7									121			
+10/05/09	N472ER	C172	DAB-XFL-DAB	2	2				2				2					221			
+10/06/09	N491ER	C172	DAB-OMN-DAB	1.8	1.8				1.8									121			
+10/07/09	N487ER	C172	DAB-OMN-DAB	1.9	1.9				1.9				0.7		1			221			
+10/09/09	N477ER	C172	DAB-DAB	2	2				2				1.8					221			
+10/09/09	N389ER	C172	DAB-DAB	1.4	1.4				1.4				1.4					221			
+10/12/09	N491ER	C172	DAB-DAB	1.7	1.7				1.7				0.7					221			
+10/12/09	N466ER	C172	DAB-XFL-DAB	1.7	1.7				1.7				1.7					221			
+10/13/09	N435ER	C172	DAB-DAB	1.6	1.6				1.6	0.8								221			
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					

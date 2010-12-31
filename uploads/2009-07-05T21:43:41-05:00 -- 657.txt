@@ -1,0 +1,638 @@
+DATE	AIRCRAFT MAKE & MODEL	AIRCRAFT IDENT	ROUTE OF FLIGHT	DURATION	Turbine	Safety Pilot	Glass Panel	LANDINGS DAY	LANDINGS NIGHT	INSTRUMENT	SIMULATED INSTRUMENT	APPROACHES & TYPE	NIGHT	SIMULATOR	CROSS COUNTRY	SOLO	PILOT IN COMMAND	SECOND IN COMMAND	DUAL	INSTRUCTOR	REMARKS
+12 Jul 98	C152	N68158	3CM-3CM	1.1				1											1.1		
+25 Jul 98	C152	N68158	3CM-3CM	1.2				1			0.4								1.2		
+30 Jul 98	C172	N7257Q	3CM-3CM	1.3				1											1.3		
+16 Aug 98	C172	N7257Q	3CM-3CM	1.4				1											1.4		
+22 Aug 98	C152	N68158	3CM-3CM	1.3				1											1.3		
+27 Aug 98	C152	N68158	3CM-3CM	1.4				3	1				0.8						1.4		
+3 Sep 98	C172	N7257Q	3CM-3CM	1.3					1				0.8						1.3		
+7 Sep 98	C152	N68158	3CM-3CM	1.4				4											1.4		
+8 Sep 98	C152	N68158	3CM-3CM	1.4				8											1.4		
+22 Sep 98	C152	N68158	3CM-3CM	1.3				7											1.3		
+5 Oct 98	C152	N68158	3CM-3BS-3CM	1.8				6											1.8		
+7 Nov 98	C152	N68158	3CM-3CM	1.3				7											1.3		
+12 Dec 98	C172	N318RC	3CM-MBS-3CM	1.2					5										1.2		Ground time of 2.5 hours carried over from 11/15/98
+30 Dec 98	C172	N318RC	3CM-3CM	1.3				1											1.3		
+6 Feb 99	C172	N318RC	3CM-MBS-3CM	1.8					2		0.7		1.8						1.8		
+13 Mar 99	C172	N318RC	3CM-3SG-3CM	1.6				8					1.6						1.6		
+1 May 99	C172	N318RC	3CM-BAX-3CM	1.9				8											1.9		
+12 Jun 99	C172	N318RC	3CM-3CM	1.4				7											1.4		
+26 Jun 99	C172	N318RC	3CM-3CM	1.5				5											1.5		
+8 Jul 99	C172	N318RC	3CM-3CM	1.5												0.5	0.5		1.0		Solo
+22 Aug 99	C172	N318RC	3CM-3BS-3CM	1.8															1.8		Known mistakes in landings	 problem exists in paper logbook
+31 Aug 99	C172	N318RC	3CM-3CM	0.8				6											0.8		
+7 Nov 99	C172	N318RC	3CM-3CM	1.2				8											1.2		2.0 hours of ground carried over from previous entry
+21 Nov 99	C172	N318RC	3CM-3CM	1.2				8											1.2		
+12 Mar 00	C152	N68158	3CM-3CM	1.1				7											1.1		
+25 Jun 00	C172	N7257Q	3CM-3CM	1.5				3			0.5								1.5		
+27 Jun 00	C172	N7257Q	3CM-3CM	1.1				7								1.1	1.1				
+16 Jul 00	C172	N318RC	3CM-3CM	1.0				6								1.0	1.0				
+23 Jul 00	C172	N318RC	3CM-3CM	1.0				3								1.0	1.0				
+10 Aug 00	C172	N318RC	3CM-3CM	0.9				3								0.9	0.9				
+25 Aug 00	C172	N318RC	3CM-HTL-CAD-3CM	3.2				6							3.2				3.2		
+25 Aug 00	C172	N318RC	3CM-HTL-CAD-3CM	2.7				3							2.7	2.7	2.7				
+24 Sep 00	C172	N318RC	3CM-3CM	0.5				3								0.5	0.5				
+2 Oct 00	C172	N318RC	3CM-3CM	0.9				3								0.9	0.9				
+21 Oct 00	C172	N7257Q	3CM-3BS-3CM	1.0				2								1.0	1.0				
+30 Oct 00	C172	N318RC	3CM-3BS-3CM	1.0				3								1.0	1.0				
+5 Nov 00	C172	N318RC	3CM-3BS-3CM	1.1				3								1.1	1.1				
+2 Dec 00	C172	N318RC	3CM-3CM	1.0				6								1.0	1.0				
+10 Mar 01	C172	N318RC	3CM-3CM	1.7				12											1.7		
+18 Mar 01	C172	N318RC	3CM-3CM	1.2				5								1.2	1.2				
+30 Mar 01	C172	N318RC	3CM-TVC-3CM	2.5				3							2.5				2.5		
+6 May 01	C172	N318RC	3CM-TVC-3CM	2.9				4							2.9	2.9	2.9				
+4 Jun 01	C172	N318RC	3CM-HTL-3CM	1.8					3				1.8		1.8				1.8		
+7 Jun 01	C172	N318RC	3CM-3CM	1.7				14											1.7		
+8 Jun 01	C172	N318RC	3CM-MBS-3CM	1.8				4											1.8		
+10 Jun 01	C172	N318RC	3CM-3CM	0.8				5								0.8	0.8				
+16 Jun 01	C172	N318RC	3CM-3CM	1.6				7								1.6	1.6				
+20 Jun 01	C172	N318RC	3CM-3CM	1.5				12											1.5		
+10 Jul 01	C172	N318RC	3CM-3CM	1.7				4			1.2								1.7		
+13 Jul 01	C172	N318RC	3CM-3CM	1.9				5			0.8								1.9		
+19 Jul 01	C172	N318RC	3CM-3CM	1.9				5								1.9	1.9				
+22 Jul 01	C172	N318RC	3CM-3CM	1.7				10								1.7	1.7				
+27 Jul 01	C172	N7257Q	3CM-3CM	1.6				6								1.6	1.6				
+3 Aug 01	C172	N318RC	3CM-3CM	1.3				7											1.3		
+11 Aug 01	C152	N68158	3CM-3CM	1.7				7											1.7		
+11 Aug 01	C152	N68158	D95-D95	1.4													1.4				Private pilot practical
+14 Aug 01	C172	N7257Q	3CM-3CM	1.0				1									1.0				First flight passangers
+15 Aug 01	PA28-161	N2092A	3CM-3CM	0.6				4									0.6		0.6		Warrior checkout
+1 Sep 01	PA28-161	N2219Y	3CM-HTL-3CM	1.9				2							1.9		1.9				Combined from two entry's - was entered as two segments
+17 Oct 01	C172	N55121	AZO-AZO	0.8				1									0.8		0.8		Duncan aviation checkout
+6 Dec 01	C172	N318RC	3CM-HTL-3CM	1.7					3				1.7		1.7		1.7		1.7		
+11 Dec 01	C172	N7257Q	3CM-AMN-MOP-3CM	2.6					4				2.6				2.6				Jill's birthday present
+21 Dec 01	PA28-161	N2092A	3CM-83D-3CM	3.5				1	1				1.7		3.5		3.5				To see Laura M.
+20 Apr 02	PA28-161	N2219Y	3CM-HTL-3CM	1.7				3							1.7		1.7				
+3 May 02	C172	N318RC	3CM-3CM	1.9				2									1.9		1.9		
+5 May 02	C172	N318RC	3CM-7D2-3CM	2.3				2	1				1.1		2.3		2.3				CLOSE YOUR FLIGHT PLAN!
+15 May 02	C172	N318RC	3CM-3CM	1.8				1			1.1						1.8		1.8		
+15 May 02	PA28-161	N2092A	3CM-7D2-3CM	1.8				2							1.8		1.8				Down to Troy with Sarah
+22 May 02	C172	N318RC	3CM-3CM	2.1				1			2.0						2.1		2.1		
+25 May 02	C172	N318RC	3CM-MKG-3CM	2.5				2							2.5		2.5				One approach	 three landings. Deano wasn't scared.
+6 Jun 02	C172	N318RC	3CM-BXZ-HTL-3CM	1.9				1			1.8				1.9		1.9		1.9		
+7 Jun 02	C172	N318RC	3CM-OSC-3CM	1.9				1		1.0	0.8				1.9		1.9		1.9		
+8 Jun 02	C172	N318RC	3CM-HTL-6DW-3CM	2.8				1		2.0	0.8				2.8		2.8		2.8		It seems that 6DW was(?) an airport? And I must have done an approach there. Can't read entry
+10 Jun 02	C172	N318RC	3CM-MBS-3CM	1.2				3		1.0	0.2						1.2		1.2		
+18 Jun 02	C172	N318RC	3CM-OSC-HTL-MBS-3CM	2.7				1			2.6				2.7		2.7		2.7		
+19 Jun 02	PA28R	N3225R	3CM-TVC-MKG-MBS-3CM	3.2				1			3.2				3.2		3.2		3.2		
+22 Jun 02	C172	N318RC	3CM-3CM	0.7				5								0.7	0.7				
+25 Jun 02	C172	N318RC	3CM-78D-3CM	2.1				1		2.0							2.1		2.1		
+27 Jun 02	C172	N318RC	3CM-GRR-3CM	2.3				2			2.1						2.3		2.3		
+28 Jun 02	PA28R	N3225R	3CM-HTL-3CM	2.1				4							2.1		2.1		2.1		
+29 Jun 02	PA28R	N3225R	3CM-CGX-3CM	4.3				1	1	0.3	2.8		1.2		4.3		4.3		4.3		Great trip to Chicago Meigs	 my last time.
+1 Jul 02	C172	N318RC	3CM-HTL-MBS-3CM	2.2				1			2.0				2.2		2.2		2.2		
+2 Jul 02	C172	N318RC	3CM-HYX-MBS-3BS-3CM	1.9				1			1.8						1.9		1.9		
+3 Jul 02	C172	N318RC	3CM-3CM	1.9				1			1.8						1.9		1.9		
+6 Jul 02	C172	N318RC	3CM-LAN-FNT-3CM	2.4				3							2.4		2.4				Stuck valve in 8RC	 you'll notice the amount of time I spend in this aircraft after this flight goes down dramaticly
+10 Jul 02	PA28-161	N2219Y	3CM-PHN-3CM	2.3				1			2.2				2.3		2.3		2.3		
+11 Jul 02	PA28-161	N2092A	3CM-BXZ-HTL-GDD-MBS-3CM	2.0				1			1.9				2.0		2.0		2.0		Another one of those airports that does not seem to exist
+12 Jul 02	PA28-161	N2092A	3CM-LAN-FNT-3CM	2.3				1			2.2				2.3		2.3		2.3		
+13 Jul 02	PA28-161	N2219Y	3CM-GRR-AZO-LAN-3CM	3.4		3.4		2			3.2				3.4		3.4				With Ashley	 pre-practical brushup
+23 Jul 02	PA28R	N3225R	3CM-3CM	0.9				3									0.9		0.9		
+23 Jul 02	C172	N318RC	3CM-HYX-MBS-3CM	1.6				1			1.5						1.6		1.6		
+26 Jul 02	C172	N318RC	3CM-MBS-3CM	0.8				2								0.8	0.8				
+2 Aug 02	C172	N318RC	3CM-D95-3CM	0.9				3								0.9	0.9				Instrument rated
+2 Aug 02	C172	N318RC	D95-FNT-D95	1.4				1									1.4				Instrument practical
+6 Aug 02	C172	N55121	BTL-3CM	0.8				3									0.8		0.8		Centenial checkout
+6 Aug 02	PA28R	N3225R	3CM-BTL-3CM	2.3				2		0.1					2.3		2.3				
+15 Aug 02	PA28R	N3225R	3CM-ARB-3CM	2.3				2		0.4					2.3		2.3				To pickup Emily
+27 Oct 02	C172	585WA	BTL-78D-BTL	2.7				2							2.7		2.7				Jill's 20th birthday
+26 Nov 02	C172	N318RC	3CM-3BS-3CM	1.3				6	6				1.3				1.3		1.3		
+4 Jan 03	PA28R	N3225R	3CM-GDW-MBS-3CM	1.8				1			1.7						1.8		1.8		
+5 Mar 03	PA28-161	N2092A	3CM-TVC-3CM	2.3					2				2.3		2.3		2.3		2.3		
+26 Apr 03	C172	N318RC	3CM-3CM	1.6				4									1.6		1.6		
+3 May 03	PA28R	N3225R	3CM-BKL-3CM	3.1				2							3.1		3.1				
+13 May 03	PA28-161	N2092A	3CM-HTL-3CM	1.6				2							1.6		1.6				
+18 May 03	C172	N318RC	3CM-LAN-3CM	2.6					3		2.5		0.7		2.6		2.6		2.6		
+30 May 03	PA28-161	N2092A	3CM-3CM	0.9				6								0.9	0.9				
+6 Jun 03	PA28-161	N2219Y	3CM-HTL-3CM	1.8				2							1.8		1.8				
+13 Jun 03	PA28-161	N2092A	3CM-LAN-MBS-3CM	2.1				1		2.0					2.1		2.1		2.1		
+20 Jun 03	PA28-181	4571X	ARB-ARB	1.0				3									1.0		1.0		Aviation center checkout
+23 Jun 03	PA28-181	4571X	ARB-BKL-ARB	2.7				2					0.3		2.7		2.7				
+1 Jul 03	PA28-181	4571X	ARB-AZO-HAI-AZO-ARB	3.2				4		0.2					3.2	1.5	3.2				Katie's birthday
+25 Jul 03	PA28-161	N2092A	3CM-RMY-3CM	2.2				2		0.1					2.2	2.2	2.2				
+3 Jun 04	PA28-161	N2515U	35D-35D	1.4				4									1.4		1.4		Checkout at Dodgen Aircraft
+2 Jul 04	C172	N19992	35D-35D	0.9				5									0.9		0.9		BFR
+14 Mar 05	C172	N73043	GKY-GKY	0.9				1									0.9		0.9		Checkout at Skymates
+1 Jun 05	PCATD	123ODB	GKY-GKY											1.3					1.3		ILS/VOR approaches and holds
+1 Jun 05	C172	N73043	GKY-GKY	1.3					3				0.6				1.3		1.3		Steep turns	 stalls	 slow flight	 landings and night currency
+2 Jun 05	C172	N73043	GKY-RBD-GKY	1.4				1			1.2						1.4		1.4		IPC - 2 ILS approaches RBD	 VOR approach GKY
+2 Jun 05	C172	N73043	GKY-GKY	1.3				4			0.6						1.3		1.3		2 GPS approaches	 short/soft takeoffs/landings
+3 Jun 05	C172	N73043	GKY-GKY	0.9				1									0.9		0.9		Spins
+4 Jun 05	C172	N73043	GKY-1M1-OLV	5.1		5.1		1							5.1		5.1				Safety pilot for Steve Warmath
+4 Jun 05	C172	N73043	OLV-BMG	2.9				1		0.2					2.9	2.9	2.9				Stuck in BMG for weather
+5 Jun 05	C172	N73043	BMG-ARB	1.8				1							1.8	1.8	1.8				Finally to get to ARB - high winds
+6 Jun 05	C172	N73043	ARB-I69-OWB-CGI-OLV	7.7				4		0.3					7.7	7.7	7.7				Long	 long	 long cross country around weather
+7 Jun 05	C172	N73043	OLV-DTN-GKY	5.4		5.4		1							5.4		5.4				Finally back to GKY	 safety pilot for Steve Warmath
+14 Jun 05	C172	N734LY	GKY-PWA-GKY	4.6				2							4.6		4.6				Trip to see Chase
+15 Jun 05	PA28R	N55307	GKY-GKY	1.2				2									1.2		1.2		Commercial maneuvers
+15 Jun 05	PA28R	N55307	GKY-GKY	1.2				3									1.2		1.2		Commercial maneuvers
+16 Jun 05	C172	N734LY	GKY-BKD-GKY	2.6				2			2.5				2.6		2.6				GPS 35 at BKD	 Austin as safety pilot
+18 Jun 05	C172	N73043	GKY-GVT-GKY	2.1					2				2.1		2.1	2.1	2.1				VFR Night Solo
+19 Jun 05	PA28R	N55307	GKY-GKY	1.2				4									1.2		1.2		Commercial maneuvers
+20 Jun 05	PA28R	N55307	GKY-GKY	1.1				1									1.1				Commercial maneuvers practice with Steve
+20 Jun 05	C172	N73043	GKY-FTW-DAL-GKY	2.9					14				2.9			2.9	2.9				Burning njight solo VFR time
+21 Jun 05	PA28R	N55307	GKY-GKY	1.5				4									1.5		1.5		Commercial maneuvers
+21 Jun 05	PA28R	N55307	GKY-GKY	1.3				4									1.3		1.3		Commercial maneuvers
+22 Jun 05	PA28R	N55307	GKY-GKY	1.5				4									1.5		1.5		Commercial maneuvers
+22 Jun 05	PA28R	N55307	GKY-GKY	0.9				6									0.9		0.9		Commercial maneuvers
+22 Jun 05	C172	N73043	GKY-ABI-GKY	3.2				1	1				1.5		3.2		3.2				Near mid-air with a Cessna 414
+24 Jun 05	PA28R	N55307	GKY-GKY	1.7				3									1.7				Commercial checkride
+27 Jun 05	PA44-180	N21113	GKY-GKY	1.2				1											1.2		Multi engine training
+28 Jun 05	PA44-180	N21113	GKY-GKY	1.6				1			0.3								1.6		Multi engine training
+28 Jun 05	PA44-180	N21113	GKY-GKY	1.4				3			0.4								1.4		Multi engine training
+29 Jun 05	PA44-180	N21113	GKY-GKY	1.4				3			0.3						1.4				Multi engine add on checkride
+14 Jul 05	C172	N5219V	GKY-GKY	1.3				5			1.0						1.3		1.3		CFII training
+15 Jul 05	PA44-180	N21113	GKY-ABI-GKY	3.0		1.5		1	1		1.5		1.5		3.0		3.0				Safety pilot for Austin Freeman	 vise versa
+16 Jul 05	PA44-180	N36737	GKY-PWA-GKY	3.4		1.5		2			1.9				3.4		3.4				Safety pilot for Austin Freeman	 vise versa
+17 Jul 05	PA44-180	N36737	GKY-SAT-GKY	4.4		2.2			1		2.0		1.0		2.4		4.4				Safety pilot for Austin Freeman	 vise versa
+19 Jul 05	C172	N5219V	GKY-CRS-GKY	1.8				1			1.8						1.8				Safety pilot for Austin Freeman	 vise versa
+23 Jul 05	PA44-180	N36737	GKY-I06-PVW-AEG-PVW-GKY	10.2		4.8		1	1		5.4		1.0		5.4		10.2				Safety pilot for Austin Freeman	 vise versa
+24 Jul 05	PA44-180	N36737	GKY-CLL-GKY	2.8		1.4		1			1.4				1.4		2.8				Safety pilot for Austin Freeman	 vise versa
+25 Jul 05	C172	N5219V	GKY-AFW-DTO-GKY	2.4				4			2.1						2.4		2.4		ILS at AFW (x3)	 GPS at DTO	 GPS at GKY - CFII training flight
+1 Aug 05	C172	N5219V	GKY-MWL-GKY	2.3				3			1.2						2.3		2.3		GPS and VOR Runway 34 MWL - CFII training flight
+3 Aug 05	C182	N2192P	GKY-XBD-GKY	1.8			1.8	4							1.8		1.8		1.8		High Performance checkout
+4 Aug 05	C172	N5219V	GKY-DTO-AFW-GKY	1.2				1									1.2		1.2		GPS 35 and 17 at Denton	 ILS 16L at AFW
+5 Aug 05	C172	N5219V	GKY-AFW-GKY	3.0				3			1.5						3.0				CFII Checkride - passed with Willis Power as safety pilot
+6 Aug 05	C172	N80181	GKY-GKY	0.7				6									0.7				Landings from right seat
+7 Aug 05	PA44-180	N21113	GKY-GKY	3.2				6									3.2		3.2		MEI Prep PTS-All
+9 Aug 05	C172	N80181	GKY-GKY	1.6				14									1.6		1.6		Pattern work for CFI
+10 Aug 05	C172	N5195E	GKY-GKY	2.1				5									2.1		2.1		CFI Prep
+10 Aug 05	PA44-180	N21113	GKY-GKY	2.1				2									2.1				MEI Ride - Passed
+12 Aug 05	C172	N73043	GKY-GKY	0.7				6									0.7		0.7		Power off 180's	 short and soft field landings
+12 Aug 05	C172	N80181	GKY-GKY	1.4				3									1.4				FAR Single Engine Instructor Check-OK
+12 Aug 05	PA44-180	N36737	GKY-SPS-FWS-AFW-GKY	3.7											3.7		3.7			3.7	Instrument student	 ILS 35L FWS	 LOC 16L AFW	 VOR 34 GKY
+15 Aug 05	PA44-180	N21113	GKY-MEI-GKY	7.1		3.6		1			3.5				3.5		7.1				Safety pilot for Andrew Barnhill	 vise versa
+26 Nov 05	C172	N19992	35D-35D	1.1				3									1.1		1.1		Getting current - Slowflight/stalls	 steep turns	 commercial maneuvers	 ground reference maneuvers
+14 Dec 05	C172	N61817	HYX-MBS-3CM-HYX	2.3				1			2.1						2.3		2.3		ILS at MBS	 VOR at 3CM	 NDB at HYX	 holds
+18 Dec 05	C152	N5150B	BLM-BLM	1.0				1									1.0		1.0	1.0	Charlie Nowlin. Slow flight/stalls/turns/climbs/descents
+15 Feb 06	PA44-180	N36737	GKY-GKY	0.5					3				0.5				0.5		0.5		Night currency flight
+15 Feb 06	C172	N80181	GKY-GKY	0.7					3				0.7				0.7		0.7		Night currency flight
+16 Feb 06	C172	N5219V	GKY-GKY	2.2				1									2.2				MX Flight
+17 Feb 06	PCATD	123ODB	GKY-GKY								0.4			0.4					0.4		ILS FWS (x2)	 VOR 34 GKY (x2)	 ILS Dallas Executive
+17 Feb 06	C172	N5219V	GKY-GKY	0.5				1									0.5			0.5	Intro flight
+23 Feb 06	C172	N734LY	GKY-GKY	1.4													1.4			1.4	Climbs	 turns	 descents	 constant rate/airspeed	 VOR 34 GKY - Jeff Michael	 instrument student
+23 Feb 06	C172	N734LY	GKY-GKY	1.7													1.7			1.7	GPS 34 GKY x 3 - Sam Brown	 instrument student
+23 Feb 06	C172	N734LY	GKY-GKY	1.7													1.7			1.7	GPS 35R AFW	 17 DTO	 34 GKY - Sam Brown	 instrument student
+23 Feb 06	C172	N734LY	GKY-GKY	1.2					1				0.4				1.2			1.2	Slow flight	 stalls	 climbs	 turns	 descents	 straight and level - Steve Watson	 private pilot student
+1 Mar 06	C172	N734LY	GKY-GKY	1.4													1.4			1.4	Holds	 GPS 34 GKY. Sam Brown - Instrument student
+1 Mar 06	C172	N5219V	GKY-GKY	1.7				1									1.7			1.7	Slowflight	 stalls	 climbs	 turns	 descents. John Kiezer - private student
+1 Mar 06	C172	N734LY	GKY-GKY	1.1													1.1			1.1	Compass turns	 partial panel	 GPS 34 GKY. Same Brown - instrument student
+2 Mar 06	C172	N734LY	GKY-GKY	1.6									0.4				1.6			1.6	ILS 16 AFW	 ILS 16 FTW	 GPS 34 GKY. Mike Westbrook - CFII student
+2 Mar 06	C172	N734LY	GKY-GKY	1.4													1.4			1.4	Holds	 GPS 34 GKY. Sam Brown - Instrument student
+2 Mar 06	C172	N734LY	GKY-GKY	1.9													1.9			1.9	Departure procedures	 diversion	 ILS 35 FWS	 compass turns	 unusual attitudes	 GPS 34 GKY. Sam Brown - instrument student
+2 Mar 06	C172	N734LY	GKY-GKY	1.3				1									1.3			1.3	Takeoff	 turns around a point	 s-turns	 engine out	 pattern work. Steve Watson - private student
+4 Mar 06	C172	N781SP	GKY-GKY	1.4				1									1.4			1.4	Ground ref. maneuvers	 off airport landings. John Kiezer - private student
+4 Mar 06	C172	N73043	GKY-GKY	1.4													1.4			1.4	Pre-practical brushup	 all maneuvers for PPL ride. Jim Welch - private student
+4 Mar 06	C172	N734LY	GKY-GKY	1.4													1.4			1.4	Stalls	 slow flight	 spin awareness	 off airport landings	 landings. Steve Watson - private student
+5 Mar 06	C172	N5195E	GKY-CRS-GKY	2.0						1.0					2.0		2.0			2.0	IMC flight	 VOR tracking	 ATC procedures	 VOR-A CRS	 Arrival Procedures	 VOR 34 GKY. Jeff Michael - instrument student
+7 Mar 06	C172	N734LY	GKY-TKI-GKY	1.8													1.8			1.8	VOR/DME-A TKI	 GPS 34 GKY. Mike Westbrook - CFII student
+8 Mar 06	C172	N5195E	GKY-CXO	2.7			2.7	1		0.7					2.7		2.7				Ferry flight
+8 Mar 06	C172	N5195E	CXO-CLL-GKY	2.2			2.2		1	0.3			2.2		2.2		2.2			2.2	G1000 checkout for Austin Freeman
+10 Mar 06	C172	N734LY	GKY-FWS-FTW-GKY	1.4													1.4			1.4	Partial panel ILS 35L FWS	 ILS 16 FTW. Mike Westbrook - CFII student
+11 Mar 06	C172	N5195E	GKY-GKY	1.2													1.2			1.2	Steep turns	 emergency procedures	 landings. Steve Watson - private student
+11 Mar 06	C172	N5219V	GKY-GKY	1.3													1.3			1.3	Landings	 collision avoidance. John Kiezer	 private student
+13 Mar 06	C172	N5195E	GKY-GKY	1.3													1.3			1.3	Takeoff's	 simulated instrument	 steep turns	 stalls	 slow flight	 emg. proc.	 pattern work	 landings. James Scanlan
+13 Mar 06	C172	N5195E	GKY-FTW-DTO-GKY	1.6													1.6			1.6	GPS 34 FTW	 GPS 35 DTO	 GPS 34 GKY. Mike Westbrook - CFII student
+14 Mar 06	C172	N734LY	GKY-GKY	1.5													1.5			1.5	BFR Completed - James Scanlan
+14 Mar 06	C172	N822MN	GKY-GKY	1.6													1.6			1.6	Landings	 pattern work	 steep turns	 emergency procedures. John Keizer - Private student
+16 Mar 06	C172	N781SP	GKY-GKY	1.6													1.6			1.6	Power off stalls	 landings	 simulated instrument	 straight and level. John Keizer - Private student
+16 Mar 06	C172	N285SP	GKY-GKY	0.4				1									0.4			0.4	Intro flight
+16 Mar 06	C182	N2192P	GKY-GKY	1.0			1.0										1.0			1.0	182 Checkout	 high performance endorsement. Robert Cowsert
+17 Mar 06	C172	N781SP	GKY-GKY	0.4				1									0.4			0.4	Intro flight
+18 Mar 06	BE 36	N929JD	GKY-2M8-GKY	5.0						4.0			2.0		5.0		5.0			5.0	GPS 34 GKY. Clay - instrument student
+20 Mar 06	C172	N285SP	GKY-GKY	1.6													1.6			1.6	Power on/off stalls	 emergency descents	 landings	 simulated instrument work - climbs and turns. John Keizer - private student
+21 Mar 06	C172	N73043	GKY-GKY	1.8													1.8			1.8	CFI ride brushup. Dave Church - CFI candidate
+22 Mar 06	PA44-180	N21113	GKY-MEI-EKY	4.8					1				3.0		4.8		4.8			4.8	Intercepting and tracking procedures	 cross country flight planning. Henry Foltz - MEI student
+22 Mar 06	C172	N822MN	GKY-GKY	1.3													1.3			1.3	S-Turns	 turns around a point	 landings. John Keizer - private student
+22 Mar 06	C172	N5195E	GKY-GKY	1.1			1.1										1.1			1.1	BFR flight portion. Eric Byrnes - private/instrument
+23 Mar 06	PA44-180	N21113	EKY-TCL-MEI-GKY	5.0				1							5.0		5.0			5.0	Landed short at TCL for an open door	 cross country flight planning. Henry Foltz - MEI student
+24 Mar 06	C172	N734LY	GKY-GKY	1.5													1.5			1.5	PTS Brushup	 all maneuvers. Jim Welch - private student
+25 Mar 06	C172	N80181	GKY-GKY	1.1													1.1			1.1	Landings. Steve Watson - private student
+25 Mar 06	C172	N781SP	GKY-GKY	0.8													0.8			0.8	Landings. John Keizer - private student
+26 Mar 06	C172	N73043	GKY-GKY	1.3													1.3			1.3	Landings	 cross controlled stalls	 pre-solo ground. Steve Watson - private student
+27 Mar 06	C172	N5195E	GKY-ACT-GKY	2.1							1.6				2.1		2.1			2.1	ILS 19 ACT	 GPS 34 GKY	 common errors and PTS brushup. Mike Westbrook - CFII student
+27 Mar 06	C172	N5219V	GKY-GKY	1.0													1.0			1.0	Landings. John Keizer - private student
+28 Mar 06	C172	N5195E	GKY-GKY	1.3													1.3			1.3	Spin awareness training	 cross controlled stalls	 landings. John Keizer - private student
+28 Mar 06	C172	N5195E	GKY-GKY	1.7							0.6						1.7			1.7	PTS brushup	 ILS 31	 GPS 31 RBD	 GPS 34 GKY. Mike Westbrook - CFII student
+28 Mar 06	C172	N73043	GKY-GKY	1.2				1									1.2			1.2	Crosswind landings. Steve Watson - private student
+29 Mar 06	C172	N73043	GKY-GKY	0.7													0.7			0.7	Emergency procedures	 air return for burning smell coming from avionics stack. Mike Westbrook - CFII student
+1 Apr 06	C172	N5219V	GKY-GKY	0.4				1									0.4			0.4	Intro
+2 Apr 06	C172	N73043	GKY-GKY	0.9													0.9			0.9	Crosswind landings	 slips	 rejected landings. Steve Watson - private student
+2 Apr 06	C172	N73043	GKY-GKY	1.4				1									1.4			1.4	Staight and level	 climbs	 turns	 descents	 emergency procedures	 s-turns	 turns around a point	 takeoff. Steve Howell - private student
+3 Apr 06	C172	N5195E	GKY-GKY	1.4				1									1.4			1.4	Slow flight	 stalls	 spin awareness. Steve Howell - private student
+4 Apr 06	C172	N822MN	GKY-GKY	1.3				1									1.3			1.3	Emergency engine out procedures in the pattern	 landings. John Keizer - private student
+4 Apr 06	C172	N734LY	GKY-GKY	1.6				2									1.6			1.6	Landings. Steve Watson - private student
+5 Apr 06	C172	N73043	GKY-GKY	1.2													1.2			1.2	Steep turns	 emergency procedures	 instrument flight	 straight and level	 climbs and turns. Steve Howell - private student
+7 Apr 06	C172	N73043	GKY-GKY	1.3				1									1.3			1.3	Emergency engine out procedures. Steve Howell - private student
+8 Apr 06	C172	N80181	GKY-FWS-FTW-GKY	1.3													1.3			1.3	ILS 35 FWS	 GPS 34 FTW	 VOR 34 GKY	 partial panel. Markus Henkell - CFII student
+8 Apr 06	C172	N73043	GKY-GKY	1.1				1									1.1			1.1	Landings. Steve Howell - private student
+9 Apr 06	C172	N73043	GKY-AFW-JWY-GKY	1.6				1									1.6			1.6	Landings at AFW	 traffic pattern at AFW. Markus  Henkell - CFII student
+9 Apr 06	C172	N5195E	GKY-GKY	1.0													1.0			1.0	Landings. Steve Howell - private student
+9 Apr 06	C172	N5195E	GKY-GKY	1.3													1.3			1.3	Landings. Steve Watson - private student
+9 Apr 06	C172	N822MN	GKY-GKY	1.4													1.4			1.4	Slowflight. John Keizer - private student
+10 Apr 06	C172	N822MN	GKY-GKY	1.3													1.3			1.3	Landings. John Keizer - private student
+11 Apr 06	C172	N5219V	GKY-GKY	1.2													1.2			1.2	First solo. John Keizer - private student
+11 Apr 06	C172	N73043	GKY-GKY	0.9													0.9			0.9	Landings. Steve Watson - private student
+11 Apr 06	C172	N734LY	GKY-GKY	1.3													1.3			1.3	Landings at FWS	 simulated instrument	 unusual attitudes	 emergency engine out procedures. Jim Welch - private student
+12 Apr 06	C172	N5219V	GKY-FWS-GKY	1.0				1									1.0			1.0	Towered airport operations. John Keizer - private student
+12 Apr 06	C172	N5195E	GKY-FWS-GKY	1.4				1									1.4			1.4	Controlled field operations. Steve Howell - private student
+13 Apr 06	C172	N80181	GKY-52F-GKY	1.0				2								1.0	1.0				MX flight to take altimeter to Stahl Air Instruments
+13 Apr 06	PA44-180	N36737	GKY-GKY	0.6													0.6			0.6	Currency flight. Mark Ruff - commercial pilot
+14 Apr 06	C172	N822MN	GKY-GKY	1.5				1									1.5			1.5	Short and soft field takeoff's/landings. John Keizer - private student
+14 Apr 06	C172	N5219V	GKY-GKY	0.3				1									0.3			0.3	Intro flight
+17 Apr 06	PA44-180	N21113	GKY-GKY	1.0													1.0			1.0	Seminole checkout. Jared Martin - flight instructor
+18 Apr 06	C172	N5195E	GKY-GKY	1.2													1.2			1.2	First solo. Steve Watson - private student
+18 Apr 06	C172	N5219V	GKY-SEP-GKY	2.1											2.1		2.1			2.1	Cross country to SEP. John Keizer - private student
+18 Apr 06	C172	N734LY	GKY-GKY	0.8				1									0.8			0.8	Straight and level	 climbs	 turns	 descents	 stalls. Jared Martin - private student
+19 Apr 06	C172	N5219V	GKY-GKY	1.4				1									1.4			1.4	Crosswind takeoff's and landings. John Keizer - private student
+27 Apr 06	C172	N5195E	GKY-GKY	1.4				2									1.4			1.4	Short and soft field takeoff's/landings. Steve Howell - private student
+27 Apr 06	C172	N5219V	GKY-GKY	0.9													0.9			0.9	Slow flight	 stalls	 ground reference maneuvers. Traylor - private pilot
+28 Apr 06	C172	N5219V	GKY-GKY	0.9													0.9			0.9	Cessna 172SP checkout. Jim Welch - private pilot
+29 Apr 06	C172	N73043	GKY-FTW-GKY	1.3					1				1.3				1.3			1.3	Night flight	 landings. Steve Howell - private student
+30 Apr 06	C172	N73043	GKY-SEP-GKY	2.1				1							2.1		2.1			2.1	Cross country to SEP. Steve Howell - private student
+30 Apr 06	C172	N5219V	GKY-GKY	1.0													1.0			1.0	Cessna 172 SP checkout. Wes Hartley - private pilot
+3 May 06	C172	N781SP	GKY-FWS-GKY	1.1													1.1			1.1	Towered airport operations. John Keizer - private student
+4 May 06	C172	N80181	GKY-GKY	0.8													0.8			0.8	Currency Flight. Chuck Lanham - private pilot
+6 May 06	PA44-180	N36737	GKY-GKY	0.9				1									0.9			0.9	Single engine landings	 engine out procedures	 preflight	 multi procedures and theory. Mark Lendvey - flight instructor
+7 May 06	C172	N781SP	GKY-GKY	1.3													1.3			1.3	Elevator trim stalls	 go arounds. John Keizer - private student
+7 May 06	PA44-180	N36737	GKY-GKY	2.1				1									2.1			2.1	All PTS items under MEI ride. Mark Lendvay - flight instructor
+8 May 06	C172	N73043	GKY-GKY	1.2				1									1.2			1.2	S-Turns	 turns around a point. Jeff McKean - private student
+8 May 06	C172	N5219V	GKY-FTW-DAL-GKY	1.2					1				1.2				1.2			1.2	Night orientation	 ATC procedures	 night landings. John Keizer - private student
+10 May 06	C172	N73043	GKY-GKY	1.4				1									1.4			1.4	Slowflight	 power off stals	 emergency engine outs	 landings	 go arounds. Steve Watson - private student
+11 May 06	C172	N73043	GKY-GKY	1.4				1									1.4			1.4	Slowflight	 power off stalls	 trimming. Jeff McKean - private student
+12 May 06	C172	N781SP	GKY-MWL-ABI-GKY	3.7											3.7		3.7			3.7	Cross country	 diversions	 ATC procedures	 towered airport procedures. John Keizer - private student
+13 May 06	C172	N5219V	GKY-GKY	1.0													1.0			1.0	Landings	 go arounds. John Keizer - private student
+13 May 06	C172	N5195E	GKY-GKY	1.3				1									1.3			1.3	Slowflight	 power off and power on stalls. Jeff McKean - private student
+14 May 06	C172	N73043	GKY-CPT-GKY	1.1						0.4							1.1			1.1	RNAV/GPS runway 15 approach CPT	 Instrument flight	 straight and level	 climbs	 turns	 descents	 holds. Steve Watson - private student
+14 May 06	C172	N781SP	GKY-GKY	1.3				1									1.3			1.3	Crosswind landings	 go arounds. John Keizer - private student
+14 May 06	PA44-180	N21112	GKY-FWS-GKY	1.0									0.7				1.0			1.0	ILS FWS 35L	 night currency. Matt Bourg - flight instructor
+16 May 06	C172	N5195E	GKY-GKY	1.5													1.5			1.5	Normal/crosswnid landings	 emgergency engine outs	 slips. Steve Watson - private student
+16 May 06	C172	N73043	GKY-GKY	1.1				1									1.1			1.1	Slips	 crosswind landings	 go arounds. Steve Howell - private student
+17 May 06	C172	N781SP	GKY-F41-JWY-GKY	1.7				1									1.7			1.7	Instrument flight	 straight and level	 climbs	 turns	 descents	 unusual attitude recovery	 lost procedures	 diversions	 emergency engine out	 patterns	 go arounds
+17 May 06	C172	N73043	GKY-GKY	1.0				1									1.0			1.0	Climbs	 turns	 descents	 trimming. Jerame Shadid - private student
+18 May 06	C172	N80181	GKY-GKY	1.3				1									1.3			1.3	Clmibs	 turns	 descents	 trimming	 configuration changse. Jerame Shadid - private student
+18 May 06	C172	N5195E	GKY-GKY	1.3													1.3			1.3	Slowflight	 stalls	 spin awareness	 secondary stalls	 cross controlled stalls	 elevator trim stalls	 steep turns. Jeff McKean - private student
+19 May 06	C172	N781SP	GKY-GKY	1.5													1.5			1.5	Steep turns	 navigation	 stalls	 slow flight	 emergency engine outs	 landings	 go arounds. John Keizer - private student
+19 May 06	C172	N781SP	GKY-GKY	0.4				1									0.4			0.4	Intro
+20 May 06	C172	N73043	GKY-GKY	1.0				1									1.0			1.0	Stalls	 slowflight	 emergency engine out procedures. Jeff McKean - private student
+22 May 06	C172	N5195E	GKY-GKY	1.0													1.0			1.0	Traffic pattern	 low approaches	 go arounds. Jeff McKean - private student
+23 May 06	C172	N285SP	GKY-JWY-GKY	1.1													1.1			1.1	Emergency engine out procedures	 low altitude engine failures	 pattern	 landings	 go arounds. John Keizer - private student
+23 May 06	PA44-180	N851ND	GKY-GKY	1.1				1									1.1			1.1	Takeoffs and landings	 single engine approaches	 engine failures	 traffic pattern	 go arounds	 landings	 teaching engine outs and landings. Mike Westbrook - MEI student
+23 May 06	C172	N73043	GKY-GKY	1.1				1									1.1			1.1	Slowflight	 trimming	 emergency engine out procedures. Jereame Shadid - private student
+24 May 06	C172	N80181	GKY-GKY	1.1				1									1.1			1.1	Trimming	 turns around a point	 collision avoidance. Jerame Shadid - private student
+24 May 06	C172	N73043	GKY-GKY	1.4					1				1.4				1.4			1.4	Night orientation and landings. Steve Watson - private student
+25 May 06	C172	N73043	GKY-GKY	1.0													1.0			1.0	Landings and go arounds. Jeff McKean - private student
+26 May 06	C172	N781SP	GKY-GKY	0.5													0.5			0.5	Diversions	 emergency procedures	 pattern	 landings	 decision making. John Keizer - private student
+26 May 06	C172	N5195E	GKY-ACT-GKY	2.5			2.5			0.5					2.5		2.5			2.5	ILS 19 ACT	 VOR 32 ACT	 lesson 2 of G1000 checkout. Eric Byrnes - instrument pilot
+26 May 06	C172	N5195E	GKY-GKY	1.1				1									1.1			1.1	Slowflight	 stalls	 steep turns	 emergency engine out procedures. Carolos Bautista - private student
+27 May 06	PA44-180	N36737	GKY-GKY	1.0				1									1.0			1.0	Single engine approach and landings	 go arounds	 engine failures. Matt Stultzman - flight instructor
+28 May 06	C172	N73043	GKY-ACT-GKY	1.9						0.5					1.9		1.9			1.9	VOR tracking	 compass turns	 partial panel. Galen Mahon - instrument student
+29 May 06	C172	N80181	GKY-GKY	0.4				1									0.4			0.4	Intro
+29 May 06	PA44-180	N36737	GKY-FWS-GKY	1.6				1									1.6			1.6	All CMEL PTS items. Matt Stultzman - flight instructor
+31 May 06	PA44-180	N21112	GKY-JWY-GKY	2.9				2									2.9			2.9	All MEI PTS Items. Mike Westbrook - flight instructor
+1 Jun 06	PA44-180	N21112	GKY-GKY	2.3				1									2.3			2.3	All MEI PTS Items. Mike Westbrook - flight instructor
+1 Jun 06	C172	N781SP	GKY-SEP-GKY	1.9					1				1.9		1.9		1.9			1.9	Night cross country	 go arounds	 landings	 pattern entries	 GPS navigation. John Keizer - private student
+1 Jun 06	C172	N734LY	GKY-GKY	1.1				1									1.1			1.1	Short/soft field takeoff's and landings	 go arounds	 power off 180's. Mike Westbrook - flight instructor
+2 Jun 06	C172	N5195E	GKY-GKY	1.1													1.1			1.1	Landings	 power off 180's. Carlos Bautista - private student
+2 Jun 06	C172	N5195E	GKY-GKY	1.9				1									1.9			1.9	All CFI PTS Items. Mike Westbrook - flight instructor
+2 Jun 06	C172	N5195E	GKY-GKY	1.0													1.0			1.0	Landings. Nathan Wallis - private student
+3 Jun 06	C172	N781SP	GKY-FWS-GKY	1.2													1.2			1.2	Towered airport operations	 landings. John Keizer - private student
+3 Jun 06	C172	N80181	GKY-GKY	1.4													1.4			1.4	Slowflight	 stalls	 emergency engine outs	 landings	 go arounds. Steve Watson - private student
+4 Jun 06	C172	N5195E	GKY-GKY	0.4				1									0.4			0.4	Intro
+4 Jun 06	C172	N5195E	GKY-GKY	0.6				1									0.6			0.6	Intro
+5 Jun 06	C172	N5195E	GKY-GKY	1.4				1									1.4			1.4	S-turns	 turns around a point. Jerame Shadid - private student
+5 Jun 06	C172	N5195E	GKY-GKY	1.5													1.5			1.5	Slowflight	 power on/off stalls	 emergency engine our procedures	 landings. Steve Watson - private student
+6 Jun 06	C172	N73043	GKY-GKY	1.1				1									1.1			1.1	Steep turns. Jerame Shadid - private student
+6 Jun 06	C172	N73043	GKY-SEP-GKY	2.0											2.0		2.0			2.0	VOR/GPS navigation	 pilotage	 dead recokoning	 go arounds	 landings. Carlos Bautista - private student
+6 Jun 06	C172	N73043	GKY-GKY	1.5													1.5			1.5	Constant speed climbs	 VOR tracking	 short/soft field landings. Wes Hanson - private student
+6 Jun 06	C172	N781SP	GKY-GKY	1.3													1.3			1.3	Stalls	 IR	 climbs turns	 descents and unusual attitude recovery	 landings. John Keizer - private student
+8 Jun 06	C172	N73043	GKY-GKY	1.1													1.1			1.1	Slowflight	 stalls	 landings. Jeff McKean - private student
+9 Jun 06	C172	N80181	GKY-GKY	1.5				1									1.5			1.5	Slowflight	 stalls	 steep turns. Jerame Shadid - private student
+9 Jun 06	C172	N781SP	GKY-GKY	0.4				1									0.4			0.4	Intro
+10 Jun 06	C172	N73043	GKY-GKY	0.9													0.9			0.9	Landings	 go arounds. Steve Watson - private student
+10 Jun 06	C172	N781SP	GKY-GKY	1.1													1.1			1.1	Slowflight	 landings. John Keizer - private student
+10 Jun 06	C172	N5195E	GKY-GKY	0.9													0.9			0.9	Landings. Jeff McKean - private student
+10 Jun 06	PA44-180	N36737	GKY-FWS-GKY	1.5				1									1.5			1.5	Engine shutdown	 ILS 35L FTW x3	 single engine	 circle to land	 landings. Matt Stutzman - flight instructor
+10 Jun 06	C172	N73043	GKY-GKY	1.3													1.3			1.3	Slowflight	 stalls	 steep turns	 emergency out procedures	 landings. Gabrelli Cianetti - private student
+11 Jun 06	C172	N734LY	GKY-GKY	0.9				1									0.9			0.9	CLimbs	 turns	 descents	 trimming. Siewinski - private student
+11 Jun 06	C172	N285SP	GKY-GKY	0.9													0.9			0.9	Landings. Blair Chan - private student
+12 Jun 06	PA44-180	N36737	GKY-FWS-GKY	1.5				1									1.5			1.5	All CMEL PTS items. Matt Stultzman - flight instructor
+12 Jun 06	C172	N285SP	GKY-GKY	0.5				1									0.5			0.5	Intro
+12 Jun 06	C172	N781SP	GKY-GKY	1.1													1.1			1.1	Forward slips to land	 no flap landings. Jeff McKean - private student
+13 Jun 06	C172	N781SP	GKY-GLE-GKY	1.7				1		0.1					1.7		1.7			1.7	XC flight planning	 ATC procedures	 GPS navigation. Chad Harrison - commercial pilot
+13 Jun 06	C172	N5195E	GKY-GKY	1.3				1									1.3			1.3	Spin awareness	 stalls	 slowflight. Jerame Shadid - private student
+13 Jun 06	PA44-180	N851ND	GKY-FTW-GKY	2.0					3				2.0				2.0			2.0	Night takeoff's and landings at FTW. Stallknecht - commercial student
+15 Jun 06	C172	N734LY	GKY-GKY	1.0				1									1.0			1.0	Climbs	 turns	 descents	 trimming. Mark Krey - private student
+15 Jun 06	C182	N2192P	GKY-GKY	1.5			1.5										1.5			1.5	BFR for Dean Connel complete - private pilot
+16 Jun 06	PA44-180	N36737	GKY-GKY	1.0				1									1.0			1.0	Takeoffs and landings	 engine failures	 steep turns. Chad Harrison - flight instructor
+18 Jun 06	C172	N73043	GKY-GKY	1.4				1									1.4			1.4	S-turns	 turns around a point. Mark Krey - private student
+18 Jun 06	C172	N734LY	GKY-GKY	0.9													0.9			0.9	Landings and go arounds	 second sup. solo. Steve Watson - private student
+20 Jun 06	C172	N403GF	GKY-SEP-GKY	1.8			1.8	1	1				1.0		1.8		1.8				XC to SEP with Caitlyn
+22 Jun 06	C172	N5195E	GKY-GKY	1.0				1									1.0			1.0	IR-Straight and level	 climbs	 turns	 descents	 unusual attitude recovery	 steep turns. Mark Krey - private student
+24 Jun 06	C172	N73043	GKY-GKY	1.0													1.0			1.0	Private CPL flight #3. Connor Landrum - private student
+24 Jun 06	C172	N5195E	GKY-GKY	1.1													1.1			1.1	Landings. Jeff McKean - private student
+25 Jun 06	PA44-180	N851ND	GKY-GKY	1.1													1.1			1.1	Steep turns	 slowflight	 stalls	 engine failures	 VOR/DME 34 GKY	 landings. Larry Mussman - commercial pilot
+25 Jun 06	C172	N73043	GKY-GKY	1.3				1									1.3			1.3	Slowflight	 steep turns	 emergency engine out procedures. Mark Krey - private student
+27 Jun 06	C172	N5195E	GKY-GKY	1.0													1.0			1.0	Lost procedures	 diversions	 towered airport opreations	 landings	 go arounds. Wes Hanson - private student
+27 Jun 06	PA28R	N2816R	GKY-GKY	1.1													1.1			1.1	Lazy 8's	 chandelles	 steep spirals	 8's on pylons	 landings	 power off 180's. Matt Clark - commercial pilot
+29 Jun 06	C172	N73043	GKY-GKY	1.0													1.0			1.0	Steep turns	 s-turns	 turns around a point. Steve Howell - private student
+29 Jun 06	C172	N73043	GKY-GKY	0.8													0.8			0.8	Pilotage	 landings and go arounds. Steve Watson - private student
+29 Jun 06	C172	N80181	GKY-GKY	1.0													1.0			1.0	All private PTS items. Nathan Wallis - private student
+30 Jun 06	C172	N781SP	GKY-GKY	0.5				1									0.5			0.5	Intro
+30 Jun 06	C182	N2192P	GKY-GKY	1.6			1.6										1.6			1.6	BFR flight complete	 high performance endorsement. Glen McCarthy - private pilot
+30 Jun 06	C172	N734LY	GKY-GKY	1.5													1.5			1.5	Slowflight	 power off stalls	 landings. Steve Howell - private student
+30 Jun 06	C172	N73043	GKY-GKY	1.2				1									1.2			1.2	Slowflight	 power on/off stalls. Jerame Shadid - private student
+1 Jul 06	C172	N734LY	GKY-GKY	1.1													1.1			1.1	Landings. Steve Howell - private student
+2 Jul 06	PA44-180	N36737	GKY-GKY	1.9													1.9			1.9	Slowflight	 stalls	 steep turns	 engine failures	 engine shutdown/securing	 landings. Chad Harrison - flight instructor
+3 Jul 06	PA44-180	N36737	GKY-GKY	2.0						0.2							2.0			2.0	All MEI PTS Items. Chad Harrison - flight instructor
+3 Jul 06	C172	N73043	GKY-GKY	1.5													1.5			1.5	Landings and go arounds. Jeff McKean - private student
+3 Jul 06	C172	N5195E	GKY-GKY	1.2				1									1.2			1.2	Power on/off stalls	 spin awareness. Mark Krey - private student
+6 Jul 06	C172	N5195E	GKY-GKY	1.4						0.5							1.4			1.4	ATC procedures	 actual instrment operations. Steve Howell - private student
+6 Jul 06	C172	N73043	GKY-GKY	1.2				1									1.2			1.2	Crosswind landings and go arounds. Jeff McKean - private student
+7 Jul 06	C172	N73043	GKY-GKY	1.5				1									1.5			1.5	Crosswind landings and go arounds. David Vaughn - private student
+7 Jul 06	C172	N5195E	GKY-GKY	1.4													1.4			1.4	Slowflight	 stalls	 steep turns	 s-turns	 turns around a point. Kirk Hollingworth - private student
+7 Jul 06	C172	N80181	GKY-GKY	1.2													1.2			1.2	Crosswind landings and go arounds. Steve Howell - private student
+7 Jul 06	C172	N80181	GKY-GKY	0.9													0.9			0.9	Steep turns	 chandelles	 lazy eights. Chad Harrison - flight instructor
+8 Jul 06	C172	N73043	GKY-GKY	1.2													1.2			1.2	S-turns	 turns around a point	 landings. Kirk Hollingsworth - private student
+8 Jul 06	C172	N73043	GKY-GKY	1.5													1.5			1.5	Power on/off stalls	 landings. Steve Howell - private student
+8 Jul 06	C172	N5195E	GKY-GKY	1.1													1.1			1.1	Landings. Jeff McKean - private student
+8 Jul 06	PA-30	N8432Y	GKY-SAT-GKY	3.7				1		0.4					3.7		3.7				Fam. flight with Oliver
+9 Jul 06	PA44-180	N36737	GKY-GKY	1.5				1									1.5			1.5	Engine failures	 VMC demo	 landings. Tom Westberry - commercial pilot
+9 Jul 06	C172	N73043	GKY-GKY	1.9													1.9			1.9	All CFI PTS Items. Chad Harrison - flight instructor
+9 Jul 06	C172	N80181	GKY-GKY	0.8					1				0.8				0.8			0.8	Intro to night flight. Gabrelli Cianetti - private student
+9 Jul 06	PA44-180	N36737	GKY-FWS-GKY	1.4													1.4			1.4	ILS 35L x5	 circle to land single engine	 engine failures. Tom Westberry - commercial pilot
+10 Jul 06	C172	N80181	GKY-GKY	1.5													1.5			1.5	Crosswind landings. Steve Howell - private student
+10 Jul 06	C172	N5195E	GKY-GKY	1.0													1.0			1.0	Landings. Jeff McKean - private student
+10 Jul 06	C172	N5195E	GKY-GKY	1.5				1									1.5			1.5	Emergency engine out procedures	 slips. Mark Krey - private student
+11 Jul 06	PA44-180	N36737	GKY-FWS-GKY	1.2													1.2			1.2	Slowflight	 stalls	 ILS FWS 35L	 landings	 engine failures. Tom Westberry - commercial pilot
+11 Jul 06	PA44-180	N36737	GKY-FWS-GKY	2.0													2.0			2.0	All CMEL PTS items. Tom Westberry - commercial pilot
+11 Jul 06	C172	N5195E	GKY-GKY	1.2													1.2			1.2	Landings and go arounds. Jerame Shadid - private student
+12 Jul 06	PA44-180	N36737	GKY-CRP-GKY	5.2													5.2			5.2	Checkout flight. Joe D - commercial pilot
+13 Jul 06	C172	N73043	GKY-GKY	1.4													1.4			1.4	Slowflight and stalls. Kirk Hollingsworth - private pilot
+13 Jul 06	C172	N80101	GKY-GKY	1.0													1.0			1.0	Landings and go arounds. Jeff McKean - private student
+13 Jul 06	C172	N80101	GKY-GKY	1.1													1.1			1.1	Landings and go arounds. Jerame Shadid - private student
+13 Jul 06	PA44-180	N21112	GKY-GKY	1.2													1.2			1.2	Steep turns	 slowflight	 stalls	 landings. Steve Burney - commercial pilot
+14 Jul 06	C172	N80181	GKY-GKY	0.9													0.9			0.9	Landings and go arounds. Edgar Muganda - private student
+14 Jul 06	C172	N73043	GKY-GKY	0.5													0.5			0.5	Landings - Steve Howell
+14 Jul 06	PA44-180	N36737	GKY-GPM-GKY	0.9				1									0.9			0.9	Emergency procedures	 gear would not retract. Steve Burney - commercial pilot
+14 Jul 06	C172	N5195E	GKY-GKY	1.2													1.2			1.2	Landings. Gene Jernigan - private student
+15 Jul 06	C172	N73043	GKY-GKY	1.4													1.4			1.4	Power on stalls	 emergency procedures	 landings. Kirk Hollingsworth - private student
+15 Jul 06	C172	N5195E	GKY-GKY	0.6													0.6			0.6	Landings and go arounds. Steve Howell - private student
+15 Jul 06	C172	N5195E	GKY-GKY	0.9													0.9			0.9	Landings. Jeff McKean - private student
+15 Jul 06	PA44-180	N21112	GKY-GKY	2.1													2.1			2.1	Engine failures	 slowflight	 stalls. Steve Burney - commercial pilot
+15 Jul 06	PA44-180	N21112	GKY-FWS-GKY	1.0									1.0				1.0			1.0	Night currency flight. Kevin Rowe - flight instructor
+16 Jul 06	C172	N5195E	GKY-GKY	1.1													1.1			1.1	Spin awareness and emergency engine out procedures. Mark Krey - private student
+16 Jul 06	C172	N73043	GKY-GKY	0.5													0.5			0.5	Second sup solo flight. Steve Howell - private student
+16 Jul 06	PA44-180	N21112	GKY-GKY	1.1				1									1.1			1.1	Engine failures. Steve Burney - commercial pilot
+18 Jul 06	C172	N73043	GKY-GKY	0.8				1									0.8			0.8	Landings and go arounds. Jerame Shadid - private student
+19 Jul 06	C172	N73043	GKY-CRS-GKY	2.0									2.0		2.0		2.0			2.0	ATC proc	 GPS nav	 night illusions	 pilotage. Steve Howell - private student
+20 Jul 06	C172	N403GF	GKY-JWY-GKY	1.1			1.1										1.1			1.1	G1000 intro. Timo Kopranen - private pilot
+21 Jul 06	C172	N5195E	GKY-JWY-GKY	1.3				3									1.3			1.3	MX flight to get Vlad from  N21112
+22 Jul 06	C172	N73043	GKY-GKY	1.3													1.3			1.3	Power on stalls	 landings. Kirk	 Hollingsworth - private student
+22 Jul 06	C172	N73043	GKY-GKY	0.8													0.8			0.8	Slips to land	 landings. Jerame Shadid - private student
+23 Jul 06	C172	N73043	GKY-50F-CPT-GKY	1.5				1									1.5			1.5	ATC procedures	 landings and go arounds	 diversons	 GPS navigation. Steve Howell - private student
+24 Jul 06	C172	N73043	GKY-GKY	1.2									1.2				1.2			1.2	Night landings. John Keizer - private student
+24 Jul 06	C172	N5195E	GKY-GKY	1.0													1.0			1.0	Crosswind landings and go arounds. Jeff McKean - private student
+31 Jul 06	C172	N781SP	GKY-GKY	1.1													1.1			1.1	Slowflight	 steep turns	 emergency engine out procedures	 landings. John Keizer - private student
+1 Aug 06	C172	N80181	GKY-GKY	1.1													1.1			1.1	Landings	 emergency engine out procedures	 go arounds. Jerame Shadid - private student
+2 Aug 06	C172	N5195E	GKY-ADS-GKY	1.0				2									1.0				MX flight to Addison
+3 Aug 06	C172	N80181	GKY-FTW-GKY	1.0				2									1.0				MX flight to Meacham
+3 Aug 06	C172	N80181	GKY-GKY	1.1													1.1			1.1	Landings	 power off 180's and go arounds. Skip Duty - private student
+3 Aug 06	C172	N5195E	GKY-GKY	1.0													1.0			1.0	Landings and go arounds. Jeff McKean - private student
+4 Aug 06	C172	N5195E	GKY-GKY	0.4													0.4			0.4	Third supervised solo. Steve Howell - private student
+5 Aug 06	C172	N5195E	GKY-GKY	0.8													0.8			0.8	Landings. Kirk Hollingsworth - private student
+5 Aug 06	C172	N5195E	GKY-GKY	0.5													0.5			0.5	Lanings. Jeff McKean - private student
+6 Aug 06	C172	N80181	GKY-GKY	0.8													0.8			0.8	Landings and go arounds. Mark Krey - private student
+7 Aug 06	C172	N73043	GKY-GKY	0.7													0.7			0.7	Landings and go arounds. Kirk Hollingsworth - private student
+8 Aug 06	PA44-180	N36737	GKY-FWS-GKY	1.9													1.9			1.9	Engine failures	 engine shutdown and securing	 VMC demo	 ILS FWS 35L x3. Steve Burney - commercial pilot
+10 Aug 06	PA44-180	N851ND	GKY-FWS-GKY	1.0				1									1.0			1.0	Landings	 ILS FWS 35L	 slow flight	 stalls	 engine failures and shutdowns. Steve Burney - commercial pilot
+10 Aug 06	C172	N80181	GKY-GKY	0.9													0.9			0.9	Landings. Jeff McKean - private student
+11 Aug 06	PA44-180	N851ND	GKY-FWS-GKY	1.1													1.1			1.1	FWS ILS 35L x2	 landings. Steve Burney - commercial pilot
+11 Aug 06	C172	N80181	GKY-FTW-GKY	1.5													1.5			1.5	Local orientation. Arrigo Spivach - private pilot
+15 Aug 06	C172	N5195E	GKY-SEP-GKY	1.9									1.0		1.9		1.9			1.9	Night intro	 VOR nav. Arrigo Spivach - private pilot
+17 Aug 06	DA-40	N519DS	GKY-GKY	0.8			0.8	1									0.8				Diamomd Star intri
+17 Aug 06	C172	N5195E	GKY-GKY	1.7													1.7			1.7	Hood work	 SL	 climbs	 turns	 descents	 VOR tracking. Arrigo Spivach - private pilot
+18 Aug 06	C172	N5195E	GKY-GKY	1.3													1.3			1.3	VOR tracking and landings. Arrigo Spivach - private pilot
+19 Aug 06	C172	N5195E	GKY-GKY	1.2													1.2			1.2	Spin awareness and landings. Arrigo Spivach - private student
+20 Aug 06	C172	N80181	GKY-GKY	0.6													0.6			0.6	First solo. Jeff McKean - private student
+20 Aug 06	C172	N80181	GKY-GKY	1.0													1.0			1.0	Landings. Arrigo Spivach - private pilot
+20 Aug 06	C172	N781SP	GKY-GKY	1.2													1.2			1.2	Landings and go arounds. John Keizer - private student
+21 Aug 06	C172	N80181	GKY-SEP-GKY	2.1									1.0		2.1		2.1			2.1	VOR tracking	 night illusions. Arrigo Spivach - private pilot
+9 Oct 06	PA-31	N5509F	BUR-WJF-BUR	1.8				4		0.2		1					1.8				Training flight with Chase Scott
+10 Oct 06	PA-31	N45004	BUR-OXR-CMR-BUR	1.5					2		1.0	3	1.5				1.5				Training flight with Chase Scott
+11 Oct 06	PA-31	N6480L	BUR-PMD-WJF-VNY-BUR	1.5					2		1.0	4	1.5				1.5				Training flight with Chase Scott
+12 Oct 06	PA-31	N6480L	BUR-CMA-OXR-BUR	1.4					1	1.0		4	1.4				1.4				Training flight with Chase Scott
+13 Oct 06	PA-31	N66859	BUR-PMA-WJF-BUR	1.1				1			0.7	2					1.1				Training flight with Chase Scott
+14 Oct 06	PA-31	N3553F	BUR-PMA-WJF-BUR	0.5				3									0.5				Training flight with Chase Scott
+16 Oct 06	PA-31	N45004	BUR-OXR-CMA-BUR	1.5					1		1.3		1.5				1.5				Training flight with Chase Scott
+16 Oct 06	PA-31	N66859	BUR-PMA-WJF-BUR	1.6				1			0.7	2					1.6				Training flight with Chase Scott
+17 Oct 06	PA-31	N3553F	BUR-PMA-WJF-BUR	1.8					1		1.5		1.8				1.8				Training flight with Chase Scott
+18 Oct 06	PA-31	N6480L	BUR-CMA-OXR-BUR	2.1					1		1.9		2.1				2.1				Training flight with Chase Scott
+21 Oct 06	PA-31	N66859	BUR-PMA-WJF-BUR	1.9					1		1.7		1.9				1.9				Training flight with Chase Scott
+23 Oct 06	PA-31	N45004	BUR-PMA-WJF-BUR	2.3					1		2.1		2.3				2.3				Training flight with Chase Scott
+25 Oct 06	PA-31	N45004	BUR-OXR-CMA-BUR	2.0					1		1.9		2.0				2.0				Training flight with Chase Scott
+30 Oct 06	PA-31	N7441L	BUR-OXR-BUR	1.2				2			0.7						1.2				Part 135 VFR PIC/IFR SIC check - passed
+31 Oct 06	PA-31	N66859	BUR-VGT-HHA-BUR	3.8					2				2.0		3.8			3.8			AMF 126 with Tom
+2 Nov 06	PA-31	N66859	BUR-VGT-HHA-BUR	3.8					2				2.0		3.8			3.8			AMF 126 with Phil
+15 Nov 06	PA-31	N66859	BUR-BUR	1.1				1									1.1				Part 135 training captain checkride - passed
+16 Nov 06	PA-31	N6480L	BUR-CMA-BUR	1.3													1.3				First flight with Rasmussen
+18 Nov 06	PA-31	N6480L	BUR-OXR-BUR	1.9				1									1.9				First flight with Norve
+18 Nov 06	PA-31	N66859	BUR-OXR-BUR	1.5													1.5				Second flight with Rasmussen
+20 Nov 06	PA-31	N66859	BUR-OXR-BUR	1.5													1.5				Second flight with Norve
+21 Nov 06	PA-31	N66859	BUR-WJF-BUR	1.8													1.8				Third flight with Rasmussen
+22 Nov 06	PA-31	N6480L	BUR-WJF-BUR	1.6													1.6				Third flight with Norve
+23 Nov 06	PA-31	N45004	BUR-OXR-BUR	1.5				2									1.5				Fourth flight with Rasmussen
+26 Nov 06	PA-31	N3553F	BUR-OXR-BUR	2.1													2.1				Fourth flight with Norve
+27 Nov 06	PA-31	N6480L	BUR-OXR-BUR	1.8						0.7							1.8				Train with Rick P
+30 Nov 06	PA-31	N59973	BUR-CMA-BUR	1.4													1.4				Fifth flight with Rasmussen
+16 Dec 06	PA-31	N600TS	BUR-VGT-HHR-MYF-BUR	5.1					2	0.3		1	4.5				1.0	4.1			AMF 126 with Phil
+18 Dec 06	PA-31	N9132Y	BUR-PMD-WJF-BUR	2.1									2.1				2.1				First flight with Runner
+19 Dec 06	PA-31	N9132Y	BUR-WJF-BUR	2.0									2.0				2.0				Second flight with Runer
+21 Dec 06	PA-31	N9132Y	BUR-CMA-BUR	1.5									1.5				1.5				Third flight with Runner
+26 Dec 06	PA-31	N55973	BUR-WJF-PMD-BUR	1.9									1.9				1.9				Fourth flight with Runner
+27 Dec 06	PA-31	N6480L	BUR-BUR	0.9									0.9				0.9				Fifth flight with Runner - fuel in the cockpit	 return to Burbank
+28 Dec 06	PA-31	N55973	BUR-PMD-WJF-BUR	2.1									2.1				2.1				Sixth flight with Runner
+29 Dec 06	PA-31	N6480L	BUR-CMA-OXR-BUR	2.0									2.0				2.0				Seventh flight with Runner
+30 Dec 06	PA-31	N62858	BUR-WJF-BUR	2.5													2.5				SPT with Runner
+30 Dec 06	PA-31	N62858	BUR-OXR-BUR	1.5													1.5				Eighth flight with Runner
+2 Jan 07	PA-31	N62858	BUR-RAL-ONT-EMT-BUR	1.7													1.7				Ninth flight with Runner
+6 Jan 07	PA-31	N600TS	BUR-PMD-WJF-VNY-BUR	2.0													2.0				Tenth flight with Runner
+10 Jan 07	PA-31	N6480L	BUR-MYF-BUR	2.1					1				1.1		2.1			2.1			AMF 104 with Karina
+12 Jan 07	PA-31	N6480L	BUR-MYF-EMT-MYF-HHR-BUR	3.7					3	0.6			3.0		3.7			3.7			AMF 101 with Brett
+13 Jan 07	PA-31	N6480L	BUR-PMD-WJF-BUR	1.5													1.5				Train with Hurst
+16 Jan 07	PA-31	N7441L	BUR-IYK-BUR-IYK-BIH-MMH-BIH-IYK-BUR	4.7					1				3.0		4.7			4.7			AMF 132 with Kelvin	 turbocharger failure in cruise
+17 Jan 07	PA-31	N6480L:	BUR-VGT-BUR	3.3									1.7		3.3			3.3			AMF 121 with Matt
+18 Jan 07	PA-31	N6480L:	BUR-VGT-BUR	3.5									1.5		3.5			3.5			AMF 121 with Matt
+19 Jan 07	PA-31	N3553F	BUR-VGT-BUR	3.5				1		0.1			1.5		3.5			3.5			AMF 121 with Matt
+23 Jan 07	PA-31	N42079	BUR-MYF-EMT-MYF-BUR	3.5					2				1.0		3.5		1.0	2.5			AMF 102 with Karina
+26 Jan 07	PA-31	N9132Y	BUR-PMD-WJF-BUR	1.7						0.3			1.7				1.7				First flight with Andy
+29 Jan 07	PA-31	N6480L	BUR-CMA-OXR-BUR	1.8													1.8				Second flight with Andy
+30 Jan 07	PA-31	N62858	BUR-PMD-WJF-BUR	1.9						1.0			1.9				1.9				Third flight with Andy
+31 Jan 07	PA-31	N62858	BUR-PMD-WJF-BUR	1.7						0.4			1.7				1.7				Fourth flight with Andy
+1 Feb 07	PA-31	N62858	BUR-RAL-EMT-BUR	1.5									1.5				1.5				Fifth flight with Andy
+3 Feb 07	PA-31	N62858	BUR-WJF-BUR	2.0				1									2.0				SPT with Andy
+3 Feb 07	PA-31	N62858	BUR-BUR	1.5													1.5				Sixth flight with Andy
+5 Feb 07	PA-31	N7441L	BUR-OXR-BUR	2.0													2.0				Eigth flight with Andy
+6 Feb 07	PA-31	N6480L	BUR-OXT-VNY-BUR	1.5													1.5				Seventh flight with Andy
+7 Feb 07	PA-31	N62858	BUR-PMD-WJF-BUR	2.0						0.1							2.0				Ninth flight with Andy
+12 Feb 07	PA-31	N27996	BUR-PMD-WJF-VNY-PMD	1.7													1.7				Tenth flight with Andy
+15 Feb 07	PA-31	N27996	BUR-MYF-BUR	2.1									1.0		2.1			2.1			AMF 104 with Mary Lou
+16 Feb 07	PA-31	N42079	BUR-MYF-EMT-BURR	2.1					1				1.5		2.1		0.2	1.9			AMF 102 with Mary Lou
+20 Feb 07	PA-31	N9132Y	BUR-MYF-EMT-MYF-BUR	3.7				1	1	0.5			1.0				1.7	2.0			AMF 102 with Brandon
+21 Feb 07	PA-31	N42079	BUR-CMA-OXR-BUR	2.7						1.0			2.7				2.7				Retrain with Andy
+26 Feb 07	PA-31	N6480L	BUR-MYF-BUR	2.2					1	0.1			1.2		2.2			2.2			AMF 104 with Rick
+27 Feb 07	PA-31	N6480L	BUR-MYF-BUR	2.2					1	0.1			1.0		2.2			2.2			AMF 104 with Rick
+28 Feb 07	PA-31	N6480L	BUR-MYF-BUR	2.2					1				2.2		2.2			2.2			AMF 104 with Justin
+6 Mar 07	Beech 99	N102GP	BUR-WJF-BUR	1.7	1.7			4									1.7				First Beech 99 training flight with Michael Phillips
+7 Mar 07	Beech 99	N102GP	BUR-CMA-OXR-BUR	1.4	1.4			2			1.0	3					1.4				Second Beech 99 training flight with Michael Phillips - VOR 26 CMA	 ILS 25 OXR	 VOR 8 BUR
+9 Mar 07	Beech 99	N102GP	BUR-CMA-OXR-BUR	1.3	1.3			1			1.0	2					1.3				Third Beech 99 training flight with Michael Phillips - ILS 25 OXR	 VOR 8 BUR	 holding
+12 Mar 07	Beech 99	N21FW	BUR-EMT-BUR	0.7	0.7			2			0.4	1					0.7				Beech 99 SIC checkride with Michael Phillips - VOR 8 BUR
+22 Mar 07	Beech 99	N62978	ONT-BFL-VIS-ONT	2.4	2.4			2							2.4		1.0	1.4			AMF 1940 with Gavin
+23 Mar 07	Beech 99	N802BA	BUR-BFL-ONT-BUR	2.1	2.1			2					0.2		2.1		1.0	1.1			AMF 1948 with Trapper
+27 Mar 07	PA-31	N7441L	BUR-MYF-EMT-BUR	3.0				1							3.0			3.0			AMF 102 with Walter
+28 Mar 07	King Air 200	N200AF	BUR-SAC-BUR	3.5	3.5										3.5			3.5			Charter with Pat
+9 Apr 07	Beech 99	234AV	BUR-OXR-BUR	1.0	1.0			2									1.0				AMF 1937 special with John
+11 Apr 07	PA-31	7441L	BUR-VGT-BUR	3.5				1	1				1.0		3.5		2.0	1.5			AMF 126 with Matt
+12 Apr 07	PA-31	7441L	BUR-VGT-HHR-BUR	3.7				1	1				1.5		3.7		2.0	1.7			AMF 126 with Matt
+3 May 07	King Air 200	N200AF	BUR-LAS-OAK-OAK	4.5	4.5								1.0		4.5			4.5			King Air charter with Pat. Lost electrical	 declared and landed
+7 May 07	Beech 99	N34AK	BUR-IYK-BIH-TPH-BIH-IYK-WJF-ONT	4.5	4.5			3							4.5			4.5			Amflight 1902 with Tyler
+8 May 07	PA-31	N42079	SMX-BUR	1.5				1							1.5	1.5	1.5				Amflight 4071	 repo from the paint shop
+10 May 07	PA-31	N6480L	BUR-VGT-HHR-BUR	3.7				1	2	0.1			1.5		3.7		1.5	2.2			AMF 126 with Tom
+17 May 07	King Air 200	N200AF	BUR-HDN-BUR	3.0	3.0			1							3.0			3.0			Charter with Pat
+18 May 07	PA-31	N42079	BUR-CMA-OXR-BUR	2.0				2		1.0		4					2.0				GPS flight with Mike
+24 May 07	PA-31	N62858	BUR-MYF-BUR	2.3					1	0.1			0.5		2.3			2.3			AMF 104 with Mary Lou
+29 May 07	Beech 99	N802BA	ONT-BLY-EED-IFH-PSP-ONT	3.4	3.4										3.4			3.4			AMF 1954 with Kathy
+20 Sep 07	EMB-145	EMB145	EWR-MKE	2.4	2.4			1		0.1		1			2.4			2.4			Trip:E9769 Crew:CA01 88535 SINK JOSHUA  FO01 U3673 HERRESHOFF JOHN  FA01 E3121 SPENCER PAMELA
+21 Sep 07	EMB-145	EMB145	MKE-EWR-AVL-EWR	6.3	6.3			2				1			6.3			6.3			Trip:E9769 Crew:CA01 88535 SINK JOSHUA  FO01 U3673 HERRESHOFF JOHN  FA01 E3121 SPENCER PAMELA
+25 Sep 07	EMB-145	EMB145	EWR-RDU	2.4	2.4			1							2.4			2.4			Trip:E916VB Crew:CA01 E3233 WESSE SEBASTIEN  FO01 U3673 HERRESHOFF JOHN  FA01 G3851 VANHISE ANDREA
+26 Sep 07	EMB-145	EMB145	RDU-EWR-STL	6.1	6.1			1	2						6.1			6.1			Trip:E916VB Crew:CA01 E3233 WESSE SEBASTIEN  FO01 U3673 HERRESHOFF JOHN  FA01 G3851 VANHISE ANDREA
+27 Sep 07	EMB-145	EMB145	STL-IAH-EWR-STL	5.6	5.6			2	1						5.6			5.6			Trip:E916VB Crew:CA01 E3233 WESSE SEBASTIEN  FO01 U3673 HERRESHOFF JOHN  FA01 G3851 VANHISE ANDREA
+28 Sep 07	EMB-145	EMB145	STL-EWR-CAE-EWR	5.6	5.6			2							5.6			5.6			Trip:E916VB Crew:CA01 E3233 WESSE SEBASTIEN  FO01 U3673 HERRESHOFF JOHN  FA01 G3851 VANHISE ANDREA
+8 Oct 07	EMB-145	EMB145	EWR-CMH-EWR-CHS	5.4	5.4			3							5.4			5.4			Trip: Crew:CA01 87906 KOEPPEN JOSEPH  FO01 U3673 HERRESHOFF JOHN  FA01 G1847 ANDERSON HEATHER
+9 Oct 07	EMB-145	EMB145	CHS-EWR-EWR-PIT	5.2	5.2			2		0.5		1	3.5		5.2			5.2			Trip: Crew:CA01 87906 KOEPPEN JOSEPH  FO01 U3673 HERRESHOFF JOHN  FA01 G1847 ANDERSON HEATHER
+10 Oct 07	EMB-145	EMB145	EWR-IAH	3.2	3.2			1							3.2			3.2			Trip:E9622E Crew:Same
+16 Oct 07	EMB-145	EMB145	EWR-XNA-IAH	5.2	5.2			1	1				1.9		5.2			5.2			Trip:E9G94E Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  E1741 JOHNSON   JOHN FA01  R  U3567 BARTON   CONRAD CA01  L  88830 PYLE   ERIC FA01  L  C4909 GALLEGO   ALEJANDRA CA01  L  E1809 FOLK   MICHAEL FA01  R  U238
+17 Oct 07	EMB-145	EMB145	IAH-BNA-IAH-MCI	6.3	6.3			1	1				4.4		6.3			6.3			Trip:E9G94E Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  E1741 JOHNSON   JOHN FA01  R  U3567 BARTON   CONRAD CA01  L  88830 PYLE   ERIC FA01  L  C4909 GALLEGO   ALEJANDRA CA01  L  E1809 FOLK   MICHAEL FA01  R  U238
+18 Oct 07	EMB-145	EMB145	MCI-IAH-EWR-CAE-EWR	6.4	6.4			1	1				1.8		6.4			6.4			Trip:E9G94E Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  E1741 JOHNSON   JOHN FA01  R  U3567 BARTON   CONRAD CA01  L  88830 PYLE   ERIC FA01  L  C4909 GALLEGO   ALEJANDRA CA01  L  E1809 FOLK   MICHAEL FA01  R  U238
+25 Oct 07	EMB-145	EMB145	EWR-BWI	1.4	1.4			1							1.4			1.4			Trip:E9K28 Crew:FO01  R  U3673 HERRESHOFF   JOHN
+26 Oct 07	EMB-145	EMB145	BWI-EWR	1.2	1.2			1	1	0.9		1	1.1		1.2			1.2			Trip:E9K28 Crew:FO01  R  U3673 HERRESHOFF   JOHN
+31 Oct 07	EMB-145	EMB145	EWR-BDL-CLE	2.8	2.8			1							2.8			2.8			Trip:E9Z01A Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  R  G4957 SCHARF   BENJAMIN
+1 Nov 07	EMB-145	EMB145	EWR-BNA	2.6	2.6										2.6			2.6			
+2 Nov 07	EMB-145	EMB145	CLE-ROC-EWR	2.8	2.8			2							2.8			2.8			
+7 Nov 07	EMB-145	EMB145	EWR-STL-IAH-GDL	7.3	7.3			1							7.3			7.3			Trip:E9779 Crew:CA01  L  G4461 KINCHELOE   BRADLEY FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3273 MORGAN   SHAQUETT
+8 Nov 07	EMB-145	EMB145	GDL-IAH	2.3	2.3			1							2.3			2.3			Trip:E9779 Crew:CA01  L  G4461 KINCHELOE   BRADLEY FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3273 MORGAN   SHAQUETT
+21 Nov 07	EMB-145	EMB145	EWR-GRR-CLE-BWI	5.8	5.8			1	1	0.7		1	0.7		5.8			5.8			Trip:E910C Crew:CA01  R  G5211 SCHNEIDER   MICHAEL FO01  R  U3673 HERRESHOFF   JOHN
+22 Nov 07	EMB-145	EMB145	BWI-EWR-ORF	2.4	2.4			1							2.4			2.4			Trip:E910C Crew:CA01  R  G5211 SCHNEIDER   MICHAEL FO01  R  U3673 HERRESHOFF   JOHN
+23 Nov 07	EMB-145	EMB145	ORF-EWR-DAY	3.5	3.5			1							3.5			3.5			Trip:E910C Crew:CA01  R  G5211 SCHNEIDER   MICHAEL FO01  R  U3673 HERRESHOFF   JOHN
+24 Nov 07	EMB-145	EMB135	DAY-CLE-MSP-EWR	5.3	5.3			1		0.4					5.3			5.3			Trip:E910C Crew:CA01  R  G5211 SCHNEIDER   MICHAEL FO01  R  U3673 HERRESHOFF   JOHN
+29 Nov 07	EMB-145	EMB145	EWR-GRR-CLE-BWI	4.9	4.9			2		0.2					4.9			4.9			Trip:E915L Crew:CA01  L  G4596 MCCOMMON   KIMBERLY FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G7175 SCHMITT   JACQUELYN
+30 Nov 07	EMB-145	EMB145	BWI-CLE-MCI	4.3	4.3										4.3			4.3			Trip:E915L Crew:CA01  L  G4596 MCCOMMON   KIMBERLY FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G7175 SCHMITT   JACQUELYN
+1 Dec 07	EMB-145	EMB145	MCI-CLE-ALB-CLE-MCI	6.8	6.8			2							6.8			6.8			Trip:E915L Crew:CA01  L  G4596 MCCOMMON   KIMBERLY FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G7175 SCHMITT   JACQUELYN
+3 Dec 07	EMB-145	EMB145	MCI-IAH	1.9	1.9			1							1.9			1.9			Trip:E915L Crew:CA01  L  G4596 MCCOMMON   KIMBERLY FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G7175 SCHMITT   JACQUELYN
+13 Dec 07	EMB-145	EMB145	EWR-CVG-IAH-LBB	6.4	6.4			2							6.4			6.4			Trip:E904T Crew:FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3972 MORAN   YOVANA
+14 Dec 07	EMB-145	EMB145	LBB-IAH-DAY	4.5	4.5										4.5			4.5			Trip:E904T Crew:FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3972 MORAN   YOVANA
+16 Dec 07	EMB-145	EMB145	DAY-EWR-BNA-EWR	6.3	6.3			1	1	0.5		1	2.0		6.3			6.3			Trip:E904T Crew:FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3972 MORAN   YOVANA
+28 Dec 07	EMB-145	EMB145	EWR-PIT	1.3	1.3										1.3			1.3			Trip: E9L89 Crew: F001 R U3673 Herreshoff John
+28 Dec 07	EMB-145	EMB145	EWR-PIT	1.3	1.3										1.3			1.3			Trip:E9L26 Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  R  G4567 EREZ   DROR
+29 Dec 07	EMB-145	EMB145	PIT-IAH	3.0	3.0			1							3.0			3.0			
+29 Dec 07	EMB-145	EMB145	IAH-EWR	4.4	4.4										4.4			4.4			Trip:E9L26 Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  R  G4567 EREZ   DROR
+5 Jan 08	EMB-145	EMB145	EWR-YHZ	2.2	2.2										2.2			2.2			
+6 Jan 08	EMB-145	EMB145	YHZ-EWR-YYZ	3.7	3.7			1		0.5		1			3.7			3.7			
+7 Jan 08	EMB-145	EMB145	YYZ-EWR-CHS-EWR	5.1	5.1										5.1			5.1			Trip:E933A Crew:CA01  L  G4784 SMITH   LEWIS FO01  R  U3673 HERRESHOFF   JOHN FA01  L  F2868 TOMASCO   MATTHEW
+19 Jan 08	EMB-145	EMB145	EWR-ATL	2.8	2.8					0.5		1			2.8			2.8			Trip:E909H Crew:CA01  L  G4494 VIANA   MANUEL FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6770 YELDELL   TABITHA
+20 Jan 08	EMB-145	EMB145	ATL-IAH-LBB	3.3	3.3			2							3.3			3.3			Trip:E909H Crew:CA01  L  G4494 VIANA   MANUEL FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6770 YELDELL   TABITHA
+21 Jan 08	EMB-145	EMB145	LBB-IAH-BRO	3.7	3.7										3.7			3.7			Trip:E909H Crew:CA01  L  G4494 VIANA   MANUEL FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6770 YELDELL   TABITHA
+22 Jan 08	EMB-145	EMB145	BRO-IAH-XNA-EWR	6.6	6.6			1		0.3		1			6.6			6.6			Trip:E909H Crew:CA01  L  G4494 VIANA   MANUEL FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6770 YELDELL   TABITHA
+27 Jan 08	EMB-145	EMB145	EWR-MCI-IAH-GRK	5.9	5.9			2							5.9			5.9			Trip:E913E Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  G4867 COLEY   WILLIAM FA01  R  U3536 SURBER   ANGELA FA01  L  85540 CAMPBELL   KAYLA CA01  L  G4823 REPASS   JOHN FA01  L  G6476 JEFFRA   JANEEN
+28 Jan 08	EMB-145	EMB135	GRK-IAH-ICT	2.8	2.8										2.8			2.8			Trip:E913E Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  G4867 COLEY   WILLIAM FA01  R  U3536 SURBER   ANGELA FA01  L  85540 CAMPBELL   KAYLA CA01  L  G4823 REPASS   JOHN FA01  L  G6476 JEFFRA   JANEEN
+29 Jan 08	EMB-145	EMB145	ICT-IAH-GSO	4.8	4.8			1	1						4.8			4.8			Trip:E913E Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  G4867 COLEY   WILLIAM FA01  R  U3536 SURBER   ANGELA FA01  L  85540 CAMPBELL   KAYLA CA01  L  G4823 REPASS   JOHN FA01  L  G6476 JEFFRA   JANEEN
+30 Jan 08	EMB-145	EMB145	GSO-EWR-CMH-EWR	4.9	4.9				1						4.9			4.9			Trip:E913E Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  G4867 COLEY   WILLIAM FA01  R  U3536 SURBER   ANGELA FA01  L  85540 CAMPBELL   KAYLA CA01  L  G4823 REPASS   JOHN FA01  L  G6476 JEFFRA   JANEEN
+11 Feb 08	EMB-145	EMB145	EWR-YUL-EWR	3.0	3.0										3.0			3.0			Trip:E9E78 Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  E3392 DANKS   BARRY FA01  L  G4014 ROEHLING   BARBARA
+16 Feb 08	EMB-145	EMB145	EWR-DTW	2.1	2.1										2.1			2.1			Trip:E910TA Crew:CA01  L  G4468 FERNANDES   JOAO FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6134 PASSARETTI   FALLON
+17 Feb 08	EMB-145	EMB145	DTW-EWR-RIC-CLE-GRR	5.3	5.3			2		1.0					5.3			5.3			Trip:E910TA Crew:CA01  L  G4468 FERNANDES   JOAO FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6134 PASSARETTI   FALLON
+18 Feb 08	EMB-145	EMB145	GRR-IAH-DCA	5.9	5.9				1				5.6		5.9			5.9			Trip:E910TA Crew:CA01  L  G4468 FERNANDES   JOAO FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6134 PASSARETTI   FALLON
+19 Feb 08	EMB-145	EMB145	DCA-EWR	1.2	1.2										1.2			1.2			Trip:E910TA Crew:CA01  L  G4468 FERNANDES   JOAO FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6134 PASSARETTI   FALLON
+23 Feb 08	EMB-145	EMB145	EWR-CLT	2.0	2.0			1		0.2					2.0			2.0			Trip:E914CM Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  74749 DOBELLI   AMANDA FA01  R  U2926 WILLIAMS   DEANTE CA01  L  G4782 MURPHY   DENNIS
+24 Feb 08	EMB-145	EMB145	CLT-EWR-MSP-EWR	6.9	6.9								2.4		6.9			6.9			Trip:E914CM Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  74749 DOBELLI   AMANDA FA01  R  U2926 WILLIAMS   DEANTE CA01  L  G4782 MURPHY   DENNIS
+25 Feb 08	EMB-145	EMB145	EWR-CAE-EWR	3.7	3.7										3.7			3.7			
+1 Mar 08	EMB-145	EMB145	EWR-DCA-EWR	2.5	2.5			1							2.5			2.5			
+3 Mar 08	EMB-145	EMB145	EWR-BNA-IAH-BJX	9.2	9.2			2		0.3		1			9.2			9.2			Trip:E9858 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  G3949 SKOBEL   BRIAN FA01  L  E1008 LYNCH   LOUISE
+4 Mar 08	EMB-145	EMB145	BJX-IAH-BRO	3.7	3.7										3.7			3.7			Trip:E9858 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  G3949 SKOBEL   BRIAN FA01  L  E1008 LYNCH   LOUISE
+5 Mar 08	EMB-145	EMB145	BRO-IAH-LIT	2.9	2.9			1					1.3		2.9			2.9			Trip:E9858 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  G3949 SKOBEL   BRIAN FA01  L  E1008 LYNCH   LOUISE
+6 Mar 08	EMB-145	EMB145	LIT-IAH-CVG-EWR	5.8	5.8				1				1.8		5.8			5.8			Trip:E9858 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  G3949 SKOBEL   BRIAN FA01  L  E1008 LYNCH   LOUISE
+10 Mar 08	EMB-145	EMB145	EWR-IND-CLE-IAD	4.7	4.7					0.7		2	2.5		4.7			4.7			Trip:E900E Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  80357 BUTLER   RANDY FA01  L  85054 MARQUES   DIANA
+11 Mar 08	EMB-145	EMB145	IAD-EWR-YQM	3.8	3.8										3.8			3.8			Trip:E900E Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  80357 BUTLER   RANDY FA01  L  85054 MARQUES   DIANA
+13 Mar 08	EMB-145	EMB145	YQM-EWR-YOW-EWR	6.2	6.2			2					0.3		6.2			6.2			Trip:E900E Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  80357 BUTLER   RANDY FA01  L  85054 MARQUES   DIANA
+20 Mar 08	EMB-145	EMB145	EWR-YYZ-EWR-ALB-CLE-DAY	8.3	8.3			1					4.1		8.3			8.3			Trip:E908G Crew:FO01  L  U3673 HERRESHOFF   JOHN FA01  L  89771 DUFFY   SUSAN
+21 Mar 08	EMB-145	EMB145	DAY-CLE-MHT	2.2	2.2			1					1.0		2.2			2.2			Trip:E908G Crew:FO01  L  U3673 HERRESHOFF   JOHN FA01  L  89771 DUFFY   SUSAN
+22 Mar 08	EMB-145	EMB145	MHT-EWR-DTW	3.5	3.5			1							3.5			3.5			Trip:E908G Crew:FO01  L  U3673 HERRESHOFF   JOHN FA01  L  89771 DUFFY   SUSAN
+23 Mar 08	EMB-145	EMB145	DTW-EWR-MCI-EWR	7.8	7.8			2					1.0		7.8			7.8			Trip:E908G Crew:FO01  L  U3673 HERRESHOFF   JOHN FA01  L  89771 DUFFY   SUSAN
+4 Apr 08	EMB-145	EMB145	EWR-BNA-BNA-IAH-BHM	10.1	10.1			3		2.5		2			10.1			10.1			Trip:E9945 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  E2090 FEIGAL   CHRISTOPHER FA01  L  G6108 CUNNINGHAM   MELISSA
+5 Apr 08	EMB-145	EMB145	BHM-IAH-SAV	4.5	4.5										4.5			4.5			Trip:E9945 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  E2090 FEIGAL   CHRISTOPHER FA01  L  G6108 CUNNINGHAM   MELISSA
+6 Apr 08	EMB-145	EMB145	SAV-IAH-STL	4.5	4.5			2					0.5		4.5			4.5			Trip:E9945 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  E2090 FEIGAL   CHRISTOPHER FA01  L  G6108 CUNNINGHAM   MELISSA
+7 Apr 08	EMB-145	EMB145	STL-EWR-YHZ-EWR	6.6	6.6			1		0.2		1			6.6			6.6			Trip:E9945 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  E2090 FEIGAL   CHRISTOPHER FA01  L  G6108 CUNNINGHAM   MELISSA
+10 Apr 08	EMB-145	EMB145	EWR-MHT	1.4	1.4										1.4			1.4			Trip:E9728 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  89721 PTAK   PETER FA01  L  G4174 MONTALVO   PAMELA
+11 Apr 08	EMB-145	EMB145	MHT-EWR-BTV-EWR-IAD-EWR	7.1	7.1			3		1.5		2			7.1			7.1			Trip:E9728 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  89721 PTAK   PETER FA01  L  G4174 MONTALVO   PAMELA
+12 Apr 08	EMB-145	EMB145	EWR-NAS-EWR	6.8	6.8			1							6.8			6.8			Trip:E9548 Crew:FO01  L  U3673 HERRESHOFF   JOHN FA01  L  G3989 FERREIRA   NUNO (2066)Yelling captain  bid avoid
+13 Apr 08	EMB-145	EMB145	EWR-YYT	3.0	3.0										3.0			3.0			Trip:E904Z Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  87890 WEBB   KYLE FA01  L  82640 SCHNELL   JOANNE
+14 Apr 08	EMB-145	EMB-145	YYT-EWR-PVD	4.7	4.7										4.7		4.7	4.7			Trip:E904Z Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  87890 WEBB   KYLE FA01  L  82640 SCHNELL   JOANNE
+15 Apr 08	EMB-145	EMB-145	PVD-EWR	1.1	1.1										1.1		1.1	1.1			Trip:E904Z Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  87890 WEBB   KYLE FA01  L  82640 SCHNELL   JOANNE
+18 Apr 08	EMB-145	EMB145	EWR-CLT-EWR-BDL	4.4	4.4			2							4.4			4.4			Trip:E908J Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  G4645 CAREY   MARSHALL FA01  L  E4169 GILBERT   KERRY  954 662 8266 captain  716 491 8002 fa
+20 Apr 08	EMB-145	EMB145	BDL-EWR-STL-CLE-MKE	6.5	6.5			2		0.5		1			6.5			6.5			Trip:E908J Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  G4645 CAREY   MARSHALL FA01  L  E4169 GILBERT   KERRY
+21 Apr 08	EMB-145	EMB145	MKE-EWR	2.4	2.4										2.4			2.4			Trip:E908J Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  G4645 CAREY   MARSHALL FA01  L  E4169 GILBERT   KERRY
+25 Apr 08	EMB-145	EMB145	EWR-CHS-EWR	4.7	4.7			1							4.7			4.7			Trip:E9C08 Crew:FO01  L  U3673 HERRESHOFF   JOHN
+27 Apr 08	EMB-145	EMB135	EWR-YOW-EWR-OMA	6.7	6.7			2		0.5			3.5		6.7			6.7			Trip:E9792A Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  E1631 KIRBY   STEVEN FA01  L  G3258 HENDERSON   SHYRIAA
+28 Apr 08	EMB-145	EMB145	OMA-EWR	4.0	4.0										4.0			4.0			Trip:E9792A Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  E1631 KIRBY   STEVEN FA01  L  G3258 HENDERSON   SHYRIAA
+29 Apr 08	EMB-145	EMB145	EWR-YYZ-EWR-GSO-EWR	6.7	6.7			2		0.3					6.7			6.7			Trip:E9564 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  88647 MCDOWELL   MATTHEW FA01  L  G4174 MONTALVO   PAMELA
+30 Apr 08	EMB-145	EMB145	EWR-STL-EWR	5.3	5.3										5.3			5.3			Trip:E9533 Crew:FO01  L  U3673 HERRESHOFF   JOHN CA01  L  E2609 GOVERNALE   ANDREW FA01  L  E3449 BLACK   BONNIE
+6 May 08	EMB-145	EMB-145	EWR-YUL-EWR	3.2	3.2										3.2			3.2			Trip:E9Z02D Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  R  G5352 HEISE   BRYAN FA01  R  U2182 CHURCH   DUSTIN
+13 May 08	EMB-145	EMB145	EWR-YQB	1.8	1.8								1.8		1.8			1.8			Trip:E9F75 Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  89201 CRADY   BRIAN
+14 May 08	EMB-145	EMB145	YQB-EWR	1.5	1.5										1.5			1.5			Trip:E9F75 Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  L  89201 CRADY   BRIAN
+16 May 08	EMB-145	EMB145	MCI-EWR	3.2	3.2				1	0.5		1	2.0		3.2			3.2			Trip:E9G52 Crew:CA01  L  E2616 KENNEDY   STEVEN FO01  R  U3673 HERRESHOFF   JOHN FA01  R  U6055 JONES   KRISTAN
+28 May 08	EMB-145	EMB145	EWR-BUF-EWR	3.2	3.2			2							3.2			3.2			Trip:E9J28 Crew:CA01  R  G5344 MACLEAN   RAYMOND FO01  R  U3673 HERRESHOFF   JOHN FA01  R  U6073 ARTURA   JACQUELINE
+3 Jun 08	EMB-145	EMB-145	EWR-STL-EWR-RDU	7.3	7.3				1	0.5			2.6		7.3			7.3			Trip:E9729B Crew:CA01  L  E4660 BURDETTE   ERIC FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G7644 DEMORY   JOELENE
+4 Jun 08	EMB-145	EMB145	RDU-EWR	3.1	3.1								3.1		3.1			3.1			Trip:E9729B Crew:CA01  L  E4660 BURDETTE   ERIC FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G7644 DEMORY   JOELENE
+5 Jun 08	EMB-145	EMB135	EWR-MKE-EWR	4.4	4.4			1		0.5			2.0		4.4			4.4			Trip:E9C18 Crew:CA01  L  G4992 MENESES   CESAR FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G1847 ANDERSON   HEATHER
+6 Jun 08	EMB-145	EMB145	EWR-CLT-EWR	3.9	3.9								0.7		3.9			3.9			Trip:E9C57 Crew:CA01  L  E3298 CURRAN   SEAN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3993 YAGGI   LINDSAY
+11 Jun 08	EMB-145	EMB145	EWR-BDL-CLE-SYR-EWR	5.7	5.7			2							5.7			5.7			Trip:E9546 Crew:FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3989 FERREIRA   NUNO
+16 Jun 08	EMB-145	EMB145	EWR-BNA	2.8	2.8										2.8			2.8			Trip:E903ZF Crew:Peter
+17 Jun 08	EMB-145	EMB145	BNA-IAH	1.9	1.9			1							1.9			1.9			Trip:E903J Crew:Peter
+19 Jun 08	EMB-145	EMB145	EWR-SDF-CLE-RIC	4.4	4.4			2							4.4			4.4			Trip:E9844B Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  R  G5492 RICCI   ANGELO FA01  L  E3127 FLORENDO   CYNTHIA
+20 Jun 08	EMB-145	EMB145	RIC-IAH	3.0	3.0										3.0			3.0			Trip:E9844B Crew:FO01  R  U3673 HERRESHOFF   JOHN CA01  R  G5492 RICCI   ANGELO FA01  L  E3127 FLORENDO   CYNTHIA
+25 Jun 08	EMB-145	EMB145	EWR-ORF	1.2	1.2										1.2			1.2			Trip:E9J14A Crew:CA01  L  E1665 SHAPPELL   GABRIEL FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3993 YAGGI   LINDSAY
+26 Jun 08	EMB-145	EMB145	ORF-IAH-BHM	4.8	4.8			1							4.8			4.8			Trip:E9J14A Crew:CA01  L  E1665 SHAPPELL   GABRIEL FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3993 YAGGI   LINDSAY
+27 Jun 08	EMB-145	EMB145	BHM-EWR-SDF-CLE-GRR	6.4	6.4			2							6.4			6.4			Trip:E9J14A Crew:CA01  L  E1665 SHAPPELL   GABRIEL FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3993 YAGGI   LINDSAY
+28 Jun 08	EMB-145	EMB145	GRR-CLE	0.7	0.7										0.7			0.7			Trip:E9J14A Crew:CA01  L  E1665 SHAPPELL   GABRIEL FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G3993 YAGGI   LINDSAY
+29 Jun 08	EMB-145	EMB145	CLE-ATL-IAH	3.9	3.9			1							3.9			3.9			Trip:E9J14H Crew:
+30 Jun 08	EMB-145	EMB145	IAH-TUL-IAH-XNA-EWR	7.5	7.5			2							7.5			7.5			Trip:E9J14I Crew:
+2 Jul 08	EMB-145	EMB145	EWR-STL-EWR	4.8	4.8				1						4.8			4.8			Trip:E9A69 Crew:CA01  L  G4189 ZIEMIANSKI   VAUGHN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  89911 TROMSDORF   CLELIA
+6 Jul 08	EMB-145	EMB145	EWR-DTW-EWR	4.4	4.4								2.2		4.4			4.4			Trip:E9D47 Crew:CA01  L  G4328 BREDNICH   BURKE FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6660 ARMAS   MARCO
+15 Jul 08	EMB-145	EMB145	EWR-BGR	2.5	2.5										2.5			2.5			Trip:E9F74 Crew:CA01  L  E2506 OLARTE   ANDREW FO01  R  U3673 HERRESHOFF   JOHN FA01  R  U4506 WILLIAMS   REAUCHAAN
+16 Jul 08	EMB-145	EMB145	BGR-EWR-STL-EWR	6.8	6.8			2							6.8			6.8			Trip:E9F74 Crew:CA01  L  E2506 OLARTE   ANDREW FO01  R  U3673 HERRESHOFF   JOHN FA01  R  U4506 WILLIAMS   REAUCHAAN
+17 Jul 08	EMB-145	EMB145	EWR-PIT-EWR	5.3	5.3				1						5.3			5.3			Trip:E9B89 Crew:CA01  L  E3862 KANE   JOHN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G4282 BOELENS   CHRISTOPHER
+21 Jul 08	EMB-145	EMB145	EWR-STL	2.7	2.7										2.7			2.7			Trip:E9H89 Crew:FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G7196 HOLMIN   ROSELLE
+22 Jul 08	EMB-145	EMB145	STL-CLE-MCI	4.2	4.2			1							4.2			4.2			Trip:E9H89 Crew:FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G7196 HOLMIN   ROSELLE
+23 Jul 08	EMB-145	EMB145	MCI-CLE	2.9	2.9			1							2.9			2.9			Trip:E9H89D Crew:
+24 Jul 08	EMB-145	EMB145	CLE-ROC-EWR	2.3	2.3			1							2.3			2.3			Trip:E9H89D Crew:
+28 Jul 08	EMB-145	EMB145	EWR-PVD	1.1	1.1										1.1			1.1			Trip:E910CB Crew:CA01  R  G5566 OHL   STEVEN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G2836 MATOS   JOHANNA
+29 Jul 08	EMB-145	EMB145	PVD-EWR-CMH-EWR-SYR	5.6	5.6			2							5.6			5.6			Trip:E910CB Crew:CA01  R  G5566 OHL   STEVEN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G2836 MATOS   JOHANNA
+30 Jul 08	EMB-145	EMB145	SYR-EWR-MCI	4.2	4.2			1							4.2			4.2			Trip:E910CB Crew:CA01  R  G5566 OHL   STEVEN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G2836 MATOS   JOHANNA
+31 Jul 08	EMB-145	EMB145	MCI-EWR	2.9	2.9								1.0		2.9			2.9			Trip:E910CB Crew:CA01  R  G5566 OHL   STEVEN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G2836 MATOS   JOHANNA
+6 Aug 08	EMB-145	EMB135	EWR-TYS	2.9	2.9								2.9		2.9			2.9			Trip:E9D92 Crew:CA01  L  E2090 FEIGAL   CHRISTOPHER FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G1847 ANDERSON   HEATHER
+7 Aug 08	EMB-145	EMB145	TYS-EWR-SAV	5.7	5.7			1							5.7			5.7			Trip:E9D92 Crew:CA01  L  E2090 FEIGAL   CHRISTOPHER FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G1847 ANDERSON   HEATHER
+8 Aug 08	EMB-145	EMB145	SAV-EWR-BNA	4.8	4.8			1							4.8			4.8			Trip:E9D92A Crew:
+9 Aug 08	EMB-145	EMB145	BNA-IAH	1.9	1.9			1							1.9			1.9			Trip:E9D92J Crew:
+13 Aug 08	EMB-145	EMB145	EWR-MSN-CLE-DCA-EWR	6.2	6.2			1							6.2			6.2			Trip:E9517 Crew:CA01  L  86587 CIVITANO   LEONARD FO01  R  U3673 HERRESHOFF   JOHN FA01  L  E4875 YURCZYK   DEANNA
+14 Aug 08	EMB-145	EMB145	EWR-TYS	2.9	2.9			1							2.9			2.9			Trip:E9H26B Crew:
+16 Aug 08	EMB-145	EMB145	EWR-CLT-EWR-MHT	5.0	5.0			2							5.0			5.0			Trip:E9I11D Crew:CA01  L  G4672 ENDERLE   JORGE FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6618 CABRERA   EDDITH CA01  L  G5142 MANSOUR   COREY FA01  R  U4328 MCNAIR   CURTISS FA01  L  88795 LEMKE   ROBYNE
+17 Aug 08	EMB-145	EMB145	MHT-CLE-YYZ-IAH	5.8	5.8			1							5.8			5.8			Trip:E9I11D Crew:CA01  L  G4672 ENDERLE   JORGE FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6618 CABRERA   EDDITH CA01  L  G5142 MANSOUR   COREY FA01  R  U4328 MCNAIR   CURTISS FA01  L  88795 LEMKE   ROBYNE
+20 Aug 08	EMB-145	EMB135	EWR-YOW	2.3	2.3										2.3			2.3			Trip:E917B Crew:CA01  L  G4454 SZLUKA   MATTHEW FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6294 HOWELL   MANDI
+21 Aug 08	EMB-145	EMB135	YOW-EWR-IAD-EWR-IAD	5.1	5.1			2							5.1			5.1			Trip:E917B Crew:CA01  L  G4454 SZLUKA   MATTHEW FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6294 HOWELL   MANDI
+22 Aug 08	EMB-145	EMB135	IAD-CLE-DCA-EWR-MKE	5.6	5.6			2							5.6			5.6			Trip:E917B Crew:CA01  L  G4454 SZLUKA   MATTHEW FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6294 HOWELL   MANDI
+23 Aug 08	EMB-145	EMB145	MKE-CLE-BWI-EWR-ALB-EWR	5.5	5.5			2	1				0.5		5.5			5.5			Trip:E917B Crew:CA01  L  G4454 SZLUKA   MATTHEW FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6294 HOWELL   MANDI
+27 Aug 08	EMB-145	EMB145	EWR-CMH-EWR	3.6	3.6			1		0.3		1			3.6			3.6			Trip:E9L52 Crew:CA01  L  G5070 PRESSLY   BARTON FO01  R  U3673 HERRESHOFF   JOHN FA01  L  G6453 BECERRA   MICHAEL
+29 Aug 08	EMB-145	EMB145	EWR-PVD	0.9	0.9										0.9			0.9			Trip:E9L76 Crew:FO01  R  U3673 HERRESHOFF   JOHN FA01  R  U6062 MCDONALD   EMILY
+30 Aug 08	EMB-145	EMB145	PVD-EWR-STL-EWR	5.9	5.9			2				1	0.4		5.9			5.9			Trip:E9L76 Crew:FO01  R  U3673 HERRESHOFF   JOHN FA01  R  U6062 MCDONALD   EMILY
+31 Aug 08	EMB-145	EMB145	EWR-PVD	0.8	0.8										0.8			0.8			Trip:E9M24B Crew:CA01  L  E1631 KIRBY   STEVEN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  U1442 ABELL   VICKIE
+1 Sep 08	EMB-145	EMB145	PVD-EWR	1.0	1.0			1							1.0			1.0			Trip:E9M24B Crew:CA01  L  E1631 KIRBY   STEVEN FO01  R  U3673 HERRESHOFF   JOHN FA01  L  U1442 ABELL   VICKIE

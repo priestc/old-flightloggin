@@ -1,0 +1,576 @@
+Date	Aircraft Type	Aircraft Ident	Route of Flight	Time in Flight	Day Landings	Night Landings	Instrument	Simulated Instrument	Approaches	Simulator	Night	Cross Country	Solo	Pilot in Command	Second in Command	Dual	As Instructor	Remarks
+"08/01/06"	"PA28-161"	"N9207Q"	"KVRB X26 KVRB"	1.2	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.2	0.0	
+"08/02/06"	"PA28-161"	"N9237J"	"KVRB X26 KVRB"	1.5	4	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	0.0	
+"08/03/06"	"PA28-161"	"N9206H"	"KVRB KVRB"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.4	0.0	
+"08/04/06"	"PA28-161"	"N9207Q"	"KVRB KVRB"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	0.0	
+"08/07/06"	"PA28-161"	"N9203B"	"KVRB X59 KVRB"	1.7	5	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.7	0.0	
+"08/08/06"	"PA28-161"	"N9202C"	"KVRB X26 KVRB"	1.9	4	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.9	0.0	
+"08/09/06"	"PA28-161"	"N9211S"	"KVRB KVRB"	1.6	5	0	0.0	0.2	0	0.0	0.0	0.0	0.0	0.0	0.0	1.6	0.0	
+"08/10/06"	"PA28-161"	"N9202C"	"KVRB KVRB"	1.3	2	0	0.0	0.2	0	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0	
+"08/11/06"	"PA28-161"	"N9233X"	"KVRB KVRB"	1.7	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.7	0.0	
+"08/14/06"	"PA28-161"	"N9236L"	"KVRB KVRB"	1.2	5	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.2	0.0	
+"08/15/06"	"PA28-161"	"N9230P"	"KVRB X26 KVRB"	1.0	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	
+"08/17/06"	"PA28-161"	"N9211S"	"KVRB KVRB"	1.4	5	0	0.0	0.0	0	0.0	0.0	0.0	0.8	0.8	0.0	0.6	0.0	"FIRST SOLO"
+"08/21/06"	"PA28-161"	"N9238D"	"KVRB KMLB KVRB"	1.7	6	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.7	0.0	
+"08/22/06"	"PA28-161"	"N9232Q"	"KVRB KFPR KVRB"	1.4	2	0	0.0	0.5	0	0.0	0.0	0.0	0.0	0.0	0.0	1.4	0.0	
+"08/23/06"	"PA28-161"	"N9234V"	"KVRB KVRB"	1.5	3	0	0.0	0.0	0	0.0	0.0	0.0	1.5	1.5	0.0	0.0	0.0	
+"08/24/06"	"PA28-161"	"N9214R"	"KVRB KPHK KVRB"	2.1	2	0	0.0	0.5	0	0.0	0.0	2.1	0.0	0.0	0.0	2.1	0.0	
+"08/25/06"	"PA28-161"	"N9213D"	"KVRB TIX KVRB"	2.1	5	0	0.0	0.2	0	0.0	0.0	2.1	0.0	0.0	0.0	2.1	0.0	
+"08/28/06"	"PA28-161"	"N9206H"	"KVRB KPBI KVRB"	3.2	0	10	0.0	0.3	0	0.0	3.2	2.0	0.0	0.0	0.0	3.2	0.0	
+"08/31/06"	"PA28-161"	"N9237J"	"KVRB KVRB"	1.6	5	0	0.0	0.5	0	0.0	0.0	0.0	0.0	0.0	0.0	1.6	0.0	
+"09/01/06"	"PA28-161"	"N9221D"	"KVRB KVRB"	1.0	2	0	0.0	0.0	0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	
+"09/05/06"	"PA28-161"	"N9236L"	"KVRB KVRB"	1.0	2	0	0.0	0.0	0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	
+"09/06/06"	"PA28-161"	"N9205X"	"KVRB KOBE KPHK KVRB"	2.0	3	0	0.0	0.0	0	0.0	0.0	2.0	2.0	2.0	0.0	0.0	0.0	"FIRST SOLO CROSS COUNTRY"
+"09/07/06"	"PA28-161"	"N9207Q"	"KVRB KVRB"	1.0	6	0	0.0	0.0	0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	
+"09/13/06"	"PA28-161"	"N9222J"	"KVRB X26 KVRB"	1.8	2	0	0.0	0.4	0	0.0	0.0	0.0	0.0	0.0	0.0	1.8	0.0	
+"09/15/06"	"PA28-161"	"N9210B"	"KVRB KVRB"	1.6	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.6	0.0	
+"09/21/06"	"PA28-161"	"N9243L"	"KVRB KVRB"	1.6	2	0	0.0	0.3	0	0.0	0.0	0.0	0.0	0.0	0.0	1.6	0.0	"PRIVATE CHECK RIDE"
+"09/23/06"	"PA28-161"	"N9235W"	"KVRB KVRB"	2.0	9	0	0.0	0.0	0	0.0	0.0	0.0	2.0	2.0	0.0	0.0	0.0	
+"09/25/06"	"PA28-161"	"N9235W"	"KVRB KORL KVRB"	2.3	3	0	0.0	0.0	0	0.0	0.0	2.3	0.0	2.3	0.0	2.3	0.0	
+"09/27/06"	"PA28-161"	"N9229H"	"KVRB X47 KVRB"	3.0	2	0	0.0	0.0	0	0.0	0.0	3.0	3.0	3.0	0.0	0.0	0.0	
+"09/27/06"	"PA28-161"	"N9212E"	"KVRB KOMN KVRB"	2.7	0	2	0.0	0.0	0	0.0	2.7	2.7	0.0	2.7	0.0	2.7	0.0	
+"09/28/06"	"PA28-161"	"N9206H"	"KVRB KVRB"	2.0	0	3	0.0	0.0	0	0.0	2.0	0.0	2.0	2.0	0.0	0.0	0.0	
+"09/29/06"	"PA28-161"	"N9213D"	"KVRB KAPF KVRB"	2.9	2	0	0.0	0.0	0	0.0	0.0	2.9	2.9	2.9	0.0	0.0	0.0	
+"09/29/06"	"PA28-161"	"N9222J"	"KVRB KISM KVRB"	3.1	15	0	0.0	0.0	0	0.0	0.0	3.1	3.1	3.1	0.0	0.0	0.0	
+"09/30/06"	"PA28-161"	"N9203B"	"KVRB KSRQ KVRB"	3.1	2	0	0.0	0.0	0	0.0	0.0	3.1	3.1	3.1	0.0	0.0	0.0	
+"10/02/06"	"PA28-161"	"N9207Q"	"KVRB KBCT KVRB"	2.9	8	0	0.0	0.0	0	0.0	0.0	2.9	2.9	2.9	0.0	0.0	0.0	
+"10/03/06"	"PA28-161"	"N9202C"	"KVRB KVRB"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	1.2	0.0	
+"10/04/06"	"PA28-161"	"N9202C"	"KVRB KCRG KSGJ KVRB"	3.8	3	0	0.0	0.0	0	0.0	0.0	3.8	3.8	3.8	0.0	0.0	0.0	
+"10/05/06"	"PA28-161"	"N9236L"	"KVRB KVRB"	2.0	6	0	0.0	0.0	0	0.0	0.0	0.0	2.0	2.0	0.0	0.0	0.0	
+"10/06/06"	"PA28-161"	"N9226R"	"KVRB KPHK KTMB KVRB"	4.0	5	0	0.0	0.0	0	0.0	0.0	4.0	4.0	4.0	0.0	0.0	0.0	
+"10/09/06"	"PA28-161"	"N9235W"	"KVRB KOPF KVRB"	3.0	0	3	0.0	0.0	0	0.0	3.0	3.0	3.0	3.0	0.0	0.0	0.0	
+"10/10/06"	"Frasca"	"NFS403"		0.0	0	0	0.0	0.0	0	1.7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"10/11/06"	"PA28-161"	"N9211S"	"KVRB KFPR KVRB"	1.6	1	3	0.0	0.0	0	0.0	0.6	0.0	0.0	1.6	0.0	1.6	0.0	
+"10/12/06"	"Frasca"	"NFS403"		0.0	0	0	0.0	0.0	0	1.7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"10/13/06"	"PA28-161"	"N9244P"	"KVRB KVRB"	1.5	1	0	0.0	0.6	0	0.0	0.0	0.0	0.0	1.5	0.0	1.5	0.0	
+"10/14/06"	"PA28-161"	"N9221D"	"KVRB KVRB"	1.9	5	0	0.0	0.0	0	0.0	0.0	0.0	1.9	1.9	0.0	0.0	0.0	
+"10/16/06"	"PA28-161"	"N9237J"	"KVRB KVRB"	2.0	6	0	0.0	0.0	0	0.0	0.0	0.0	2.0	2.0	0.0	0.0	0.0	
+"10/17/06"	"PA28-161"	"N9214R"	"KVRB KMKY KTMB KVRB"	4.2	3	0	0.0	0.0	0	0.0	0.0	4.2	4.2	4.2	0.0	0.0	0.0	
+"10/18/06"	"PA28-161"	"N9248H"	"KVRB KVRB"	2.0	5	0	0.0	0.0	0	0.0	0.0	0.0	2.0	2.0	0.0	0.0	0.0	
+"10/19/06"	"PA28-161"	"N9243L"	"KVRB KFMY  KVRB"	2.7	2	0	0.0	0.0	0	0.0	0.0	2.7	2.7	2.7	0.0	0.0	0.0	
+"10/20/06"	"PA28-161"	"N9245Q"	"KVRB KVRB"	2.0	5	0	0.0	0.0	0	0.0	0.0	0.0	2.0	2.0	0.0	0.0	0.0	
+"10/20/06"	"PA28-161"	"N9210B"	"KVRB KVRB"	1.5	0	4	0.0	0.0	0	0.0	1.5	0.0	1.5	1.5	0.0	0.0	0.0	
+"10/21/06"	"PA28-161"	"N9219J"	"KVRB KOCF KVRB"	3.8	5	0	0.0	0.0	0	0.0	0.0	3.8	3.8	3.8	0.0	0.0	0.0	
+"10/23/06"	"PA28-161"	"N9249L"	"KVRB KFPR KVRB"	1.2	2	0	0.0	0.6	0	0.0	0.0	0.0	0.0	1.2	0.0	1.2	0.0	
+"10/24/06"	"PA28-161"	"N9235W"	"KVRB KVRB"	2.1	6	0	0.0	0.0	0	0.0	0.0	0.0	2.1	2.1	0.0	0.0	0.0	
+"10/25/06"	"PA28-161"	"N9244P"	"KVRB KVRB"	1.7	1	0	0.0	0.6	0	0.0	0.0	0.0	0.0	1.7	0.0	1.7	0.0	
+"10/26/06"	"PA28-161"	"N9245Q"	"KVRB X59 KVRB"	1.6	4	0	0.0	0.8	0	0.0	0.0	0.0	0.0	1.6	0.0	1.6	0.0	
+"10/27/06"	"PA28-161"	"N9220V"	"KVRB KVRB"	2.2	4	0	0.0	0.4	0	0.0	0.0	0.0	0.0	2.2	0.0	2.2	0.0	
+"11/01/06"	"PA28-161"	"N9224K"	"KVRB KVRB"	1.4	4	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	1.4	0.0	"STEP 2 CHECK"
+"11/06/06"	"Frasca"	"NFS402"		0.0	0	0	0.0	0.0	0	1.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"11/07/06"	"Frasca"	"NFS403"		0.0	0	0	0.0	0.0	0	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"11/08/06"	"PA44-180"	"N7719X"	"KVRB KVRB"	1.6	1	0	0.0	0.5	0	0.0	0.0	0.0	0.0	0.0	0.0	1.6	0.0	
+"11/10/06"	"Frasca"	"NFS401"		0.0	0	0	0.0	0.0	0	1.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"11/13/06"	"Frasca"	"NFS403"		0.0	0	0	0.0	0.0	0	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"11/14/06"	"PA44-180"	"N4905E"	"KVRB KVRB"	1.6	0	2	0.0	0.5	0	0.0	1.0	0.0	0.0	0.0	0.0	1.6	0.0	
+"11/15/06"	"PA44-180"	"N5912M"	"KVRB KFMY  KVRB"	3.0	0	10	0.0	0.0	0	0.0	3.0	2.0	0.0	0.0	0.0	3.0	0.0	
+"11/16/06"	"Frasca"	"NFS401"		0.0	0	0	0.0	0.0	0	1.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"11/17/06"	"PA44-180"	"N4515T"	"KVRB KVRB"	1.5	2	0	0.0	0.5	0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	0.0	
+"11/20/06"	"PA44-180"	"N5912M"	"KVRB X26 KVRB"	1.7	2	0	0.0	0.5	0	0.0	0.0	0.0	0.0	0.0	0.0	1.7	0.0	
+"11/21/06"	"PA44-180"	"N7702B"	"KVRB KVRB"	1.5	3	0	0.0	0.5	0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	0.0	
+"11/27/06"	"PA44-180"	"N7702B"	"KVRB KOBE KVRB"	2.4	3	0	0.0	0.5	0	0.0	0.0	0.0	0.0	0.0	0.0	2.4	0.0	
+"11/30/06"	"PA44-180"	"N7703C"	"KVRB KVRB"	1.7	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.7	0.0	"MULTI CHECKRIDE"
+"12/08/06"	"Frasca"	"NFS401"		0.0	0	0	0.0	0.0	0	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"12/11/06"	"Frasca"	"NFS403"		0.0	0	0	0.0	0.0	0	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"12/13/06"	"PA44-180"	"N7720Y"	"KVRB KVRB"	1.5	1	0	0.0	1.1	0	0.0	0.0	0.0	0.0	1.5	0.0	1.5	0.0	
+"12/18/06"	"PA44-180"	"N4515T"	"KVRB KVRB"	1.3	1	0	0.0	0.9	0	0.0	0.0	0.0	0.0	1.3	0.0	1.3	0.0	
+"12/20/06"	"Frasca"	"NFS402"		0.0	0	0	0.0	0.0	0	1.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"01/08/07"	"Frasca"	"NFS401"		0.0	0	0	0.0	0.0	0	1.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"01/09/07"	"Frasca"	"NFS401"		0.0	0	0	0.0	0.0	0	1.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"01/10/07"	"PA44-180"	"N7703C"	"KVRB KVRB"	1.6	1	0	0.0	1.3	0	0.0	0.0	0.0	0.0	1.6	0.0	1.6	0.0	
+"01/12/07"	"PA44-180"	"N4818W"	"KVRB KVRB"	2.1	1	0	0.0	1.8	0	0.0	0.0	0.0	0.0	2.1	0.0	2.1	0.0	
+"01/18/07"	"PA44-180"	"N7701A"	"KVRB KVRB"	1.5	1	0	0.0	1.2	0	0.0	0.0	0.0	0.0	1.5	0.0	1.5	0.0	
+"01/22/07"	"Z-242L"	"N242KK"	"KVRB KVRB"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	1.1	0.0	
+"01/29/07"	"Z-242L"	"N147FS"	"KVRB KVRB"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	
+"01/30/07"	"Z-242L"	"N147FS"	"KVRB KVRB"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	
+"01/31/07"	"Frasca"	"NFS401"		0.0	0	0	0.0	0.0	2	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"02/01/07"	"Z-242L"	"N147FS"	"KVRB KVRB"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	1.1	0.0	
+"02/01/07"	"Frasca"	"NFS403"		0.0	0	0	0.0	0.0	3	1.7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"02/05/07"	"PA44-180"	"N4316U"	"KVRB KTIX KFRP KVRB"	2.2	2	0	0.2	1.8	3	0.0	0.0	2.2	0.0	2.2	0.0	2.2	0.0	
+"02/12/07"	"Frasca"	"NFS403"		0.0	0	0	0.0	0.0	4	2.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"02/13/07"	"PA44-180"	"N7719X"	"KVRB KTIX KMLB KVRB"	2.3	0	3	0.0	1.8	3	0.0	2.3	2.3	0.0	2.3	0.0	2.3	0.0	
+"02/14/07"	"PA44-180"	"N5314S"	"KVRB KSUA KPBI KVRB"	2.0	2	0	0.4	1.2	3	0.0	0.0	2.0	0.0	2.0	0.0	2.0	0.0	
+"02/15/07"	"Frasca"	"NFS403"		0.0	0	0	0.0	0.0	2	1.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"02/16/07"	"PA44-180"	"N5314S"	"KVRB KORL KOCF KVRB"	3.9	3	0	0.0	3.5	3	0.0	0.0	3.9	0.0	3.9	0.0	3.9	0.0	
+"02/17/07"	"PA44-180"	"N7719X"	"KVRB KEYW KMTH KVRB"	4.4	3	0	0.1	3.9	3	0.0	0.0	4.4	0.0	4.4	0.0	4.4	0.0	
+"02/20/07"	"PA44-180"	"N5912M"	"KVRB KFPR KVRB"	1.9	1	0	0.0	1.5	2	0.0	0.0	0.0	0.0	1.9	0.0	1.9	0.0	
+"02/23/07"	"PA44-180"	"N7709J"	"KVRB MLB TIX KVRB"	2.1	2	0	0.0	1.7	3	0.0	0.0	2.1	0.0	2.1	0.0	2.1	0.0	"INSTRUMENT MOCK"
+"02/28/07"	"PA44-180"	"N7710K"	"KVRB KVRB"	2.1	1	0	0.0	1.8	3	0.0	0.0	0.0	0.0	2.1	0.0	2.1	0.0	"INSTRUMENT CHECKRIDE"
+"03/06/07"	"Frasca"	"NFS401"		0.0	0	0	0.0	0.0	0	1.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"03/07/07"	"PA44-180"	"N7710K"	"VRB APF VRB"	2.3	2	0	0.0	0.0	0	0.0	0.0	2.3	0.0	2.3	0.0	2.3	0.0	
+"03/07/07"	"PA44-180"	"N7710K"	"VRB VRB"	1.6	0	6	0.0	0.0	0	0.0	1.6	0.0	0.0	1.6	0.0	1.6	0.0	
+"03/08/07"	"PA44-180"	"N4818W"	"VRB CTY PNF VRB"	5.3	3	0	0.1	0.0	0	0.0	0.0	5.3	0.0	5.3	0.0	5.3	0.0	
+"03/12/07"	"PA44-180"	"N7710K"	"VRB MLB VRB"	2.0	0	5	0.0	0.0	0	0.0	2.0	0.0	0.0	2.0	0.0	2.0	0.0	
+"03/14/07"	"Frasca"	"NFS402"		0.0	0	0	0.0	0.0	0	1.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"03/15/07"	"Frasca"	"NFS401"		0.0	0	0	0.0	0.0	0	1.7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+"03/19/07"	"PA44-180"	"N7707G"	"VRB VRB"	1.4	0	1	0.0	0.0	0	0.0	1.4	0.0	0.0	1.4	0.0	1.4	0.0	
+"03/20/07"	"PA44-180"	"N7707G"	"VRB FPR VRB"	1.8	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.8	0.0	1.8	0.0	
+"03/29/07"	"PA44-180"	"N5912M"	"VRB VRB"	1.3	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	1.3	0.0	"COMMERCIAL CHECKRIDE"
+"05/03/07"	"PA28R-201"	"N38604"	"VRB VRB"	1.5	4	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	1.5	0.0	
+"05/04/07"	"PA28R-201"	"N38604"	"VRB VRB"	1.5	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	1.5	0.0	
+"05/08/07"	"PA28R-201"	"N38604"	"VRB APF"	2.0	3	0	0.0	0.0	0	0.0	0.0	2.0	0.0	2.0	0.0	2.0	0.0	
+"05/08/07"	"PA28R-201"	"N38604"	"APF VRB"	2.0	0	3	0.0	0.0	0	0.0	2.0	2.0	0.0	2.0	0.0	2.0	0.0	
+"05/10/07"	"PA28R-201"	"N101WF"	"VRB X26 VRB"	0.9	4	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.0	
+"05/11/07"	"PA28R-201"	"N145CC"	"VRB X26 VRB"	1.6	6	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	1.6	0.0	
+"05/18/07"	"PA28R-201"	"N145CC"	"VRB X59 VRB"	1.4	4	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	1.4	0.0	"SEAD CHECK RIDE"
+"06/01/07"	"PA28-161"	"N9224K"	"VRB X26 VRB"	1.9	5	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.9	0.0	1.9	0.0	
+"06/08/07"	"PA28-161"	"N9213D"	"VRB VRB"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	1.2	0.0	
+"06/14/07"	"PA28-161"	"N9211S"	"VRB VRB"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.9	0.9	0.0	0.0	0.0	
+"06/16/07"	"PA28-161"	"N70FT"	"ISM ISM"	0.9	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.0	"Check Flight"
+"06/16/07"	"PA28-161"	"N70FT"	"ISM VNC ISM"	2.4	2	0	0.0	0.0	0	0.0	0.0	2.4	2.4	2.4	0.0	0.0	0.0	"cross country"
+"06/27/07"	"PA28-161"	"N9230P"	"VRB VRB"	1.5	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	1.5	0.0	
+"07/09/07"	"PA28-161"	"N9211S"	"VRB VRB"	1.8	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.8	0.0	1.8	0.0	
+"07/11/07"	"PA28-161"	"N9248H"	"VRB X59 VRB"	2.0	5	0	0.0	0.0	0	0.0	0.0	0.0	0.0	2.0	0.0	2.0	0.0	
+"07/20/07"	"PA28-161"	"N9230P"	"VRB VRB"	1.9	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.9	0.0	1.9	0.0	
+"07/24/07"	"PA28R-201"	"N31927"	"VRB X59 VRB"	2.0	5	0	0.0	0.0	0	0.0	0.0	0.0	0.0	2.0	0.0	2.0	0.0	
+"07/31/07"	"PA28R-201"	"N31567"	"VRB OBE VRB"	2.1	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	2.1	0.0	2.1	0.0	
+"08/01/07"	"Z-242L"	"N146FS"	"VRB VRB"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	"Spin Endorsement"
+"08/03/07"	"PA28R-201"	"N6533C"	"VRB X26 VRB"	1.3	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	1.3	0.0	
+"08/08/07"	"PA28R-201"	"N145CC"	"VRB OBE VRB"	1.9	5	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.9	0.0	1.9	0.0	
+"08/13/07"	"PA28R-201"	"N6533C"	"VRB VRB"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	1.4	0.0	
+"08/16/07"	"PA28R-201"	"N6533C"	"VRB TIX COI VRB"	3.1	6	0	0.0	0.0	0	0.0	0.0	2.0	0.0	3.1	0.0	3.1	0.0	
+"08/27/07"	"PA28R-201"	"N145CC"	"VRB X26 VRB"	2.1	1	0	0.1	0.0	0	0.0	0.0	0.0	0.0	2.1	0.0	2.1	0.0	"CFI-A Check Ride"
+"02/01/08"	"C172S"	"N285SP"	"GKY GKY"	0.7	3	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.0	"141 checkout"
+"02/02/08"	"C172N"	"N5195E"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Instrument lesson 1and2 Kohli"
+"02/03/08"	"C172M"	"N80181"	"GKY GKY"	0.7	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"Wyatt sloan lesson 1"
+"02/06/08"	"C172S"	"N285SP"	"GKY GKY-"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Discovery Flight"
+"02/06/08"	"C172M"	"N73043"	"GKY GKY-"	0.7	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"Lesson 2 Thaware"
+"02/06/08"	"C172S"	"N285SP"	"GKY GKY-"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Lesson 2 Bhatt"
+"02/08/08"	"C172N"	"N5195E"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Bhatt lesson 3 unsat"
+"02/13/08"	"C172N"	"N75602"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva Lesson 2"
+"02/18/08"	"C172S"	"N781SP"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Shahza Ali Lesson 1"
+"02/18/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt Lesson 3 Unsat"
+"02/18/08"	"C172N"	"N75602"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva Lesson 3"
+"02/18/08"	"C172M"	"N80181"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Hall stalls, slow flight, n to and landing, area nav"
+"02/19/08"	"C172S"	"N781SP"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt lesson 3 ctd"
+"02/19/08"	"C172M"	"N73043"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul lesson 1"
+"02/19/08"	"C172S"	"N781SP"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Shahza lesson 1"
+"02/20/08"	"C172M"	"N73043"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Arjun lesson 3"
+"02/22/08"	"C172N"	"N5195E"	"GKY GKY"	0.6	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.6	0.0	0.0	0.6	"Discovery Flight"
+"02/22/08"	"C172N"	"N75602"	"GKY GKY"	0.6	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.6	0.0	0.0	0.6	"Kajal Touch and Goes"
+"02/23/08"	"C172S"	"N285SP"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt Lesson 3"
+"02/23/08"	"C172M"	"N80181"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Toparlak Lesson 1"
+"02/23/08"	"C172M"	"N73043"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware Lesson 3"
+"02/27/08"	"C172S"	"N5219V"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware lesson canceled by him"
+"02/27/08"	"C172S"	"N822MN"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva Lesson Power off Stalls unsat"
+"02/29/08"	"C172S"	"N5219V"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Flight lesson with bhatt"
+"02/29/08"	"PCATD"	"123ODB"		0.0	0	0	0.0	0.0	3	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	"Approaches"
+"02/29/08"	"C172M"	"N80181"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Shahza Lesson"
+"02/29/08"	"C172N"	"N734LY"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Burley First lesson"
+"02/29/08"	"PCATD"	"123ODB"		0.0	0	0	0.0	0.0	3	0.7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	"approaches"
+"03/01/08"	"C172N"	"N75602"	"GKY GKY"	0.7	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"discovery flight"
+"03/01/08"	"C172N"	"N734LY"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Burley lesson 2"
+"03/04/08"	"C172S"	"N781SP"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt Lesson"
+"03/04/08"	"C172S"	"N781SP"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Shahza Lesson"
+"03/04/08"	"C172N"	"N734LY"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Nasir Lesson"
+"03/04/08"	"C172S"	"N822MN"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Thaware Lesson"
+"03/05/08"	"C172M"	"N1141U"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva Flight"
+"03/05/08"	"C172S"	"N5219V"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt Lesson"
+"03/05/08"	"C172N"	"N5195E"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Shahza Lesson"
+"03/05/08"	"C172S"	"N285SP"	"GKY GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Khambata"
+"03/07/08"	"C172N"	"N734LY"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva Lesson"
+"03/08/08"	"C172N"	"N734LY"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Thaware Lesson"
+"03/08/08"	"C172N"	"N5195E"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Burley Lesson"
+"03/08/08"	"C172N"	"N5195E"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir Lesson"
+"03/09/08"	"C172N"	"N5195E"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Sloan Lesson"
+"03/11/08"	"C172N"	"N5195E"	"GKY GKY"	1.7	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.7	0.0	0.0	1.7	"Abdul Nasir Lesson"
+"03/11/08"	"C172N"	"N734LY"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Burley Lesson"
+"03/12/08"	"C172S"	"N5219V"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt Lesson"
+"03/12/08"	"C172N"	"N75602"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva Lesson"
+"03/12/08"	"C172S"	"N285SP"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir Lesson"
+"03/12/08"	"C172N"	"N734LY"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Burley Lesson"
+"03/14/08"	"C172S"	"N822MN"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Bhatt touch and goes"
+"03/20/08"	"C172N"	"N75602"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva Lesson"
+"03/20/08"	"C172M"	"N73043"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Thaware Lesson"
+"03/20/08"	"C172M"	"N1141U"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir Lesson"
+"03/20/08"	"C172N"	"N5195E"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Shahza Lesson"
+"03/20/08"	"C172S"	"N781SP"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Burley Lesson"
+"03/21/08"	"C172N"	"N5195E"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware Lesson"
+"03/21/08"	"C172N"	"N5195E"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Silva Lesson"
+"03/21/08"	"C172S"	"N781SP"	"GKY GKY"	0.7	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"discovery flight"
+"03/21/08"	"C172N"	"N5195E"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Abdul Nasir Lesson"
+"03/21/08"	"C172N"	"N75602"	"GKY GKY"	1.6	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Burley Lesson"
+"03/22/08"	"C172N"	"N75602"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Burley Lesson"
+"03/22/08"	"C172N"	"N734LY"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Thaware Lesson"
+"03/22/08"	"C172M"	"N73043"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt Lesson"
+"04/01/08"	"C172M"	"N1141U"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Abdul Nasir Lesson"
+"04/01/08"	"C172S"	"N285SP"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt Lesson"
+"04/01/08"	"C172N"	"N5195E"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Burley Lesson"
+"04/04/08"	"C172N"	"N5195E"	"GKY GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Thaware Lesson"
+"04/05/08"	"C172N"	"N5195E"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Shahza Lesson"
+"04/05/08"	"C172S"	"N285SP"	"GKY GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Bhatt Lesson"
+"04/07/08"	"C172N"	"N75602"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir Lesson"
+"04/07/08"	"C172S"	"N822MN"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt Lesson"
+"04/07/08"	"C172M"	"N73043"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Thaware Lesson"
+"04/08/08"	"C172S"	"N5219V"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Bhatt Lesson"
+"04/08/08"	"C172M"	"N80181"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Thaware Lesson"
+"04/08/08"	"C172N"	"N75602"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Silva Lesson"
+"04/10/08"	"C172M"	"N80181"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva Lesson"
+"04/11/08"	"C172S"	"N5219V"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt Lesson"
+"04/11/08"	"C172N"	"N734LY"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir Lesson"
+"04/11/08"	"C172N"	"N75602"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Burley Lesson"
+"04/12/08"	"C172N"	"N734LY"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Burley Lesson mx abort in flight"
+"04/12/08"	"C172M"	"N1141U"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Abdul Nasir Lesson"
+"04/14/08"	"C172N"	"N5195E"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Silva Lesson"
+"04/15/08"	"C172M"	"N73043"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Shahza Lesson"
+"04/15/08"	"C172S"	"N822MN"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt Lesson"
+"04/16/08"	"C172S"	"N285SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt Ground Reference"
+"04/18/08"	"C172N"	"N5195E"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir Lesson"
+"04/18/08"	"C172N"	"N734LY"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Shahza Lesson"
+"04/18/08"	"C172M"	"N80181"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Burley Lesson"
+"04/19/08"	"C172M"	"N80181"	"GKY CPT GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Burley Lesson"
+"04/19/08"	"C172M"	"N1141U"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware Lesson"
+"04/19/08"	"C172M"	"N73043"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Abdul Nasir Lesson"
+"04/19/08"	"C172M"	"N1141U"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva Lesson"
+"04/21/08"	"C172M"	"N73043"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Thaware Lesson on ground reference"
+"04/22/08"	"C172M"	"N80181"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Abdul Nasir Ground reference"
+"04/22/08"	"C172N"	"N5195E"	"GKY CPT GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Burley Lesson Touch and Goes"
+"04/23/08"	"C172N"	"N5195E"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Thaware Lesson Touch and goes"
+"04/23/08"	"C172N"	"N5195E"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Burley lesson ground reference and touch and goes"
+"04/25/08"	"C172M"	"N80181"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Burley Touch and goes"
+"04/28/08"	"C172N"	"N734LY"	"GKY GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Silva Flight pon and poff stalls, slow flight, navigation"
+"04/28/08"	"C172S"	"N822MN"	"GKY CPT GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt touch and goes"
+"04/28/08"	"C172S"	"N285SP"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim Lesson 1"
+"04/28/08"	"C172M"	"N73043"	"GKY CPT GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Thaware Lesson touch and goes, stalls, slow flight"
+"04/28/08"	"C172M"	"N73043"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Burley Lesson BAI, Steep turns, rectangular course, nto and land"
+"04/29/08"	"C172M"	"N80181"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva lesson on steep turns"
+"04/30/08"	"C172N"	"N734LY"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Abdul Nasir Lesson on ground reference and engine out procedures"
+"05/02/08"	"C172N"	"N75602"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Abdul Nasir Lesson emergency procedures and ground reference"
+"05/02/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Lesson 2"
+"05/02/08"	"C172N"	"N75602"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Abdul Nasir Lesson emergency procedures and ground reference"
+"05/02/08"	"C172M"	"N80181"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Burley Lesson t and gs, slip to a landing, go around, engine loss in pattern"
+"05/03/08"	"C172N"	"N5195E"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Burley Touch and goes"
+"05/03/08"	"C172M"	"N73043"	"GKY GPM GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Maninder Pal steep turns, slow flight, pon and poff stalls, emergency decent, touch and goes"
+"05/03/08"	"C172S"	"N822MN"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt slow flight, stalls, steep turns, rectangular course touch and goes"
+"05/05/08"	"C172S"	"N822MN"	"GKY JWY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt touch and goes"
+"05/08/08"	"C172N"	"N734LY"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva Lesson touch and goes"
+"05/08/08"	"C172N"	"N5195E"	"GKY GKY,"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Abdul Nasir lesson ground reference, steep turns, sturns, turns around a point, touch and goes, emergency procedures"
+"05/08/08"	"C172S"	"N781SP"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt lesson steep turns, slow flight, stalls, emergency procedures, touch and goes, go around, sturns, turns around a point"
+"05/08/08"	"C172S"	"N822MN"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim Lesson straight and level, climbs, turns, descents, glides"
+"05/09/08"	"C172N"	"N75602"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Silva Lesson"
+"05/09/08"	"C172M"	"N80181"	"GKY CPT GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Abdul Nasir Lesson"
+"05/09/08"	"C172S"	"N822MN"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Bhatt Lesson"
+"05/09/08"	"C172S"	"N781SP"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim Lesson slow flight and stalls"
+"05/09/08"	"C172N"	"N75602"	"GKY GKY"	0.7	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"Burley touch and goes"
+"05/10/08"	"C172N"	"N75602"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Burley touch and goes vis to low to solo"
+"05/12/08"	"C172S"	"N822MN"	"GKY GPM GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"bhatt touch and goes"
+"05/12/08"	"C172M"	"N73357"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Abdul Nasir lesson steep turns, emergency procedures, touch and goes"
+"05/12/08"	"C172N"	"N5195E"	"GKY FWS GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva touch and goes"
+"05/12/08"	"C172M"	"N80181"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware lesson steep turns, emergency procedures"
+"05/15/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt lesson emergencies and touch and goes"
+"05/16/08"	"C172S"	"N822MN"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Lesson stalls and four fundamentals"
+"05/16/08"	"C172M"	"N80181"	"GKY GPM GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Silva Lesson touch and goes"
+"05/16/08"	"C172N"	"N75602"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir Lesson emer proc, steep, sturn, turns point, pon and poff, slow flight, touch and go"
+"05/16/08"	"C172S"	"N781SP"	"GKY FWS GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt touch and goes"
+"05/17/08"	"C172S"	"N781SP"	"GKY FWS GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt touch and goes"
+"05/17/08"	"C172M"	"N80181"	"GKY FWS GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Burley Touch and goes and first solo"
+"05/17/08"	"C172M"	"N73357"	"GKY FWS GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir Touch and goes"
+"05/17/08"	"C172S"	"N285SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Lesson Pon and Poff stalls, spin awareness"
+"05/19/08"	"C172N"	"N5195E"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva Touch and goes"
+"05/19/08"	"C172M"	"N80181"	"GKY FWS GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir Touch and Goes"
+"05/19/08"	"C172S"	"N781SP"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim lesson stalls"
+"05/20/08"	"C172S"	"N781SP"	"GKY GPM GKY"	1.1	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware touch and goes"
+"05/20/08"	"C172S"	"N822MN"	"GKY FWS GKY"	1.3	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt touch and goes"
+"05/20/08"	"C172M"	"N1141U"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Silva touch and goes"
+"05/20/08"	"C172S"	"N5219V"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim Pon and Poff stalls, slow flight, turning stalls"
+"05/20/08"	"C172M"	"N1141U"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Burley slow flight, stalls, turning stalls, hood time, soft field to and land, spin awareness"
+"05/21/08"	"C172N"	"N75602"	"GKY GPM GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva Flight touch and goes"
+"05/21/08"	"C172M"	"N73043"	"GKY GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Abdul Nasir Touch and goes"
+"05/22/08"	"C172M"	"N80181"	"GKY GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Thaware touch and goes, go around, wind drift correction"
+"05/23/08"	"C172N"	"N5195E"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Fathuhee lesson pon and poff stalls, slow flight, crosswind to and land"
+"05/24/08"	"C172M"	"N80181"	"GKY FWS GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Thaware Lesson touch and goes"
+"05/24/08"	"C172M"	"N80181"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Burley Lesson BAI, unusual attitudes,s turns, turns around a point, short field to and land, stalls under hood"
+"05/24/08"	"C172S"	"N822MN"	"GKY FWS GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt touch and goes"
+"05/28/08"	"C172M"	"N73357"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Thaware Lesson touch and goes, go around, pattern adjustments"
+"05/28/08"	"C172S"	"N285SP"	"GKY GPM GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Bhatt touch and goes"
+"05/28/08"	"C172S"	"N822MN"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim Lesson Pon and Poff stalls, slips, radio comms"
+"05/28/08"	"C172N"	"N734LY"	"GKY GPM GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Silva Lesson touch and goes"
+"05/29/08"	"C172S"	"N822MN"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Lesson steep turns, emergency procedures, leaning procedure"
+"05/29/08"	"C172M"	"N1141U"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware lesson touch and goes"
+"05/29/08"	"C172S"	"N285SP"	"GKY FWS GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt touch and goes crosswind"
+"05/29/08"	"C172N"	"N75602"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Burley Lesson BAI, VOR orientation, tracking and intercepting, lost procedures, radar vectoring, short and soft work, slip to land"
+"05/30/08"	"C172N"	"N5195E"	"GKY FWS GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva touch and goes"
+"05/30/08"	"C172N"	"N734LY"	"GKY FWS GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Thaware touch and goes"
+"05/30/08"	"C172N"	"N75602"	"GKY FWS GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Abdul Nasir lesson touch and goes maintenance abort carb heat broke"
+"05/30/08"	"C172S"	"N822MN"	"GKY FWS GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt touch and goes crosswind landing"
+"06/02/08"	"C172M"	"N80181"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Thaware lesson practicing descents with flaps"
+"06/02/08"	"C172M"	"N1141U"	"GKY FWS GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir Touch and goes"
+"06/07/08"	"C172N"	"N75602"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Burley lesson short and soft, turns point, sturns"
+"06/09/08"	"C172N"	"N734LY"	"GKY GKY"	0.6	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.6	0.0	0.0	0.6	"Thaware touch and goes"
+"06/10/08"	"C172M"	"N73357"	"GKY RBD GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Thaware crosswind touch and goes"
+"06/10/08"	"C172S"	"N781SP"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Karim pon and poff stalls, steep turns, rectangular course"
+"06/10/08"	"C172M"	"N73357"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Burley lesson soft field to and land, slow flight, pon and off stalls, steep turns, engine out, lost procedures, vor tracking"
+"06/11/08"	"C172M"	"N73357"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Silva touch and goes"
+"06/12/08"	"C172M"	"N73357"	"GKY INJ GKY"	1.6	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Burley touch and goes, partial panel, bai, short and soft, tracking and intercepting"
+"06/13/08"	"C172N"	"N75602"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva Lesson"
+"06/13/08"	"C172M"	"N73357"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Abdul Nasir Lesson"
+"06/13/08"	"C172N"	"N5195E"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware Lesson"
+"06/13/08"	"C172S"	"N822MN"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Bhatt touch and goes, bai, stalls and slow flight under hood"
+"06/13/08"	"C172N"	"N5195E"	"GKY SEP GKY"	1.9	0	3	0.0	0.0	0	0.0	0.3	1.9	0.0	1.9	0.0	0.0	1.9	"Burley first cross country/night intro"
+"06/14/08"	"C172N"	"N734LY"	"GKY FWS GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Abdul Nasir Touch and goes"
+"06/14/08"	"C172S"	"N781SP"	"GKY FWS GKY"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt touch and goes crosswind/ strong crosswind at gky"
+"06/16/08"	"C172N"	"N75602"	"GKY FWS GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Abdul Nasir touch and goes"
+"06/16/08"	"C172M"	"N1141U"	"GKY FWS GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Silva touch and goes"
+"06/16/08"	"C172S"	"N781SP"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Karim lesson sturns, turns around a point, poff stalls"
+"06/16/08"	"C172N"	"N734LY"	"GKY FWS GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware touch and goes, emergency landing, slip to land"
+"06/18/08"	"C172N"	"N734LY"	"GKY GPM GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware touch and goes need rudder work"
+"06/18/08"	"C172M"	"N1141U"	"GKY RBD GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva touch and goes, short approach"
+"06/18/08"	"C172N"	"N734LY"	"GKY CRS SEP GKY"	2.9	0	0	0.0	0.0	0	0.0	0.0	2.9	0.0	2.9	0.0	0.0	2.9	"Burley long cross country diversion, vor and gps nav, hood work"
+"06/19/08"	"C172S"	"N781SP"	"GKY GKY"	1.6	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"karim lesson stalls, steep turns, ground reference slow flight"
+"06/19/08"	"C172N"	"N75602"	"GKY RBD GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware touch and goes"
+"06/20/08"	"C172N"	"N734LY"	"GKY RBD GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Silva touch and goes"
+"06/23/08"	"C172N"	"N734LY"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware touch and goes"
+"06/23/08"	"C172M"	"N80181"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir touch and goes"
+"06/23/08"	"C172S"	"N781SP"	"GKY GKY"	1.6	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Karim Lesson"
+"06/23/08"	"C172S"	"N822MN"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt lesson touch and goes"
+"06/24/08"	"C172M"	"N1141U"	"GKY FWS GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware lesson no flap landing, touch and goes"
+"06/24/08"	"C172N"	"N734LY"	"GKY FWS GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Abdul Nasir touch and goes"
+"06/24/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Lesson"
+"06/25/08"	"C172S"	"N285SP"	"GKY GKY"	0.7	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"Burley disco flight with grandson"
+"06/25/08"	"C172P"	"N54108"	"GKY FWS GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir touch and goes"
+"06/25/08"	"C172S"	"N822MN"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim Lesson"
+"06/26/08"	"C172N"	"N5195E"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva touch and goes"
+"06/26/08"	"C172S"	"N822MN"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Bhatt lesson touch and goes"
+"06/26/08"	"C172N"	"N5195E"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Ronakkumar Patel pon and off stalls, slow flight slips, normal land"
+"06/26/08"	"C172N"	"N75602"	"GKY GKY"	0.6	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.6	0.0	0.0	0.6	"Thaware touch and goes"
+"06/27/08"	"C172S"	"N5219V"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim lesson stalls, emergency descent, touch and goes"
+"06/27/08"	"C172S"	"N781SP"	"GKY TYR GKY"	3.6	0	3	0.0	0.0	0	0.0	3.6	3.6	0.0	3.6	0.0	0.0	3.6	"Burley night cross country"
+"06/29/08"	"C172S"	"N5219V"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim"
+"06/30/08"	"C172P"	"N54108"	"GKY  GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Thaware"
+"06/30/08"	"C172S"	"N285SP"	"GKY  GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt"
+"07/01/08"	"C172M"	"N73357"	"GKY  GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva"
+"07/01/08"	"C172N"	"N75602"	"GKY  GKY-"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Thaware"
+"07/01/08"	"C172S"	"N285SP"	"GKY  GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt"
+"07/01/08"	"C172S"	"N781SP"	"GKY  GKY-"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim"
+"07/01/08"	"C172N"	"N5195E"	"GKY  GKY-"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir"
+"07/02/08"	"C172M"	"N80181"	"GKY  GKY-"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva"
+"07/02/08"	"C172N"	"N75602"	"GKY  GKY-"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Thaware"
+"07/02/08"	"C172S"	"N822MN"	"GKY  GKY-"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Karim"
+"07/02/08"	"C172S"	"N285SP"	"GKY  GKY-"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Bhatt"
+"07/03/08"	"C172N"	"N734LY"	"GKY  FWS GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva touch and goes"
+"07/03/08"	"C172M"	"N73357"	"GKY  RBD GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir touch and goes"
+"07/03/08"	"C172S"	"N285SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim ground ref, emergency procedures, trim work"
+"07/03/08"	"C172N"	"N734LY"	"GKY GKY"	0.8	0	4	0.0	0.0	0	0.0	0.8	0.0	0.0	0.8	0.0	0.0	0.8	"Burley night landings"
+"07/05/08"	"C172M"	"N80181"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware touch and goes"
+"07/05/08"	"C172M"	"N73357"	"GKY RBD GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva touch and goes"
+"07/07/08"	"C172P"	"N54108"	"GKY FWS GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Silva touch and goes first solo"
+"07/07/08"	"C172M"	"N73043"	"GKY JWY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Abdul Nasir touch and goes, engine loss in pattern"
+"07/07/08"	"C172S"	"N285SP"	"GKY GKY"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Flight"
+"07/08/08"	"C172P"	"N54108"	"GKY GKY"	1.3	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva Flight"
+"07/08/08"	"C172S"	"N822MN"	"GKY GKY"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Flight"
+"07/08/08"	"C172S"	"N285SP"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Bhatt Flight"
+"07/09/08"	"C172M"	"N73357"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Silva"
+"07/09/08"	"C172N"	"N5195E"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir Flight"
+"07/09/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Flight"
+"07/09/08"	"C172N"	"N75602"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware Flight"
+"07/10/08"	"C172N"	"N75602"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Silva Flight"
+"07/10/08"	"C172S"	"N285SP"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim Flight"
+"07/10/08"	"C172N"	"N75602"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir"
+"07/10/08"	"C172N"	"N734LY"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Burley"
+"07/11/08"	"C172S"	"N822MN"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt"
+"07/11/08"	"C172S"	"N5219V"	"GKY GKY"	0.8	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Karim"
+"07/11/08"	"C172M"	"N73357"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva"
+"07/12/08"	"C172S"	"N285SP"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt"
+"07/12/08"	"C172N"	"N734LY"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva"
+"07/12/08"	"C172P"	"N54108"	"GKY GKY"	0.5	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	"Thaware"
+"07/14/08"	"C172S"	"N5219V"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Bhatt"
+"07/14/08"	"C172M"	"N80181"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Abdul Nasir"
+"07/14/08"	"C172M"	"N1141U"	"GKY GKY"	1.5	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Thaware"
+"07/15/08"	"C172N"	"N5195E"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Silva"
+"07/15/08"	"C172S"	"N285SP"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Bhatt"
+"07/16/08"	"C172S"	"N822MN"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Karim"
+"07/16/08"	"C172P"	"N54108"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Silva"
+"07/16/08"	"C172M"	"N80181"	"GKY GKY"	1.5	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Thaware"
+"07/16/08"	"C172M"	"N73357"	"GKY GKY"	1.6	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Abdul Nasir"
+"07/16/08"	"C172S"	"N822MN"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Karim"
+"07/16/08"	"C172S"	"N5219V"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt"
+"07/17/08"	"C172N"	"N5195E"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware"
+"07/17/08"	"C172P"	"N54108"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir"
+"07/17/08"	"C172M"	"N73357"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva"
+"07/17/08"	"C172S"	"N822MN"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim"
+"07/18/08"	"C172M"	"N73357"	"GKY GKY"	0.8	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Silva"
+"07/18/08"	"C172M"	"N73043"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Abdul Nasir"
+"07/18/08"	"C172S"	"N822MN"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Karim"
+"07/21/08"	"C172P"	"N54108"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva"
+"07/21/08"	"C172N"	"N75602"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Abdul Nasir"
+"07/21/08"	"C172M"	"N80181"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Thaware"
+"07/21/08"	"C172S"	"N822MN"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Bhatt"
+"07/22/08"	"C172N"	"N5195E"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Abdul Nasir"
+"07/22/08"	"C172P"	"N54108"	"GKY GKY"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Thaware"
+"07/22/08"	"C172S"	"N285SP"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim"
+"07/23/08"	"C172N"	"N734LY"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva"
+"07/23/08"	"C172N"	"N75602"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Abdul Nasir"
+"07/23/08"	"C172S"	"N822MN"	"GKY CRS GKY"	1.5	2	0	0.0	0.0	0	0.0	0.0	1.5	0.0	1.5	0.0	0.0	1.5	"Bhatt"
+"07/24/08"	"C172M"	"N80181"	"GKY GKY"	0.7	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"Silva"
+"07/24/08"	"C172S"	"N822MN"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim"
+"07/24/08"	"C172P"	"N54108"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir"
+"07/25/08"	"C172S"	"N5219V"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim"
+"07/26/08"	"C172S"	"N285SP"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim"
+"07/26/08"	"C172M"	"N73043"	"GKY CRS GKY"	1.8	0	0	0.0	0.0	0	0.0	0.0	1.8	0.0	1.8	0.0	0.0	1.8	"Abdul Nasir"
+"07/26/08"	"C172M"	"N80181"	"GKY SEP GKY"	1.8	0	0	0.0	0.0	0	0.0	0.0	1.8	0.0	1.8	0.0	0.0	1.8	"Thaware"
+"07/26/08"	"C172S"	"N822MN"	"GKY SEP CRS GKY"	2.5	0	0	0.0	0.0	0	0.0	0.0	2.5	0.0	2.5	0.0	0.0	2.5	"Bhatt"
+"07/28/08"	"C172N"	"N5195E"	"GKY GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Abdul Nasir"
+"07/28/08"	"C172P"	"N54108"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware"
+"07/28/08"	"C172S"	"N5219V"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Bhatt"
+"07/29/08"	"C172M"	"N73357"	"GKY GKY"	1.6	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Silva"
+"07/29/08"	"C172N"	"N734LY"	"GKY SEP CRS GKY"	2.9	0	0	0.0	0.0	0	0.0	0.0	2.9	0.0	2.9	0.0	0.0	2.9	"Thaware"
+"07/29/08"	"C172M"	"N73357"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Abdul Nasir"
+"07/30/08"	"C172P"	"N54108"	"GKY CPT F44 GKY"	2.3	1	0	0.0	0.0	0	0.0	0.0	2.3	0.0	2.3	0.0	0.0	2.3	"Abdul Nasir"
+"07/31/08"	"C172P"	"N54108"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Silva"
+"07/31/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt"
+"08/01/08"	"C172S"	"N822MN"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Karim"
+"08/01/08"	"C172N"	"N5195E"	"GKY SEP CRS GKY"	3.1	0	0	0.0	0.0	0	0.0	0.0	3.1	0.0	3.1	0.0	0.0	3.1	"Silva"
+"08/04/08"	"C172M"	"N80181"	"GKY GKY-"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva"
+"08/04/08"	"C172S"	"N285SP"	"GKY GKY"	1.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt"
+"08/04/08"	"C172P"	"N54108"	"GKY GKY"	1.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.8	0.0	0.0	1.8	"Thaware"
+"08/09/08"	"C172P"	"N54108"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Spencer"
+"08/11/08"	"C172N"	"N5195E"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva"
+"08/12/08"	"C172M"	"N80181"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva"
+"08/12/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt"
+"08/12/08"	"C172S"	"N822MN"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim"
+"08/12/08"	"C172M"	"N80181"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Spencer"
+"08/13/08"	"C172S"	"N5219V"	"GKY SEP GKY"	1.6	0	0	0.0	0.0	0	0.0	0.0	1.6	0.0	1.6	0.0	0.0	1.6	"Karim"
+"08/13/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt"
+"08/13/08"	"C172P"	"N54108"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Spencer"
+"08/14/08"	"C172N"	"N75602"	"GKY GKY"	0.7	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"Abdul Nasir"
+"08/14/08"	"C172P"	"N54108"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva"
+"08/14/08"	"C172M"	"N1141U"	"GKY GKY"	1.6	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Thaware"
+"08/15/08"	"C172S"	"N781SP"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Bhatt"
+"08/15/08"	"C172N"	"N75602"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Abdul Nasir"
+"08/16/08"	"C172S"	"N781SP"	"GKY GKY"	0.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	"Bhatt"
+"08/20/08"	"C172M"	"N80181"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware"
+"08/20/08"	"C172S"	"N285SP"	"GKY GKY"	0.4	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.4	0.0	0.0	0.4	"Bhatt"
+"08/21/08"	"C172S"	"N285SP"	"GKY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Karim"
+"08/21/08"	"C172M"	"N80181"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Abdul Nasir"
+"08/21/08"	"C172N"	"N75602"	"GKY GKY"	1.1	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Spencer"
+"08/21/08"	"C172P"	"N54108"	"GKY GKY"	1.6	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Silva"
+"08/22/08"	"C172N"	"N75602"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva"
+"08/22/08"	"C172S"	"N822MN"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Bhatt"
+"08/22/08"	"C172S"	"N5219V"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim"
+"08/22/08"	"C172M"	"N80181"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware"
+"08/23/08"	"C172N"	"N75602"	"GKY GKY"	1.4	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Spencer"
+"08/25/08"	"C172M"	"N73357"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Thaware"
+"08/25/08"	"C172S"	"N285SP"	"GKY ABI ETN GKY"	3.5	0	0	0.0	0.0	0	0.0	0.0	3.5	0.0	3.5	0.0	0.0	3.5	"Karim"
+"08/26/08"	"C172P"	"N54108"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Silva"
+"08/26/08"	"C172S"	"N285SP"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Bhatt"
+"08/26/08"	"C172S"	"N5219V"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim"
+"08/26/08"	"C172N"	"N75602"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Spencer"
+"08/27/08"	"C172S"	"N822MN"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim"
+"08/27/08"	"C172S"	"N781SP"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Bhatt"
+"08/28/08"	"C172N"	"N75602"	"GKY GKY"	1.7	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.7	0.0	0.0	1.7	"Silva"
+"08/28/08"	"C172S"	"N5219V"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim"
+"08/28/08"	"C172N"	"N5195E"	"GKY GKY"	1.6	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Spencer"
+"08/28/08"	"C172S"	"N781SP"	"GKY GKY"	2.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	2.1	0.0	0.0	2.1	"Bhatt"
+"08/29/08"	"C172P"	"N54108"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva"
+"08/30/08"	"C172S"	"N5219V"	"GKY JWY GKY"	1.4	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Lakdawala checkride prep for gena"
+"08/30/08"	"C172N"	"N5195E"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Spencer"
+"08/30/08"	"C172P"	"N54108"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Thaware"
+"09/01/08"	"C172N"	"N5195E"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Thaware"
+"09/01/08"	"C172P"	"N54108"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Silva"
+"09/01/08"	"C172S"	"N822MN"	"GKY GKY"	0.8	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Bhatt"
+"09/04/08"	"C172S"	"N781SP"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Karim"
+"09/04/08"	"C172P"	"N54108"	"GKY GKY"	1.1	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva"
+"09/04/08"	"C172N"	"N75602"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Spencer"
+"09/04/08"	"C172S"	"N822MN"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Bhatt"
+"09/05/08"	"C172P"	"N54108"	"GKY GKY"	0.7	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"Silva"
+"09/05/08"	"C172S"	"N781SP"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Bhatt"
+"09/05/08"	"C172N"	"N75602"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Spencer"
+"09/05/08"	"C172N"	"N75602"	"GKY CRS GKY"	1.6	0	0	0.0	0.0	0	0.0	0.0	1.6	0.0	1.6	0.0	0.0	1.6	"Abdul Nasir"
+"09/06/08"	"C172P"	"N54108"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Spencer"
+"09/08/08"	"C172N"	"N75602"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir"
+"09/08/08"	"C172N"	"N75602"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Silva"
+"09/11/08"	"C172S"	"N5219V"	"GKY GLE GKY-"	1.9	1	1	0.0	0.0	0	0.0	0.9	1.9	0.9	1.9	0.0	0.0	0.0	"Flight with mom"
+"09/15/08"	"C172N"	"N75602"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir"
+"09/15/08"	"C172S"	"N822MN"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Bhatt"
+"09/15/08"	"C172S"	"N781SP"	"GKY GKY"	0.8	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Karim"
+"09/15/08"	"C172M"	"N80181"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Silva"
+"09/16/08"	"C172N"	"N75602"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Silva"
+"09/16/08"	"C172N"	"N5195E"	"GKY GKY"	1.9	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.9	0.0	0.0	1.9	"Spencer"
+"09/17/08"	"C172S"	"N5219V"	"GKY GKY"	0.6	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.6	0.0	0.0	0.6	"Karim"
+"09/17/08"	"C172S"	"N781SP"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Bhatt"
+"09/17/08"	"C172N"	"N75602"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Abdul Nasir"
+"09/17/08"	"C172M"	"N73357"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva"
+"09/23/08"	"C172S"	"N5219V"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Karim"
+"09/23/08"	"C172M"	"N80181"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Abdul Nasir"
+"09/23/08"	"C172S"	"N5219V"	"GKY GKY"	1.5	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Bhatt"
+"09/23/08"	"C172N"	"N75602"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Spencer"
+"09/24/08"	"C172S"	"N5219V"	"GKY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Karim"
+"09/24/08"	"C172N"	"N75602"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Abdul Nasir"
+"09/24/08"	"C172M"	"N80181"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Silva"
+"09/25/08"	"C172N"	"N75602"	"GKY GKY"	1.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Abdul Nasir"
+"09/25/08"	"C172M"	"N80181"	"GKY GKY"	1.5	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Spencer"
+"09/25/08"	"C172S"	"N5219V"	"GKY CRS GKY"	3.0	0	3	0.0	0.0	0	0.0	3.0	3.0	0.0	3.0	0.0	0.0	3.0	"Karim Night Flight"
+"12/19/08"	"CH2000"	"N220HG"	"GKY CPT GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Tony Fan"
+"12/20/08"	"CH2000"	"N220HG"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Tony Fan"
+"12/20/08"	"C172S"	"N285SP"	"GKY CRS GKY"	2.2	0	3	0.0	0.0	0	0.0	2.2	2.2	0.0	2.2	0.0	0.0	2.2	"Night flight Spencer"
+"01/31/09"	"C172S"	"N5219V"	"GKY GKY"	1.5	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Spencer"
+"02/04/09"	"C172M"	"N80181"	"GKY JWY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Thawfeeq"
+"02/22/09"	"C172S"	"N403GF"	"GKY AQO ILE GKY"	5.3	0	0	0.0	0.0	0	0.0	1.6	5.3	0.0	5.3	0.0	5.3	0.0	"G1000 Checkout with brandon and keith"
+"03/21/09"	"CH2000"	"N220HG"	"GKY JWY GKY"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Tony Fan"
+"03/21/09"	"C172S"	"N285SP"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"KT"
+"03/21/09"	"C172S"	"N285SP"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Mark Nash intro flight"
+"05/18/09"	"C172N"	"N734LY"	"GKY SEP GKY"	1.8	1	1	0.0	0.0	0	0.0	1.0	1.8	0.0	1.8	0.0	1.8	0.0	"BFR with brandon and zach in the back"
+"05/19/09"	"C172S"	"N822MN"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Kt"
+"05/22/09"	"C172M"	"N73043"	"GKY GKY"	1.6	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.6	"Karim commercial mans."
+"05/24/09"	"CH2000"	"N220HG"	"GKY FWS GKY"	1.1	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"tony fan"
+"05/25/09"	"CH2000"	"N220HG"	"GKY FWS GKY"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Tony fan"
+"05/25/09"	"C172S"	"N5219V"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"KT sf, pofstall, bai"
+"05/26/09"	"C172M"	"N80181"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Hawwa t/gs"
+"05/28/09"	"C172M"	"N80181"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Hawwa t/gs"
+"05/29/09"	"C172P"	"N54108"	"GKY GKY-"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"karim commercial mans"
+"05/29/09"	"C172N"	"N75602"	"GKY JWY GKY"	1.4	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4	"Karim Poff 180's"
+"05/30/09"	"CH2000"	"N220HG"	"GKY FWS GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Tony fan touch and go's"
+"05/30/09"	"C172S"	"N285SP"	"GKY GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"KT turns around point, stalls, slow flight, emergency descent, touch and go's"
+"05/31/09"	"C172S"	"N285SP"	"GKY GKY-"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Spencer t/g's, slow flight, s turns"
+"05/31/09"	"C172S"	"N285SP"	"GKY GKY"	1.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	"Kt Slow flight, steep turns, stalls, emergency descent, t/g's"
+"06/01/09"	"C172N"	"N734LY"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Karim commercial mans."
+"06/02/09"	"C172M"	"N1141U"	"GKY LNC GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Karim Poff 180, short fields"
+"06/02/09"	"C172S"	"N285SP"	"GKY JWY GKY"	1.2	2	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Kt touch and goes"
+"06/03/09"	"C172P"	"N54108"	"GKY FWS GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Karim short and soft fields"
+"06/04/09"	"C172M"	"N1141U"	"GKY GKY"	0.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	"Disco Flight"
+"06/04/09"	"C172M"	"N1141U"	"GKY FWS GKY"	2.0	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	2.0	"Karim Commercial Maneuvers"
+"06/06/09"	"CH2000"	"N220HG"	"GKY FWS GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Tony Fan t/gs"
+"06/06/09"	"C172S"	"N5219V"	"GKY FWS GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Kt T/gs"
+"06/07/09"	"C172S"	"N5219V"	"GKY GKY"	1.2	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Spencer Checkride Prep"
+"06/13/09"	"CH2000"	"N220HG"	"GKY F41 GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Tony Fan pilotage and t/gs"
+"06/14/09"	"C172S"	"N285SP"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Spencer Checkride Prep"
+"06/15/09"	"C172N"	"N734LY"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Kay first flight"
+"06/16/09"	"C172N"	"N75602"	"GKY GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Kay straight and level, climbs, turns, and descents"
+"06/17/09"	"C172P"	"N54108"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Kay straight and level, climbs, turns, and descents, poff stalls, and slow flight"
+"06/18/09"	"C172S"	"N285SP"	"GKY T35 GYI"	2.9	2	0	0.0	0.0	0	0.0	0.0	2.9	1.4	2.9	0.0	0.0	0.0	"Flight to pick up mom"
+"06/19/09"	"C172S"	"N285SP"	"GYI T35 GKY"	3.0	1	3	0.0	0.0	0	0.0	1.0	3.0	1.0	3.0	0.0	0.0	0.0	"Flight to take mom home"
+"06/20/09"	"C172M"	"N80181"	"GKY GKY"	0.9	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Kay straight and level, climbs, turns, descent, NTO/Land"
+"06/21/09"	"C172S"	"N403GF"	"GKY T35 GKY"	2.8	3	0	0.0	0.0	0	0.0	0.0	2.8	1.0	2.8	0.0	0.0	0.0	"Flight to take dad back for fathers day"
+"06/22/09"	"C172S"	"N285SP"	"GKY RBD GKY"	2.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	2.8	0.0	0.0	2.8	"Kt T/gs"
+"06/23/09"	"C172N"	"N5195E"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Kay Pon and off stalls, slow flight, steep turns, NTO and Land"
+"06/24/09"	"C172M"	"N80181"	"GKY GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Kay touch and go's"
+"06/26/09"	"C172M"	"N80181"	"GKY GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Kay ground ref, crosswind to/land"
+"06/27/09"	"C172N"	"N75602"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Kay steep turns, slow flight, stalls, nto/land"
+"06/27/09"	"C172M"	"N80181"	"GKY GKY"	0.5	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	"Discovery flight"
+"06/30/09"	"C172M"	"N80181"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Kay touch and go's in all configurations"
+"07/03/09"	"C172S"	"N822MN"	"GKY GKY"	0.5	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	"Kt maintenance abort"
+"07/04/09"	"C172M"	"N73357"	"GKY FWS GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Kay crosswind landings"
+"07/06/09"	"C172M"	"N73357"	"GKY JWY GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Fajingbesi touch and gos"
+"07/07/09"	"C172S"	"N5219V"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Kt T/gs and engine loss in pattern"
+"07/07/09"	"C172M"	"N73357"	"GKY RBD GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Kay touch and go's"
+"07/08/09"	"C172S"	"N5219V"	"GKY CPT GKY"	1.3	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"Spencer Checkride Prep"
+"07/09/09"	"C172N"	"N5195E"	"GKY FWS GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Kay touch and go's"
+"07/10/09"	"C172M"	"N73043"	"GKY FWS GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Kay touch and go's"
+"07/12/09"	"C172N"	"N5195E"	"GKY GLE T35 GKY"	4.2	3	0	0.0	0.0	0	0.0	0.0	4.2	0.0	4.2	0.0	0.0	4.2	"Flight with Matt Hunter to pick up Debbie"
+"07/12/09"	"C172S"	"N5219V"	"GKY GKY"	1.2	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	1.2	"Kt T/gs"
+"07/13/09"	"C172M"	"N73357"	"GKY GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Kay touch and go's finally landing well"
+"07/14/09"	"C172N"	"N5195E"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Ivison straight and level, climbs, turns, descents"
+"07/14/09"	"C172N"	"N734LY"	"GKY GKY"	1.1	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Kay BAI, slow flight, steep turns, NTO/Land, slips"
+"07/18/09"	"C172N"	"N75602"	"GKY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Ivison straight and level, climbs, turns, descents, slow flight, Poff stalls"
+"07/19/09"	"C172P"	"N54108"	"GKY GKY"	0.7	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.7	0.0	0.0	0.7	"Kay touch and go's first solo"
+"07/20/09"	"C172N"	"N734LY"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Ivison Pon and off stalls, NTO/Landing"
+"07/21/09"	"C172P"	"N54108"	"GKY GKY"	1.1	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	1.1	"Kay BAI, Unusual attitudes, steep turns, Soft field TO/Land Demo"
+"07/25/09"	"C172S"	"N5219V"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Kt T/gs"
+"07/25/09"	"C172M"	"N73357"	"GKY GKY"	1.0	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	"Kay ground ref, short field to/landings"
+"08/10/09"	"C172M"	"N73043"	"GKY GKY"	1.1	0	3	0.0	0.0	0	0.0	1.1	0.0	0.0	1.1	0.0	0.0	1.1	"Fajingbesi Stop and go's"
+"08/12/09"	"C172M"	"N1141U"	"GKY SEP GKY"	1.8	0	3	0.0	0.0	0	0.0	1.0	1.8	0.0	1.8	0.0	0.0	1.8	"Fajingbesi first cross country"
+"08/13/09"	"C172P"	"N54108"	"GKY JWY GKY"	0.9	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.9	0.0	0.0	0.9	"Fajingbesi uncontrolled Apt Ops"
+"08/18/09"	"C172M"	"N80181"	"GKY SEP CRS GKY"	2.9	0	0	0.0	0.0	0	0.0	0.0	2.9	0.0	2.9	0.0	0.0	2.9	"Fajingbesi crosscountry and diversion"
+"08/19/09"	"C172M"	"N80181"	"GKY CRS GKY"	1.5	0	2	0.0	0.0	0	0.0	1.5	0.0	0.0	1.5	0.0	1.5	1.5	"Fajingbesi night crosscountry"
+"08/20/09"	"C172S"	"N285SP"	"GKY GKY"	1.3	0	0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	"BFR"
+"08/20/09"	"C172S"	"N822MN"	"GKY GKY"	0.8	1	0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.8	0.0	0.0	0.8	"Andrea first flight"

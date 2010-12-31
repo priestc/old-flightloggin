@@ -1,0 +1,20 @@
+Date	Time	type	plane	Custom	Route	Day landings	Night Landings	Approaches	Day	Night	SEL								Simulated Instrument	Actual Instrument	Cross Country	Dual Given	Dual Received	PIC	Total	Remarks
+																										
+5/14/2009		BE36TC	36TN	Bilby	ADH-LCL	5			0.8		0.8													0.8	0.8	VFR refresher in B36
+5/16/2009		SR22	500RC	GAMI	ADH-OKC	1			0.5		0.5										0.5			0.5	0.5	picking up customer and CSIP
+5/20/2009		C172RG	9463D	Flight Training	PWA-RCE-HSD-PWA	7			1.6		1.6												1.6	1.6	1.6	checkride CFIA prep with Yuko
+5/21/2009		BE36TC	36TN	Bilby	ADH-LCL	1		3	1.0		1.0								1.0					1.0	1.0	"IFR refresher, ILS 17 @ SNL, 2x GPS 17 @ ADH, Bilby Wallace"
+5/22/2009		BE36TC	36TN	Me	ADH-IOB	1			3.8		3.8									0.5	3.8			3.8	3.8	"XC to Ray/Becca's wedding, great flight in B36"
+5/25/2009		BE36TC	36TN	Me	IOB-ADH	1			3.8		3.8									1.5	3.8			3.8	3.8	"XC back, great flight, real nice airplane"
+5/30/2009		SR22	223TN	GAMI	ADH-LCL	2			2.2		2.2													2.2	2.2	"flew experimental Cirrus, Density controller"
+5/31/2009		SR22	223TN	GAMI	ADH-LCL	1			1.0		1.0													1.0	1.0	test flew experimental Cirrus
+6/2/2009		SR22	223TN	GAMI	ADH-LCL	1			0.8		0.8													0.8	0.8	"test flight, had to return to ADH instead of going to DLH"
+6/4/2009		SR22	518CP	GAMI	ADH-PWA	1			0.6		0.6										0.6			0.6	0.6	picking up customer
+6/8/2009		SR22	942SR	GAMI	ADH-DFW-ADH	2			2.4		2.4										2.4			2.4	2.4	picked up Bill Elliot
+6/8/2009		SR22	942SR	GAMI	ADH-HSD-FOD-DLH	3		1	4.5		4.5									0.8	4.5			4.5	4.5	"Dropped off FIKI, 250' overcast on LIFR RNAV09@DLH, great flight"
+6/9/2009		SR22	223TN	GAMI	DLH-ADH	1			4.2		4.2									1.0	4.2			4.2	4.2	experimental flight back
+6/9/2009		C172RG	9463D	Flight Training	PWA-HSD-PWA	2			0.5		0.5												0.5	0.5	0.5	training with Yuko
+6/10/2009		C172RG	9463D	Flight Training	PWA-LCL	1			1.0		1.0													1.0	1.0	checkride CFIA - failed
+6/19/2009		C172	72TN	Me	ADH-OKC-HSD-ADH	3			2.2		2.2										2.0			2.2	2.2	dropped off Vanessa
+6/19/2009		C172	72TN	Me	ADH-OKC-ADH	2			1.3		1.3										1.3			1.3	1.3	picking up Dad for airshow
+6/20/2009		C172	72TN	Ada Air Expo	ADH-LCL	8			1.5		1.5													1.5	1.5	"airshow rides, real fun"

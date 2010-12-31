@@ -1,0 +1,5 @@
+Date	Plane	Type	Route		Total	PIC	Day Landings	Night Landings	Approaches	Day	Night	SEL	MEL	SES	MES	Hooded	Custom	Complex	High Perf.	Tail Dragger	Simulated Instrument	Actual Instrument	Cross Country	Dual Given	Dual Received	Remarks
+6/30/08	N985GE	C-172	52F-KABI		 1.7 	 1.7 	 1 	 -   	 -   	 1.7 	 -   	 1.7 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.7 	 -   	 1.7 	 XC for BFR 	 -   
+6/30/08	N985GE	C-172	KABI-52F		 1.7 	 1.7 	 1 	 -   	 -   	 1.7 	 -   	 1.7 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.7 	 -   	 1.7 	 XC for BFR 	 -   
+7/1/08	N630HR	C-172	52F-KGYI		 0.8 	 0.8 	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 -   	 0.8 	 XC for BFR 	 -   
+7/1/08	N630HR	C-172	KGYI-52F		 0.8 	 0.8 	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 -   	 0.8 	 XC for BFR 	 -   

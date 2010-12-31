@@ -1,0 +1,610 @@
+.captain_col			{display: table-cell;}
+.date_col			{display: table-cell;white-space: nowrap}
+.fo_col				{display: table-cell;}
+.flight_number_col		{display: table-cell;}
+.student_col			{display: table-cell;}
+.instructor_col			{display: table-cell;}
+.night_col			{display: table-cell;white-space: nowrap}
+.xc_col				{display: table-cell;white-space: nowrap}
+.dual_given_col			{display: table-cell;white-space: nowrap}
+.dual_recieved_col		{display: table-cell;white-space: nowrap}
+.sic_col			{display: table-cell;white-space: nowrap}
+.pic_col			{display: table-cell;white-space: nowrap}
+.solo_col			{display: table-cell;white-space: nowrap}
+.sim_col			{display: table-cell;white-space: nowrap}
+
+
+
+html, #holder					{min-height: 100%;
+						 width:100%; height: 100%;}
+						 
+html>body, html>body #holder			{height: auto;}
+
+body						{background: #888;
+						 margin: 15px;
+						 margin-top:0px;
+						 padding:0;
+						 font-size: small;
+						 font-family: "Bitstream Vera Sans", sans-serif;
+						 min-height: 100%;
+						 height: 100%;}
+						 
+#holder						{position: absolute;
+						 top: 0;
+						 left: 0;
+						 overflow: hidden;}
+						 
+#header						{background: #888;
+						 border: 0px solid red;
+						 margin:15px;
+						 overflow: hidden;}
+						 
+#content					{background: #888;border:0px dashed green;
+						 margin-left: 0px;
+						 padding: 15px;
+						 padding-top: 0px;
+						 padding-bottom: 25px;
+						 height: auto;}
+						 
+#footer						{background: #888;
+						 clear: both;
+						 height:auto;
+						 bottom: 0;
+						 left: 0;
+						 text-align:center;
+						 font-size: x-small;
+						 border: none;
+						 width: 100%;}
+/* hide from Mac IE5 */
+/* \*/
+#footer 					{position: absolute; }
+/* */
+
+/* Change in Opera 5+ (and some others) */
+html>body div#footer				{position: static;}
+
+/* Change back in everything except Opera 5 and 6, still hiding from Mac IE5 */
+/* \*/
+head:first-child+body div#footer		{position: absolute;}
+/* */
+
+/*--------------------------------------------------------------------------------------------------------------*/
+
+input[type="button"]:hover	{cursor: pointer}
+input[type="submit"]:hover	{cursor: pointer}
+button:hover			{cursor: pointer}
+
+input[type="submit"]		{border:1px solid black}
+input[type="button"]		{border:1px solid black}
+button				{border:1px solid black}
+
+input[type="password"]		{border:1px solid black}
+input[type="text"]		{border:1px solid black}
+
+textarea			{border:1px solid black}
+
+select				{border:1px solid black;
+				 background-color: lightgray}
+
+A:link				{color: #400080}
+
+H1				{text-align: center;
+				 font-weight: bold;
+				 color: #081188;
+				 font-size: x-large;
+				 font-family: 'Helvetica', sans-serif}
+
+H2				{font-weight: bold;
+				 color: #306a30;
+				 font-size: large;
+				 font-family: 'Helvetica', sans-serif}
+				 
+.dragme				{cursor: move }
+				 
+.fake_anchor			{cursor: pointer;
+				 color: #400080;
+				 text-decoration: underline}
+
+
+.nav_bar			{background-color: #DDDDDD;
+				 border: 0px;
+				 width: 100%}
+
+.nav_bar A			{color: black;
+				 font-weight: bold;
+				 text-decoration: none}
+				 
+.nav_bar A:hover		{color: #555555;
+				 font-weight: bold;
+				 text-decoration: underline}
+				 
+.empty_message			{font-size: large;margin:20px;
+				 text-align: center}
+				 
+.login				{border: 1px solid black;
+				 font-size: small;
+				 padding-bottom:15px;
+				 background-color:#ADDFFF;
+				 text-align:center;
+				 width:40em;
+				 margin-right:auto;
+				 margin-left:auto;
+				 margin-bottom:20px;}
+				 
+hr				{display:none}
+
+.news_box			{border:1px solid black;
+				 width:50em;
+				 margin-right:auto;
+				 margin-left:auto;
+				 margin-bottom: 15px;
+				 padding:5px;
+				 background-color: #d8ffdb}
+				 
+.top_nav_selected		{background: #BBB}
+
+#advert_box			{float:right;
+				 height:83px;
+				 color: white;
+				 text-align: right}
+				 
+.error_page			{font-size: xx-large;
+				 font-weight: bold;}
+
+/*------------------------------central divs----------------------------------------*/
+
+.central_div			{background: white;
+				 padding: 1em;
+				 overflow:hidden;
+				 width: 73em;
+				 margin-left: auto;
+				 margin-right: auto;
+				 text-align: center;
+				 border: 1px #111111 solid}
+				 
+.central_prefs input		{width:35%}
+.central_prefs select		{width:35%}
+
+.logbook_central_div		{background: white;
+				 overflow:hidden;
+				 margin-left: auto;
+				 margin-right: auto;
+				 text-align: center;
+				 border: 1px #111111 solid;
+				 width:100%;
+				 padding:0px}
+				 
+.import_central_div		{background: white;
+				 overflow:hidden;
+				 margin-left: auto;
+				 margin-right: auto;
+				 text-align: center;
+				 border: 1px #111111 solid;
+				 width:100%;
+				 padding:0px}
+
+/*---------------------------------------------------- new entry popup--------------*/
+
+#new_entry_popup		{width:50em;				/* THE WHOLE POPUP WINDOW ITSELF */
+				 position:absolute;
+				 display:none;
+				 left:300px;
+				 top:500px;
+				 background-color:white;
+				 border:3px double black;
+				 text-align:center;
+				 padding:1em;
+				 padding-top:2.5em;}
+
+		 
+.new_entry_popup_dragbar	{width:100%;				/* THE PART OF THE POPUP WHERE YOU DRAG */
+				 border-bottom:1px solid black;
+				 background-color:#5ec666;
+				 position:absolute;
+				 top:0;
+				 right:0}
+				 
+.new_entry_popup_dragbar big	{font-weight:bold}			/* POPUP WINDOW TITLE TEXT */
+				 
+.inner_title			{float:left;
+				 width:50em;}
+				 
+.close_button			{margin:1px;				/* THE "X" AT THE CORNER OF THE WINDOW */
+				 padding:0px;
+				 float:right;
+				 color:black !important;
+				 width:1em;
+				 text-align:center;
+				 text-decoration:none;
+				 border:1px solid black;
+				 font-weight:bold}
+
+
+.title_entry_left		{float:right;border:0px solid black;	/*THE LEFT SIDE DIVS THAT ALIGN THE TEXTBOXESDF*/
+				 height:25px;
+				 padding-right:10px;
+				 text-align:right;
+				 line-height:25px}
+				 
+.entry_entry_left		{float:right;border:0px solid red;
+				 width:13.5em;
+				 height:25px}
+				 
+.title_entry_right		{float:left;border:0px solid green;
+				 height:25px;
+				 text-align:left;
+				 line-height:25px}
+
+.entry_entry_right		{float:left;border:0px solid black;
+				 text-align:center;
+				 height:25px}
+
+.long_textbox			{width:150px;font-size:small;font-family:"Bitstream Vera Sans", sans-serif}
+				 
+.short_textbox			{width:3em;
+				 font-size:small;
+				 font-family:"Bitstream Vera Sans", sans-serif}
+
+.plane_dropdown			{width:150px;}
+
+.keep_vertical			{overflow:hidden;width:100%;border:0px solid black}
+
+.events_div			{float:right;
+				 background:#5ec666;
+				 width:100%;
+				 border:1px solid brown;
+				 margin-top:5px;
+				 margin-bottom:5px}
+				 
+.landing_boxes			{float:left;
+				 width:100%;
+				 border:0px solid black;
+				 margin-top:5px;
+				 padding-top:3px;
+				 padding-bottom:3px}
+
+.new_entry_left			{overflow:hidden;
+				 float:left;
+				 border:0px solid blue;
+				 width:59%}
+
+.new_entry_right		{float:right;
+				 border:0px solid red;
+				 width:37%}
+
+.new_entry_right input[type="button"] {margin-right:5px}
+
+/*-----------------------------------------------------logbook view--------------------*/
+
+.logbook_inner			{background-color: #ADDFFF;
+				 border: 1px solid black;
+				 margin-bottom: 10px;
+				 margin-left: 10px;
+				 margin-right: 10px;
+				 margin-top: 0px;}
+				 
+.logbook_table			{background-color: #ADDFFF;
+				 width:100%}
+
+.logbook_table td		{border-width: 0px;
+				 border-spacing: 0px;
+				 border-color: darkgray;
+				 border-style: solid;
+				 font-size: x-small;
+				 text-align: center}
+				 
+.center_page_index		{font-size: small;
+				 font-weight:bold;
+				 text-align:center}
+
+.last_page_index		{font-size: small;
+				 font-weight:bold;
+				 text-align:right}
+				 
+.first_page_index		{font-size: small;
+				 font-weight:bold;
+				 text-align:left}
+
+.odd				{background-color: #d8ffdb}
+
+.even				{background-color: #DDDDDD}
+
+.overall_row td			{background-color: #E0FFFF;
+				 border: 1px solid lightgray}
+
+.header_row td			{background-color: #E0FFFF;
+				 border: 1px solid lightgray}
+
+.page_row td			{background-color: #E0FFFF;
+				 border: 1px solid lightgray}
+				 
+.no_plane_alert			{width:150px;
+				 background-color:#ADDFFF;
+				 margin-right:auto;
+				 margin-left:auto}
+				 
+.flying_event			{color:darkred}
+
+.non_flying_event		{color:black;font-weight:bold;
+				 border:0px solid black !important}
+
+/*------------------------------------------------- preferences.php--------------------*/
+
+.sections			{font-size: x-small;
+				 padding: 10px}
+
+.sections legend		{font-size: large;
+				 font-weight: bold;
+				 color: #306a30}
+
+.pref_title			{font-size: small;border:0px solid red;height:25px;
+				 float:left;
+				 text-align: right;
+				 line-height: 25px;
+				 width: 48%;
+				 padding: 0px}
+				 
+.pref_form			{font-size: x-small;height:25px;
+				 float:right;
+				 text-align: left;
+				 width: 48%}
+				 
+.prefs_submit_button		{width:10em !important}
+				 
+.currency_day			{font-size: x-small;border:0px solid green;height:25px;
+				 float:left;
+				 text-align: center;line-height: 25px;
+				 width: 5%;
+				 padding: 0px}
+
+
+.currency_night			{font-size: x-small;border:0px solid brown;height:25px;
+				 float:left;
+				 text-align: center;line-height: 25px;
+				 width: 5%}
+				 
+.currency_dummy			{font-size: x-small;border:0px solid yellow;height:25px;
+				 float:left;
+				 text-align: left;
+				 width: 35%}
+				 
+
+
+/*------------------------------------------ planes.php-------------------------------*/
+
+.plane_box input[type="text"] 			{width: 9em;
+						 background-color: #ACCDDD;
+						 margin:2px;
+						 text-align:center;
+						 font-weight:bold;
+						 border: 1px solid #ACCDDD}
+				 
+.plane_box input[type="text"]:hover 	{width: 9em;
+					 background-color: lightblue;
+					 margin:2px;
+				 	 border: 1px solid gray}
+				 	 
+.plane_box input[type="text"]:focus 	{width: 9em;
+					 background-color: lightblue;
+					 margin:2px;
+				 	 border: 1px solid gray}
+					 
+.planes_tail_number		{font-size: x-large;
+				 text-align:left !important;
+				 border: 1px solid #ACCDDD;
+				 width: 6.5em !important;
+				 font-weight:bold;
+				 color: green;
+				 background-color: #ACCDDD}
+				 					 
+.planes_tail_number:hover:focus	{border:1px solid gray;
+				 text-align:left;
+				 background-color: lightblue}
+				 				 
+.plane_box input[type="submit"]	{margin:2px;
+				 border: 1px solid black}
+				 
+.plane_box select		{width: 200px;background-color: lightblue;margin:2px;margin-left:10px;
+				 border: 1px solid black}
+				 
+
+				 
+
+				 
+.planes_tags			{width:90% !important;
+				 text-align: left !important;
+				 font-weight:normal !important}
+
+.planes_manufacturer		{width:100%;
+				 font-size:large;border:0px solid black;
+				 text-align:left;}
+
+.plane_box			{overflow:hidden;
+				 text-align:left;
+				 padding:5px;
+				 font-size: x-small;
+				 background-color: #ACCDDD;
+				 border:1px solid black;
+				 margin-top: 1em;
+				 margin-bottom: 1em;}
+				
+
+/*---------------------------------------mass entry section---------------------------*/
+
+
+
+#mass_entry_div			{margin-left: auto;
+				 margin-right: auto;
+				 padding: 15px;
+				 background-color: white;
+				 border: 1px #111111 solid;}
+
+/*---------------------------------------import section-------------------------------*/
+
+.import-announce		{background-color: white;
+				 text-align: center;
+				 font-size: large;
+				 width: 80%;
+				 border: 1px solid black;
+				 margin-left: auto;
+				 margin-right: auto;
+				 margin-top: 10px;
+				 margin-bottom: 10px;
+				 padding: 10px}
+				 
+.alert				{color: red;
+				 font-weight: bold}
+				 
+.import_message			{text-align:left;
+				 background: lightblue;
+				 border:1px solid black;
+				 padding: 4px}
+				 
+/*---------------------------------------stats page-----------------------------------*/
+				 
+.small_select_box		{width:100%;
+				 padding:0px;
+				 border:0px solid black;
+				 display: none;}
+				 
+.big_select_box			{display:none;}
+				 
+
+				 
+.big_time_box			{width:90%;
+				 padding:5px;
+				 border:1px solid black;
+				 margin-right:auto;
+				 margin-left:auto;
+				 margin-bottom:10px;
+				 font-size: large}
+
+.big_time_box strong		{text-decoration: underline}
+
+.career_totals			{font-size: large;margin-right:auto;margin-left:auto;border:1px solid black;margin-top:20px}
+
+.career_totals td		{width:30%}
+
+/*--------------------------------------currency section------------------------------*/
+
+.current			{border:1px solid black;
+				 background-color:#ADDFFF;
+				 float:left;
+				 font-size:large;
+				 margin-bottom:10px;
+				 margin-right:10px;
+				 padding:3px;
+				 width:11em;
+				 height:80px}
+				 
+.current small			{font-size:x-small}
+				 
+.almost_expired			{background-color: #f184a3}
+
+.not_current			{background-color: #AAAAAA;}
+
+.landings_currency_container	{width: 100%;margin: 10px;margin-top:0px;margin-bottom:0px;
+				 border:0px solid blue;
+				 float:left}
+				 
+.times_currency_container	{width:100%;margin: 10px;margin-top:0px;
+				 float:left;
+				 border:0px solid red}
+
+
+.div_135			{border:1px solid black;
+				 height:220px;
+				 overflow:hidden;
+				 float:left;
+				 background-color:#F5F5F5;
+				 margin-left:0px;
+				 margin-right: 10px;
+				 padding:3px;
+				 width:33em}
+				 
+.div_ATP			{border:1px solid black;
+				 height:220px;
+				 overflow:hidden;
+				 float:left;
+				 background-color:#F5F5F5;
+				 margin-left:0px;
+				 padding:3px;
+				 width:33em;}
+				 
+.landings_currency_container big{text-decoration: underline;
+				 font-size: large}
+				 
+.div_135 table			{margin-left:auto;
+				 border:0px solid black;
+				 font-size:small;
+				 width:100%;
+				 margin-right:auto;
+				 margin-top:10px}
+				 
+.div_135 table td		{text-align:right}
+
+.not_grayed			{color: darkred}
+				
+.grayed				{color:green}
+
+.top_135			{text-align:center !important;
+				 font-size: larger;border:1px solid black;
+				 font-weight:bold;}
+			
+.qualified			{color: green}
+
+.not_qualified			{color: #8B0000}
+
+.div_ATP table			{margin-left:auto;
+				 border:0px solid black;
+				 font-size:small;
+				 width:50%;
+				 margin-right:auto;
+				 margin-top:10px}
+				 
+.div_ATP table td		{text-align:right}
+
+/*--------------------------------------mass entry section----------------------------*/
+
+.mass_grayed			{color: #bababa !important;
+				 border: 1px solid gray !important;
+				 font-weight: normal !important;}
+
+.mass_checkmark_boxes td	{color: #707070}
+
+.mass_numbers			{width:2.5em; font-weight: bold;
+				 font-size:small;
+				 border: 1px solid black;}
+
+.mass_small_numbers		{width:1.5em; font-weight: bold;
+				 font-size:small;
+				 border: 1px solid black;}
+				 
+.mass_names			{width:97%; font-weight: bold;
+				 font-size:x-small;
+				 border: 1px solid black;
+				 margin:2px}
+				 
+.non_remarks			{width:98.5%;font-size:x-small;border: 1px solid gray;margin:2px;font-weight: bold}
+
+.big_mass_outer_div		{margin:10px !important;
+				 border:0px solid black;
+				 }
+
+#mass_entry_table		{border:1px solid black;
+				 font-size:x-small;
+				 width:100%;
+				 padding:0px}
+
+
+#mass_entry_table tr		{border:1px solid black}
+
+#mass_entry_table select	{width:7em !important;
+				 font-size:x-small}
+
+.mass_color_1			{background: #74c680; border: 1px solid black}		/* GREEN */
+.mass_color_1 input		{background: #a8ecb1}
+
+.mass_color_2			{background: #aee3ff; border: 1px solid black}		/* BLUE */
+.mass_color_2 input		{background: #b7fff9}
+

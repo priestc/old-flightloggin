@@ -1,0 +1,190 @@
+DATE	AIRCRAFT MAKE & MODEL	AIRCRAFT IDENT	ROUTE OF FLIGHT	LEGS	REMARKS	APPROACHES & TYPE	LANDINGS DAY	LANDINGS NIGHT	CROSS COUNTRY	NIGHT	INSTRUMENT	SIMULATED INSTRUMENT	SIMULATOR	DUAL	PILOT IN COMMAND	SOLO	SECOND IN COMMAND	INSTRUCTOR	DURATION	EXPENSES	FLIGHT COST						
+27-May-02	C172P	N8019L	HLN Local	1	Preflight	 Start up	 Radio	 Taxi	 Takeoff	 Climbs and decents	 Medium Bank Turns	 Power and Pitch Changes-Brent Vetter CFI		1							0.9					0.9	
+20-Jun-02	C172P	N8019L	HLN Local	1	Preflight	 Radio	 Taxi	 Takeoff	 slow flight	 medium bank turns	 pitch and power	 power off stalls-Brent Vetter CFI		1							0.9					0.9	
+12-Jun-03	C150	N21902	HLN Local	1	Preflight	 Radio	 Taxi	 Power and Pitch Changes	 Climbs and Decents-Brent Vetter CFI		1							1					1				
+16-Jun-03	C150	N21902	HLN Local	1	Preflight	 Radio	 Taxi	 Rectangular Courses	 Side Slips and Forward Slips	 Traffic pattern-Brent Vetter CFI		1							1.2					1.2			
+21-Jul-03	A23A	N56875	HLN Local	1	Aircraft Familiarization	 Preflight	 Taxi	 Radio	 Takeoff	  Slow Flight	 Power-off stalls	 traffic pattern	 touch and goes-Brent Vetter CFI		3							1.2					1.2
+27-Nov-04	C172P	N64441	HLN Local	1	Climbs	 decents	 steep turns	 engine outs	 VOR orientation	 Touch and Goes-John Hall CFI		4							1.3					1.3			
+12-Aug-05	C172P	N516MA	HLN Local	1	Cessna 172	 T41 210 HP- Normal Takeoff	 turns	 climb	 decent	 normal landing- Jeanne MacPherson CFI		1							0.7					0.7			
+17-Sep-05	R22	N4000Y	HIO Local	1	HAI Lesson 1-8 - Jay Ward CFI		1							0.3					0.3								
+14-Jan-06	C152	N89312	HIO Local	1	Slow Flight	 Steep Turns	 Touch and Goes	 S Turns	 Turns around a point- Will Romualdo CFI		1							1.3					1.3				
+22-Jan-06	C172P	N54477	HIO Local	1	Hood work	 climbs	 decents	 turns	 constant rate/speed climbs	 power changes-CFI Will Romualdo	2	1					1.6		1.6					1.6			
+28-Jan-06	C152	N49191	HIO Local	1	Touch and Goes	 soft field landing and takeoffs	 short field landing and takeoffs	 cross wind landings	 turns around a point-CFI Will Romualdo		7							1.3					1.3				
+7-Feb-06	C152	N48440	HIO-MMV-HIO	2	Emergency Procedures	 Power off stalls	 slow flight	 Power off landing	 short field takeoff and landings-Will Romualdo CFI		5	1		0.1				1.5					1.5				
+11-Feb-06	C152	N49194	HIO-SPB-TDO-CLS-HIO	4	Cross Country Training	 Dead Reckoning	 Pilotage	 slips- Will Romualdo CFI		6		2.5					2.5					2.5					
+19-Feb-06	C152	N757LY	HIO Local	1	Touch and Goes	 power off approaches-Will Romualdo CFI		9							1.3					1.3							
+21-Feb-06	C152	N757LY	HIO Local	1	Ready to Solo	 touch and goes-Will Romualdo CFI		4							0.5					0.5							
+21-Feb-06	C152	N757LY	HIO Local	1	First Solo	 normal takeoff and landing		1								0.3	0.3			0.3							
+28-Feb-06	C152	N757LY	HIO Local	1	Short Field takeoff and landing	 Soft field takeoff and landing	 short approach	 power off-Will Romualdo CFI		9							1.2					1.2					
+4-Mar-06	C152	N757LY	HIO Local	1	Touch and Goes		3							0.5	0.5	0.5			0.5								
+5-Mar-06	C152	N757LY	HIO Local	1	Spins/Spin Recovery	 Stalls	 Short Field Landing	 Soft Field Landing-Will Romualdo CFI		4							1.2					1.2					
+18-Mar-06	C152	N757LY	HIO Local	1	Touch and goes		14								1.4	1.4			1.4								
+31-Mar-06	C172P	N64441	HLN Local	1	Simulated Instrument	 VOR tracking	 turns to headings	 steep turns	 traffic pattern	 touch and  goes-Brent Vetter CFI		3					0.6		1					1			
+8-Apr-06	C152	N46889	HIO Local	1	Night Training	 Stalls	 Power On/Off and Recovery-Will Romualdo CFI			7		1.1				1.1					1.1						
+9-Apr-06	C152	N46889	HIO-7S3-2S6-HIO	3	Power On/Off stalls	 Ground Ref	 Go arounds	 Landings at Twin Oaks and sportsman airpark-Will Romualdo CFI		3							1.6					1.6					
+18-Apr-06	C152	N46889	HIO-CVO-PDX-HIO	3	Cross Country	 Lost Procedures	 Stop and Goes	 VOR Navigation	 Pilotage-Will Romualdo CFI		1	3	2.3	2.3				2.3					2.3				
+30-Apr-06	C152	N757LY	HIO-OLM-KLS-HIO	3	Long Cross Country over 150 nautical miles		3		2.8						2.8	2.8			2.8								
+13-May-06	C152	N757LY	HIO-CVO-UAO-HIO	3	Normal Takeoff And Landing	 Short Field landing	 VOR Usage	 Pilotage		3		1.9						1.9	1.9			1.9					
+29-May-06	C152	N757LY	HIO-EUG-CVO	2	Cross Country VFR	 Flight Plan	 Flight Following		2		2.5						2.5	2.5			2.5						
+29-May-06	C152	N757LY	HIO-UAO-HIO	2	Checkride Prep		8							1.7					1.7								
+5-Jul-06	C172P	N64441	HLN Local	1	Steep Turns	 Power on and off stalls	 emergency engine failure	 and approach/short field landing-Brent Vetter CFI		2							1.1					1.1					
+7-Jul-06	C172P	N64441	HLN Local	1	Simulated Instrument	 VOR Navigation	 vectors to landing	 touch and goes	 short field touch and gos and landings	 cross wind landings-Brent Vetter CFI		7					0.4		1.2					1.2			
+10-Jul-06	C172P	N64441	HLN Local	1	Turns around a point	 S Turns	 Touch and Goes	 Short Field Landings	 Soft Field Landing-Brent Vetter CFI		4							1					1				
+14-Jul-06	C172P	N64441	HLN Local	1	Turns around a point	 s turns	 touch and goes	 short field landings	 power off stalls	 steep turns		3								1	1			1			
+25-Jul-06	C172P	N64441	HLN Local	1	Private Pilot Practical Test Manuevers		5					0.4		1.6					1.6								
+25-Jul-06	C172P	N64441	HLN Local	1	Recommended for Private Pilot Practical Test		6							0.6					0.6								
+26-Jul-06	C172P	N64441	HLN Local	1	Private Pilot Practical Test		3					0.2			1.2				1.2								
+4-Aug-06	C172P	N64441	HLN Local	1	Private Pilot  Practical Test Complete-Robert VanMeter DPE		1								0.5				0.5								
+30-Aug-06	PA-28-140	N3489K	HIO Local	1	PA-28 Checkout Flight 			7		1					1.4				1.4								
+23-Sep-06	PA-28-140	N3489K	HIO Local	1	Flight through downtown over OES	 then to  HIO for Touch & Goes			3		0.9					0.9				0.9							
+30-Oct-06	PA-28-140	N3489K	HIO MMV HIO	2	Touch and goes at MMV and  HIO	 over Hagg Lake to HIO		4								1.2				1.2							
+25-Nov-06	PA-28-140	N3489K	HIO Local	1	Touch and Goes	 flight around Hagg Lake	 Newberg VOR to MMV		3								1.3				1.3						
+13-Jan-07	C172S	N3555L	HIO Local	1	Stalls + Recovery	 Steep turns	 emergency procedures	 checkout flight-Will Romualdo CFI		3							0.6	0.6				0.6					
+3-Feb-07	C172S	N3555L	HIO-7S3	1	Direct Newberg	 then to Twin Oaks for the EAA fly-in	 Flight with Minsoo		1								0.4				0.4						
+3-Feb-07	C172S	N3555L	7S3-UBG-HIO	1	IFR practice flight	1	1				1			1	1				1								
+24-Feb-07	M20	N2926M	HLN-MLS	1	Cross Country Flight		1		2						2				2								
+24-Feb-07	M20	N2926M	MLS-BIL	1	Cross Country Flight		1		1						1				1								
+24-Feb-07	M20	N2926M	BIL-BZN	1	Cross Country Flight		1		1.2						1.2				1.2								
+24-Feb-07	M20	N2926M	BZN-HLN	1	Cross Country Flight				0.6						0.6				0.6								
+1-Jun-07	PA-28-140	N3489K	HIO Local	1	Premier checkout review flight	 steep turns	 slow flight	 stalls-Eric Phillips CFI		5							1.5	1.5				1.5					
+11-Jun-07	PA-28-140	N3489K	HIO Local	1	Local flight in Portland metro		2								1				1								
+23-Jun-07	C172S	N386ME	HIO Local	1	Touch and goes	 slips	 short approach and X-winds/w Matt P		6								0.9				0.9						
+23-Aug-07	PA-28-161	N230ND	GFK Local	1	UND 112/1 Incomplete-Brian Brown CFI		1							1.1	1.1				1.1								
+24-Aug-07	PA-28-161G	N436ND	GFK Local	1	UND 112/1 Complete-Brian Brown CFI		3							1.6	1.6				1.6								
+28-Aug-07	PA-28-161	N222ND	GFK Local	1	UND 112/2 Complete-Brian Brown CFI		3							1.9	1.9				1.9								
+31-Aug-07	PA-28-161	N277ND	GFK Local	1	UND 112/4a Complete-Brian Brown CFI		2							0.7	0.7				0.7								
+31-Aug-07	PA-28-161	N277ND	GFK Local	1	UND 112/4b Complete	 Second First Solo		4								0.7	0.7			0.7							
+1-Sep-07	PA-28-161G	N436ND	GFK Local	1	UND 112/5 Complete-Brian Brown CFI		3							1.7	1.7				1.7								
+1-Sep-07	Frasca 241	SF4004	UND	1	UND 112/6 Complete-Brian Brown CFI								1.1														
+15-Sep-07	PA-28-161G	N436ND	GFK-BWP-DTL-GFK	3	UND 112/9 Complete-Brian Brown CFI		3		3					3	3				3								
+21-Sep-07	PA-28-161	N239ND	GFK-BDE-ROX-GFK	3	UND 112/10 Incomplete-Brian Brown CFI			3	3.2	3.2				3.2	3.2				3.2								
+2-Oct-07	PA-28-161	N263ND	GFK-CKN-GFK	2	UND 112/10 Complete-Brian Brown CFI	1		2		1.4				1.4	1.4				1.4								
+4-Oct-07	PA-28-161	N369ND	GFK Local	1	UND 112/11 Incomplete-Brian Brown CFI		1							1.3	1.3				1.3								
+6-Oct-07	PA-28-161	N221ND	GFK Local	1	UND 112/11 Complete-Brian Brown CFI		1							1.1	1.1				1.1								
+20-Oct-07	PA-28-161	N359ND	GFK Local	1	UND 112/12 Incomplete-Brian  Brown  CFI		1					0.1		1.6	1.6				1.6								
+24-Oct-07	PA-28-161	N222ND	GFK-CKN-GFK	2	UND 112/12 Complete-Brian Brown CFI		4					0.2		1.6	1.6				1.6								
+28-Oct-07	PA-28-161	N222ND	GFK Local	1	BFR Incomplete / UND 112/14 Incomplete-Brandon Schmidt CFI		1					0.1		1.4	1.4				1.4								
+30-Oct-07	PA-28-161	N275ND	GFK-D37-GFK	2	BFR Complete / UND 112/14 Complete-Brandon Schmidt CFI		3							1.1	1.1				1.1								
+14-Jan-08	PA-28-161G	N444ND	GFK Local	1	UND 221/2 Complete-Brian Quarles CFI		1							1.2	1.2				1.2								
+25-Jan-08	PA-28-161	N359ND	GFK-FFM-FAR-CKN-GFK	4	UND 221/3 Complete-Brian Quarles CFI		5		3.1					3.1	3.1				3.1								
+18-Feb-08	PA-28-161	N369ND	GFK-FFM-FAR-GFK	3	UND 221/4 Complete-Brian Quarles CFI			6	2.9	2.9				2.9	2.9				2.9								
+26-Feb-08	Frasca 241	SF4001	UND	1	UND 221/10 Complete-Brian Quarles CFI								1														
+27-Feb-08	Frasca 241	SF4004	UND	1	UND 221/11 Complete-Brian Quarles CFI								1														
+27-Feb-08	PA-28-161	N275ND	GFK Local	1	UND 221/5 Complete-Solo			8		1					1	1			1								
+11-Mar-08	PA-28-161	N220ND	GFK Local	1	UND 221/12 Complete-Brian Quarles CFI		1							1.4	1.4				1.4								
+15-Mar-08	PA-28-161	N275ND	GFK-ASX	1	UND 221/8 Complete-Solo			1	2.9	0.3					2.9	2.9			2.9								
+16-Mar-08	PA-28-161	N275ND	ASX-DLH	1	UND 221/8 Complete-Solo		1		0.9						0.9	0.9			0.9								
+16-Mar-08	PA-28-161	N275ND	DLH-GFK	1	UND 221/8 Complete-Solo		1		2.4						2.4	2.4			2.4								
+18-Mar-08	PA-28-161	N356ND	GFK Local	1	UND 221/13 Complete-Brian Quarles CFI		1					1		1.4	1.4				1.4								
+28-Mar-08	PA-28-161	N245ND	GFK-FFM-FAR	2	UND 221/6 Complete-Solo		3		2.3						2.3	2.3			2.3								
+30-Mar-08	Frasca 241	SF4004	UND	1	UND 221/15 Complete-Brian Quarles CFI								1														
+31-Mar-08	PA-28-161	N230ND	GFK Local	1	UND 221/16 Incomplete-Brian Quarles CFI			5		1		1		1.5	1.5				1.5								
+6-Apr-08	Frasca 241	SF4002	UND	1	UND 221/17 Complete-Brian Quarles CFI								1.1														
+16-Apr-08	PA-28-161	N221ND	GFK Local	1	UND 221/16 Complete-Brian Quarles CFI		5							0.7	0.7				0.7								
+17-Apr-08	PA-28-161G	N357ND	GFK Local	1	UND 221/18 Complete-Brian Quarles CFI		1					0.8		1.1	1.1				1.1								
+18-Apr-08	PA-28-161G	N449ND	GFK-MOT-GFK	2	UND 221/7 Complete-Solo		1	3	4.1	2.1					4.1	4.1			4.1								
+23-Apr-08	PA-28-161	N230ND	GFK-D37-GFK	2	UND 221/19 Complete-Brian Quarles CFI		4					0.9		1.5	1.5				1.5								
+26-Apr-08	PA-28-161G	N461ND	GFK-FAR-GFK	2	UND 221/7 Complete-Solo			2	2.1	2.1					2.1	2.1			2.1								
+4-May-08	PA-28-161	N230ND	GFK Local	1	UND 221/20 Complete-Ryan Munden CFI		3					0.3		1.3	1.3				1.3								
+5-May-08	Frasca 241	SF4003	UND	1	UND 221/21 Complete-Brian Quarles CFI								0.9														
+6-May-08	Frasca 241	SF4003	UND	1	UND 221/22 Complete-Brian Quarles CFI								1														
+6-May-08	Frasca 241	SF4003	UND	1	UND 221/23 Complete-Brian Quarles CFI								0.9														
+7-May-08	Frasca 241	SF4004	UND	1	UND 221/24 Complete-Brian Quarles CFI								1.1														
+7-May-08	Frasca 241	SF4003	UND	1	UND 221/25 Complete-Brian Quarles CFI								1.1														
+7-May-08	Frasca 241	SF4003	UND	1	UND 221/26 Complete-Brian Quarles CFI								1														
+11-May-08	Frasca 241	SF4003	UND	1	UND 221/27 Complete-Brandon Schmidt CFI								1.3														
+23-May-08	C172P	N63843	HIO-UBG-HIO	1	Holds at VOR and VOR DME Approach- Mark Smith CFI	1	1				0.7	0.2		1.2	1.2				1.2								
+28-May-08	C172P	N52371	HIO-MMV-HIO	1	Approaches and  Holds-Mark Smith CFI	2	1				0.8	0.2		1.3	1.3				1.3								
+29-May-08	C172P	N52013	HIO-UAO-MMV-HIO	1	GPS Departure & review DME Arcs	 GPS approach and hold	 VOR	 NDB approach	3	1				1	0.8		2.1	2.1				2.1					
+3-Jun-08	C172P	N52371	HIO-SPB-HIO	1	Localize approach	 missed; NDB approach; full stop	2	1				0.5	0.6		1.5	1.5				1.5							
+4-Jun-08	C172P	N54477	HIO Local	1	RNAV 2	 Partial Panel; ILS Runway 12 Partial Panel	2	1					1		1.5	1.5				1.5							
+5-Jun-08	C172P	N52013	HIO-AST-TMK-HIO	3	ILS AST; TMK RNAV Missed; HIO ILS	3	2		2.7		2	0.3		2.7	2.7				2.7								
+8-Jun-08	C172P	N54477	HIO-EUG	1	Practice VOR/DME 34L/w arc to FAC	 EUG; Robin Gonzales	 Safety Pilot	1	1		1.3			1.1			1.3				1.3						
+8-Jun-08	C172P	N54477	EUG-HIO	1	Practice VOR/DME-C HIO; Robin Gonzales	 Safety Pilot	1	1		1.3			1.2			1.3				1.3							
+10-Jun-08	Frasca 241	Truflight	HAI	1	VOR & NDB Holding	 wind corrections								1.9	1.9												
+11-Jun-08	C172P	N52013	HIO-OTH-ONP-HIO	1	NDB	 VOR	 ILS approaches-Mark Smith CFI	3	2		4.5		0.8	3		4.5	4.5				4.5						
+31-Jul-08	C172P	N65259	HIO-EUG	1	GPS XC	 Crosswind Landing		1		1.2						1.2				1.2							
+31-Jul-08	C172P	N65259	EUG-HIO	1	GPS XC	 Touch and goes		2		1						1				1							
+14-Aug-08	C172P	N52013	HIO Local	1	VOR DME 15	 SPB; LOC/DME 15	 SPB; ILS 12	 HIO; Steep turns	 slow flight	 intercept & tracking-Trevor Liou CFI	3	1					1.2		1.7	1.7				1.7			
+17-Aug-08	C172P	N65259	HIO Local	1	Farmington 4 Departure; Hold @ UBG; LOC/DME 15	 SPB; VOR/DME	 HIO-Trevor Liou CFI	2	1					1		1.4	1.4				1.4						
+20-Aug-08	C172P	N52013	HIO Local	1	LOC 17	 UAO; VOR/DME	 HIO; ILS 12	 HIO-Trevor Liou CFI	3		1		1.9	0.3	0.7		1.9	1.9				1.9					
+21-Aug-08	C172P	N52013	HIO Local	1	VOR/DME-A	 SPB; LOC/DME 17	 SPB; ILS 12	 HIO-Trevor Liou CFI	3		1		1.6	0.1	1		1.6	1.6				1.6					
+27-Aug-08	C152	N80CT	HIO Local	1	C152 Checkout. Steep turns	 slow flight	 stalls	 shorts	 softs	 normal	 power off 180 landings-Trevor Liou CFI		4							0.9	0.9				0.9		
+27-Aug-08	C152	N49276	HIO-CVO-HIO	2	VFR X/C		2		1.8						1.8	1.8			1.8								
+29-Aug-08	C172P	N62407	HIO Local	1	ILS 12	 HIO; VOR/DME-C	 HIO-Trevor Liou CFI	2	1					0.6		0.9	0.9				0.9						
+30-Aug-08	C172P	N62407	HIO Local	1	ILS 12	 HIO; VOR/DME-C	 HIO; LOC 17	 UAO-Trevor Liou CFI	3	1					1		1.4	1.4				1.4					
+2-Sep-08	C172P	N52013	HIO-14S-HIO	2	X/C to 14S in VFR; IFR Flight Plan-Trevor Liou CFI		1	1	2.4	1.2	0.2			2.4	2.4				2.4								
+4-Sep-08	C172P	N52371	HIO-PWT-HIO	2	X/C to PWT in VFR; IFR Flight Plan-Trevor Liou CFI		2		2.7					2.7	2.7				2.7								
+26-Sep-08	C172P	N54477	HIO Local	1	NDB-B	 HIO; LOC-17	 UAO; VOR/DME-C	 HIO-Trevor Liou CFI	3	1					1.2		1.5	1.5				1.5					
+26-Sep-08	C172P	N54477	HIO Local	1	NDB-B	 HIO; LOC-17 UAO; VOR/DME-C	 HIO; Trever Liou CFI	3		1		1.5		1.2		1.5	1.5				1.5						
+3-Oct-08	C172S	N478ER	HIO Local	1	ILS-12	 HIO; GPS-12	 HIO-Trevor Liou CFI	2	1				0.8			1.5	1.5				1.5						
+9-Oct-08	C152	N69016	HIO Local	1	Night Landings			6		0.8					0.8	0.8			0.8								
+10-Oct-08	C152	N49276	HIO-PDX-HIO	2	Night Landing at Portland International	 flight over downtown	 Touch & Go's at HIO			4		1.5					1.5				1.5						
+12-Oct-08	C172S	N3555L	HIO-UAO-HIO	2	LOC-17	 UAO-Trevor Liou CFI	1	2					0.6		1.2	1.2				1.2							
+29-Oct-08	C172S	N3555L	HIO Local	1	GPS-12	 HIO; GPS Holds-Trevor Liou CFI	1	1					0.6		0.8	0.8				0.8							
+30-Oct-08	C172S	N3555L	HIO Local	1	LOC-17	 UAO; VOR/DME-C	 HIO; ILS-12	 HIO; Holds-Trevor Liou CFI	3	1				0.2	1		1.6	1.6				1.6					
+30-Oct-08	R22	N779SH	HIO Local	1	CTD Flight	 Conor CFI			1		0.2				0.2					0.2							
+5-Nov-08	C172S	N386ME	HIO Local	1	Scapo 4 Departure; ILS-12 HIO-Trevor Liou CFI	1	1				0.6			0.8	0.8				0.8								
+12-Nov-08	C172S	N386ME	HIO Local	1	Checkride Prep	2	1				1			1.5	1.5				1.5								
+28-Nov-08	C172S	N3555L	HIO Local	1	Checkride Prep-Mark Smith CFI	2	1				0.2	0.8		1.4	1.4				1.4								
+29-Nov-08	C172S	N3555L	HIO Local	1	IFR Flight Test-Satisfactory-Mary Crittendon	3	1				0.5	1			1.7				1.7								
+2-Dec-08	R22	N8340S	HIO Local	1	CTD Flight-Alan Bell CFI		1	1		0.1				0.1					0.1								
+19-Jan-09	PA-44-180	N3047R	RDU-TTA-RDU	2	61.65(d)(2) & 61.65(c)-Brandon Zei CFI		3							2					2								
+21-Jan-09	PA-44-180	N3047R	RDU-LHZ-RDU	2	61.65(d)(2) & 61.65(c)-Brandon Zei CFI		3							1.8					1.8								
+21-Jan-09	PA-44-180	N723KD	RDU-ASJ-RDU	2	61.65(d)(2) & 61.65(c)-Brandon Zei CFI	4	2		3.1	3.1		2.8		3.1					3.1								
+22-Jan-09	PA-44-180	N723KD	ASJ Local	1	61.65(d)(2) & 61.65(c)-Brandon Zei CFI	1	3					0.6		1.2					1.2								
+22-Jan-09	PA-44-180	N723KD	ASJ Local	1	Private Multi-Engine Checkride-Satisfactory-Henry Joyner DPE	1	3					0.3			0.9				0.9								
+22-Jan-09	PA-44-180	N723KD	ASJ-RDU	1	61.65(d)(2) & 61.65(c)-Brandon Zei CFI	1		1	1	1		0.1		1	1				1								
+29-Jan-09	PA-44-180	N723KD	RDU-RIC	1	Brandon Zei CFI		3		2					2	2				2								
+29-Jan-09	PA-44-180	N723KD	RIC-RDU	1	Brandon Zei CFI		1		1.4					1.4	1.4				1.4								
+30-Jan-09	PA-44-180	N723KD	RDU-ILM	1	61.129(b)(3)(iii)-Brandon Zei CFI		2		2					2	2				2								
+30-Jan-09	PA-44-180	N723KD	ILM-RDU	1	61.129(b)(3)(iv)-Brandon Zei CFI			1	2.2	2.2				2.2	2.2				2.2								
+5-Feb-09	PA-44-180	N2236D	RDU-ASJ-RIC-TTN	3	61.65(d)(2)	 61.129(b)(3)(i)-Brandon Zei CFI	3		2	3.9	3.9		3.5		3.9	3.9				3.9							
+6-Feb-09	PA-44-180	N2236D	TTN-HNZ-LHZ-RDU	3	61.129(b)(4) Total:350.8	 250mi TTN-HNZ-Brandon Zei CFI			3	3.2	3.2				3.2	3.2				3.2							
+9-Feb-09	PA-44-180	N2236D	RDU-ISO-RDU	2	PIC Training per 61.129(b)(4)-Brandon Zei CFI		1	10	2	2				2	2				2								
+10-Feb-09	PA-44-180	N2236D	RDU-ASJ-PGV-RDU	3	PIC Training per 61.129(b)(4)-Brandon Zei CFI	3	3		2.7			1.7		2.7	2.7				2.7								
+10-Feb-09	Elite FTD	RC1	RDU-ATP	1	61.65(c)(1-8)	 61.65(e)(2)-Brandon Zei CFI								24													
+10-Feb-09	Elite FTD	RC1	RDU-ATP	1	CRM Training; ILS-23L	 RDU	2							2													
+12-Feb-09	PA-44-180	N2236D	RDU-TYS	1	PIC Training per 61.129(b)(4);GPS-23L	 TYS-Derek Halsey CFI	1	1		3.5					3.5	3.5				3.5							
+12-Feb-09	PA-44-180	N2236D	TYS-RDU	1	PIC Training per 61.129(b)(4)-Derek Halsey CFI			1	1.8	1.8				1.8	1.8				1.8								
+13-Feb-09	PA-44-180	N41B	RIC-RDU	1	ILS-23L	 RDU; Ryan Middleton	 Safety Pilot	1	1		1.5			1.2			1.5				1.5						
+13-Feb-09	PA-44-180	N41B	RDU-LZU	1	IFR X/C			1	2.9	1.9					2.9				2.9								
+14-Feb-09	PA-44-180	N3005D	LZU-RIC	1	VOR-2	 RIC; Ryan Middleton	 Safety Pilot	1	1		3			2.7			3				3						
+14-Feb-09	PA-44-180	N3005D	RIC-TTN	1	IFR X/C		1		1.6						1.6				1.6								
+15-Feb-09	PA-44-180	N216FW	TTN-RDU	1	VOR-5R	 RDU; Ryan Middleton	 Safety Pilot	1	1	1	3	3		2.7			3				3						
+16-Feb-09	PA-44-180	N337EP	CRG-RDU	1	IFR X/C		1	1	3.4	3.4					3.4				3.4								
+17-Feb-09	PA-44-180	N337EP	RDU-FTY	1	GPS-8	 FTY; Ryan Middleton	 Safety Pilot	1	1		3			2.7			3				3						
+17-Feb-09	PA-44-180	N337EP	FTY-CRG	1	IFR X/C		1		2.1						2.1				2.1								
+17-Feb-09	PA-44-180	N337EP	CRG-PFN	1	ILS-14	 PFN; Ryan Middleton	 Safety Pilot	1		1	2	1		1.8			2				2						
+18-Feb-09	PA-44-180	N337EP	PFN-APF	1	RNAV-5	 APF; Ryan Middleton	 Safety Pilot	1	1		3			2.6			3				3						
+18-Feb-09	PA-44-180	N337EP	APF-CRG	1	RNAV-14	 CRG; Ryan Middleton	 Safety Pilot	1	1		2.9		0.1	1.8			2.9				2.9						
+18-Feb-09	PA-44-180	N786A	CRG-DAB	1	IFR X/C			1	0.9	0.4					0.9				0.9								
+18-Feb-09	PA-44-180	N206AT	DAB-DAB	1	Emergency Landing @ DAB			1		0.3					0.3				0.3								
+19-Feb-09	PA-44-180	N786A	DAB-PFN	1	RNAV-5	 PFN; Ryan Middleton	 Safety Pilot	1	1		3		0.2	2.4			3				3						
+19-Feb-09	PA-44-180	N786A	PNF-CRG	1	IFR X/C			1	1.5	0.3					1.5				1.5								
+20-Feb-09	PA-44-180	N39644	CRG-JFX	1	ILS-27	 JFX; Ryan Middleton	 Safety Pilot	1	1		3.4		0.4	2.6			3.4				3.4						
+20-Feb-09	PA-44-180	N39644	JFX-BWG	1	IFR X/C		1		1.8						1.8				1.8								
+20-Feb-09	PA-44-180	N39644	BWG-LZU	1	Hold at DUMBB & GPS-25	 LZU; Ryan Middleton	 Safety Pilot	1		1	2.1	2.1		1.8			2.1				2.1						
+21-Feb-09	PA-44-180	N721CK	LZU-LZU	1	Returned to Airport due to Oil Pressure		1								0.7				0.7								
+21-Feb-09	PA-44-180	N923RS	LZU-RIC	1	ILS-16	 RIC; Ryan Middleton	 Safety Pilot	1	1		3			2.6			3				3						
+21-Feb-09	PA-44-180	N923RS	RIC-TTN	1	ILS-6	 TTN; Ryan Middleton	 Safety Pilot	1	1		1.8			1.4			1.8				1.8						
+22-Feb-09	PA-44-180	N923RS	TTN-DOV	1	ENGINE FAILURE OVER DOVER AFB			1	1.6	1.6					1.6				1.6								
+24-Feb-09	PA-44-180	N923RS	DOV-RDU	1	IFR X/C		1		2.2						2.2				2.2								
+24-Feb-09	PA-44-180	N923RS	RDU-CRG	1	VOR-14	CRG; Ryan Middleton	 Safety Pilot	1	1		3.1		0.4	2.4			3.1				3.1						
+24-Feb-09	PA-44-180	N2237U	CRG-RDU	1	IFR X/C			1	3	2					3				3								
+25-Feb-09	PA-44-180	N216FW	RDU-CRG	1	VOR-14	 CRG; Ryan Middleton	 Safety Pilot	1	1		3.5		1	1.8			3.5				3.5						
+25-Feb-09	PA-44-180	N766A	CRG-RDU	1	IFR X/C		1		3						3				3								
+19-Mar-09	PA-23-150	N1428P	HLN Local	1	MCA-Slow Flight	 Power On & Power Off Stalls	 VMC Demo	 Engine Failure-Feather-Restart	 Steep Turns	 Touch & Go's	 Short Field Takeoff-Brent Vetter CFI		3							1.2	1.2				1.2		
+20-Mar-09	PA-23-150	N1428P	HLN Local	1	Engine Failure @ Cruise-Feather/Unfeather	 Sim Instrument Approach	 Climbs	 Decents	 VOR Tracking	 Practice ILS	 Circle to Land-Brent Vetter CFI	1	1					0.3		0.9	0.9				0.9		
+23-Mar-09	PA-23-150	N1428P	HLN Local	1	Simulated Instrument	 Departure HLN-3	 VOR HAU ILS-Single Engine	 Full Stop-Brent Vetter CFI	1	1					0.5		0.5	0.5				0.5					
+27-Mar-09	PA-23-150	N1428P	HLN Local	1	Comm ME Practical Test Maneuvers	 ILS-SE	 OK for Flight Test-Brent Vetter CFI	1	3					0.3		1.2	1.2				1.2						
+28-Mar-09	PA-23-150	N1428P	HLN Local	1	Multi Commercial Checkride-Discontinue due to Weather-Robert VanMeter DPE		1								0.5				0.5								
+28-Mar-09	PA-23-150	N1428P	HLN Local	1	Commercial Pilot AMEL Practical Test- Satisfactory-Robert VanMeter DPE	1	2					0.3			1.1				1.1								
+15-May-09	C152	N46889	HIO Local	1	Spin Training for CFI-Ketawn Johnson CFI		1							1	1				1								
+26-May-09	PA-23-150	N1428P	HLN Local	1	Flight Instructor Instructions	 MCA-Slow Flight	 Power Off & Power On stalls	 Steep Turns	 Landings and Takeoff from right seat-Brent Vetter CFI		3							1	1				1				
+28-May-09	PA-23-150	N1428P	HLN Local	1	Right Seat PIC- Steep Turns	 Slow Flight	 MCA	 Power off & power on stalls	 VMC Demo	 Touch & Go's	 Short Field Landing & Takeoff	 Single Engine Go Around	 Crosswind Landing-Brent Vetter CFI		4							1	1				1
+29-May-09	PA-23-150	N1428P	HLN Local	1	Ground Ref	 Turns around a point	 S-Turns	 Touch & Goes	 Short Field Takeoff & Landings from right seat-Brent Vetter CFI		8							1	1				1				
+30-May-09	C172P	N73524	HLN Local	1	Touch & Goes for currency		2								0.3				0.3								
+13-Jun-09	M20	N2926M	HLN Local	1	South of Helena - HIA and Back										0.9				0.9								
+16-Jun-09	C172P	N73524	HLN Local	1	Chandelles	 Lazy 8s	 Gliding 1080 Spiral	 Pylon 8s	 Accuracy landings	 soft and short filed TO	 and landings; Brent Vetter CFI		3							1.1	1.1				1.1		
+26-Jun-09	PA-23-150	N1428P	HLN Local	1	Multi-Engine CFI Maneuvers	 Recommend for Practical Test; Brent Vetter CFI		2							0.7	0.7				0.7							

@@ -1,0 +1,31 @@
+Date	Plane	Route	Total	PIC	Solo	Sic	Dual Rec	Dual Given	Actual	Hood	App	Night	XC	Day Land	Night Land	Student	Instructor	First Officer	Captain	Flt Num	Remarks
+4/1/2009	N94286	LAF-LAF	0.3				0.3							3			Morgan Hall				
+4/2/2009	N94286	LAF-LAF	0.7				0.7							7			Morgan Hall				
+4/4/2009	N94286	LAF-LAF	1.2				1.2							6			Morgan Hall				
+4/9/2009	N6450B	LAF-LAF	1.3				1.3							6			Morgan Hall				
+4/16/2009	N94286	LAF-LAF	1.2				1.2							4			Morgan Hall				
+4/18/2009	N94286	LAF-MIE-LAF	2				2						2	2			Morgan Hall				"XC to Muncie, Indiana"
+4/22/2009	N94286	LAF-LAF	0.7				0.7							5			Morgan Hall				
+5/2/2009	N94286	LAF-LAF	1				1							6			Morgan Hall				Last flight at Purdue
+6/14/2009	N6362M	MGM-MGM	1.4				1.4							3			Jonathan Martel				"Flew to Moton Field (Tuskegee), low approach, RTB"
+6/16/2009	N6362M	MGM-BHM-MGM	2.2				2.2					2.2	2.2		4		Jonathan Martel				"Night XC to Birmingham, Al"
+7/27/2009	N936DA	PUB-CO80-PUB	1.4				1.4							6			"George ""Bonemass"" Warton"				IFS C101 Dollar Ride
+7/28/2009	N932DA	PUB-CO80-PUB	1.3				1.3							3			"George ""Bonemass"" Warton"				IFS C201
+7/30/2009	N926DA	PUB-CO90-PUB	1.4				1.4							6			"George ""Bonemass"" Warton"				IFS C202
+7/31/2009	N930DA	PUB-CO80-PUB	1.5				1.5							3			James Hartigan				IFS C203
+8/3/2009	N919DA	PUB-CO90-PUB	1.4				1.4							3			James Hartigan				IFS C301
+8/4/2009	N922DA	PUB-1V6-PUB	1.4				1.4							4			James Hartigan				IFS C302
+8/4/2009	N972DA	PUB-CO90-PUB	1.4				1.4							3			James Hartigan				IFS C303
+8/5/2009	N931DA	PUB-PUB	1.6				1.6							4			"George ""Bonemass"" Warton"				IFS C304
+8/6/2009	N959DA	PUB-FCS-PUB	1.4				1.4							5			Kenneth Coburn				IFS C305
+8/7/2009	N931DA	PUB-PUB	1.5				1.5							6			Kenneth Coburn				IFS C306
+8/10/2009	N974DA	PUB-CO90	1				1							5			James Hartigan				IFS C501
+8/10/2009	N974DA	CO90-CO90	0.3	0.3	0.3									3							"IFS C502, First Solo at Bullseye!"
+8/12/2009	N979DA	PUB-PUB	1.4				1.4							2			Andrew Shirk				IFS C601
+8/13/2009	N111DA	PUB-CO90-PUB	1.4	1.4										2			Theo Kalman				IFS 790
+8/14/2009	N111DA	PUB-PUB	0.6	0.6										2			Nathan Gary				"IFS 790(88), IFS Complete"
+11/18/2009	03-3706	DLF-DLF	0.9				0.9							1			Capt Sims				"C4001, UPT Dollar Ride!"
+11/19/2009	02-3672	DLF-T70-DLF	0.5				0.5							1			Lt Stewart				C4002
+11/20/2009	08-3924	DLF-DLF	1.2				1.2							1			Lt Stewart				C4002(2)
+11/24/2009	02-3671	DLF-DLF	1.1				1.1							1			Capt Ross				C4003
+11/25/2009	02-3656	DLF-T70-DLF	1.3				1.3							3			Capt Ross				C4004

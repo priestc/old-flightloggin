@@ -1,0 +1,1173 @@
+DATE	"AIRCRAFT MAKE & MODEL"	"AIRCRAFT IDENT"	ROUTE OF FLIGHT	FLIGHT TIME	ASEL	AMEL	HP	COMPLEX	Point to Point	Part 135	"LANDINGS DAY"	"LANDINGS NIGHT"	INSTRUMENT	"SIMULATED INSTRUMENT"	APPROACHES	NIGHT	SIMULATOR	"CROSS COUNTRY"	SOLO	"PILOT IN COMMAND"	"SECOND IN COMMAND"	DUAL RECEIVED	DUAL GIVEN	EVALUATOR	REMARKS
+8/5/2003	C172-LVL6	F8	PRC	0.3	0.3												0.3					0.3			Embry-Riddle Flight Expo
+8/5/2003	C172SP	N514ER	PGA - PRC	2	2				2									2				2			Embry-Riddle Flight Expo
+8/6/2003	C172SP	N533ER	SDL - IWA - PRC	1.5	1.5				1.5							1.5		1.5				1.5			Embry-Riddle Flight Expo
+8/8/2003	C172SP	N515ER	PRC - VGT	2	2				2									2				2			Embry-Riddle Flight Expo
+11/1/2004	PA28-161	N616MA	P08 - IWA	0.9	0.9				0.9		1											0.9			CFI - Cort Keithley
+11/3/2004	PA28-161	N616MA	IWA - A39	1.1	1.1				1.1		1											1.1			CFI - Cort Keithley
+11/8/2004	PA28-161	N616MA	P08 - IWA	0.7	0.7				0.7		1											0.7			CFI - Cort Keithley
+11/10/2004	PA28-161	N5361Z	IWA - P08	1.1	1.1				1.1		1											1.1			CFI - Cort Keithley
+11/17/2004	PA28-161	N240D	IWA - IWA	1.5	1.5						1											1.5			CFI - Cort Keithley
+11/24/2004	PA28-161	N616MA	IWA - IWA	1.3	1.3						9											1.3			CFI - Cort Keithley
+11/29/2004	PA28-161	N4185Q	CHD - IWA	1.3	1.3				1.3		4											1.3			CFI - Cort Keithley
+12/5/2004	PA28-161	N5319M	IWA - IWA	1.7	1.7						6											1.7			CFI - Cort Keithley
+12/12/2004	PA28-161	N5319M	IWA - IWA	1.7	1.7						5											1.7			CFI - Cort Keithley
+12/13/2004	PA28-161	N616MA	IWA - IWA	1.8	1.8						6											1.8			CFI - Cort Keithley
+12/15/2004	PA28-161	N616MA	IWA - P08 - IWA	1.3	1.3				1.3		4											1.3			CFI - Cort Keithley
+12/16/2004	PA28-161	N240D	IWA - CHD - IWA	1.6	1.6				1.6		6											1.6			CFI - Cort Keithley
+12/22/2004	PA28-161	N5361Z	IWA - FFZ - IWA	1.5	1.5				1.5		12											1.5			CFI - Cort Keithley
+12/27/2004	PA28-161	N4185Q	IWA - IWA	1.9	1.9						4											1.9			CFI - Cort Keithley
+1/10/2005	PA28-161	N5350J	IWA - P08 - IWA	1.4	1.4				1.4		4											1.4			CFI - Cort Keithley
+1/12/2005	PA28-161	N616MA	IWA - IWA	1.5	1.5						6											1.5			CFI - Cort Keithley
+1/17/2005	PA28-161	N5350J	IWA - IWA	1.4	1.4						4											1.4			CFI - Cort Keithley
+1/19/2005	PA28-161	N5319M	IWA - IWA	1.7	1.7						3											1.7			CFI - Craig Fuller - E13 Stage Check Complete
+1/23/2005	PA28-161	N5361Z	IWA - IWA	0.9	0.9						6											0.9			CFI - Cort Keithley
+1/24/2005	PA28-161	N616MA	IWA - IWA	0.4	0.4						3											0.4			CFI - Cort Keithley
+1/24/2005	PA28-161	N616MA	IWA - IWA	0.5	0.5						3								0.5	0.5					~~First Solo~~
+1/25/2005	PA28-161	N616MA	IWA - IWA	0.6	0.6						4											0.6			CFI - Cort Keithley
+1/25/2005	PA28-161	N616MA	IWA - IWA	0.5	0.5						3								0.5	0.5					Supervised Solo
+1/31/2005	PA28-161	N5319M	IWA - P19 - CHD - IWA	1.6	1.6				1.6		10			1.1								1.6			CFI - Cort Keithley
+2/7/2005	PA28-161	N5350J	IWA - IWA	1.4	1.4						3			1								1.4			CFI - Cort Keithley
+2/8/2005	PA28-161	N616MA	IWA - IWA	1.2	1.2						9								1.2	1.2					Traffic Pattern Solo
+2/9/2005	PA28-161	N5361Z	IWA - IWA	1.4	1.4						3								1.4	1.4					Practice Area Solo
+2/14/2005	PA28-161	N4185Q	IWA - CHD	1.2	1.2				1.2		1			0.9								1.2			CFI - Cort Keithley
+2/15/2005	PA28-161	N5361Z	IWA - IWA	1.2	1.2						1								1.2	1.2					Practice Area Solo
+2/26/2005	PA28-161	N240D	IWA - PAN - IWA	1.9	1.9				1.9		2							1.9				1.9			CFI - Cort Keithley
+2/28/2005	PA28-161	N5350J	IWA - TUS - IWA	2.4	2.4				2.4			10				2.4		2.4				2.4			CFI - Cort Keithley
+3/7/2005	PA28-161	N2950H	IWA - FFZ - SDL - DVT - IWA	1.6	1.6				1.6		7											1.6			CFI - Cort Keithley
+3/8/2005	PA28-161	N5361Z	IWA - E63 - IWA	1.7	1.7				1.7		2							1.7				1.7			CFI - Cort Keithley
+3/10/2005	PA28-161	N5319M	IWA - RYN - IWA	1.9	1.9				1.9		2							1.9				1.9			CFI - Leigh Shideler - E29 Stage Check Incomplete
+3/17/2005	PA28-161	N5350J	IWA - IWA	1.6	1.6						6											1.6			CFI - Carey Fulce
+3/18/2005	PA28-161	N47717	IWA - IWA	1	1						4											1			CFI - Leigh Shideler - E29 Stage Check Complete
+3/21/2005	PA28-161	N4185Q	IWA - E63 - IWA	1.6	1.6				1.6		2							1.6	1.6	1.6					Solo Cross Country
+3/28/2005	PA28-161	N5361Z	IWA - FFZ - IWA	1.2	1.2				1.2			8				1.2						1.2			CFI - Cort Keithley
+4/2/2005	PA28-161	N5350J	IWA - SAD - P08 - IWA	3	3				3		3							3	3	3					Long PVT Solo Cross Country
+4/4/2005	PA28-161	N5350J	IWA - P08 - IWA	1.1	1.1				1.1		2											1.1			CFI - Cort Keithley
+4/10/2005	PA28-161	N5350J	IWA - IWA	1.5	1.5						3											1.5			CFI - Tammy DeMik
+4/11/2005	PA28-161	N2950H	IWA - MZJ - IWA	1.3	1.3				1.3		2							1.3	1.3	1.3					Solo Cross Country
+4/16/2005	PA28-161	N240D	IWA - IWA	1.6	1.6						5			0.2								1.6			CFI - Bill Serventi
+4/19/2005	PA28-161	N616MA	IWA - P08 - IWA	1.3	1.3				1.3		4											1.3			CFI - Laura George - E36 Stage Check Incomplete
+4/21/2005	PA28-161	N4185Q	IWA - IWA	1.6	1.6						5											1.6			CFI - Bill Serventi
+4/25/2005	PA28-161	N5361Z	IWA - IWA	1.2	1.2						3			0.1								1.2			CFI - Laura George - E36 Stage Check Complete
+4/28/2005	PA28-161	N5361Z	IWA - IWA	0.9	0.9						5											0.9			CFI - Bill Serventi
+4/29/2005	PA28-161	N5319M	IWA - IWA	1.4	1.4						2			0.2						1.4					Private Pilot ASEL Check Ride - DE Michelle Brown
+5/1/2005	PA28-181	N141AV	FFZ - FFZ	1	1						3									1		1			Warrior Check Out - Falcon Executive Aviation
+5/4/2005	PA28-161	N4185Q	IWA - IWA	0.9	0.9						1									0.9		0.9			CFI - Bill Serventi
+5/5/2005	PA28-161	N4185Q	IWA - IWA	1.2	1.2						3									1.2		1.2			CFI - Bill Serventi
+5/7/2005	PA28-161	N8082K	FFZ - CHD - FFZ	1	1				1		2									1					Took Dad Flying
+5/8/2005	PA28-161	N5350J	IWA - IWA	1.9	1.9						7								1.9	1.9					Practice Area Solo
+5/11/2005	PA28-161	N47717	IWA - IWA	1.1	1.1						1									1.1		1.1			CFI - Bill Serventi
+5/12/2005	PA28-161	N240D	IWA - FLG - IWA	3.4	3.4				3.4		2							3.4		3.4		3.4			CFI - Bill Serventi
+5/15/2005	PA28-161	N616MA	IWA - ABQ - SOW - FFZ - IWA	6.7	6.7				6.7		4							6.7	6.7	6.7					Solo Cross Country
+5/23/2005	PA28-161	N5319M	IWA - YUM - IWA	3.7	3.7				3.7			2				3.7		3.7		3.7		3.7			CFI - Bill Serventi
+5/28/2005	PA28-161	N5319M	IWA - IWA	1.2	1.2						4								1.2	1.2					Practice Area Solo
+5/31/2005	PA28-161	N616MA	IWA - IWA	1.2	1.2						4								1.2	1.2					Practice Area Solo
+6/5/2005	Frasca	141	ASU EAST														1.3								CFI - Stephen Schoenleber
+6/7/2005	Frasca	141	ASU EAST														1.3								CFI - Stephen Schoenleber
+6/12/2005	PA28-161	N5350J	IWA - YUM - IWA	3.6	3.6				3.6		2							3.6	3.6	3.6					Solo Cross Country
+6/14/2005	PA28-161	N5350J	IWA - PSP - IWA	5.3	5.3				5.3		2							5.3	5.3	5.3					Solo Cross Country
+6/17/2005	PA28-161	N5319M	IWA - IWA	1.5	1.5							12				1.5			1.5	1.5					Night Traffic Pattern Solo
+6/19/2005	PA28-161	N5350J	IWA - BLH - E63 -  IWA	4.6	4.6				4.6		12							4.6	4.6	4.6					Solo Cross Country
+6/20/2005	PA28-161	N2950H	IWA - IWA	1.2	1.2							11				1.2			1.2	1.2					Night Traffic Pattern Solo
+6/21/2005	PA28-161	N5350J	IWA - P08 - IWA	1.1	1.1				1.1		5								1.1	1.1					Practice Area Solo
+6/25/2005	PA28-161	N4185Q	IWA - TUS - IWA	2.1	2.1				2.1		4							2.1	2.1	2.1					Solo Cross Country
+6/26/2005	Frasca	141	ASU EAST														1.3								CFI - Stephen Schoenleber
+6/28/2005	PA28-161	N5350J	IWA - HII - IWA	5.2	5.2				5.2		6							5.2	5.2	5.2					Solo Cross Country
+7/8/2005	PA28-161	N616MA	IWA - IWA	1.5	1.5							15				1.5			1.5	1.5					Night Traffic Pattern Solo
+7/10/2005	PA28-161	N5350J	IWA - IWA	1.5	1.5						5									1.5		1.5			CFI - Stephen Schoenleber
+7/11/2005	PA28-161	N4185Q	IWA - IWA	1.6	1.6						5								1.6	1.6					Practice Area Solo
+7/12/2005	Frasca	141	ASU EAST														1.1								CFI - Stephen Schoenleber
+7/15/2005	PA28-161	N2950H	IWA - IWA	1.4	1.4							14				1.4			1.4	1.4					Night Traffic Pattern Solo
+7/16/2005	PA28-161	N2950H	IWA - IWA	1	1						9								1	1					Traffic Pattern Solo
+7/19/2005	PA28-161	N5350J	IWA - IWA	1.4	1.4						5									1.4		1.4			CFI - Stephen Schoenleber
+7/29/2005	PA28-181	N98KW	FFZ - PAN - FFZ	1.7	1.7				1.7		2							1.7		1.7					Took Amanda Flying
+8/6/2005	PA28-161	N5361Z	IWA - IWA	1.4	1.4							12				1.4				1.4		1.4			CFI - Scott Gaertner
+8/13/2005	PA28-161	N5361Z	IWA - IWA	1.8	1.8						5			0.5						1.8		1.8			CFI - Scott Gaertner
+8/17/2005	PA28-161	N5350J	IWA - IWA	1.2	1.2						1									1.2		1.2			CFI - Laura George - E30 Stage Check Complete
+8/18/2005	BE-A36	N8256H	IWA - IWA	1.4	1.4		1.4	1.4			5											1.4			CFI - Scott Gaertner
+8/20/2005	BE-A36	N8256H	IWA - IWA	1.9	1.9		1.9	1.9			9											1.9			CFI - Scott Gaertner
+8/21/2005	BE-A36	N8256H	IWA - IWA	2.3	2.3		2.3	2.3			6											2.3			CFI - Scott Gaertner
+8/27/2005	PA28-181	N141AV	FFZ - PAN - FFZ	1.7	1.7				1.7		2							1.7		1.7					Took Matt and Shawn Flying
+8/27/2005	BE-A36	N8183E	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5		5											1.5			CFI - Scott Gaertner
+9/3/2005	BE-A36	N8256H	IWA - IWA	1.6	1.6		1.6	1.6			3											1.6			CFI - Scott Gaertner
+9/11/2005	BE-A36	N9067E	IWA - IWA	1.5	1.5		1.5	1.5			3											1.5			CFI - Scott Gaertner
+9/12/2005	BE-A36	N9067E	IWA - IWA	1.5	1.5		1.5	1.5			2											1.5			CFI - Craig Fuller - E36 Stage Check Incomplete
+9/18/2005	BE-A36	N9067E	IWA - IWA	1.2	1.2		1.2	1.2			1											1.2			CFI - Scott Gaertner
+9/20/2005	BE-A36	N8256H	IWA - IWA	1	1		1	1			1											1			CFI - Laura George - E36 Stage Check Complete
+9/24/2005	Frasca	141	ASU EAST														2								CFI - Scott Gaertner
+9/25/2005	Frasca	141	ASU EAST												1		2								CFI - Scott Gaertner
+10/1/2005	Frasca	141	ASU EAST														2								CFI - Scott Gaertner
+10/2/2005	Frasca	141	ASU EAST														2								CFI - Scott Gaertner
+10/4/2005	BE-A36	N8074P	IWA - IWA	2.1	2.1		2.1	2.1				1		1.6		2.1				2.1		2.1			CFI - Michelle Kraus
+10/9/2005	Frasca	141	ASU EAST												2		2								CFI - Scott Gaertner
+10/16/2005	BE-A36	N9067E	IWA - TVL - 61B - IWA	8.6	8.6		8.6	8.6	8.6		2	1				0.5		8.6		8.6		8.6			CFI - Scott Gaertner
+10/18/2005	BE-A36	N8183E	IWA - CGZ - IWA	1.9	1.9		1.9	1.9	1.9			2		1.5	2	1.9				1.9		1.9			CFI - Scott Gaertner
+10/22/2005	Frasca	141	ASU EAST														2								CFI - Scott Gaertner
+10/23/2005	Frasca	141	ASU EAST														2								CFI - Scott Gaertner
+10/25/2005	BE-A36	N94JV	IWA - CHD - IWA	1.2	1.2		1.2	1.2	1.2			3		0.7	3	1.2				1.2		1.2			CFI - Scott Gaertner
+10/29/2005	Frasca	141	ASU EAST														1.5								CFI - Nick Prater
+10/30/2005	Frasca	141	ASU EAST												2		2.1								CFI - Lauren Furlong
+11/5/2005	Frasca	141	ASU EAST												2		1.5								CFI - Scott Gaertner
+11/6/2005	Frasca	141	ASU EAST														1								CFI - Scott Gaertner
+11/15/2005	BE-A36	N8183E	IWA - IWA	0.5	0.5		0.5	0.5			1									0.5		0.5			CFI - Scott Gaertner
+11/16/2005	Frasca	141	ASU EAST														1								CFI - Casey Peasley - E49 Stage Check Complete
+11/18/2005	PA28-161	N2950H	IWA - CHD	0.5	0.5				0.5		1								0.5	0.5					Ferry Over to CHD
+11/19/2005	Frasca	141	ASU EAST														2								CFI - Scott Gaertner
+11/23/2005	Frasca	141	ASU EAST														2								CFI - Scott Gaertner
+11/26/2005	Frasca	141	ASU EAST												2		2								CFI - Scott Gaertner
+11/26/2005	BE-A36	N94JV	IWA - IWA	1.2	1.2		1.2	1.2			2			0.8	3					1.2		1.2			CFI - Scott Gaertner
+11/27/2005	Frasca	141	ASU EAST												3		2.1								CFI - Scott Gaertner
+11/27/2005	PA28-161	N5350J	IWA - IWA	0.6	0.6						1								0.6	0.6					Test Out Stall Warning Horn
+12/3/2005	BE-A36	N7206J	IWA - CHD - IWA	1.6	1.6		1.6	1.6	1.6		2			1	3					1.6		1.6			CFI - Scott Gaertner
+12/3/2005	Frasca	141	ASU EAST												3		1.5								CFI - Scott Gaertner
+12/4/2005	BE-A36	N9067E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6		2			0.7	2					1.6		1.6			CFI - Scott Gaertner
+12/7/2005	Frasca	141	ASU EAST												2		2								CFI - Scott Gaertner
+12/10/2005	Frasca	141	ASU EAST												2		1.7								CFI - Scott Gaertner
+12/12/2005	Frasca	141	ASU EAST												1		1.5								CFI - Scott Gaertner
+12/14/2005	Frasca	141	ASU EAST												2		2.3								CFI - Scott Gaertner
+12/15/2005	BE-A36	N7206J	IWA - FLG - IWA	3	3		3	3	3			2		2.2	2	3		3		3		3			CFI - Scott Gaertner
+12/20/2005	BE-A36	N8256H	IWA - CGZ - CHD - IWA	1.7	1.7		1.7	1.7	1.7		3			1	4					1.7		1.7			CFI - Scott Gaertner
+12/22/2005	BE-A36	N9067E	IWA - IWA	1.6	1.6		1.6	1.6			1			1.1	3					1.6		1.6			CFI - Scott Gaertner
+12/22/2005	Frasca	141	ASU EAST														1.5								CFI - Scott Gaertner
+12/26/2005	Frasca	141	ASU EAST														1.6								CFI - Carey Fulce
+1/2/2006	Frasca	141	ASU EAST														1.6								CFI - Carey Fulce
+1/5/2006	Frasca	141	ASU EAST												3		1								CFI - Scott Gaertner
+1/5/2006	BE-A36	N9067E	IWA - IWA	1.4	1.4		1.4	1.4			1			0.9	2					1.4		1.4			CFI - Scott Gaertner
+1/11/2006	BE-A36	N8256H	IWA - IWA	1.9	1.9		1.9	1.9			1			1.5	4					1.9		1.9			CFI - Scott Gaertner
+1/14/2006	BE-A36	N9067E	IWA - IWA	1.6	1.6		1.6	1.6			1			1.2	3					1.6		1.6			CFI - Scott Gaertner
+1/15/2006	Frasca	141	ASU EAST														1.6								CFI - Scott Gaertner
+1/15/2006	BE-A36	N9067E	IWA - IWA	1.2	1.2		1.2	1.2			1			0.8	3					1.2		1.2			CFI - Scott Gaertner
+1/16/2006	BE-A36	N9067E	IWA - IWA	1.3	1.3		1.3	1.3			2			0.9	3					1.3		1.3			CFI - Scott Gaertner
+1/17/2006	BE-A36	N8256H	IWA - IWA	1.3	1.3		1.3	1.3			1			0.8	2					1.3		1.3			CFI - Scott Gaertner
+1/19/2006	BE-A36	N9067E	IWA - CHD - IWA	1.8	1.8		1.8	1.8	1.8		2			1.2	3					1.8		1.8			CFI - Scott Gaertner
+1/26/2006	BE-A36	N7206J	IWA - GCN - IWA	3.2	3.2		3.2	3.2	3.2		2			2.5	2			3.2		3.2		3.2			CFI - Scott Gaertner
+1/26/2006	BE-A36	N9067E	IWA - CRQ - SAN - IWA	5.9	5.9		5.9	5.9	5.9		2	1		4.5	3	0.9		5.9		5.9		5.9			CFI - Scott Gaertner
+2/2/2006	BE-A36	N9067E	IWA - IWA	1.4	1.4		1.4	1.4			1			1.1	3					1.4		1.4			CFI - Michelle Kraus
+2/7/2006	BE-A36	N94JV	IWA - IWA	1.7	1.7		1.7	1.7			1			1.2	3					1.7		1.7			CFI - Scott Gaertner
+2/9/2006	BE-A36	N94JV	IWA - IWA	1.2	1.2		1.2	1.2			2			0.7	3					1.2		1.2			CFI - Scott Gaertner
+2/14/2006	BE-A36	N94JV	IWA - IWA	1.2	1.2		1.2	1.2			1			0.7	2					1.2		1.2			CFI - Scott Gaertner
+2/15/2006	BE-A36	N9067E	IWA - IWA	1.4	1.4		1.4	1.4			1			0.7	2					1.4		1.4			CFI - Scott Gaertner
+2/16/2006	BE-A36	N8256H	IWA - IWA	1.4	1.4		1.4	1.4			1			1	2					1.4		1.4			CFI - Scott Gaertner
+2/17/2006	PA28-161	N4185Q	PRC - IWA	1.4	1.4				1.4		1							1.4		1.4					Cross Country to PRC with Brandon
+2/19/2006	Frasca	141	ASU EAST														1.2								CFI - Scott Gaertner
+2/21/2006	BE-A36	N8256H	IWA - CHD - P08 - IWA	1.6	1.6		1.6	1.6	1.6		3			1	3					1.6		1.6			CFI - Scott Gaertner
+2/23/2006	BE-A36	N9067E	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4		2			0.7	3					1.4		1.4			CFI - Scott Gaertner
+3/3/2006	BE-A36	N9067E	IWA - TUS - IWA	2.3	2.3		2.3	2.3	2.3		2			1.9	3			2.3		2.3		2.3			CFI - Paul Burns - E20 Stage Check Complete
+3/8/2006	BE-A36	N9067E	IWA - CGZ - CHD - IWA	1.5	1.5		1.5	1.5	1.5			3		0.8	3	1.5				1.5		1.5			CFI - Scott Gaertner
+3/9/2006	BE-A36	N9067E	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3		2			0.9	3					1.3					Instrument Rating Airplane Check Ride - DE Michelle Brown
+3/16/2006	BE-A36	N9067E	IWA - IWA	1.6	1.6		1.6	1.6			3									1.6		1.6			CFI - Scott Gaertner
+3/16/2006	BE-A36	N9067E	IWA - IWA	0.9	0.9		0.9	0.9			10									0.9		0.9			CFI - Scott Gaertner
+3/17/2006	BE-A36	N9067E	IWA - E25 - IWA	1.7	1.7		1.7	1.7	1.7		4							1.7		1.7		1.7			CFI - Scott Gaertner
+3/18/2006	BE-A36	N9067E	IWA - IWA	1.4	1.4		1.4	1.4			6									1.4		1.4			CFI - Scott Gaertner
+3/21/2006	BE-A36	N7206J	IWA - IWA	1.1	1.1		1.1	1.1			2									1.1		1.1			CFI - Scott Gaertner
+3/23/2006	BE-A36	N9067E	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5		7									1.5		1.5			CFI - Scott Gaertner
+3/28/2006	BE-A36	N4151Q	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5		4									1.5		1.5			CFI - Scott Gaertner
+3/30/2006	BE-A36	N4151Q	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		7									1.6		1.6			CFI - Scott Gaertner
+4/4/2006	BE-A36	N94JV	IWA - IWA	0.9	0.9		0.9	0.9			6									0.9		0.9			CFI - Scott Gaertner
+4/6/2006	PA28-161	N2950H	CHD - IWA	0.4	0.4				0.4		1								0.4	0.4					Ferry Plane Back
+4/8/2006	BE-A36	N94JV	IWA - IWA	1.4	1.4		1.4	1.4			3									1.4		1.4			CFI - Ryan Cherico - E58 Stage Check Complete
+4/11/2006	BE-A36	N94JV	IWA - A39 - IWA	1.2	1.2		1.2	1.2	1.2		9									1.2		1.2			CFI - Scott Gaertner
+4/13/2006	BE-A36	N94JV	IWA - A39 - IWA	1.5	1.5		1.5	1.5	1.5		4									1.5					Commercial Pilot ASEL Check Ride - DE Steve Vaught
+4/15/2006	BE-A36	N8256H	CHD - IWA	0.4	0.4		0.4	0.4	0.4		1								0.4	0.4					Ferry Plane Back
+4/20/2006	PA28-161	N4185Q	IWA - IWA	1.3	1.3						4									1.3		1.3			CFI - Brooke David
+4/27/2006	PA28-161	N616MA	IWA - CHD - IWA	1.4	1.4				1.4		2									1.4		1.4			CFI - Brooke David
+5/4/2006	PA28-161	N2385V	IWA - CHD - IWA	2.5	2.5				2.5		12									2.5		2.5			CFI - Brooke David
+5/9/2006	PA28-151	N32779	IWA - CHD - IWA	1.4	1.4				1.4		4									1.4		1.4			CFI - Brooke David
+5/13/2006	BE-A36	N7206J	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5		5									1.5		1.5			CFI - Brooke David
+5/17/2006	BE-A36	N9067E	IWA - CHD	0.3	0.3		0.3	0.3	0.3		1								0.3	0.3					Ferry to CHD
+5/17/2006	BE-A36	N8256H	CHD - IWA	1.4	1.4		1.4	1.4	1.4		4									1.4		1.4			CFI - Brooke David
+5/17/2006	BE-A36	N8256H	IWA - CHD	0.3	0.3		0.3	0.3	0.3		1								0.3	0.3					Ferry to CHD
+5/18/2006	BE-A36	N8256H	CHD - IWA	0.5	0.5		0.5	0.5	0.5		1								0.5	0.5					Ferry Plane Back
+5/19/2006	BE-A36	N8256H	IWA - IWA	1.4	1.4		1.4	1.4			10									1.4		1.4			CFI - Brooke David
+5/20/2006	BE-A36	N7206J	IWA - A39 - IWA	1.4	1.4		1.4	1.4	1.4		7									1.4		1.4			CFI - Brooke David
+5/20/2006	PA28-161	N4185Q	IWA - CHD	0.4	0.4				0.4		1								0.4	0.4					Ferry Plane to CHD
+5/20/2006	BE-A36	N9067E	CHD - IWA	0.3	0.3		0.3	0.3	0.3		1								0.3	0.3					Ferry Plane Back
+5/23/2006	BE-A36	N9067E	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7		6									1.7		1.7			CFI - Brooke David
+5/24/2006	BE-A36	N9067E	IWA - A39 - CGZ - IWA	1.5	1.5		1.5	1.5	1.5		9									1.5		1.5			CFI - Brooke David
+5/27/2006	BE-A36	N94JV	IWA - A39 - CGZ - IWA	1.5	1.5		1.5	1.5	1.5		8									1.5		1.5			CFI - Brooke David
+5/30/2006	BE-A36	N94JV	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3		4									1.3		1.3			CFI - Brooke David
+6/3/2006	BE-A36	N8256H	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5		6									1.5		1.5			CFI - Brooke David
+6/6/2006	BE-A36	N94JV	IWA - A39 - CGZ - IWA	1.8	1.8		1.8	1.8	1.8		9									1.8		1.8			CFI - Brooke David
+6/10/2006	Extra-300L	N161FC	IWA - IWA	0.8	0.8		0.8				1									0.7		0.8			CFI - Sam Darghous
+6/13/2006	BE-A36	N9067E	IWA - A39 - CGZ - IWA	1.5	1.5		1.5	1.5	1.5		4									1.5		1.5			CFI - James Berry - EOC Complete
+6/20/2006	BE-A36	N94JV	IWA - BXK - GYR - CHD - IWA	1.6	1.6		1.6	1.6	1.6		6							1.6		1.6		1.6			CFI - Brooke David
+6/23/2006	BE-A36	N94JV	IWA - CHD	0.4	0.4		0.4	0.4	0.4		1								0.4	0.4					Ferry Plane to CHD
+6/23/2006	PA28-161	N616MA	CHD - IWA	0.3	0.3				0.3		1								0.3	0.3					Ferry Plane Back
+6/23/2006	PA28-161	N2385V	IWA - CHD	0.5	0.5				0.5		1								0.5	0.5					Ferry Plane to CHD
+6/27/2006	BE-A36	N9067E	IWA - BXK - CHD - IWA	1.6	1.6		1.6	1.6	1.6		8							1.6		1.6		1.6			CFI - Brooke David
+6/30/2006	BE-A36	N9067E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6		5									1.6		1.6			CFI - Brooke David
+7/2/2006	BE-A36	N9067E	GYR - BXK - GYR	2	2		2	2	2		4									2					Initial CFI ASE Check Ride - DE Bruni Bradely
+7/2/2006	BE-A36	N9067E	IWA - GYR	0.5	0.5		0.5	0.5	0.5		1								0.5	0.5					Going to Check Ride
+7/2/2006	BE-A36	N9067E	GYR - CHD - IWA	0.7	0.7		0.7	0.7	0.7		2								0.7	0.7					Coming Back from Check Ride
+7/11/2006	PA28-161	N5319M	IWA - CGZ - CHD	1.3	1.3				1.3		2				2					1.3		1.3			CFI - Brooke David
+7/11/2006	PA28-161	N5319M	CHD - IWA	0.3	0.3				0.3		1								0.3	0.3					Ferry Plane Back
+7/12/2006	PA28-161	N5350J	IWA - CGZ - IWA	1.6	1.6				1.6		2			1.4	2					1.6		1.6			CFI - Brooke David
+7/14/2006	PA28-161	N616MA	IWA - CGZ - IWA	1.5	1.5				1.5		3			1.2	3					1.5		1.5			CFI - Brooke David
+7/15/2006	PA28-161	N5361Z	IWA - CGZ - IWA	1.7	1.7				1.7		2			1.2	3					1.7		1.7			CFI - Brooke David
+7/18/2006	PA28-161	N5350J	IWA - CGZ - IWA	1.5	1.5				1.5		3			1	3					1.5		1.5			CFI - Brooke David
+7/21/2006	PA28-161	N5319M	IWA - CGZ - IWA	1.7	1.7				1.7		2			1	3					1.7		1.7			CFI - Brooke David
+7/22/2006	PA28-161	N5319M	IWA - P08 - IWA	1.4	1.4				1.4		2			0.4	2					1.4		1.4			CFI - Brooke David
+7/25/2006	PA28-161	N616MA	IWA - CGZ - IWA	1.6	1.6				1.6		2			0.2						1.6		1.6			CFI - Chad Williams
+7/26/2006	PA28-161	N950DA	IWA - CGZ - IWA	1.6	1.6				1.6		1			0.4	1					1.6		1.6			CFI - Chad Williams
+7/27/2006	BE-A36	N7206J	IWA - TUS - CGZ - IWA	2.1	2.1		2.1	2.1	2.1		3		1		2			2.1		2.1		2.1			CFI - Chad Williams
+8/1/2006	PA28-161	N5350J	IWA - CGZ - IWA	1.6	1.6				1.6		2			0.5	1					1.6		1.6			CFI - Brooke David
+8/5/2006	PA28-161	N5350J	IWA - CGZ - IWA	1.7	1.7				1.7		2			0.1						1.7		1.7			CFI - Brooke David
+8/8/2006	PA28-161	N5350J	IWA - CHD - IWA	1.6	1.6				1.6		2			1.2	3					1.6		1.6			CFI - Brooke David
+8/15/2006	PA28-161	N5361Z	IWA - CGZ - IWA	1.8	1.8				1.8		2			1	2					1.8		1.8			CFI - Brooke David
+8/16/2006	PA28-161	N5361Z	IWA - CGZ - IWA	1.7	1.7				1.7		2			1.3	1					1.7					CFII Check Ride - DE James Berry
+8/22/2006	BE58	N3149P	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5		4											1.5			CFI - Brooke David
+8/24/2006	BE58	N3149P	IWA - CGZ - IWA	1.8		1.8	1.8	1.8	1.8		6											1.8			CFI - Brooke David
+8/29/2006	BE58	N3149P	IWA - CGZ - IWA	1.8		1.8	1.8	1.8	1.8		5				1							1.8			CFI - Brooke David
+8/31/2006	BE58	N3149P	IWA - IWA	1.3		1.3	1.3	1.3			10											1.3			CFI - Brooke David
+9/1/2006	BE58	N3149P	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7		2			0.3	1							1.7			CFI - Brooke David
+9/7/2006	BE58	N3149P	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7		5			0.4	1							1.7			CFI - Brooke David
+9/14/2006	BE58	N3149P	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5		2			1	3							1.5			CFI - Brooke David
+9/16/2006	BE58	N3149P	IWA - CHD	1.2		1.2	1.2	1.2	1.2		1			1	3							1.2			CFI - Brooke David
+9/16/2006	BE-A36	N4151Q	CHD - IWA	0.3	0.3		0.3	0.3	0.3		1								0.3	0.3					Ferry Plane Back
+9/21/2006	BE58	N3149P	IWA - P08 - IWA	1.7		1.7	1.7	1.7	1.7		6			0.6	2							1.7			CFI - Brooke David
+9/27/2006	PA28-161	N5361Z	IWA - CHD	1.4	1.4				1.4		4									1.4		1.4			141 Check Out Flight - CFI - James Berry
+9/27/2006	PA28-161	N5350J	CHD - IWA	0.4	0.4				0.4		1								0.4	0.4					Ferry Plane Back
+9/30/2006	PA28-161	N47717	IWA - CGZ - IWA	1.5	1.5				1.5		2									1.5			1.5		DG - Zach Corocoran
+10/1/2006	PA28-161	N2950H	IWA - CGZ - IWA	1.6	1.6				1.6		2									1.6			1.6		DG - Dustin Hardcastle
+10/1/2006	PA28-161	N950DA	IWA - CGZ - IWA	1.4	1.4				1.4		2									1.4			1.4		DG - Josh Fitzpatrick
+10/5/2006	BE58	N3149P	IWA - CGZ - IWA	2		2	2	2	2		6			0.3	1							2			CFI - Brooke David
+10/6/2006	PA28-161	N240D	IWA - IWA	1.1	1.1						3									1.1			1.1		DG - Anthony Vieweg
+10/6/2006	PA28-161	N47717	IWA - CHD - IWA	1.4	1.4				1.4		3									1.4			1.4		DG - Anthony Roland
+10/7/2006	PA28-161	N47717	IWA - CGZ - CHD - IWA	1.6	1.6				1.6		2									1.6			1.6		DG - Zach Corcoran
+10/7/2006	PA28-161	N616MA	IWA - CGZ - IWA	1.6	1.6				1.6		3									1.6			1.6		DG - Cameron Haven
+10/7/2006	PA28-161	N47717	IWA - CGZ - IWA	1.4	1.4				1.4		1									1.4			1.4		DG - Chris Halter
+10/8/2006	PA28-161	N5361Z	IWA - CGZ - IWA	1.1	1.1				1.1		2									1.1			1.1		DG - Chris Halter
+10/8/2006	PA28-161	N5361Z	IWA - CGZ - IWA	1.5	1.5				1.5		2									1.5			1.5		DG - Zach Corcoran
+10/8/2006	PA28-151	N32779	IWA - IWA	1.1	1.1						1									1.1			1.1		DG - Andrew Fabrigas
+10/9/2006	PA28-161	N2950H	IWA - CGZ - IWA	1.5	1.5				1.5		2									1.5			1.5		DG - Anthony Vieweg
+10/9/2006	PA28-161	N2385V	IWA - CGZ - IWA	1.6	1.6				1.6		2									1.6			1.6		DG - Casey Coleman
+10/10/2006	BE58	N3149P	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5		2			0.5	1							1.5			CFI - Brooke David
+10/11/2006	BE58	N3149P	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7		6			0.5	1							1.7			CFI - Joe DiNapoli - EOC Complete
+10/13/2006	PA28-161	N5361Z	IWA - CGZ - IWA	1.7	1.7				1.7		2									1.7			1.7		DG - Anthony Vieweg
+10/13/2006	PA28-161	N2950H	IWA - CHD	0.4	0.4				0.4		1								0.4	0.4					Ferry Plane to CHD
+10/13/2006	PA28-161	N5350J	IWA - CGZ - IWA	1.6	1.6				1.6		2									1.6			1.6		DG - Zach Corcoran
+10/14/2006	PA28-161	N950DA	IWA - IWA	1	1						3									1			1		DG - Anthony Vieweg
+10/14/2006	PA28-161	N240D	IWA - CGZ - IWA	1.4	1.4				1.4		2									1.4			1.4		DG - Zach Corcoran
+10/15/2006	PA28-161	N950DA	IWA - CHD - IWA	1.3	1.3				1.3		2									1.3			1.3		DG - Zach Corcoran
+10/17/2006	BE58	N3149P	IWA - CGZ - IWA	1.6		1.6	1.6	1.6	1.6		2			0.6	2							1.6			CFI - Brooke David
+10/18/2006	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5			3			0.4	1					1.5					Commercial Pilot AMEL Check Ride - DE James Berry
+10/20/2006	PA28-161	N240D	IWA - IWA	1.5	1.5						3									1.5			1.5		DG - Anthony Vieweg
+10/20/2006	PA28-161	N2950H	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Zach Corcoran
+10/21/2006	PA28-161	N240D	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Zach Corcoran
+10/22/2006	C172SP	N390FA	CHD - A39 - CHD	1.4	1.4				1.4		5									1.4		1.4			172 Check Out Flight
+10/27/2006	PA28-161	N2950H	IWA - IWA	1.4	1.4						1									1.4			1.4		DG - Anthony Vieweg
+10/27/2006	PA28-161	N2950H	IWA - P08 - IWA	1.7	1.7				1.7		3									1.7			1.7		DG - Zach Corcoran
+10/28/2006	PA28-161	N4185Q	IWA - IWA	1.7	1.7						1									1.7			1.7		DG - Anthony Vieweg
+10/28/2006	PA28-161	N616MA	IWA - IWA	1.8	1.8						1									1.8			1.8		DG - Zach Corcoran
+10/29/2006	C172SP	N65453	CHD - CHD	1.7	1.7						1									1.7					Took Dad Flying
+11/2/2006	C172SP	N390FA	CHD - PAN - CHD	2	2				2		2							2		2					Took Kiley Flying
+11/3/2006	PA28-161	N240D	IWA - IWA	1.5	1.5						2									1.5			1.5		DG - Zach Corcoran
+11/4/2006	PA28-161	N5319M	IWA - IWA	0.7	0.7						1									0.7			0.7		DG - Anthony Vieweg
+11/4/2006	PA28-151	N32779	IWA - IWA	1.4	1.4						1									1.4			1.4		DG - Zach Corcoran
+11/4/2006	PA28-161	N616MA	IWA - IWA	1.7	1.7						2									1.7			1.7		DG - Andrew Fabrigas
+11/7/2006	PA28-161	N2385V	IWA - IWA	1.7	1.7						1									1.7			1.7		DG - Zach Corcoran
+11/8/2006	PA28-161	N240D	IWA - IWA	0.7	0.7						2									0.7			0.7		DG - Anthony Vieweg
+11/13/2006	PA28-161	N616MA	IWA - IWA	0.9	0.9						4									0.9			0.9		DG - Chris Stocking
+11/17/2006	PA28-161	N616MA	IWA - IWA	1.6	1.6						2									1.6			1.6		DG - Anthony Vieweg
+11/17/2006	PA28-161	N240D	IWA - IWA	1.9	1.9						1									1.9			1.9		DG - Zach Corcoran
+11/18/2006	PA28-161	N240D	IWA - IWA	1.7	1.7						1									1.7			1.7		DG - Anthony Vieweg
+11/18/2006	PA28-151	N32779	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Chris Stocking
+11/20/2006	PA28-161	N2385V	IWA - IWA	1.5	1.5						2									1.5			1.5		DG - Chris Stocking
+11/22/2006	PA28-161	N47717	IWA - IWA	1.6	1.6						1									1.6			1.6		DG - Anthony Vieweg
+11/24/2006	PA28-161	N4185Q	IWA - IWA	0.6	0.6						2									0.6			0.6		DG - Zach Corcoran
+11/26/2006	PA28-161	N47717	IWA - IWA	0.6	0.6						1									0.6			0.6		DG - Zach Corcoran
+11/27/2006	PA28-161	N5319M	IWA - IWA	1.2	1.2						2									1.2			1.2		DG - Chris Stocking
+12/1/2006	PA28-151	N32779	IWA - IWA	1.7	1.7						1									1.7			1.7		DG - Zach Corcoran
+12/1/2006	PA28-161	N2950H	IWA - IWA	1.4	1.4						1									1.4			1.4		DG - Chris Stocking
+12/2/2006	PA28-161	N5319M	IWA - PAN - IWA	1.8	1.8				1.8									1.8		1.8			1.8		DG - Anthony Vieweg
+12/3/2006	PA28-151	N32779	IWA - IWA	1	1						1									1			1		DG - Cameron Haven
+12/3/2006	PA28-161	N47717	IWA - RYN - CGZ - IWA	2.3	2.3				2.3		1							2.3		2.3			2.3		DG - Casey Coleman
+12/4/2006	PA28-161	N5361Z	IWA - IWA	0.6	0.6						2									0.6			0.6		DG - Chris Stocking
+12/7/2006	PA28-161	N950DA	IWA - IWA	0.4	0.4							3				0.4			0.4	0.4					Night Currency
+12/7/2006	PA28-161	N950DA	IWA - IWA	1.9	1.9							15				1.9				1.9			1.9		DG - Anthony Vieweg
+12/8/2006	PA28-151	N32779	IWA - IWA	1.7	1.7						2									1.7			1.7		DG - Zach Corcoran
+12/9/2006	PA28-161	N5319M	IWA - CHD - GYR - GEU - DVT - FFZ - IWA	2.3	2.3				2.3		1									2.3			2.3		DG - Anthony Vieweg
+12/9/2006	PA28-161	N240D	IWA - IWA	1	1						2									1			1		DG - Zach Corcoran
+12/9/2006	PA28-161	N240D	IWA - IWA	0.8	0.8						2									0.8			0.8		DG - Chris Stocking
+12/11/2006	PA28-151	N32779	IWA - IWA	1.8	1.8						5									1.8			1.8		DG - Chris Stocking
+12/15/2006	PA28-161	N616MA	IWA - PAN - IWA	2.6	2.6				2.6		1							2.6		2.6			2.6		DG - Zach Corcoran
+12/16/2006	PA28-161	N5361Z	IWA - CHD - GYR - GEU - DVT - FFZ - IWA	2.1	2.1				2.1											2.1			2.1		DG - Zach Corcoran
+12/16/2006	PA28-161	N47717	IWA - IWA	1.3	1.3						1									1.3			1.3		DG - Chris Stocking
+12/17/2006	PA28-161	N5319M	IWA - A39 - IWA	1.5	1.5				1.5											1.5			1.5		DG - Robert Fogelsanger
+12/18/2006	PA28-161	N5319M	IWA - IWA	1.8	1.8						1									1.8			1.8		DG - Scott Kleinow
+12/19/2006	PA28-161	N4185Q	IWA - IWA	1.5	1.5							12				1.5				1.5			1.5		DG - Zach Corcoran
+12/20/2006	PA28-161	N4185Q	IWA - RYN - CGZ - IWA	2.7	2.7				2.7		1							2.7		2.7			2.7		DG - Anthony Vieweg
+12/20/2006	BE-A36	N94JV	IWA - IWA	1.4	1.4		1.4	1.4			8									1.4		1.4			CFI - Todd Anderson
+12/21/2006	PA28-161	N5361Z	IWA - IWA	1.6	1.6							6				1.6				1.6			1.6		DG - Chris Stocking
+12/22/2006	BE-A36	N8256H	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8		8				1					1.8		1.8			141 Check Out Flight - CFI - James Berry
+12/26/2006	PA28-161	N5350J	IWA - IWA	1.1	1.1															1.1			1.1		DG - Robert Fogelsanger
+12/28/2006	C172SP	N65453	CHD - CGZ - CHD	1.7	1.7				1.7			3		1	3	1.7				1.7					Safety Pilot - Blake Jardine
+12/29/2006	PA28-161	N5361Z	IWA - HII - IWA	4.4	4.4				4.4		1							4.4		4.4			4.4		DG - Robert Fogelsanger
+1/2/2007	PA28-161	N4185Q	IWA - IWA	1.5	1.5															1.5			1.5		DG - Ryan Fogelsanger
+1/3/2007	C172SP	N65453	CHD - CHD	1.5	1.5						1									1.5					Took Brian flying
+1/5/2007	PA28-161	N47717	IWA - IWA	1.7	1.7						1									1.7			1.7		DG - Patrick Friend
+1/5/2007	PA28-161	N240D	IWA - IWA	1.6	1.6						2									1.6			1.6		DG - Andrew Fabrigas
+1/7/2007	PA28-161	N950DA	IWA - IWA	1.8	1.8															1.8			1.8		DG - Patrick Friend
+1/7/2007	PA28-161	N5361Z	IWA - IWA	1.8	1.8															1.8			1.8		DG - Andrew Fabrigas
+1/11/2007	PA28-161	N5361Z	IWA - CHD	0.3	0.3				0.3		1								0.3	0.3					Ferry flight over the CHD
+1/11/2007	PA28-161	N5319M	CHD - IWA	0.4	0.4				0.4		1									0.4					Ferry flight to IWA
+1/12/2007	PA28-161	N5350J	IWA - IWA	1.6	1.6															1.6			1.6		DG - Patrick Friend
+1/12/2007	PA28-161	N5319M	IWA - IWA	1.7	1.7						1									1.7			1.7		DG - Andrew Fabrigas
+1/13/2007	PA28-161	N5350J	IWA - IWA	1.7	1.7						1									1.7			1.7		DG - Stephen Diamond
+1/14/2007	PA28-161	N4185Q	IWA - IWA	1.3	1.3															1.3			1.3		DG - Patrick Friend
+1/14/2007	PA28-161	N240D	IWA - A39 - IWA	1.9	1.9				1.9											1.9			1.9		DG - Stephen Diamond
+1/15/2007	PA28-161	N240D	IWA - IWA	1.4	1.4						2									1.4			1.4		DG - Chris Jackson
+1/19/2007	PA28-161	N5319M	IWA - CHD	0.4	0.4				0.4		1									0.4					Drop off at CHD
+1/19/2007	BE-A36	N94JV	CHD - IWA	0.4	0.4		0.4	0.4	0.4		1								0.4	0.4					Pick up from CHD
+1/25/2007	PA28-161	N5350J	IWA - IWA	0.9	0.9							6				0.9				0.9			0.9		DG - Robert Fogelsanger
+1/26/2007	PA28-161	N2950H	IWA - IWA	1.3	1.3						2									1.3			1.3		DG - Patrick Friend
+1/26/2007	PA28-161	N2950H	IWA - IWA	0.4	0.4						1									0.4			0.4		DG - Stephen Diamond
+1/26/2007	C172SP	N390FA	CHD - SEZ	1.5	1.5				1.5			1			1	1.5		1.5		1.5					IFR to KSEZ with Blake and Curtiss
+1/27/2007	PA28-161	N5361Z	IWA - OLS - IWA	2.9	2.9				2.9		2							2.9		2.9			2.9		DG - Chris Jackson
+1/27/2007	PA28-161	N240D	IWA - FLG - IWA	3.1	3.1				3.1		2							3.1		3.1			3.1		DG - Andrew Fabrigas
+1/28/2007	PA28-161	N616MA	IWA - P08 - CGZ - IWA	2	2				2											2			2		DG - Stephen Diamond
+1/29/2007	PA28-161	N5361Z	IWA - P08 - IWA	1.8	1.8				1.8		1									1.8			1.8		DG - Chris Jackson
+2/1/2007	PA28-161	N616MA	IWA - IWA	1.6	1.6							13				1.6				1.6			1.6		DG - Andrew Fabrigas
+2/2/2007	PA28-161	N616MA	IWA - CHD - GYR - GEU - DVT - FFZ - IWA	2.4	2.4				2.4											2.4			2.4		DG - Andrew Fabrigas
+2/2/2007	PA28-161	N240D	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Robert Fogelsanger
+2/7/2007	BE58	N3149P	IWA - IWA	1.1		1.1	1.1	1.1			3									1.1		1.1			CFI - Joe DiNapoli
+2/8/2007	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5			3									1.5		1.5			CFI - Joe DiNapoli
+2/8/2007	PA28-161	N5319M	IWA - E95 - TUS - CGZ - IWA	3.2	3.2				3.2			5				3.2		3.2		3.2			3.2		DG - Robert Fogelsanger
+2/9/2007	PA28-161	N950DA	IWA - RYN - P08 - IWA	2.3	2.3				2.3		1							2.3		2.3			2.3		DG - Andrew Fabrigas
+2/10/2007	PA28-161	N240D	IWA - P08 - IWA	1.6	1.6				1.6											1.6			1.6		DG - Zach Corcoran
+2/13/2007	PA28-161	N5350J	IWA - IWA	1.5	1.5															1.5			1.5		DG - Patrick Friend
+2/15/2007	BE58	N3149P	IWA - IWA	1.7		1.7	1.7	1.7			6									1.7		1.7			CFI - Joe DiNapoli
+2/15/2007	PA28-161	N4185Q	IWA - IWA	1.3	1.3							10				1.3				1.3			1.3		DG - Chris Jackson
+2/16/2007	PA28-161	N5350J	IWA - CGZ - IWA	1.9	1.9				1.9		1									1.9			1.9		DG - Stephen Diamond
+2/16/2007	PA28-161	N240D	IWA - E63 - A39 - IWA	1.9	1.9				1.9									1.9		1.9			1.9		DG - Andrew Fabrigas
+2/23/2007	PA28-161	N4185Q	IWA - CGZ - IWA	1.9	1.9				1.9											1.9			1.9		DG - Robert Fogelsanger
+2/23/2007	C172SP	N390FA	CHD - CGZ - IWA - CHD	2.2	2.2				2.2			3			2	2.2				2.2					Flight with Curtiss and Blake
+2/24/2007	BE58	N3149P	IWA - SNA - SBP - IWA	6.7		6.7	6.7	6.7	6.7		3				1			6.7		6.7		6.7			CFI - Joe DiNapoli
+2/25/2007	PA28-161	N4185Q	IWA - P13 - E67 - P08 - IWA	2.5	2.5				2.5		1									2.5			2.5		DG - Patrick Friend
+2/25/2007	PA28-161	N4185Q	IWA - P08 - AVQ - IWA	2.3	2.3				2.3		2							2.3		2.3			2.3		DG - Andrew Fabrigas
+2/28/2007	PA28-161	N4185Q	IWA - A39 - IWA	1.7	1.7				1.7											1.7			1.7		DG - Robert Fogelsanger
+3/1/2007	PA28-161	N240D	IWA - IWA	1.2	1.2							10				1.2				1.2			1.2		DG - Casey Ferguson
+3/2/2007	PA28-161	N616MA	IWA - P08 - IWA	1.6	1.6				1.6		1									1.6			1.6		DG - Stephen Diamond
+3/6/2007	PA28-161	N2385V	IWA - IWA	1.6	1.6						1									1.6			1.6		DG - Chris Jackson
+3/8/2007	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5			4									1.5		1.5			CFI - Joe DiNapoli
+3/9/2007	PA28-161	N2385V	IWA - CGZ - IWA	1.5	1.5				1.5											1.5			1.5		DG - Robert Fogelsanger
+3/9/2007	PA28-161	N240D	IWA - P08 - IWA	1.5	1.5				1.5		2									1.5			1.5		DG - Patrick Friend
+3/10/2007	PA28-161	N5361Z	IWA - OLS - IWA	3.1	3.1				3.1									3.1		3.1			3.1		DG - Stephen Diamond
+3/12/2007	PA28-161	N4185Q	IWA - OLS - P08 - IWA	3.1	3.1				3.1									3.1		3.1			3.1		DG - Patrick Friend
+3/12/2007	PA28-161	N616MA	IWA - TUS - IWA	2.5	2.5				2.5			9				2.5		2.5		2.5			2.5		DG - Andrew Fabrigas
+3/13/2007	PA28-161	N950DA	IWA - IWA	1.4	1.4							12				1.4				1.4			1.4		DG - David Moran
+3/15/2007	BE58	N3149P	IWA - P08 - IWA	1.5		1.5	1.5	1.5	1.5		6									1.5		1.5			CFI - Joe DiNapoli
+3/16/2007	BE-A36	N8256H	IWA - CHD - IWA	1.5	1.5		1.5	1.5	1.5		3									1.5			1.5		DG - Robert Fogelsanger
+3/17/2007	BE58	N3149P	IWA - CGZ - IWA	1.2		1.2	1.2	1.2	1.2		2									1.2		1.2			CFI - Brooke David - EOC Complete
+3/17/2007	PA28-161	N2385V	IWA - IWA	1.5	1.5						3									1.5			1.5		DG - Carlos Calderon
+3/17/2007	BE-A36	N7206J	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		2									1.6			1.6		DG - Robert Fogelsanger
+3/19/2007	PA28-161	N2950H	IWA - IWA	1.3	1.3						1									1.3			1.3		DG - Chris Jackson
+3/20/2007	BE58	N3149P	IWA - IWA	1.3		1.3	1.3	1.3			4									1.3					MEI Check Ride - DE James Berry
+3/21/2007	BE-A36	N4151Q	IWA - P08 - IWA	1.9	1.9		1.9	1.9	1.9		1									1.9			1.9		DG - Robert Fogelsanger
+3/22/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5		1									1.5			1.5		DG - Robert Fogelsanger
+3/23/2007	BE-A36	N4151Q	IWA - IWA	1.5	1.5		1.5	1.5			1									1.5			1.5		DG - Robert Fogelsanger
+3/25/2007	PA28-161	N2950H	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Patrick Friend
+3/25/2007	PA28-161	N2385V	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Stephen Diamond
+3/25/2007	PA28-161	N5350J	IWA - IWA	1.5	1.5															1.5			1.5		DG - Andrew Fabrigas
+3/26/2007	PA28-161	N2950H	IWA - CGZ - IWA	1.6	1.6				1.6		1									1.6			1.6		DG - Chris Jackson
+3/29/2007	PA28-161	N5361Z	IWA - E95 - TUS - IWA	2.9	2.9				2.9			6				2.9		2.9		2.9			2.9		DG - Chris Jackson
+3/30/2007	PA28-161	N2950H	IWA - P08 - IWA	1.6	1.6				1.6		2									1.6			1.6		DG - Andrew Fabrigas
+3/30/2007	PA28-161	N5350J	IWA - CGZ - IWA	2	2				2			10				2				2			2		DG - Stephen Diamond
+3/31/2007	PA28-161	N2950H	IWA - P08 - IWA	1.6	1.6				1.6		1									1.6			1.6		DG - Andrew Fabrigas
+4/1/2007	BE-A36	N7206J	IWA - DRO - ABQ - IWA	6.6	6.6		6.6	6.6	6.6									6.6		6.6			6.6		DG - Robert Fogelsanger
+4/7/2007	PA28-161	N950DA	IWA - PAN - IWA	1.9	1.9				1.9		2							1.9		1.9			1.9		DG - Carlos Calderon
+4/7/2007	PA28-161	N5319M	IWA - P08 - IWA	1.6	1.6				1.6											1.6			1.6		DG - Andrew Fabrigas
+4/11/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.9	1.9		1.9	1.9	1.9											1.9			1.9		DG - Robert Fogelsanger
+4/12/2007	PA28-161	N5350J	IWA - IWA	1.6	1.6						1									1.6			1.6		DG - Patrick Friend
+4/13/2007	PA28-161	N2950H	IWA - CGZ - IWA	1.5	1.5				1.5											1.5			1.5		DG - Stephen Diamond
+4/16/2007	PA28-161	N5319M	IWA - IWA	1.2	1.2						2									1.2			1.2		DG - Chris Jackson
+4/19/2007	BE-A36	N94JV	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4		3									1.4			1.4		DG - Justin Balderston
+4/19/2007	PA28-151	N32779	IWA - TUS - IWA	2	2				2			2				2		2		2			2		DG - Desmond Ready
+4/20/2007	PA28-161	N5350J	IWA - CGZ - IWA	1.4	1.4				1.4											1.4			1.4		DG - Andrew Fabrigas
+4/20/2007	C172SP	N65453	CHD - CGZ - CHD	1.1	1.1				1.1			4				1.1				1.1					Flight w/ Blake and Brandon
+4/21/2007	BE-A36	N4151Q	IWA - IWA	1	1		1	1			2				2					1		1			CFI - Michelle Kraus - Inst. Standardization
+4/22/2007	BE-A36	N7206J	IWA - CGZ - IWA	1.9	1.9		1.9	1.9	1.9											1.9			1.9		DG - Robert Fogelsanger
+4/23/2007	PA28-161	N2950H	IWA - P08 - IWA	1.5	1.5				1.5		1									1.5			1.5		DG - Chris Jackson
+4/25/2007	BE-A36	N8256H	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		2									1.6			1.6		DG - Justin Balderston
+4/26/2007	PA28-161	N5361Z	IWA - E95 - IWA	2.6	2.6				2.6			2				2.6		2.6		2.6			2.6		DG - Stephen Diamond
+4/27/2007	PA28-151	N32779	IWA - P08 - IWA	1.7	1.7				1.7											1.7			1.7		DG - Andrew Fabrigas
+4/28/2007	BE-A36	N8256H	IWA - L35 - IWA	4.3	4.3		4.3	4.3	4.3		2							4.3		4.3			4.3		DG - Ben Sanchez
+4/29/2007	PA28-161	N2950H	IWA - CGZ - IWA	1.6	1.6				1.6		1									1.6			1.6		DG - Andrew Fabrigas
+4/29/2007	PA28-161	N616MA	IWA - P08 - IWA	1.6	1.6				1.6											1.6			1.6		DG - Stephen Diamond
+4/29/2007	BE-A36	N8256H	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		3									1.6			1.6		DG - Justin Balderston
+4/30/2007	PA28-161	N5319M	IWA - CGZ - IWA	1.5	1.5				1.5											1.5			1.5		DG - Patrick Friend
+5/3/2007	PA28-161	N5319M	IWA - CGZ - IWA	1.9	1.9				1.9			6				1.9				1.9			1.9		DG - Patrick Friend
+5/5/2007	BE-A36	N435P	IWA - P08 - IWA	2	2		2	2	2											2			2		DG - Robert Fogelsanger
+5/6/2007	BE-A36	N8256H	IWA - IWA	1.6	1.6		1.6	1.6			1									1.6			1.6		DG - Justin Balderston
+5/7/2007	BE-A36	N8256H	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		3									1.6			1.6		DG - Chris Jackson
+5/8/2007	BE-A36	N8256H	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		3									1.6			1.6		DG - Chris Jackson
+5/11/2007	BE-A36	N8256H	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - David Steele
+5/13/2007	BE-A36	N8256H	IWA - L35 - IWA	4.4	4.4		4.4	4.4	4.4		2							4.4		4.4			4.4		DG - Justin Balderston
+5/14/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Braden Tada
+5/15/2007	BE-A36	N7206J	CHD - IWA	0.5	0.5		0.5	0.5	0.5											0.5			0.5		DG - Chris Jackson
+5/16/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6		2									1.6			1.6		DG - Chris Jackson
+5/17/2007	BE-A36	N7206J	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8		DG - Braden Tada
+5/18/2007	PA28-161	N47717	IWA - P08 - IWA	1.5	1.5				1.5											1.5			1.5		DG - Stephen Diamond
+5/19/2007	BE-A36	N94JV	IWA - OLS - IWA	2.3	2.3		2.3	2.3	2.3		1							2.3		2.3			2.3		DG - Joe O'Connell
+5/20/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Braden Tada
+5/21/2007	BE-A36	N9067E	IWA - IWA	1.4	1.4		1.4	1.4			2									1.4			1.4		DG - Chris Jackson
+5/21/2007	C172SP	N65453	CHD - P19 - DVT - CHD	2.1	2.1				2.1		4									2.1					Flight with Blake
+5/22/2007	PA28-161	N5361Z	IWA - A39 - IWA	1.8	1.8				1.8											1.8			1.8		DG - Andrew Fabrigas
+5/22/2007	BE-A36	N8256H	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5		2									1.5			1.5		DG - Chris Jackson
+5/23/2007	BE-A36	N8256H	IWA - CGZ - P08 - IWA	2	2		2	2	2											2			2		DG - Robert Fogelsanger
+5/23/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8		DG - Justin Balderston
+5/24/2007	BE-A36	N9067E	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Braden Tada
+5/25/2007	BE-A36	N7206J	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Robert Fogelsanger
+5/25/2007	BE-A36	N7206J	IWA - CGZ - IWA	1.9	1.9		1.9	1.9	1.9											1.9			1.9		DG - Braden Tada
+5/26/2007	PA28-161	N5319M	IWA - CGZ - IWA	1.8	1.8				1.8		1									1.8			1.8		DG - Stephen Diamond
+5/26/2007	BE-A36	N8256H	IWA - P08 - IWA	1.7	1.7		1.7	1.7	1.7		3									1.7			1.7		DG - Chris Jackson
+5/27/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Braden Tada
+5/28/2007	PA28-161	N616MA	IWA - P08 - CGZ - A39 - IWA	1.6	1.6				1.6		1									1.6			1.6		DG - Andrew Fabrigas
+5/29/2007	PA28-161	N5361Z	IWA - E95 - IWA	2.5	2.5				2.5			3				2.5		2.5		2.5			2.5		DG - Patrick Friend
+5/31/2007	BE-A36	N9067E	IWA - CHD - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Robert Fogelsanger
+6/2/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5		1									1.5			1.5		DG - Robert Fogelsanger
+6/3/2007	BE-A36	N7206J	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3		1									1.3			1.3		DG - Braden Tada
+6/3/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4		3									1.4			1.4		DG - Stephen Diamond
+6/8/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Braden Tada
+6/9/2007	BE-A36	N7206J	IWA - BCE - SGU - IWA	5.8	5.8		5.8	5.8	5.8		1							5.8		5.8			5.8		DG - Travis Richards
+6/10/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8		DG - Braden Tada
+6/10/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Joe O'Connell
+6/18/2007	PA28-161	N5350J	IWA - CGZ - IWA	1.5	1.5				1.5											1.5			1.5		DG - Patrick Friend
+6/18/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Joe O'Connell
+6/22/2007	BE-A36	N9067E	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Braden Tada
+6/22/2007	BE-A36	N8256H	IWA - P08 - IWA	1.2	1.2		1.2	1.2	1.2		1									1.2			1.2		DG - Stephen Diamond
+6/23/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Michael Vasta
+6/23/2007	BE-A36	N8256H	IWA - SGU - IWA	5	5		5	5	5									5		5			5		DG - Robert Fogelsanger
+6/24/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6		1									1.6			1.6		DG - Braden Tada
+6/24/2007	BE-A36	N9067E	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Stephen Diamond
+6/24/2007	BE-A36	N9067E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Joe O'Connell
+6/25/2007	BE-A36	N94JV	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		1									1.6			1.6		DG - Michael Vasta
+6/29/2007	BE-A36	N9067E	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Joe O'Connell
+6/29/2007	BE-A36	N9067E	IWA - E63 - CHD	1.4	1.4		1.4	1.4	1.4									1.4		1.4			1.4		DG - Travis Richards
+6/29/2007	PA28-161	N5350J	CHD - IWA	0.4	0.4				0.4		1									0.4					Pick up from CHD
+7/9/2007	BE-A36	N94JV	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Michael Vasta
+7/10/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5		2									1.5			1.5		DG - Patrick Friend
+7/10/2007	BE-A36	N9067E	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Braden Tada
+7/12/2007	BE-A36	N9067E	IWA - RYN - IWA	2.3	2.3		2.3	2.3	2.3									2.3		2.3			2.3		DG - Robert Fogelsanger
+7/12/2007	C172SP	N60616	P19 - CGZ - P19	1.9	1.9				1.9		2			1.7	4					1.9					IFR Currency - Safety Pilot Blake Jardine
+7/13/2007	BE-A36	N9067E	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Braden Tada
+7/13/2007	BE-A36	N4151Q	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Stephen Diamond
+7/15/2007	BE-A36	N9067E	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		1									1.6			1.6		DG - Stephen Diamond
+7/16/2007	BE-A36	N94JV	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Michael Vasta
+7/17/2007	BE-A36	N94JV	IWA - P08 - IWA	1.8	1.8		1.8	1.8	1.8		1									1.8			1.8		DG - Braden Tada
+7/17/2007	BE-A36	N94JV	IWA - P08 - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3		DG - Patrick Friend
+7/19/2007	BE-A36	N9067E	IWA - SNA - SAN - IWA	6.6	6.6		6.6	6.6	6.6				0.7		2			6.6		6.6			6.6		DG - Robert Fogelsanger
+7/20/2007	BE-A36	N94JV	IWA - PSP	2	2		2	2	2									2		2			2		DG - Michael Vasta
+7/20/2007	BE-A36	N94JV	PSP - IWA	2.1	2.1		2.1	2.1	2.1									2.1		2.1			2.1		DG - Braden Tada
+7/22/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Robert Fogelsanger
+7/22/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Travis Richards
+7/23/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6		1									1.6			1.6		DG - Patrick Friend
+7/23/2007	BE-A36	N8256H	IWA - IWA	1.3	1.3		1.3	1.3												1.3			1.3		DG - Michael Vasta
+7/26/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8		DG - Robert Fogelsanter
+7/27/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Travis Richards
+7/30/2007	BE-A36	N7206J	IWA - IWA	1	1		1	1												1			1		DG - Michael Vasta
+8/1/2007	BE-A36	N9067E	IWA - P08 - IWA	1.7	1.7		1.7	1.7	1.7		1									1.7			1.7		DG - Stephen Diamond
+8/1/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Patrick Friend
+8/1/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Braden Tada
+8/2/2007	BE-A36	N7206J	IWA - IWA	1.2	1.2		1.2	1.2												1.2			1.2		DG - Robert Fogelsanger
+8/3/2007	BE-A36	N94JV	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Braden Tada
+8/5/2007	BE-A36	N7206J	IWA - P08 - IWA	1.7	1.7		1.7	1.7	1.7		2									1.7			1.7		DG - Stephen Diamond
+8/6/2007	BE-A36	N7206J	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Patrick Friend
+8/7/2007	BE-A36	N94JV	IWA - CGZ - CHD - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Travis Richards
+8/7/2007	BE-A36	N94JV	IWA - A39 - IWA	1.7	1.7		1.7	1.7	1.7		1									1.7			1.7		DG - Braden Tada
+8/8/2007	C182T	N6032D	P19 - CGZ - A39 - P19	1.2	1.2		1.2		1.2		4			0.5	1					1.2					Safety Pilot - Blake Jardine
+8/9/2007	BE-A36	N4151Q	IWA - IWA	1.1	1.1		1.1	1.1												1.1			1.1		DG - Robert Fogelsanger
+8/10/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8		DG - Michael Vasta
+8/13/2007	PA44-180	N30608	P19 - CGZ - P19	1.1		1.1		1.1	1.1		4			0.5	1					1.1		1.1			Multi Currency - CFI Lee Stokes
+8/14/2007	BE-A36	N7206J	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Robert Fogelsanger
+8/14/2007	BE-A36	N8256H	IWA - IWA	1	1		1	1			1									1			1		DG - Braden Tada
+8/17/2007	BE-A36	N9067E	IWA - A39 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Braden Tada
+8/18/2007	BE-A36	N9067E	IWA - SNA - SAN - IWA	6.3	6.3		6.3	6.3	6.3									6.3		6.3			6.3		DG - Travis Richards
+8/20/2007	BE-A36	N4151Q	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5		1									1.5			1.5		DG - Robert Fogelsanger
+8/21/2007	BE-A36	N4151Q	IWA - MZJ - IWA	1.7	1.7		1.7	1.7	1.7									1.7		1.7			1.7		DG - Stephen Diamond
+8/21/2007	BE-A36	N4151Q	IWA - P08 - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8		DG - Robert Fogelsanger
+8/24/2007	BE-A36	N94JV	IWA - A39 - IWA	1.4	1.4		1.4	1.4	1.4		1									1.4			1.4		DG - Braden Tada
+8/24/2007	BE-A36	N9067E	IWA - LAS - IWA	4.9	4.9		4.9	4.9	4.9				1.5					4.9		4.9			4.9		DG - Robert Fogelsanger
+8/25/2007	BE-A36	N4151Q	IWA - IWA	1.4	1.4		1.4	1.4												1.4			1.4		DG - Robert Fogelsanger
+8/26/2007	BE-A36	N4151Q	IWA - L35 - IWA	4.3	4.3		4.3	4.3	4.3									4.3		4.3			4.3		DG - Stephen Diamond
+8/28/2007	BE-A36	N7206J	IWA - MZJ - IWA	2	2		2	2	2									2		2			2		DG - Patrick Friend
+8/29/2007	BE-A36	N8183E	IWA - A39 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Robert Fogelsanger
+8/31/2007	BE-A36	N9067E	IWA - DRO - PGA - IWA	5.7	5.7		5.7	5.7	5.7		1							5.7		5.7			5.7		DG - Patrick Friend
+9/1/2007	BE-A36	N9067E	IWA - SBA - VNY - IWA	7	7		7	7	7				1					7		7			7		DG - Joe O'Connell
+9/5/2007	BE-A36	N7206J	IWA - A39 - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Robert Fogelsanger
+9/5/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Aaron Fleck
+9/6/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Aaron Fleck
+9/6/2007	BE-A36	N7206J	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		1									1.6			1.6		DG - Michael Villarreal
+9/11/2007	BE-A36	N7206J	IWA - SEZ - IWA	2	2		2	2	2									2		2			2		DG - Stephen Diamond
+9/12/2007	BE-A36	N4151Q	IWA - MZJ - IWA	1.9	1.9		1.9	1.9	1.9									1.9		1.9			1.9		DG - Patrick Friend
+9/12/2007	BE-A36	N4151Q	IWA - E60 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Robert Fogelsanger
+9/12/2007	BE-A36	N8183E	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3		DG - Aaron Fleck
+9/13/2007	BE-A36	N8183E	IWA - MZJ - IWA	2	2		2	2	2									2		2			2		DG - Patrick Friend
+9/14/2007	BE-A36	N9067E	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Aaron Fleck
+9/14/2007	BE-A36	N8256H	IWA - E60 - IWA	1.7	1.7		1.7	1.7	1.7		1									1.7			1.7		DG - Braden Tada
+9/15/2007	BE-A36	N8183E	IWA - LAS - IWA	5.2	5.2		5.2	5.2	5.2									5.2		5.2			5.2		DG - Travis Richards
+9/15/2007	BE-A36	N4151Q	IWA - IWA	1.1	1.1		1.1	1.1												1.1			1.1		DG - Robert Fogelsanger
+9/16/2007	BE-A36	N4151Q	IWA - MZJ - IWA	1.7	1.7		1.7	1.7	1.7									1.7		1.7			1.7		DG - Stephen Diamond
+9/16/2007	BE-A36	N9067E	IWA - IWA	1.1	1.1		1.1	1.1			1									1.1			1.1		DG - Joe O'Connell
+9/17/2007	PA44-180	N30608	P19 - SEZ - P19	2.4		2.4		2.4	2.4		2		1.8					2.4		2.4					IFR to SEZ with Lee Stokes
+9/19/2007	BE-A36	N7206J	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6		1									1.6			1.6		DG - Ben Sanchez
+9/20/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Ben Sanchez
+9/21/2007	BE-A36	N4151Q	IWA - P08 - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3		DG - Michael Villarreal
+9/22/2007	BE-A36	N8183E	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8		DG - Ben Sanchez
+9/22/2007	BE-A36	N8256H	IWA - DUG - IWA	3	3		3	3	3		1		0.8					3		3			3		DG - Joe O'Connell
+9/23/2007	BE-A36	N9067E	IWA - OLS - IWA	2.9	2.9		2.9	2.9	2.9				1.7		1			2.9		2.9			2.9		DG - Travis Richards
+9/23/2007	BE-A36	N9067E	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8		DG - Joe O'Connell
+9/26/2007	BE-A36	N8183E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Aaron Fleck
+9/26/2007	BE-A36	N7206J	IWA - P08 - IWA	1.2	1.2		1.2	1.2	1.2											1.2			1.2		DG - Braden Tada
+9/28/2007	PA28-161	N2950H	IWA - CGZ - IWA	1.3	1.3				1.3		2									1.3			1.3		DG - Michael Villarreal
+9/28/2007	PA28-161	N2385V	IWA - CGZ - IWA	1.4	1.4				1.4		1									1.4			1.4		DG - Robbie Fogelsanger
+9/28/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Travis Richards
+9/28/2007	BE-A36	N4151Q	IWA - MZJ - IWA	1.8	1.8		1.8	1.8	1.8									1.8		1.8			1.8		DG - Stephen Diamond
+9/29/2007	BE-A36	N8183E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Joe O'Connell
+9/29/2007	PA28-161	N5319M	IWA - IWA	1.6	1.6															1.6			1.6		DG - Robbie Fogelsanger
+9/30/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1	1		1	1	1											1			1		DG - Ben Sanchez
+9/30/2007	BE-A36	N8183E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Travis Richards
+9/30/2007	BE-A36	N94JV	IWA - CHD - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Joe O'Connell
+10/1/2007	BE58	N3149P	IWA - MZJ - P08 - IWA	2.1		2.1	2.1	2.1	2.1		7			0.3	1			2.1		2.1		2.1			Baron Check Out - CFI Michelle Kraus
+10/1/2007	BE-A36	N4151Q	IWA - IWA	2	2		2	2			1									2			2		DG - Blake Jardine
+10/3/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Travis Richards
+10/4/2007	PA28-161	N2385V	IWA - IWA	1.7	1.7															1.7			1.7		DG - Michael Villarreal
+10/5/2007	BE-A36	N9067E	IWA - P08 - IWA	1.1	1.1		1.1	1.1	1.1		1									1.1			1.1		DG - Braden Tada
+10/6/2007	BE-A36	N9067E	IWA - SAN - IWA	5.1	5.1		5.1	5.1	5.1									5.1		5.1			5.1		DG - Joe O'Connell
+10/7/2007	BE-A36	N8183E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Travis Richards
+10/7/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8	1.8	SC - Patrick O'Sullivan
+10/7/2007	BE-A36	N4151Q	IWA - CHD - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Joe O'Connell
+10/10/2007	BE-A36	N8183E	IWA - IWA	1.5	1.5		1.5	1.5												1.5			1.5		DG - Aaron Fleck
+10/12/2007	PA28-161	N5350J	IWA - IWA	1	1						2									1			1		DG - Tyson Hyer
+10/13/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Patrick Friend
+10/16/2007	BE-A36	N8183E	IWA - CGZ - A39 - IWA	2	2		2	2	2		4			0.5	1					2		2			CK IP Checkout - CFI Michelle Kraus
+10/18/2007	BE-A36	N94JV	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Patrick Friend
+10/18/2007	BE-A36	N9067E	IWA - CHD - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Braden Tada
+10/18/2007	PA28-161	N5350J	IWA - IWA	1.6	1.6															1.6			1.6	1.6	SC - Andrew Jana
+10/20/2007	PA28-161	N5361Z	IWA - CGZ - IWA	1.7	1.7				1.7											1.7			1.7		DG - Michael Villarreal
+10/20/2007	BE-A36	N4151Q	IWA - CHD - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Aaron Fleck
+10/20/2007	PA28-161	N950DA	IWA - IWA	1.7	1.7						1									1.7			1.7		DG - Robert Fogelsanger
+10/21/2007	BE-A36	N8183E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Travis Richards
+10/24/2007	BE-A36	N8183E	IWA - IWA	1.5	1.5		1.5	1.5												1.5			1.5		DG - Joe O'Connell
+10/25/2007	BE-A36	N8183E	IWA - IWA	1.6	1.6		1.6	1.6												1.6			1.6		DG - Patrick Friend
+10/26/2007	PA28-161	N2950H	IWA - IWA	1.6	1.6						1									1.6			1.6		DG - Michael Villarreal
+10/26/2007	BE-A36	N8256H	IWA - IWA	1.4	1.4		1.4	1.4												1.4			1.4		DG - Aaron Fleck
+10/26/2007	PA28-161	N2385V	IWA - IWA	1.7	1.7															1.7			1.7	1.7	SC - Daniel Bridenstine
+10/26/2007	BE-A36	N8183E	IWA - IWA	1.5	1.5		1.5	1.5												1.5			1.5		DG - Stephen Diamond
+10/27/2007	PA28-161	N240D	IWA - CHD	1.3	1.3				1.3		2									1.3			1.3		DG - Robert Fogelsanger
+10/27/2007	BE-A36	N7206J	CHD - IWA	0.5	0.5		0.5	0.5	0.5		1								0.5	0.5					Pick up from CHD
+10/27/2007	PA28-161	N950DA	IWA - P08 - IWA	1.7	1.7				1.7											1.7			1.7	1.7	SC - Jamil Kassum
+10/28/2007	BE-A36	N8183E	IWA - IWA	1.2	1.2		1.2	1.2												1.2			1.2		DG - Travis Richards
+10/31/2007	BE-A36	N8183E	IWA - P08 - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7	1.7	SC - Logan Shamoon
+11/2/2007	PA28-151	N32779	IWA - IWA	1.5	1.5						2									1.5			1.5		DG - Michael Villarreal
+11/3/2007	PA28-151	N32779	IWA - IWA	1.5	1.5															1.5			1.5	1.5	SC - Mark Bolstad
+11/3/2007	PA28-161	N5361Z	IWA - IWA	1.4	1.4															1.4			1.4	1.4	SC - Greg Woronovich
+11/4/2007	PA28-161	N616MA	IWA - IWA	1.5	1.5															1.5			1.5	1.5	SC - Nand Mehta
+11/7/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Patrick Friend
+11/7/2007	BE58	N3149P	IWA - CHD	0.7		0.7	0.7	0.7	0.7			3				0.7			0.7	0.7					Drop off at CHD and Night currency
+11/7/2007	PA28-161	N5361Z	CHD - IWA	1	1				1			3				1			1	1					Pick up from CHD and Night currency
+11/8/2007	BE-A36	N8256H	IWA - IWA	1.4	1.4		1.4	1.4												1.4			1.4		DG - Patrick Friend
+11/9/2007	BE-A36	N8256H	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Stephen Diamond
+11/10/2007	BE-A36	N7206J	IWA - IWA	1.8	1.8		1.8	1.8												1.8			1.8		DG - Gary Bates
+11/13/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6	1.6	SC - Amanda Cobo
+11/13/2007	BE-A36	N8183E	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8											1.8			1.8	1.8	SC - Alyssa Jay
+11/14/2007	BE-A36	N7206J	IWA - IWA	1.5	1.5		1.5	1.5												1.5			1.5	1.5	SC - Brandon Wentworth
+11/14/2007	BE58	N3149P	CHD - IWA	0.5		0.5	0.5	0.5	0.5		1								0.5	0.5					Pick up from CHD
+11/16/2007	BE-A36	N8183E	IWA - IWA	1.2	1.2		1.2	1.2												1.2			1.2	1.2	SC - Brandon Wentworth
+11/16/2007	BE-A36	N8183E	IWA - IWA	1.5	1.5		1.5	1.5												1.5			1.5		DG - Stephen Diamond
+11/17/2007	BE-A36	N7206J	IWA - IWA	1.6	1.6		1.6	1.6												1.6			1.6		DG - Joe O'Connell
+11/18/2007	BE58	N3149P	IWA - IWA	1.6		1.6	1.6	1.6			2									1.6			1.6		DG - Omar Azamy
+11/18/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Stephen Diamond
+11/19/2007	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5			1									1.5			1.5		DG - Omar Azamy
+11/23/2007	PA28-161	N2385V	IWA - IWA	1.5	1.5															1.5			1.5	1.5	SC - Edward Logan
+11/25/2007	BE-A36	N9067E	IWA - DUG - IWA	3.2	3.2		3.2	3.2	3.2									3.2		3.2			3.2		DG - Patrick Friend
+11/25/2007	BE-A36	N9067E	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		1									1.6			1.6		DG - Joe O'Connell
+11/26/2007	BE58	N3149P	IWA - IWA	1.6		1.6	1.6	1.6												1.6			1.6		DG - Omar Azamy
+11/28/2007	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5			1									1.5			1.5		DG - Piyasak Srikier
+11/29/2007	PA28-161	N5319M	IWA - IWA	1.3	1.3						1									1.3			1.3		DG - Michael Villarreal
+11/30/2007	PA28-161	N2385V	IWA - IWA	1.6	1.6															1.6			1.6	1.6	SC - Brian Washburn
+12/2/2007	PA28-161	N5319M	IWA - IWA	1.4	1.4															1.4			1.4	1.4	SC - Thomas Bluhm
+12/3/2007	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5			1									1.5			1.5		DG - Piyasak Srikier
+12/3/2007	PA28-161	N4185Q	IWA - CHD	1.7	1.7				1.7		1									1.7			1.7		DG - Robert Fogelsanger
+12/3/2007	PA28-161	N616MA	CHD - IWA	0.5	0.5				0.5		1								0.5	0.5					Pick up from CHD
+12/3/2007	BE-A36	N4151Q	IWA - IWA	1.3	1.3		1.3	1.3												1.3			1.3		DG - Stephen Diamond
+12/5/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Patrick Friend
+12/6/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Stephen Diamond
+12/8/2007	BE-A36	N94JV	IWA - IWA	1.4	1.4		1.4	1.4			1									1.4			1.4		DG - Joe O'Connell
+12/8/2007	BE-A36	N4151Q	IWA - IWA	1.5	1.5		1.5	1.5			1									1.5			1.5		DG - Robert Fogelsanger
+12/9/2007	BE-A36	N7206J	IWA - IWA	1.5	1.5		1.5	1.5												1.5			1.5		DG - Joe O'Connell
+12/9/2007	BE-A36	N7206J	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Stephen Diamond
+12/12/2007	BE-A36	N4151Q	IWA - FLG - IWA	3	3		3	3	3									3		3			3		DG - Patrick Friend
+12/13/2007	BE-A36	N4151Q	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Patrick Friend
+12/13/2007	BE-A36	N94JV	IWA - MZJ - IWA	1.6	1.6		1.6	1.6	1.6		1							1.6		1.6			1.6		DG - Michael Villarreal
+12/13/2007	PA28-151	N32779	IWA - RYN - IWA	2.5	2.5				2.5									2.5		2.5			2.5	2.5	SC - Matthew Shaw
+12/14/2007	BE-A36	N8183E	IWA - IWA	1.4	1.4		1.4	1.4												1.4			1.4		DG - Michael Villarreal
+12/14/2007	BE58	N3149P	IWA - P08 - IWA	1.6		1.6	1.6	1.6	1.6											1.6			1.6		DG - Piyasak Srikier
+12/14/2007	BE-A36	N8183E	IWA - IWA	1.5	1.5		1.5	1.5												1.5			1.5		DG - Stephen Diamond
+12/15/2007	BE-A36	N94JV	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Joe O'Connell
+12/16/2007	BE-A36	N7206J	IWA - FFZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7	1.7	SC - Tristan True
+12/16/2007	BE-A36	N7206J	IWA - A39 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Joe O'Connell
+12/17/2007	BE58	N3149P	IWA - P08 - IWA	1.6		1.6	1.6	1.6	1.6											1.6			1.6		DG - Omar Azamy
+12/17/2007	BE58	N3149P	IWA - P08 - IWA	1.7		1.7	1.7	1.7	1.7											1.7			1.7		DG - Piyasak Srikier
+12/18/2007	BE58	N3149P	IWA - SAN	2.2		2.2	2.2	2.2	2.2									2.2		2.2			2.2		DG - David Steele
+12/18/2007	BE58	N3149P	SAN - SNA	1.1		1.1	1.1	1.1	1.1				0.3		1			1.1		1.1			1.1		DG - David Steele
+12/18/2007	BE58	N3149P	SNA - SBA	1.4		1.4	1.4	1.4	1.4				1		1			1.4		1.4			1.4		DG - David Steele
+12/18/2007	BE58	N3149P	SBA - ONT	2		2	2	2	2			1	1.7		1	2		2		2			2		DG - David Steele
+12/19/2007	BE58	N3149P	ONT - IWA	2.5		2.5	2.5	2.5	2.5				0.5					2.5		2.5			2.5		DG - David Steele
+12/20/2007	BE58	N3149P	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7											1.7			1.7		DG - Omar Azamy
+12/20/2007	BE58	N3149P	IWA - P08 - IWA	1.6		1.6	1.6	1.6	1.6											1.6			1.6		DG - Piyasak Srikier
+12/20/2007	BE-A36	N9067E	IWA - CHD - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Stephen Diamond
+12/21/2007	BE58	N3149P	IWA - CGZ - IWA	1.6		1.6	1.6	1.6	1.6											1.6			1.6		DG - Omar Azamy
+12/23/2007	PA28-161	N47717	IWA - E77 - IWA	2	2				2									2		2			2	2	SC - Jesse Altemus
+12/26/2007	BE58	N3149P	IWA - CHD	0.4		0.4	0.4	0.4	0.4		1								0.4	0.4					Ferry to CHD
+12/26/2007	BE58	N3149P	CHD - IWA	1.2		1.2	1.2	1.2	1.2											1.2			1.2		DG - David Steele
+12/26/2007	BE58	N3149P	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5											1.5			1.5		DG - Piyasak Srikier
+12/27/2007	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5												1.5			1.5		DG - Piyasak Srikier
+12/27/2007	BE58	N3149P	IWA - MZJ - IWA	1.5		1.5	1.5	1.5	1.5									1.5		1.5			1.5		DG - David Steele
+12/27/2007	BE58	N3149P	IWA - IWA	2		2	2	2												2			2		DG - Omar Azamy
+12/28/2007	BE-A36	N9067E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6	1.6	SC - David Moran
+12/28/2007	BE58	N3149P	IWA - IWA	1.9		1.9	1.9	1.9			1									1.9			1.9		DG - Piyasak Srikier
+12/29/2007	BE-A36	N9067E	IWA - SNA - SAN - IWA	6.1	6.1		6.1	6.1	6.1				1		1			6.1		6.1			6.1		DG - Patrick Friend
+1/3/2008	BE58	N3149P	IWA - IWA	1.3		1.3	1.3	1.3			2									1.3			1.3		DG - David Steele
+1/4/2008	PA28-161	N240D	IWA - IWA	0.6	0.6															0.6			0.6	0.6	SC - Andrew Fabrigas
+1/4/2008	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5			1									1.5			1.5		DG - David Steele
+1/8/2008	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5			2									1.5			1.5		DG - David Steele
+1/8/2008	PA28-161	N47717	IWA - MZJ - IWA	1.5	1.5				1.5									1.5		1.5			1.5	1.5	SC - Greg Woronovich
+1/9/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Peter Boyer
+1/10/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Patrick Friend
+1/11/2008	BE58	N3149P	IWA - P08 - CHD - IWA	1.7		1.7	1.7	1.7	1.7		1									1.7			1.7		DG - David Steele
+1/11/2008	PA28-161	N47717	IWA - E77 - IWA	1.8	1.8				1.8									1.8		1.8			1.8	1.8	SC - Branden Spangenberg
+1/14/2008	BE-A36	N8256H	IWA - IWA	1.1	1.1		1.1	1.1												1.1			1.1		DG - Patrick Friend
+1/16/2008	PA28-161	N2950H	IWA - IWA	1.4	1.4															1.4			1.4		DG - Dustin Ammann
+1/17/2008	BE-A36	N4151Q	IWA - CGZ - IWA	2	2		2	2	2							0.7				2			2		DG - Patrick Friend
+1/18/2008	PA28-161	N47717	IWA - E77 - IWA	1.9	1.9				1.9									1.9		1.9			1.9	1.9	SC - Brian Crysler
+1/21/2008	BE-A36	N9067E	IWA - DUG - IWA	3	3		3	3	3									3		3			3		DG - Stephen Diamond
+1/21/2008	PA28-161	N4185Q	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Dustin Ammann
+1/22/2008	BE-A36	N9067E	IWA - IWA	1	1		1	1												1			1	1	SC - David Moran
+1/22/2008	BE-A36	N8256H	IWA - IWA	1.4	1.4		1.4	1.4												1.4			1.4	1.4	SC - Josh Fitzpatrick
+1/23/2008	BE-A36	N9067E	IWA - P08 - IWA	1.7	1.7		1.7	1.7	1.7		1					0.5				1.7			1.7		DG - Peter Boyer
+1/23/2008	PA28-161	N2950H	IWA - A39 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Dustin Ammann
+1/28/2008	BE-A36	N9067E	IWA - IWA	0.7	0.7		0.7	0.7								0.3				0.7			0.7		DG - Patrick Friend
+1/29/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7							0.4				1.7			1.7		DG - Stephen Diamond
+1/29/2008	PA28-161	N950DA	IWA - A39 - IWA	1.2	1.2				1.2											1.2			1.2	1.2	SC - Brian Crysler
+1/30/2008	BE-A36	N8256H	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		1					0.3				1.6			1.6		DG - Peter Boyer
+1/30/2008	PA28-161	N5361Z	IWA - A39 - IWA	1.7	1.7				1.7											1.7			1.7	1.7	SC - Greg Wornovich
+1/31/2008	BE-A36	N7206J	IWA - A39 - IWA	1.9	1.9		1.9	1.9	1.9											1.9			1.9	1.9	SC - Aaron Fleck
+2/6/2008	PA28-161	N5350J	IWA - IWA	1.2	1.2															1.2			1.2	1.2	SC - Greg Woronovich
+2/6/2008	BE-A36	N9067E	IWA - IWA	1.1	1.1		1.1	1.1												1.1			1.1		DG - Patrick Friend
+2/7/2008	PA28-161	N4185Q	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Lee Wilson
+2/8/2008	BE-A36	N8256H	IWA - A39 - IWA	1.7	1.7		1.7	1.7	1.7		1									1.7			1.7		DG - Brandon Wentworth
+2/8/2008	BE-A36	N4151Q	IWA - FLG - IWA	2.9	2.9		2.9	2.9	2.9									2.9		2.9			2.9		DG - Stephen Diamond
+2/11/2008	BE58	N3149P	IWA - IWA	1.2		1.2	1.2	1.2			2									1.2			1.2		DG - Peter Boyer
+2/11/2008	PA28-161	N2950H	IWA - IWA	1	1															1			1		DG - Dustin Ammann
+2/12/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.1	1.1		1.1	1.1	1.1											1.1			1.1		DG - Stephen Diamond
+2/13/2008	BE58	N3149P	IWA - P08 - IWA	1.4		1.4	1.4	1.4	1.4		1									1.4			1.4		DG - Peter Boyer
+2/18/2008	BE-A36	N9067E	IWA - P08 - IWA	1.8	1.8		1.8	1.8	1.8		1									1.8			1.8		DG - Patrick Friend
+2/18/2008	BE58	N3149P	IWA - P08 - IWA	1.7		1.7	1.7	1.7	1.7		1									1.7			1.7		DG - Peter Boyer
+2/19/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Stephen Diamond
+2/19/2008	BE-A36	N7206J	IWA - A39 - IWA	1.8	1.8		1.8	1.8												1.8			1.8	1.8	SC - Luis Penate
+2/19/2008	BE-A36	N7206J	IWA - DVT - IWA	1.3	1.3		1.3	1.3	1.3		2									1.3					MX - Pick up guy at DVT
+2/19/2008	BE-A36	N9067E	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Patrick Friend
+2/20/2008	BE-A36	N4151Q	IWA - P08 - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3		DG - Patrick Friend
+2/21/2008	BE58	N3149P	IWA - IWA	1.3		1.3	1.3	1.3												1.3			1.3		DG - Peter Boyer
+2/21/2008	BE-A36	N8256H	IWA - A39 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Patrick Friend
+2/26/2008	BE58	N3149P	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5											1.5			1.5		DG - Peter Boyer
+2/27/2008	BE58	N3149P	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7											1.7			1.7		DG - Peter Boyer
+2/27/2008	BE-A36	N7206J	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Patrick Friend
+2/28/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4		3			1.1	3					1.4					Instrument Currency - Safety Pilot Blake Jardine
+2/28/2008	PA28-161	N5319M	IWA - P08 - IWA	1.4	1.4				1.4		1									1.4			1.4		DG - Lee Wilson
+2/28/2008	BE-A36	N9067E	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Stephen Diamond
+3/3/2008	BE-A36	N9067E	IWA - A39 - IWA	1.7	1.7		1.7	1.7	1.7		1									1.7			1.7		DG - Patrick Friend
+3/3/2008	BE58	N3149P	IWA - CGZ - IWA	1.6		1.6	1.6	1.6	1.6		1									1.6			1.6		DG - Peter Boyer
+3/6/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Stephen Diamond
+3/6/2008	PA28-161	N5319M	IWA - P08 - IWA	1.6	1.6				1.6		1									1.6			1.6		DG - Lee Wilson
+3/7/2008	BE-A36	N94JV	IWA - IWA	1.6	1.6		1.6	1.6												1.6			1.6		DG - Stephen Diamond
+3/8/2008	BE-A36	N4151Q	IWA - LGB - SAN - IWA	6.3	6.3		6.3	6.3	6.3									6.3		6.3			6.3		DG - Stephen Diamond
+3/10/2008	BE58	N3149P	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5											1.5			1.5		DG - Peter Boyer
+3/10/2008	PA28-161	N616MA	IWA - CGZ - IWA	1.4	1.4				1.4		4			0.9	1					1.4					Safety Pilot - Michelle Kraus
+3/13/2008	BE58	N3149P	IWA - IWA	1		1	1	1												1			1		DG - Peter Boyer
+3/14/2008	PA28-161	N616MA	IWA - MZJ - IWA	1.7	1.7				1.7									1.7		1.7			1.7	1.7	SC - Colin Slattery
+3/14/2008	BE-A36	N8183E	IWA - IWA	1.1	1.1		1.1	1.1												1.1			1.1		DG - Stephen Diamond
+3/17/2008	BE-A36	N8183E	IWA - MZJ - IWA	1.2	1.2		1.2	1.2	1.2									1.2		1.2			1.2		DG - Patrick Friend
+3/18/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Stephen Diamond
+3/18/2008	BE-A36	N4151Q	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4	1.4	SC - Andrew Fabrigas
+3/19/2008	PA28-161	N5319M	IWA - IWA	1.2	1.2															1.2			1.2	1.2	SC - Colin Slattery
+3/24/2008	BE-A36	N94JV	IWA - P08 - IWA	1.2	1.2		1.2	1.2	1.2											1.2			1.2		DG - Patrick Friend
+3/25/2008	PA28-161	N5361Z	IWA - CGZ - IWA	1.6	1.6				1.6											1.6			1.6	1.6	SC - Daniel Bridenstine
+3/26/2008	PA28-161	N616MA	IWA - IWA	1.5	1.5															1.5			1.5	1.5	SC - Aaron Grissum
+3/26/2008	BE-A36	N9067E	IWA - IWA	0.8	0.8		0.8	0.8												0.8			0.8		DG - Patrick Friend
+3/27/2008	PA28-161	N616MA	IWA - CGZ - IWA	1.2	1.2				1.2											1.2			1.2		DG - Peter Boyer
+3/27/2008	PA28-161	N4185Q	IWA - P08 - IWA	1.3	1.3				1.3											1.3			1.3	1.3	SC - Donald Kelly
+3/27/2008	PA28-161	N4185Q	IWA - IWA	1.3	1.3															1.3			1.3	1.3	SC - Jordan Hogg
+3/28/2008	PA28-161	N5350J	IWA - P08 - IWA	1.2	1.2				1.2											1.2			1.2	1.2	SC - Daniel Bridenstine
+3/28/2008	PA28-161	N47717	IWA - IWA	1.2	1.2															1.2			1.2	1.2	SC - Graeme Kimmel
+3/31/2008	PA28-161	N47717	IWA - IWA	1.4	1.4						1									1.4			1.4	1.4	SC - Nick Klein
+3/31/2008	PA28-161	N616MA	IWA - IWA	1.2	1.2															1.2			1.2		DG - Peter Boyer
+4/1/2008	BE-A36	N4151Q	IWA - IWA	0.7	0.7		0.7	0.7												0.7			0.7		DG - Stephen Diamond
+4/2/2008	PA28-161	N616MA	IWA - CGZ - IWA	1.3	1.3						1			0.5	1					1.3			1.3		DG - Peter Boyer
+4/3/2008	PA28-161	N616MA	IWA - IWA	1.4	1.4						1									1.4			1.4		DG - Daniel McDonell
+4/4/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5	1.5	SC - Chris Neidhardt
+4/4/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Stephen Diamond
+4/7/2008	BE-A36	N94JV	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Patrick Friend
+4/9/2008	PA28-161	N5361Z	IWA - CGZ - IWA	1.6	1.6				1.6		1			0.5	1					1.6			1.6		DG - Peter Boyer
+4/9/2008	PA28-161	N2385V	IWA - IWA	1.3	1.3						2									1.3			1.3		DG - Daniel McDonell
+4/10/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6	1.6	SC - Casey Ferguson
+4/10/2008	PA28-161	N2385V	IWA - IWA	1	1						1									1			1		DG - Daniel McDonell
+4/10/2008	PA28-161	N240D	IWA - MZJ - IWA	1.6	1.6				1.6									1.6		1.6			1.6	1.6	SC - Brian Washburn
+4/11/2008	PA28-161	N240D	IWA - IWA	1	1															1			1	1	SC - Mark Bolstad
+4/11/2008	PA28-151	N32779	IWA - E60 - IWA	1.4	1.4				1.4											1.4			1.4	1.4	SC - Jeff Cerreta
+4/14/2008	BE-A36	N4151Q	IWA - IWA	0.7	0.7		0.7	0.7												0.7			0.7		DG - Patrick Friend
+4/16/2008	PA28-161	N5350J	IWA - CGZ - IWA	1.3	1.3				1.3		1			0.6	1					1.3			1.3		DG - Peter Boyer
+4/16/2008	BE-A36	N9067E	IWA - IWA	0.8	0.8		0.8	0.8			1									0.8			0.8		DG - Dustin Ammann
+4/17/2008	PA28-161	N950DA	IWA - IWA	1.2	1.2															1.2			1.2	1.2	SC - Greg Woronovich
+4/18/2008	PA28-161	N4185Q	IWA - CGZ - IWA	1.2	1.2				1.2											1.2			1.2	1.2	SC - Andrew Jana
+4/18/2008	BE-A36	N7206J	IWA - MZJ - IWA	1.5	1.5		1.5	1.5	1.5									1.5		1.5			1.5		DG - Stephen Diamond
+4/21/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4		1									1.4			1.4		DG - Dustin Ammann
+4/22/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5	1.5	SC - Jason Brue
+4/22/2008	BE-A36	N9067E	IWA - IWA	1.3	1.3		1.3	1.3			1									1.3			1.3		DG - Dustin Ammann
+4/23/2008	PA28-161	N5361Z	IWA - E77 - IWA	1.8	1.8				1.8									1.8		1.8			1.8	1.8	SC - Sirin Srikier
+4/24/2008	PA28-161	N2950H	IWA - MZJ - IWA	1.7	1.7				1.7									1.7		1.7			1.7	1.7	SC - John Langdon
+4/24/2008	PA28-161	N2950H	IWA - IWA	1.5	1.5															1.5			1.5	1.5	SC - James Boswell
+6/2/2008	BE-A36	N94JV	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Julio Ortiz
+6/2/2008	BE58	N3149P	IWA - IWA	0.5		0.5	0.5	0.5			3								0.5	0.5					Multi Currency
+6/2/2008	BE58	N3149P	IWA - P08 - IWA	1.4		1.4	1.4	1.4												1.4			1.4		DG - Fletcher Corbett
+6/3/2008	BE58	N3149P	IWA - IWA	1.5		1.5	1.5	1.5												1.5			1.5		DG - Gary Bates
+6/5/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.2	1.2		1.2	1.2	1.2											1.2			1.2		DG - Chris Minneci
+6/6/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Chris Minneci
+6/6/2008	BE-A36	N8256H	IWA - IWA	1	1		1	1			1									1			1		DG - Nate Turner
+6/9/2008	PA28-161	N5350J	IWA - MZJ - IWA	1.5	1.5				1.5									1.5		1.5			1.5	1.5	SC - Edward Logan
+6/9/2008	PA28-161	N4185Q	IWA - IWA	1.6	1.6															1.6			1.6	1.6	SC - Carol Mitchell
+6/10/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.2	1.2		1.2	1.2	1.2											1.2			1.2		DG - Chris Minneci
+6/10/2008	PA28-161	N5350J	IWA - CGZ - IWA	1.4	1.4				1.4					0.5	1					1.4			1.4		DG - Casey Coleman
+6/11/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3		DG - Chris Minneci
+6/11/2008	BE-A36	N8183E	IWA - CGZ - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6	1.6	SC - Rick Moreira
+6/12/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.2	1.2		1.2	1.2	1.2											1.2			1.2		DG - Chris Minneci
+6/12/2008	Frasca	142	ASU EAST												2		1.1								Instrument Currency
+6/16/2008	PA28-161	N5350J	IWA - CGZ - IWA	1.7	1.7				1.7		2			1	2					1.7			1.7		DG - Casey Coleman
+6/17/2008	PA28-161	N616MA	IWA - CGZ - IWA	1.6	1.6				1.6		1			0.7	1					1.6			1.6		DG - Casey Coleman
+6/18/2008	BE-A36	N8256H	IWA - MZJ - IWA	2	2		2	2	2									2		2			2	2	SC - Victor Checkcinco
+6/19/2008	PA28-161	N4185Q	IWA - CGZ - IWA	1.7	1.7				1.7		2			0.9	2					1.7			1.7		DG - Casey Coleman
+6/19/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4	1.4	SC - Marc Ferrara
+6/19/2008	BE58	N3149P	IWA - P08 - IWA	1.3		1.3	1.3	1.3	1.3		1									1.3			1.3		DG - Kevin Korycanek
+7/2/2008	BE58	N3149P	IWA - IWA	1.4		1.4	1.4	1.4			1									1.4			1.4		DG - Casey Coleman
+7/3/2008	PA28-161	N5319M	IWA - CGZ - IWA	1.5	1.5				1.5											1.5			1.5	1.5	SC - John Langdon
+7/3/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6	1.6	SC - Earl Cordovez
+7/7/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.2	1.2		1.2	1.2	1.2											1.2			1.2	1.2	SC - Earl Cordovez
+7/8/2008	PA28-161	N5319M	IWA - P08 - IWA	1.7	1.7				1.7											1.7			1.7	1.7	SC - Amanda Miller
+7/8/2008	PA28-161	N5361Z	IWA - IWA	0.8	0.8							4				0.8			0.8	0.8					Night Currency
+7/14/2008	PA28-161	N5319M	IWA - E60 - IWA	1.7	1.7				1.7											1.7			1.7	1.7	SC - Travis Christy
+7/14/2008	BE-A36	N94JV	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3	1.3	SC - Dustin Ammann
+7/15/2008	PA28-161	N5319M	IWA - IWA	1.2	1.2															1.2			1.2	1.2	SC - Amanda Miller
+7/15/2008	PA28-161	N5350J	IWA - IWA	1.8	1.8							4				1.8				1.8			1.8		DG - Sammy Mitchell
+7/16/2008	PA28-161	N2950H	IWA - MZJ - IWA	1.7	1.7				1.7									1.7		1.7			1.7	1.7	SC - James Boswell
+7/16/2008	BE58	N3149P	IWA - P08 - IWA	1.5		1.5	1.5	1.5	1.5		1									1.5			1.5		DG - Casey Coleman
+7/17/2008	BE-A36	N9067E	IWA - E60 - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3	1.3	SC - Rick Moreira
+7/17/2008	BE58	N3149P	IWA - P08 - IWA	1.4		1.4	1.4	1.4	1.4		1									1.4			1.4		DG - Kevin Korycanek
+7/18/2008	BE-A36	N4151Q	IWA - HII - IWA	3.7	3.7		3.7	3.7	3.7							3.7		3.7		3.7			3.7		DG - Julio Ortiz
+7/21/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6							1.6				1.6			1.6		SC - Marc Ferrara
+7/22/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8			2				1.8				1.8			1.8		DG - Jesse Wagner
+7/23/2008	BE-A36	N8256H	IWA - FFZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7	1.7	SC - Heikki Kontkanen
+7/23/2008	PA28-161	N2950H	IWA - AVQ - IWA	1.7	1.7				1.7									1.7		1.7			1.7	1.7	SC - Michael Hammett
+7/23/2008	PA28-161	N5361Z	IWA - E95 - TUS - CGZ - IWA	3.2	3.2				3.2			1				3.2		3.2		3.2			3.2		DG - Mark Bolstad
+7/24/2008	BE58	N3149P	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5											1.5			1.5		DG - Kevin Korycanek
+7/25/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5			1				1.5				1.5			1.5		DG - Julio Ortiz
+7/27/2008	PA28-161	N240D	IWA - TUS - IWA	2.7	2.7				2.7			2				2.7		2.7		2.7			2.7		DG - Chris Stocking
+7/27/2008	PA28-161	N950DA	IWA - IWA	0.5	0.5															0.5			0.5		DG - Brian Crysler
+7/28/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7							1.7				1.7			1.7	1.7	SC - Greg Woronovich
+7/29/2008	PA28-161	N5361Z	IWA - CGZ - IWA	1.2	1.2				1.2											1.2			1.2	1.2	SC - Brian Crysler
+7/29/2008	PA28-161	N47717	IWA - IWA	1.3	1.3															1.3			1.3	1.3	SC - Nicole Duarte
+7/29/2008	BE-A36	N4151Q	IWA - FLG - IWA	3.1	3.1		3.1	3.1	3.1							3.1		3.1		3.1			3.1		DG - Julio Ortiz
+7/30/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.8	1.8		1.8	1.8	1.8							1.8				1.8			1.8		SC - Jacob Manbeck
+8/1/2008	PA28-161	N950DA	IWA - IWA	1.1	1.1						1									1.1			1.1		DG - Nicole Duarte
+8/4/2008	BE-A36	N94JV	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6							1.6				1.6			1.6		DG - Brandon Blank
+8/5/2008	PA28-161	N47717	IWA - IWA	1	1															1			1	1	SC - Nicole Duarte
+8/5/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3							1.3				1.3			1.3	1.3	SC - Jacob Manbeck
+8/6/2008	PA28-161	N5350J	IWA - CGZ - IWA	1.2	1.2				1.2			1				1.2				1.2			1.2		DG - Mark Bolstad
+8/7/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7							1.7				1.7			1.7		DG - IPC - Blake Jardine
+8/8/2008	PA28-161	N4185Q	IWA - AVQ - IWA	1.7	1.7				1.7									1.7		1.7			1.7	1.7	SC - Brett Toronto
+8/11/2008	PA28-161	N5319M	IWA - CGZ - IWA	1.4	1.4				1.4					0.7	1					1.4			1.4	1.4	SC - Dustin Riggs
+8/13/2008	PA28-161	N240D	IWA - MZJ - IWA	1.3	1.3				1.3									1.3		1.3			1.3	1.3	SC - Brett Toronto
+8/14/2008	PA28-161	N240D	IWA - IWA	1.3	1.3						1									1.3			1.3		DG - Heikki Kontkanen
+8/14/2008	BE-A36	N94JV	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Chris Minneci
+8/18/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Chris Minneci
+8/19/2008	BE-A36	N8183E	CHD - IWA	0.5	0.5		0.5	0.5	0.5		1								0.5	0.5					Ferry Flight
+8/20/2008	PA28-161	N5350J	IWA - E60 - IWA	1.7	1.7				1.7											1.7			1.7	1.7	SC - James Boswell
+8/20/2008	PA28-161	N5350J	IWA - P08 - IWA	1.5	1.5				1.5											1.5			1.5		DG - Daniel Bridenstine
+8/20/2008	BE58	N3149P	IWA - P08 - IWA	1.4		1.4	1.4	1.4	1.4		2									1.4			1.4		DG - Nathan Turner
+8/21/2008	BE58	N3149P	IWA - P08 - IWA	1.5		1.5	1.5	1.5	1.5		1									1.5			1.5		DG - Casey Coleman
+8/22/2008	PA28-161	N47717	IWA - IWA	1.3	1.3															1.3			1.3		DG - Crystal Sayban
+8/22/2008	BE-A36	N9067E	IWA - VNY - SAN - IWA	6.2	6.2		6.2	6.2	6.2		1							6.2		6.2			6.2		DG - Julio Ortiz
+8/25/2008	BE-A36	N9067E	IWA - HII - IWA	3.4	3.4		3.4	3.4	3.4									3.4		3.4			3.4		DG - Marc Ferrara
+8/26/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4	1.4	SC - Andrew Jana
+8/28/2008	BE58	N3149P	IWA - MZJ - IWA	1.7		1.7	1.7	1.7	1.7									1.7		1.7			1.7		DG - Casey Coleman
+8/28/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Chris Minneci
+8/29/2008	PA28-161	N616MA	IWA - E60 - IWA	1.6	1.6				1.6											1.6			1.6	1.6	SC - Chris Stocking
+9/2/2008	BE58	N3149P	IWA - P08 - IWA	1.4		1.4	1.4	1.4	1.4		1									1.4			1.4		DG - Casey Coleman
+9/3/2008	PA28-161	N616MA	IWA - IWA	1	1				1											1			1	1	SC - James Boswell
+9/4/2008	BE58	N3149P	IWA - CGZ - IWA	1.6		1.6	1.6	1.6	1.6		1									1.6			1.6		DG - Casey Coleman
+9/5/2008	BE58	N3149P	IWA - FMN - IWA	4.5		4.5	4.5	4.5	4.5		2							4.5		4.5					Fly 3 Mesa Execs to FMN
+9/8/2008	BE-A36	N94JV	IWA - IWA	1.4	1.4		1.4	1.4												1.4			1.4		DG - Chris Minneci
+9/8/2008	PA28-161	N240D	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Heikki Kontkanen
+9/9/2008	PA28-161	N5350J	IWA - AVQ - IWA	1.9	1.9				1.9									1.9		1.9			1.9	1.9	SC - Ryan Jessee
+9/9/2008	PA28-161	N5350J	IWA - IWA	1	1															1			1		DG - Nathan Rumancik
+9/11/2008	BE58	N3149P	IWA - IWA	1.4		1.4	1.4	1.4												1.4			1.4		DG - Casey Coleman
+9/11/2008	PA28-161	N5350J	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Rob Hanback
+9/12/2008	PA28-161	N4185Q	IWA - IWA	1.6	1.6						1									1.6			1.6		DG - Rob Hanback
+9/15/2008	PA28-161	N2385V	IWA - IWA	1.4	1.4						2									1.4			1.4		DG - Andrew Rudd
+9/15/2008	PA28-161	N4185Q	IWA - IWA	1.3	1.3						2									1.3			1.3		DG - Heikki Kontkanen
+9/16/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6	1.6	SC - Austin Helm
+9/16/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		SC - Graeme Kimmel
+9/17/2008	PA28-161	N5319M	IWA - IWA	1.6	1.6						1									1.6			1.6		DG - Andrew Rudd
+9/17/2008	PA28-161	N47717	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4	1.4	SC - Chris Stocking
+9/19/2008	BE-A36	N9067E	IWA - IGM - IWA	3.4	3.4		3.4	3.4	3.4		1		0.4					3.4		3.4			3.4		DG - Chris Minneci
+9/22/2008	PA28-161	N5319M	IWA - IWA	1.6	1.6															1.6			1.6		DG - Andrew Rudd
+9/22/2008	PA28-161	N5361Z	IWA - IWA	1.2	1.2						1									1.2			1.2		DG - Clayton Condict
+9/24/2008	PA28-161	N950DA	IWA - IWA	1.4	1.4						2									1.4			1.4		DG - Andrew Rudd
+9/24/2008	PA28-151	N32779	IWA - IWA	1.4	1.4						1									1.4			1.4		DG - Heikki Kontkanen
+9/24/2008	PA28-161	N950DA	IWA - IWA	1.1	1.1															1.1			1.1		DG - Tim Lachenmaier
+9/25/2008	PA28-161	N950DA	IWA - IWA	1.4	1.4				1.4		1									1.4			1.4		DG - Clayton Condict
+9/25/2008	BE-A36	N94JV	IWA - IWA	1.6	1.6		1.6	1.6												1.6			1.6		DG - Kyle Brown
+9/26/2008	BE-A36	N8256H	IWA - SNA - SAN - IWA	6.1	6.1		6.1	6.1	6.1		1							6.1		6.1			6.1		DG - Chris Minneci
+9/29/2008	PA28-161	N5361Z	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Heikki Kontkanen
+9/30/2008	BE58	N3149P	IWA - MZJ - IWA	1.7		1.7	1.7	1.7	1.7		2							1.7		1.7			1.7		DG - Greg Lyon
+9/30/2008	BE-A36	N8256H	IWA - IWA	1.4	1.4		1.4	1.4			1									1.4			1.4		DG - Kyle Brown
+9/30/2008	PA28-161	N2385V	IWA - IWA	1.1	1.1															1.1			1.1		DG - Nathan Rumancik
+10/1/2008	PA28-161	N5361Z	IWA - IWA	1.6	1.6						1									1.6			1.6		DG - Andrew Rudd
+10/1/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3		DG - Chris Minneci
+10/3/2008	BE58	N3149P	IWA - MZJ - IWA	1.6		1.6	1.6	1.6	1.6		1							1.6		1.6			1.6		DG - Greg Lyon
+10/3/2008	BE-A36	N9067E	IWA - SMO - IWA	5.2	5.2		5.2	5.2	5.2				0.3		1			5.2		5.2			5.2		DG - Chris Minneci
+10/6/2008	PA28-161	N2950H	IWA - IWA	1.4	1.4															1.4			1.4		DG - Andrew Rudd
+10/6/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Chris Minneci
+10/6/2008	PA28-161	N4185Q	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Heikki Kontkanen
+10/6/2008	PA28-161	N2950H	IWA - IWA	1.2	1.2						1									1.2			1.2		DG - Clayton Condict
+10/7/2008	BE58	N3149P	IWA - P08 - IWA	1.5		1.5	1.5	1.5	1.5											1.5			1.5		DG - Greg Lyon
+10/7/2008	BE-A36	N4151Q	IWA - P08 - IWA	1.7	1.7		1.7	1.7	1.7											1.7			1.7		DG - Kyle Brown
+10/8/2008	PA28-161	N2950H	IWA - CGZ - IWA	1.6	1.6				1.6											1.6			1.6		DG - Andrew Rudd
+10/8/2008	BE-A36	N8256H	IWA - IWA	1.1	1.1		1.1	1.1												1.1			1.1		DG - Chris Minneci
+10/9/2008	BE-A36	N94JV	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Kyle Brown
+10/9/2008	BE58	N3149P	IWA - IWA	1.6		1.6	1.6	1.6	1.6		1									1.6			1.6		DG - Braden Tada
+10/10/2008	PA28-161	N2950H	IWA - E60 - IWA	1.7	1.7				1.7											1.7			1.7	1.7	SC - Sammy Mitchell
+10/10/2008	BE58	N3149P	IWA - P08 - IWA	1.5		1.5	1.5	1.5	1.5											1.5			1.5		DG - Greg Lyon
+10/10/2008	BE58	N3149P	IWA - P08 - IWA	1.8		1.8	1.8	1.8	1.8		1									1.8			1.8		DG - Braden Tada
+10/13/2008	PA28-161	N4185Q	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Andrew Rudd
+10/13/2008	PA28-161	N5350J	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Clayton Condict
+10/15/2008	PA28-161	N240D	IWA - P08 - IWA	1.6	1.6				1.6											1.6			1.6		DG - Andrew Rudd
+10/15/2008	BE-A36	N9067E	IWA - IWA	1.3	1.3		1.3	1.3												1.3			1.3		DG - Chris Minneci
+10/15/2008	BE58	N3149P	IWA - MZJ - IWA	1.7		1.7	1.7	1.7	1.7		1							1.7		1.7			1.7		DG - Braden Tada
+10/16/2008	PA28-161	N2950H	IWA - IWA	1.5	1.5						2									1.5			1.5		DG - Clayton Condict
+10/16/2008	BE58	N3149P	IWA - CGZ - IWA	1.8		1.8	1.8	1.8	1.8											1.8			1.8		DG - Braden Tada
+10/17/2008	BE58	N3149P	IWA - P08 - IWA	1.6		1.6	1.6	1.6	1.6											1.6			1.6	1.6	SC - Brian Anderson
+10/17/2008	BE58	N3149P	IWA - MZJ - IWA	1.7		1.7	1.7	1.7	1.7									1.7		1.7			1.7		DG - Greg Lyon
+10/17/2008	BE58	N3149P	IWA - P08 - IWA	1.5		1.5	1.5	1.5	1.5											1.5			1.5		DG - Braden Tada
+10/23/2008	PA28-161	N4185Q	IWA - P08 - IWA	1.5	1.5				1.5											1.5			1.5		DG - Andrew Rudd
+10/24/2008	PA28-161	N47717	IWA - P08 - IWA	1.6	1.6				1.6											1.6			1.6		DG - Andrew Rudd
+10/24/2008	BE58	N8245H	IWA - MZJ - IWA	1.9		1.9	1.9	1.9	1.9									1.9		1.9			1.9		DG - Greg Lyon
+10/27/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Chris Minneci
+10/27/2008	BE58	N3149P	IWA - CGZ - IWA	1.8		1.8	1.8	1.8	1.8		1									1.8			1.8		DG - Braden Tada
+10/28/2008	BE58	N8245H	IWA - CGZ - IWA	1.6		1.6	1.6	1.6	1.6											1.6			1.6		DG - Greg Lyon
+10/28/2008	PA28-161	N5319M	IWA - E77 - IWA	1.9	1.9				1.9									1.9		1.9			1.9		DG - Andrew Rudd
+10/29/2008	PA28-161	N616MA	IWA - AVQ - IWA	1.6	1.6				1.6									1.6		1.6			1.6		DG - Andrew Rudd
+10/30/2008	PA28-161	N5350J	IWA - CGZ - IWA	1.5	1.5				1.5											1.5			1.5	1.5	SC - Sirin Srikier
+10/31/2008	BE58	N8245H	IWA - CGZ - IWA	1.4		1.4	1.4	1.4	1.4											1.4			1.4		DG - Braden Tada
+11/3/2008	PA28-161	N5361Z	IWA - CGZ - IWA	1.5	1.5				1.5											1.5			1.5		DG - Andrew Rudd
+11/3/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3		2			0.5	1					1.3		1.3			141 currency - CFI Michelle Kraus
+11/3/2008	PA28-161	N5319M	IWA - CGZ - IWA	1.4	1.4				1.4											1.4			1.4		DG - Heikki Kontkanen
+11/3/2008	PA28-161	N240D	IWA - IWA	1.5	1.5						2									1.5			1.5		DG - Clayton Condict
+11/4/2008	BE58	N8245H	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7											1.7			1.7		DG - Braden Tada
+11/5/2008	PA28-161	N2385V	IWA - CHD - CGZ - P08 - IWA	1.5	1.5				1.5											1.5			1.5		DG - Andrew Rudd
+11/5/2008	BE58	N8245H	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5											1.5			1.5	1.5	SC - Kyle Brown
+11/6/2008	PA28-161	N4185Q	IWA - IWA	1.5	1.5				1.5		1									1.5			1.5		DG - Clayton Condict
+11/6/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4	1.4	SC - Graeme Kimmel
+11/7/2008	BE58	N8245H	IWA - CGZ - IWA	1.6		1.6	1.6	1.6	1.6											1.6			1.6		DG - Greg Lyon
+11/10/2008	PA28-161	N240D	IWA - IWA	1.3	1.3						1									1.3			1.3		DG - Heikki Kontkanen
+11/10/2008	PA28-161	N5350J	IWA - IWA	1.3	1.3						1									1.3			1.3		DG - Clayton Condict
+11/11/2008	BE58	N3149P	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7		1									1.7			1.7		DG - Greg Lyon
+11/11/2008	BE-A36	N9067E	IWA - IWA	1	1		1	1												1			1	1	SC - Graeme Kimmel
+11/12/2008	PA28-161	N2385V	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Andrew Rudd
+11/12/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Chris Minneci
+11/13/2008	PA28-161	N47717	IWA - IWA	1.4	1.4															1.4			1.4		DG - Clayton Condict
+11/13/2008	BE-A36	N8256H	IWA - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5		DG - Chris Minneci
+11/14/2008	PA28-161	N2950H	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Nathan Rumancik
+11/17/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Chris Minneci
+11/17/2008	PA28-151	N32779	IWA - P08 - IWA	1.4	1.4				1.4		1									1.4			1.4		DG - Heikki Kontkanen
+11/18/2008	BE58	N3149P	IWA - CGZ - IWA	1.6		1.6	1.6	1.6	1.6											1.6			1.6	1.6	SC - Mike Vasta
+11/18/2008	PA28-161	N5350J	IWA - IWA	1.5	1.5				1.5											1.5			1.5		DG - Nathan Rumancik
+11/19/2008	BE58	N3149P	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7		1									1.7			1.7		DG - Greg Lyon
+11/19/2008	BE-A36	N8183E	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Chris Minneci
+11/20/2008	PA28-161	N47717	IWA - P08 - IWA	1.5	1.5				1.5											1.5			1.5	1.5	SC - Mark Bolstad
+11/21/2008	PA28-161	N240D	IWA - IWA	1.5	1.5				1.5											1.5			1.5		DG - Clayton Condict
+11/21/2008	BE58	N3149P	IWA - CGZ - IWA	1.2		1.2	1.2	1.2	1.2											1.2			1.2		DG - Greg Lyon
+11/24/2008	PA28-161	N950DA	IWA - P08 - IWA	1.3	1.3				1.3											1.3			1.3		DG - Andrew Rudd
+11/26/2008	PA28-161	N950DA	IWA - CGZ - IWA	1.5	1.5				1.5		1					0.4				1.5			1.5		DG - Andrew Rudd
+11/26/2008	PA28-161	N950DA	IWA - IWA	1.4	1.4															1.4			1.4		DG - Clayton Condict
+11/28/2008	Frasca	142	ASU EAST												3		1.2								Inst Currency - CFI Ryan Fogelsanger
+12/1/2008	PA28-161	N5319M	IWA - P08 - IWA	1.4	1.4				1.4		1									1.4			1.4		DG - Heikki Kontkanen
+12/1/2008	PA28-161	N2950H	IWA - IWA	1.3	1.3						1									1.3			1.3		DG - Clayton Condict
+12/2/2008	BE-A36	N9067E	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4							0.2				1.4			1.4	1.4	SC - Brandon Spangenberg
+12/2/2008	PA28-161	N5319M	IWA - P08 - IWA	1.2	1.2				1.2											1.2			1.2		DG - Nathan Rumancik
+12/3/2008	PA28-161	N240D	IWA - P08 - IWA	1.7	1.7				1.7							0.3				1.7			1.7		DG - Andrew Rudd
+12/3/2008	BE-A36	N9067E	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4	1.4	SC - Colin Slattery
+12/4/2008	BE-A36	N7206J	IWA - MZJ - IWA	1.5	1.5		1.5	1.5	1.5		1							1.5		1.5			1.5		DG - Kyle Brown
+12/4/2008	PA28-161	N2385V	IWA - IWA	1	1															1			1	1	SC - Rebecca Bennett
+12/5/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5	1.5	SC - Austin Helm
+12/8/2008	PA28-161	N47717	IWA - CGZ - IWA	1.7	1.7				1.7							0.3				1.7			1.7		DG - Andrew Rudd
+12/8/2008	PA28-161	N950DA	IWA - IWA	1.3	1.3						2									1.3			1.3		DG - Clayton Condict
+12/9/2008	PA28-161	N616MA	IWA - MZJ - IWA	1.8	1.8				1.8		1					0.3		1.8		1.8			1.8		DG - Eric Valenzuela
+12/9/2008	BE-A36	N4151Q	IWA - CGZ - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Dustin Ammann
+12/9/2008	PA28-161	N4185Q	IWA - P08 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Nathan Rumancik
+12/10/2008	PA28-161	N5319M	IWA - CGZ - IWA	1.6	1.6				1.6		1			0.7	1					1.6			1.6	1.6	SC - Travis Richards
+12/11/2008	BE-A36	N7206J	IWA - MZJ - IWA	1.7	1.7		1.7	1.7	1.7		1							1.7		1.7			1.7		DG - Kyle Brown
+12/11/2008	PA28-161	N5350J	IWA - IWA	1.4	1.4															1.4			1.4	1.4	SC - Kyle Shumway
+12/12/2008	PA28-161	N5319M	IWA - IWA	1.4	1.4						1									1.4			1.4		DG - Clayton Condict
+12/15/2008	PA28-161	N2950H	IWA - A39 - IWA	1.5	1.5				1.5											1.5			1.5		DG - Andrew Rudd
+12/17/2008	BE-A36	N8256H	IWA - MZJ - IWA	1.6	1.6		1.6	1.6	1.6									1.6		1.6			1.6		DG - Kyle Brown
+12/19/2008	BE-A36	N8256H	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4							0.3				1.4			1.4		DG - Brian Crysler
+12/19/2008	PA28-161	N616MA	IWA - A39 - IWA	1.5	1.5				1.5											1.5			1.5		DG - Andrew Rudd
+12/22/2008	PA28-161	N240D	IWA - CGZ - IWA	1.4	1.4				1.4											1.4			1.4		DG - Andrew Rudd
+12/22/2008	BE58	N3149P	IWA - IWA	0.6		0.6	0.6	0.6				3				0.6			0.6	0.6					Multi night currency
+12/22/2008	PA28-161	N5350J	IWA - IWA	0.6	0.6							3				0.6			0.6	0.6					Single night currency
+12/23/2008	PA28-161	N5350J	IWA - CHD - IWA	1.6	1.6				1.6							0.5				1.6			1.6	1.6	SC - James Boswell
+12/23/2008	BE-A36	N8183E	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5		1									1.5			1.5		DG - Kyle Brown
+12/23/2008	BE-A36	N8183E	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5											1.5			1.5	1.5	SC - Nand Mehta
+12/23/2008	BE-A36	N8256H	IWA - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3	1.3	SC - Austin Helm
+12/24/2008	PA28-161	N5361Z	IWA - P08 - IWA	1.4	1.4				1.4		1									1.4			1.4		DG - Audra Alseike
+12/29/2008	BE58	N3149P	IWA - MZJ - IWA	1.6		1.6	1.6	1.6	1.6		1							1.6		1.6			1.6		DG - Greg Lyon
+12/30/2008	BE58	N3149P	IWA - CGZ - IWA	1.5		1.5	1.5	1.5	1.5		1									1.5			1.5		DG - Greg Lyon
+12/31/2008	PA28-161	N950DA	IWA - A39 - IWA	1.4	1.4				1.4											1.4			1.4		DG - Andrew Rudd
+1/2/2009	BE58	N3149P	IWA - MZJ - IWA	1.5		1.5	1.5	1.5	1.5									1.5		1.5			1.5		DG - Greg Lyon
+1/2/2009	BE-A36	N94JV	IWA - MZJ - IWA	1.6	1.6		1.6	1.6	1.6									1.6		1.6			1.6		DG - Jeff Kadlec
+1/6/2009	PA28-161	N2950H	IWA - PAN - IWA	1.8	1.8				1.8									1.8		1.8			1.8		DG - Andrew Rudd
+1/6/2009	BE58	N3149P	IWA - TUS - IWA	2		2	2	2	2			2				2		2		2			2		DG - Fletcher Corbett
+1/7/2009	PA28-161	N4185Q	IWA - SOW - IWA	2.9	2.9				2.9									2.9		2.9			2.9		DG - Andrew Rudd
+1/8/2009	PA28-161	N616MA	IWA - E24 - IWA	2.6	2.6				2.6									2.6		2.6			2.6	2.6	SC - Kyle James
+1/8/2009	PA28-161	N2950H	IWA - IWA	1.5	1.5						1									1.5			1.5		DG - Clayton Condict
+1/9/2009	PA28-161	N2950H	IWA - IWA	1.5	1.5															1.5			1.5		DG - Clayton Condict
+1/12/2009	PA28-161	N4185Q	IWA - IWA	1	1															1			1		DG - Clayton Condict
+1/13/2009	BE-A36	N4151Q	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5		1									1.5			1.5		DG - Kyle Brown
+1/13/2009	BE-A36	N4151Q	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6		1									1.6			1.6		DG - Hekki Kontkanen
+1/13/2009	BE58	N3149P	IWA - MZJ - IWA	1.5		1.5	1.5	1.5	1.5									1.5		1.5			1.5		DG - Fletcher Corbett
+1/14/2009	BE-A36	N4151Q	IWA - P08 - IWA	1.6	1.6		1.6	1.6	1.6											1.6			1.6		DG - Kurt McKay
+1/16/2009	BE-A36	N8183E	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4		2									1.4			1.4		DG - Nathan Rumancik
+1/16/2009	PA28-161	N5361Z	IWA - IWA	0.7	0.7															0.7			0.7		DG - Clayton Condict
+1/19/2009	BE-A36	N4151Q	IWA - MZJ - IWA	1.6	1.6		1.6	1.6	1.6		1							1.6		1.6			1.6		DG - Oscar Ahuactzin
+1/19/2009	PA28-161	N5319M	IWA - IWA	0.6	0.6															0.6			0.6		DG - Clayton Condict
+1/20/2009	BE58	N3149P	IWA - MZJ - IWA	1.4		1.4	1.4	1.4	1.4		1							1.4		1.4			1.4		DG - Lee Hendrickson
+1/20/2009	BE-A36	N94JV	IWA - CGZ - IWA	1	1		1	1	1		2									1			1		DG - Audra Alseike
+1/20/2009	PA28-161	N5361Z	IWA - MZJ - IWA	1.7	1.7				1.7			3				1.7		1.7		1.7			1.7		DG - Andrew Rudd
+1/21/2009	PA28-161	N4185Q	IWA - P08 - IWA	1.2	1.2				1.2											1.2			1.2	1.2	SC - Michael Hammett
+1/22/2009	BE-A36	N7206J	IWA - P08 - IWA	1.2	1.2		1.2	1.2	1.2		1									1.2			1.2		DG - Nathan Rumancik
+1/23/2009	PA28-161	N5319M	IWA - CGZ - IWA	1.4	1.4				1.4							0.5				1.4			1.4		DG - Tyler Butler
+1/23/2009	BE-A36	N8183E	IWA - MZJ - IWA	1.4	1.4		1.4	1.4	1.4									1.4		1.4			1.4		DG - Nathan Rumancik
+1/23/2009	BE-A36	N94JV	IWA - MZJ - IWA	1.8	1.8		1.8	1.8	1.8		1							1.8		1.8			1.8		DG - Audra Alseike
+1/27/2009	BE-A36	N94JV	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4		1									1.4			1.4		DG - Audra Alseike
+1/27/2009	BE-A36	N8183E	IWA - MZJ - IWA	1.5	1.5		1.5	1.5	1.5									1.5		1.5			1.5		DG - Nathan Rumancik
+1/28/2009	PA28-161	N2385V	IWA - CGZ - IWA	1.5	1.5				1.5		1									1.5			1.5		DG - Clayton Condict
+1/30/2009	BE-A36	N8183E	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Nathan Rumancik
+2/2/2009	PA28-161	N616MA	IWA - P08 - IWA	1.5	1.5				1.5		1									1.5			1.5		DG - Clayton Condict
+2/3/2009	BE58	N3149P	IWA - MZJ - FFZ - IWA	1.7		1.7	1.7	1.7	1.7		2							1.7		1.7			1.7		DG - Chris Neidhardt
+2/4/2009	BE-A36	N94JV	IWA - IWA	0.9	0.9		0.9	0.9								0.4				0.9			0.9	0.9	SC - Brian Crysler
+2/4/2009	PA28-161	N5361Z	IWA - CGZ - IWA	1.2	1.2				1.2											1.2			1.2		DG - Jeff Kadlec
+2/5/2009	BE-A36	N94JV	IWA - P08 - IWA	1.3	1.3		1.3	1.3	1.3		1									1.3			1.3		DG - Audra Alseike
+2/5/2009	BE58	N3149P	IWA - MZJ - IWA	1.6		1.6	1.6	1.6	1.6									1.6		1.6			1.6		DG - Greg Lyon
+2/6/2009	BE58	N3149P	IWA - CGZ - IWA	1.7		1.7	1.7	1.7	1.7							0.5				1.7			1.7	1.7	SC - Mike Vasta
+2/6/2009	BE-A36	N8183E	IWA - P08 - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3		DG - Nathan Rumancik
+2/9/2009	BE-A36	N8183E	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4		1									1.4			1.4		DG - Heikki Kontkanen
+2/9/2009	BE-A36	N9067E	IWA - P08 - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3	1.3	SC - James Boswell
+2/10/2009	BE-A36	N94JV	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4		1									1.4			1.4		DG - Audra Alseike
+2/10/2009	BE58	N3149P	IWA - MZJ - IWA	1.6		1.6	1.6	1.6	1.6									1.6		1.6			1.6	1.6	SC - Ryan Fogelsanger
+2/11/2009	PA28-161	N5350J	IWA - IWA	0.7	0.7						1					0.5			0.7	0.7					Engine Break-in
+2/11/2009	PA28-161	N5350J	IWA - TUS - IWA	2.3	2.3				2.3		2							2.3		2.3					Engine Break-in - Sam Sharp rode along
+2/11/2009	BE-A36	N94JV	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4		DG - Heikki Kontkanen
+2/11/2009	PA28-161	N5361Z	IWA - CGZ - IWA	1.7	1.7				1.7					0.4	1					1.7			1.7		DG - Jeff Kadlec
+2/12/2009	PA28-161	N240D	IWA - E24 - IWA	2.4	2.4				2.4							0.3		2.4		2.4			2.4	2.4	SC - Hunter Williams
+2/12/2009	BE58	N3149P	IWA - MZJ - IWA	1.5		1.5	1.5	1.5	1.5									1.5		1.5			1.5	1.5	SC - Lee Hendrickson
+2/16/2009	BE-A36	N94JV	IWA - CGZ - IWA	1.4	1.4		1.4	1.4	1.4											1.4			1.4	1.4	SC - Brian Crysler
+2/16/2009	PA28-161	N4185Q	IWA - IWA	0.6	0.6															0.6			0.6		DG - Andrew Rudd
+2/19/2009	PA28-161	N616MA	IWA - CGZ - IWA	1.4	1.4				1.4					0.6	1					1.4			1.4		DG - Jeff Kadlec
+2/19/2009	PA28-161	N47717	IWA - CGZ - IWA	1.2	1.2				1.2											1.2			1.2	1.2	SC - Hunter Williams
+2/20/2009	PA28-161	N240D	IWA - E78 - IWA	2.2	2.2				2.2									2.2		2.2			2.2	2.2	DG - Blake Brown
+2/21/2009	PA28-161	N5361Z	IWA - CGZ - IWA	1.4	1.4				1.4											1.4			1.4	1.4	SC - Andrew Fischenberg
+2/21/2009	PA28-161	N4185Q	IWA - E77 - IWA	2.3	2.3				2.3									2.3		2.3			2.3	2.3	SC - Michelle Smith
+2/23/2009	PA28-161	N616MA	IWA - E77 - IWA	1.9	1.9				1.9							0.3		1.9		1.9			1.9	1.9	SC - Michael Cawley
+2/23/2009	BE-A36	N7206J	IWA - P08 - IWA	1.5	1.5		1.5	1.5	1.5		2									1.5			1.5		DG - Heikki Kontkanen
+2/23/2009	PA28-161	N4185Q	IWA - AVQ - IWA	2.2	2.2				2.2									2.2		2.2			2.2	2.2	SC - Matt Milosky
+2/25/2009	BE58	N3149P	IWA - MZJ - IWA	1.6		1.6	1.6	1.6	1.6									1.6		1.6			1.6	1.6	SC - Patrick Friend
+2/25/2009	PA28-161	N616MA	IWA - IWA	1.3	1.3									0.5	1					1.3			1.3		DG - Jeff Kadlec
+2/26/2009	PA28-161	N47717	IWA - E78 - IWA	2.1	2.1				2.1									2.1		2.1			2.1	2.1	SC - Chris Emery
+2/27/2009	PA28-161	N4185Q	IWA - IWA	0.8	0.8															0.8			0.8	0.8	SC - Michael Cawley
+2/27/2009	BE58	N3149P	IWA - MZJ - IWA	1.5		1.5	1.5	1.5	1.5									1.5		1.5			1.5	1.5	SC - Chris Neidhardt
+3/2/2009	BE-A36	N7206J	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4		1									1.4			1.4		DG - Heikki Kontkanen
+3/3/2009	BE-A36	N8256H	IWA - CGZ - IWA	1.3	1.3		1.3	1.3	1.3											1.3			1.3	1.3	SC - Jamil Kassum
+3/3/2009	BE58	N3149P	IWA - MZJ - IWA	1.5		1.5	1.5	1.5	1.5									1.5		1.5			1.5		SC - Brian Leach
+3/3/2009	BE-A36	N94JV	IWA - P08 - IWA	1.4	1.4		1.4	1.4	1.4		1									1.4			1.4		DG - Audra Alseike
+3/6/2009	BE58	N3149P	IWA - IWA	1.1		1.1	1.1	1.1			1									1.1			1.1		DG - Tristan True
+3/30/2009	PA31-310	N500CF	BUR - WJF - BUR	1.2		1.2	1.2	1.2	1.2		2									1.2					AMF Training - CFI Mike Zubricky
+3/31/2009	PA31-350	N59820	BUR - BUR	0.7		0.7	0.7	0.7			1				1					0.7					AMF Training - CFI Mike Zubricky
+3/31/2009	PA31-350	N59820	BUR - BUR	1.1		1.1	1.1	1.1			1				1					1.1					AMF Training - CFI Mike Zubricky
+4/1/2009	PA31-350	N59820	BUR - CMA - BUR	1.8		1.8	1.8	1.8	1.8		4				1					1.8					AMF Training - CFI Mike Zubricky
+4/2/2009	PA31-350	N59820	BUR - BUR	1.1		1.1	1.1	1.1			1		0.3		2					1.1					AMF Training - CFI Mike Zubricky
+4/2/2009	PA31-350	N62858	BUR - BUR	1		1	1	1			1		0.2	0.3	2					1					AMF Training - CFI Mike Zubricky
+4/3/2009	PA31-350	N59820	BUR - BUR	1		1	1	1			1			0.4	2					1					AMF Training - CFI Mike Zubricky
+4/6/2009	PA31-310	N500CF	BUR - VNY - BUR	1.7		1.7	1.7	1.7	1.7		2			0.9	4					1.7					AMF Training - CFI Mike Zubricky
+4/7/2009	PA31-350	N3BT	BUR - BUR	1.4		1.4	1.4	1.4			1			0.8	3					1.4					AMF Training - CFI Mike Zubricky
+4/8/2009	PA31-350	N3BT	BUR - BUR	1.4		1.4	1.4	1.4			1		0.2	0.5	2					1.4					AMF Training - CFI Mike Zubricky
+4/9/2009	PA31-350	N59820	VIS - FAT - VIS	1.9		1.9	1.9	1.9	1.9		2			1	4					1.9					135.293 .297 .299  Initial Checkride - DE Samirah Abdelfattah
+4/13/2009	PA31-350	N62858	PHX - VGT	1.9		1.9	1.9	1.9	1.9	1.9	1					1.5		1.9	1.9	1.9					AMF308
+4/13/2009	PA31-350	N62858	VGT - PHX	2.4		2.4	2.4	2.4	2.4	2.4	1							2.4	2.4	2.4					AMF357
+4/14/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+4/14/2009	PA31-350	N62858	VGT - PHX	2		2	2	2	2	2	1		0.8					2	2	2					AMF357
+4/15/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1		0.9					1.8	1.8	1.8					AMF357
+4/15/2009	PA31-350	N62858	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1		0.5					1.9	1.9	1.9					AMF357
+4/16/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1		0.6					1.7		1.7					AMF357 FO - M. Zubricky
+4/16/2009	PA31-350	N62858	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1		0.2					1.9	1.9	1.9					AMF357
+4/17/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+4/17/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+4/20/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1					1.5		1.7	1.7	1.7					AMF308
+4/20/2009	PA31-350	N62858	VGT - PHX	2		2	2	2	2	2	1							2	2	2					AMF357
+4/21/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+4/21/2009	PA31-350	N62858	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+4/22/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+4/22/2009	PA31-350	N3555D	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+4/23/2009	PA31-350	N3555D	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+4/23/2009	PA31-350	N3555D	VGT - PHX	2.2		2.2	2.2	2.2	2.2	2.2	1							2.2	2.2	2.2					AMF357
+4/24/2009	PA31-350	N3555D	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+4/24/2009	PA31-350	N3555D	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+4/27/2009	PA31-350	N3555D	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1					1.6		1.7	1.7	1.7					AMF308
+4/27/2009	PA31-350	N3555D	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+4/28/2009	PA31-350	N3555D	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+4/28/2009	PA31-350	N3555D	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+4/29/2009	PA31-350	N3555D	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+4/29/2009	PA31-350	N3555D	VGT - PHX	2.3		2.3	2.3	2.3	2.3	2.3	1							2.3	2.3	2.3					AMF357
+4/30/2009	PA31-350	N3555D	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+4/30/2009	PA31-350	N3555D	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/1/2009	PA31-350	N3555D	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/1/2009	PA31-350	N3555D	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1		0.3					1.8	1.8	1.8					AMF357
+5/4/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/5/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/5/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/6/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/6/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/7/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/7/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/8/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/8/2009	PA31-350	N62858	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+5/11/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1					1.4		1.7	1.7	1.7					AMF308
+5/11/2009	PA31-350	N62858	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+5/13/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+5/13/2009	PA31-350	N62858	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+5/15/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+5/15/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+5/18/2009	PA31-350	N59973	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1					1.4		1.6	1.6	1.6					AMF308
+5/18/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+5/19/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7		1.7					AMF357 - Line Check - Jay Davis
+5/19/2009	PA31-350	N59973	VGT - PHX	2.1		2.1	2.1	2.1	2.1	2.1	1							2.1		2.1					AMF357 - Line Check - Jay Davis
+5/20/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+5/20/2009	PA31-350	N59973	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+5/21/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1		0.3					1.7	1.7	1.7					AMF357
+5/21/2009	PA31-350	N59973	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1		0.4					1.8	1.8	1.8					AMF357
+5/22/2009	PA31-350	N59973	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1		0.8					1.8	1.8	1.8					AMF357
+5/22/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1		0.3					1.9	1.9	1.9					AMF357
+5/25/2009	PA31-350	N59973	PHX - VGT	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+5/25/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+5/26/2009	PA31-350	N59973	PHX - PHX	0.3		0.3	0.3	0.3		0.3		1				0.3			0.3	0.3					AMF308 - Return to base for engine problems.
+5/27/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1		0.2					1.7	1.7	1.7					AMF357
+5/27/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1		0.3					1.9	1.9	1.9					AMF357
+5/28/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+5/28/2009	PA31-310	N7441L	VGT - PHX	2		2	2	2	2	2	1							2	2	2					AMF357
+6/1/2009	PA31-310	N7441L	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1					1		1.7	1.7	1.7					AMF308
+6/1/2009	PA31-310	N7441L	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357 - Repo for more cargo
+6/1/2009	PA31-310	N7441L	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+6/1/2009	PA31-310	N7441L	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+6/2/2009	PA31-310	N7441L	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+6/2/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+6/3/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+6/3/2009	PA31-350	N59973	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+6/4/2009	PA31-350	N59973	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1							1.6	1.6	1.6					AMF357 - Wind 180@20G30 - RWY 12R
+6/4/2009	PA31-350	N59973	VGT - PHX	2		2	2	2	2	2	1							2	2	2					AMF357
+6/5/2009	PA31-350	N59973	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1							1.6	1.6	1.6					AMF357
+6/5/2009	PA31-350	N59973	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+6/8/2009	PA31-350	N59973	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1		0.4			1.1		1.6	1.6	1.6					AMF308
+6/8/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+6/9/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1		0.3					1.7	1.7	1.7					AMF357
+6/9/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1		0.3					1.9	1.9	1.9					AMF357
+6/10/2009	PA31-350	N59973	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1							1.6	1.6	1.6					AMF357
+6/10/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+6/11/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+6/11/2009	PA31-350	N59973	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9	1.9	1.9					AMF357
+6/12/2009	PA31-350	N59973	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1							1.6	1.6	1.6					AMF357
+6/12/2009	PA31-350	N59973	VGT - PHX	2		2	2	2	2	2	1							2	2	2					AMF357
+6/15/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1					1		1.7	1.7	1.7					AMF308
+6/15/2009	PA31-350	N4087J	VGT - BUR	1.9		1.9	1.9	1.9	1.9	1.9		1	0.6		1	1.9		1.9	1.9	1.9					AMF121
+6/18/2009	PA31-350	N4087J	VIS - VIS	1.2		1.2	1.2	1.2			1									1.2					135.340 - Training Capt Checkride - DE S. Abdelfattah
+6/19/2009	PA31-350	N3BT	BUR - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1							1.6	1.6	1.6					AMF121
+6/19/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1		0.2					1.8	1.8	1.8					AMF357
+6/22/2009	PA31-350	N62858	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1					0.9		1.6	1.6	1.6					AMF308
+6/22/2009	PA31-350	N62858	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+6/23/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+6/23/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+6/24/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+6/24/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+6/25/2009	PA31-350	N62858	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1		0.4					1.6	1.6	1.6					AMF357
+6/25/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+6/26/2009	PA31-350	N62858	PHX - VGT	1.9		1.9	1.9	1.9	1.9	1.9	1							1.9		1.9			1.9		AMF357 - Trainee George Connelly
+6/26/2009	PA31-350	N62858	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7		1.7			1.7		AMF357 - Trainee George Connelly
+6/29/2009	PA31-350	N62858	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1					1		1.7	1.7	1.7					AMF308
+6/29/2009	PA31-350	N62858	VGT - PHX	1.6		1.6	1.6	1.6	1.6	1.6	1							1.6	1.6	1.6					AMF357
+6/30/2009	PA31-350	N62858	PHX - PRC	1.1		1.1	1.1	1.1	1.1	1.1	1							1.1		1.1			1.1		AMF357 - Trainee George Connelly
+6/30/2009	PA31-350	N62858	PRC - IGM	1		1	1	1	1	1	1							1		1			1		AMF357 - Trainee George Connelly
+6/30/2009	PA31-350	N62858	IGM - VGT	0.9		0.9	0.9	0.9	0.9	0.9	1							0.9		0.9			0.9		AMF357 - Trainee George Connelly
+6/30/2009	PA31-350	N62858	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8		1.8			1.8		AMF357 - Trainee George Connelly
+7/1/2009	PA31-350	N62858	PHX - CGZ - PHX	1.3		1.3	1.3	1.3	1.3	1.3										1.3			1.3		AMF8006 - Trainee George Connelly
+7/1/2009	PA31-350	N62858	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8								1.8		1.8			1.8		AMF357 - Trainee George Connelly
+7/1/2009	PA31-350	N62858	VGT - PHX	2		2	2	2	2	2								2		2			2		AMF357 - Trainee George Connelly
+7/2/2009	PA31-350	N62858	PHX - PRC	0.9		0.9	0.9	0.9	0.9	0.9								0.9		0.9			0.9		AMF357 - Trainee George Connelly
+7/2/2009	PA31-350	N62858	PRC - VGT	1.4		1.4	1.4	1.4	1.4	1.4								1.4		1.4			1.4		AMF357 - Trainee George Connelly
+7/2/2009	PA31-350	N62858	VGT - PHX	1.9		1.9	1.9	1.9	1.9	1.9			0.2					1.9		1.9			1.9		AMF357 - Trainee George Connelly
+7/7/2009	PA31-350	N3BT	PHX - PRC	1		1	1	1	1	1								1		1			1		AMF357 - Trainee George Connelly
+7/7/2009	PA31-350	N3BT	PRC - VGT	1.4		1.4	1.4	1.4	1.4	1.4								1.4		1.4			1.4		AMF357 - Trainee George Connelly
+7/7/2009	PA31-350	N62959	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8								1.8		1.8			1.8		AMF357 - Trainee George Connelly
+7/8/2009	PA31-350	N62959	PHX - CGZ - PHX	1.9		1.9	1.9	1.9	1.9	1.9										1.9			1.9		AMF8134 - Trainee George Connelly
+7/8/2009	PA31-350	N62959	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7								1.7		1.7			1.7		AMF357 - Trainee George Connelly
+7/8/2009	PA31-350	N62959	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7								1.7		1.7			1.7		AMF357 - Trainee George Connelly
+7/9/2009	PA31-350	N62959	PHX - PRC	1		1	1	1	1	1								1		1			1		AMF357 - Trainee George Connelly
+7/9/2009	PA31-350	N62959	PRC - VGT	1.2		1.2	1.2	1.2	1.2	1.2								1.2		1.2			1.2		AMF357 - Trainee George Connelly
+7/9/2009	PA31-350	N62959	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7								1.7		1.7			1.7		AMF357 - Trainee George Connelly
+7/10/2009	PA31-350	N62959	PHX - CGZ - PHX	1.8		1.8	1.8	1.8	1.8	1.8										1.8			1.8		AMF8141 - Trainee George Connelly
+7/10/2009	PA31-350	N62959	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6								1.6		1.6			1.6		AMF357 - Trainee George Connelly
+7/10/2009	PA31-350	N62959	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8								1.8		1.8			1.8		AMF357 - Trainee George Connelly
+7/13/2009	PA31-350	N62959	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1		0.6			1.2		1.6	1.6	1.6					AMF357
+7/13/2009	PA31-350	N62959	VGT - PHX	1.6		1.6	1.6	1.6	1.6	1.6	1							1.6	1.6	1.6					AMF357
+7/14/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/14/2009	PA31-350	N59973	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/15/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/15/2009	PA31-350	N59973	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/16/2009	PA31-350	N59973	PHX - VGT	2		2	2	2	2	2	1							2	2	2					AMF357
+7/16/2009	PA31-350	N59973	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/17/2009	PA31-350	N59973	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+7/17/2009	PA31-350	N59973	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+7/20/2009	PA31-350	N59973	PHX - HII	1.2		1.2	1.2	1.2	1.2	1.2	1							1.2	1.2	1.2					AMF2186
+7/20/2009	PA31-350	N59973	HII - IWA	1.5		1.5	1.5	1.5	1.5	1.5	1							1.5	1.5	1.5					AMF2185 - Diverted due to thunderstorms
+7/20/2009	PA31-350	N59973	IWA - PHX	0.7		0.7	0.7	0.7	0.7	0.7		1				0.7			0.7	0.7					AMF2185
+7/21/2009	PA31-350	N62959	PHX - CGZ - PHX	1.2		1.2	1.2	1.2	1.2	1.2	2									1.2			1.2		AMF8173 - FO Trainee Philip Kendall
+7/21/2009	PA31-350	N62959	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+7/21/2009	PA31-350	N62959	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/22/2009	PA31-350	N59973	PHX - CGZ - PHX	1.9		1.9	1.9	1.9	1.9	1.9	4									1.9			1.9		AMF8178 - FO Trainee Philip Kendall
+7/22/2009	PA31-350	N59973	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+7/22/2009	PA31-350	N59973	VGT - PHX	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+7/23/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7		1.7					AMF357 - Kendall ride along
+7/23/2009	PA31-350	N59973	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7		1.7					AMF357 - Kendall ride along
+7/24/2009	PA31-350	N59973	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1		0.3					1.7	1.7	1.7					AMF357
+7/24/2009	PA31-350	N59973	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/27/2009	PA31-350	N3555D	PHX - VGT	1.6		1.6	1.6	1.6	1.6	1.6	1		0.7			1.3		1.6	1.6	1.6					AMF308
+7/27/2009	PA31-350	N3555D	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/28/2009	PA31-350	N3555D	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8	1.8	1.8					AMF357
+7/28/2009	PA31-350	N3555D	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/29/2009	PA31-350	N3555D	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7		1.7					AMF357 - Kendall ride along
+7/29/2009	PA31-350	N3555D	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7		1.7					AMF357 - Kendall ride along
+7/30/2009	PA31-350	N3555D	PHX - CGZ - PHX	1.7		1.7	1.7	1.7	1.7	1.7	3									1.7			1.7		AMF8203 - FO Trainee Philip Kendall
+7/30/2009	PA31-350	N3555D	PHX - VGT	1.8		1.8	1.8	1.8	1.8	1.8	1							1.8		1.8					AMF357 - Kendall ride along
+7/30/2009	PA31-350	N3555D	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7		1.7					AMF357 - Kendall ride along
+7/31/2009	PA31-350	N3555D	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+7/31/2009	PA31-350	N3555D	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1							1.7	1.7	1.7					AMF357
+8/3/2009	PA31-350	N3555D	PHX - VGT	1.7		1.7	1.7	1.7	1.7	1.7	1		0.4			0.9		1.7	1.7	1.7					AMF308
+8/3/2009	PA31-350	N3555D	VGT - PHX	1.7		1.7	1.7	1.7	1.7	1.7	1				0			1.7	1.7	1.7					AMF357

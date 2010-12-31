@@ -1,0 +1,989 @@
+Date	Type	Plane	Route	Remarks	Flying	Approaches	Day Landings	Night Landings	Cross Country	Night	Actual Instrument	Simulated Instrument	Dual Given	Dual Received	PIC	Total
+2/3/2004	C-172	N7589D	KPSC - KPSC	"Preflight Checklist, Taxi, Climbs and Descents, Straight and Level +Turns, Altitude Control"			1							1.1		1.1
+2/5/2004	C-172	N7589D	KPSC - KPSC	"VOR GPS NAV. Heading, Altitude, Std. Rate 360s A/S Control, Slow Flight Stall Recognition"			1							1.1		1.1
+2/9/2004	C-172	N7589D	KPSC - KPSC	"VOR GPS NAV. Heading, Alt. Std Rate Turns (IR), Steep 360s, Slow Flt. Stalls "			1					0.2		1.1		1.1
+2/10/2004	C-172	N7589D	KPSC - KPSC	"VOR GPS, Slow Flt. Emerg. Proc. Fires, Engine Failure, Emerg. Descent, Slips, Forced Ldg."			1							1.1		1.1
+2/18/2004	C-172	N7589D	KPSC - KPSC	"Slow Flt. Stall Series, Sim. Forced Ldg. Turns Pt. S-turns, VOR  GPS NAV."			1							1.3		1.3
+2/19/2004	C-172	N7589D	KPSC - KPSC	"Climbs & Descents, Std. Rate 360s (IR), Sim. Forced Ldg. Turns Pt. S-Turns, VOR GPS NAV."			1					0.3		1.1		1.1
+2/23/2004	C-172	N7589D	KPSC - KPSC	"Pattern Procedures, TaLs, Short App. Traffic Avoidance"			10							1.0		1.0
+2/25/2004	C-172	N7589D	KPSC - KPSC	"X-Wind TaLs, Wake Turb. Avoidance"			10							1.0		1.0
+2/27/2004	C-172	N7589D	KPSC - KPSC	"TaLs, Softfield"			11							1.1		1.1
+3/1/2004	C-172	N7589D	KPSC - KPSC	"TaLs, Short/Softfield"			10							1.1		1.1
+3/2/2004	C-172	N7589D	KPSC - KPSC	"TaLs, X-Wind, Wake Turb. Avoidance"			12							1.2		1.2
+3/8/2004	C-172	N7589D	KPSC - KPSC	"TaLs, X-Wind, Softfield"			14							1.6		1.6
+3/10/2004	C-172	N7589D	KPSC - KPSC	"Short/Soft Field TaLs, Ballooning Recovery"			10							1.1		1.1
+3/11/2004	C-172	N7589D	KPSC - KPSC	Short/Soft Field TaLs			12							1.3		1.3
+3/15/2004	C-172	N7589D	KPSC - KPSC	Short/Soft Field TaLs			12							1.2		1.2
+3/16/2004	C-172	N7589D	KPSC - KPSC	"X-Wind Landings, Go Around, Slips"			11							1.1		1.1
+3/19/2004	C-172	N7589D	KPSC - KPSC	"X-Wind Landings, Slips"			12							1.0		1.0
+3/25/2004	C-172	N2383Q	KPSC - KPSC	"Short/Soft Field Max. Perf. TaLs, X-Wind"			12							1.3		1.3
+3/29/2004	C-172	N7589D	KPSC - KPSC	"Short/Soft TaLs, Slips, No Flap Ldgs. Engine Failures, Go Around"			11							1.2		1.2
+4/2/2004	C-172	N7589D	KPSC - KPSC	"Soft Field, X-Wind TaLs, Go Around"			11							1.3		1.3
+4/5/2004	C-172	N7589D	KPSC - KPSC	"TaLs, Go Around"			6							0.8		0.8
+4/5/2004	C-172	N7589D	KPSC - KPSC	"First Solo, 3 TaLs"			3								0.5	0.5
+4/7/2004	C-172	N426SK	KPSC - KPSC	"TaLs, Second Solo"			5							0.7		0.7
+4/7/2004	C-172	N426SK	KPSC - KPSC	"TaLs, Slight X-Wind, Second Solo"			4								0.5	0.5
+4/8/2004	C-172	N2383Q	KPSC - KPSC	"VOR GPS NAV. Slow Flt. Power Off Stalls, Sim. Forced Ldg. TaLs"			2							0.9		0.9
+4/8/2004	C-172	N2383Q	KPSC - KPSC	"GPS NAV. Normal Turns, TaLs, Go Around"			5								0.9	0.9
+4/9/2004	C-172	N7589D	KPSC - KPSC	"GPS VOR NAV. Standard Rate Turns, TaLs"			7								1.0	1.0
+4/12/2004	C-172	N7589D	KPSC - KPSC	"TaLs, Slight X-Wind"			4								0.6	0.6
+4/13/2004	C-172	N7589D	KPSC - KPSC	"TaLs, X-Wind"			10							1.0		1.0
+4/21/2004	C-172	N7589D	KPSC - KPSC	"X-Wind TaLs, Go Arounds, Normal TaLs"			9								0.9	0.9
+4/22/2004	C-172	N7589D	KPSC - KPSC	"X-Wind TaLs + Tailwind, Go Around, Normal & Soft field TaLs"			9								0.9	0.9
+4/23/2004	C-172	N7589D	KPSC - KPSC	"X-Winds, Tailwind, Normal TaLs"			6								0.6	0.6
+4/25/2004	C-172	N7589D	KPSC - KPSC	"Turns Pt. S-turns, TaLs"			2								0.8	0.8
+4/29/2004	C-172	N7589D	KPSC - KPSC	"Climbs & Descents, Str. & Lvl. Heading & Alt. VOR GPS NAV. Unusual Att. (IR)"			1					1.0		1.4		1.4
+5/6/2004	C-172	N7589D	KPSC - KPSC	Soft Field TaLs			12							1.1		1.1
+5/12/2004	C-172	N426SK	KPSC - KMWH - KPSC	"X-Country Planning, Radio Nav. Dead Rec. & Pilotage, VOR GPS"			2		1.9					1.9		1.9
+5/13/2004	C-172	N7589D	KPSC - KPSC	"TaLs, Softfield & Normal"			7								0.7	0.7
+5/13/2004	C-172	N7589D	KPSC - KRLD - KPSC	Night Landings Rwy. 7 RLD + Rwy. 03L PSC				12		1.4				1.4		1.4
+5/14/2004	C-172	N7589D	KPSC - KYKM - KPSC	"X-Country Planning, Radio Nav. Dead Rec. & Pilotage"			2		1.9					1.9		1.9
+5/16/2004	C-172	N7589D	KPSC - KPSC	"TaLs, X-Wind & Normal"			8								0.9	0.9
+5/18/2004	C-172	N426SK	KPSC - KMWH - KPSC	"Night X-Country Plan, Radio Nav. VOR GPS, Dead Rec."				2	1.8	1.8				1.8		1.8
+5/25/2004	C-172	N426SK	KPSC - KPSC	"Inst. Heading & Alt. Std. Rate Turns, VOR GPS NAV, Vectoring, Emerg. Proc. Unusual Attitudes"			1					1.0		1.4		1.4
+6/1/2004	C-172	N7589D	KPSC - KRLD - KPSC	"X-Wind TaLs, RLD Operations, Uncontrolled Airports"			11							1.1		1.1
+6/14/2004	C-172	N7589D	KPSC - KPSC	"TaLs, Pattern Procedures, Standard 360s"			4								0.8	0.8
+6/29/2004	C-172	N7589D	KPSC - KYKM - KPSC	"First Solo XC, XC Planning, Pilotage, GPS & VOR NAV."			2		2.1						2.1	2.1
+7/8/2004	C-172	N426SK	KPSC - KPUW - KMWH - KPSC	"Long XC, XC Planning, GPS NAV, Uncontrolled Airport"			3		3.5						3.5	3.5
+7/15/2004	C-172	N426SK	KPSC - KPSC	"VOR GPS NAV. Std. Rate Turns, Headings, Unusual Attitudes (IR)"			1					0.6		1.1		1.1
+7/16/2004	C-172	N7589D	KPSC - KPSC	Short/Softfield TaLs			11							1.2		1.2
+7/21/2004	C-172	N426SK	KPSC - KPSC	"Slow Flt. Steep 360s, Power Off and On stalls, Engine Failures, Forced Ldg."			1							1.2		1.2
+7/23/2004	C-172	N426SK	KPSC - KPSC	"Steep 360s, Sim. Forced Ldg. Turns Pt. S-Turns, Soft field Ldgs."			2							1.0		1.0
+7/27/2004	C-172	N426SK	KPSC - KPSC	"Slow Flt. Steep 360s, Stalls, Unusual Att. (IR) Sim. Forced Ldg. S-Turns, Turns Pt. Short/Soft field TaLs, Go Around"			4					0.2		1.4		1.4
+7/28/2004	C-172	N426SK	KPSC - KPSC	Short field & Soft field Landings / Normal TaLs			9								0.9	0.9
+7/30/2004	C-172	N426SK	KPSC - KPSC	"Short, Soft field TaLs"			10							1.1		1.1
+8/2/2004	C-172	N426SK	KPSC - KPSC	"Short, Soft field TaLs"			11							1.1		1.1
+8/3/2004	C-172	N426SK	KPSC - KPSC	"Slow Flt. Steep 360s, Power On - Off Stalls, Forced Ldg, Short & Soft field TaLs"			4							1.0		1.0
+8/4/2004	C-172	N7589D	KPSC - KPSC	"Diversion, Slow Flt. Stalls, Steep 360, Forced Ldg. S-turns, Unusual Att. (IR) Short, Soft, Slip to Ldgs."			12					0.2		1.9		1.9
+8/5/2004	C-172	N426SK	KPSC - KPSC	"Short field, Softfield TaLs"			4								0.6	0.6
+8/6/2004	C-172	N426SK	KPSC - KPSC	Private Pilot Checkride Unsatisfactory			4				0.2				1.0	1.0
+8/11/2004	C-172	N7589D	KPSC - KPSC	Shortfield TaLs			6								0.8	0.8
+8/13/2004	C-172	N7589D	KPSC - KPSC	"Short / Soft field TaLs, No Flap Slip to Ldgs."			11							1.1		1.1
+8/17/2004	C-172	N7589D	KPSC - KPSC	"Short / Soft Max Perf. TaLs, No Flap Slips to Ldgs."			14							1.5		1.5
+8/18/2004	C-172	N7589D	KPSC - KPSC	"Short / Soft Max Perf. TaLs, No Flap Slips to Ldgs."			12							1.3		1.3
+8/19/2004	C-172	N7589D	KPSC - KPSC	Short / Soft field TaLs			13								1.4	1.4
+8/20/2004	C-172	N7589D	KPSC - KPSC	Short / Soft Max. Perf. TaLs			12							1.3		1.3
+8/21/2004	C-172	N426SK	KPSC - KPSC	Short / Soft field TaLs			11								1.3	1.3
+8/24/2004	C-172	N7589D	KPSC - KPSC	Short / Soft field TaLs			10							1.1		1.1
+8/26/2004	C-172	N7589D	KPSC - KPSC	"Short, Soft Max. Perf. TaLs, Sim. Forced Ldg, Slip to Ldg."			12							1.2		1.2
+8/30/2004	C-172	N7589D	KPSC - KPSC	"Short, Soft field TaLs, Slip to Ldg."			12							1.2		1.2
+8/31/2004	C-172	N7589D	KPSC - KPSC	Private Pilot Checkride Satisfactory (Private Pilot)	P		4								0.7	0.7
+9/8/2004	PA28-161	N513MS	KELN - KELN	"Private Pilot Eval Review Incomplete, Ldgs."			2							0.5	0.5	0.5
+9/10/2004	PA28-161	N512MS	KELN - KELN	"Stalls, Emergency Descent, Ground Reference Manuevers, Normal TaLs, Go Around"			5							1.4	1.4	1.4
+9/13/2004	PA28-161	N513MS	KELN - KELN	Normal & Soft field TaLs			5							0.7	0.7	0.7
+9/21/2004	PA28-161	N234SR	KELN - KELN	"Normal & Soft field TaLs, Steep turns, Slw. Flt. Pwr. On/Off Stalls"			3							1.1	1.1	1.1
+10/4/2004	PA28-161	N512MS	KELN - KELN	"Pvt. Eval Complete, Slw. Flt. Stalls, Steep turns, Forced Ldg & Normal Ldgs."			3							0.9	0.9	0.9
+10/4/2004	PA28-161	N519MS	KELN - KELN	Jepp. Inst. Syl. Flt #1 Complete			1					0.7		1.0	1.0	1.0
+10/6/2004	PA28-161	N234SR	KELN - KELN	Jepp. Inst. Syl. Flt #2 Complete			1					1.0		1.3	1.3	1.3
+10/7/2004	PA28-161	N515MS	KELN - KELN	Jepp. Inst. Syl. Flt #3 Complete			1					0.9		1.3	1.3	1.3
+10/11/2004	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #4 Complete, Partial Panel, Constant A/S Climbs and Descents, Std. Rate Turns"			1					0.9		1.2	1.2	1.2
+10/18/2004	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #5 Complete, BAI, Partial Panel mag comapss turns, timed turns, unusual attitudes"			1					0.9		1.1	1.1	1.1
+10/20/2004	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #6 Complete, BAI, Partial Panel, Time Turns, Mag compass turns, slow flight stalls, VOR NAV"	T		1					1.2		1.4	1.4	1.4
+10/21/2004	PA28-161	N515MS	KELN - KELN	"Jepp. Inst. Syl. Flt #7 Complete, BAI, Partial Panel Climbs, Descents, Mag compass turns, VOR NAV"	T		2					1.2		1.4	1.4	1.4
+10/25/2004	PA28-161	N515MS	KELN - KELN	"Jepp. Inst. Syl. Flt #8 Complete, VOR Tracking, intercepting, Partial Panel, Mag Compass turns"	T		2					1.1		1.4	1.4	1.4
+11/3/2004	PA28-161	N235SR	KELN - KELN	"Jepp. Inst. Syl. Flt #9 Complete, VOR, ADF, Tracking Intercepting, Constant A/S Climb and Descent"	T		2					1.2		1.5	1.5	1.5
+11/4/2004	PA28-161	N515MS	KELN - KELN	"Jepp. Inst. Syl. Flt #10 Complete, Intercepting and tracking DME Arcs, Ldgs."	T		3					1.0		1.4	1.4	1.4
+11/8/2004	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #11A Review Full Panel/Partial Panel, Mag Compass Turns, Power On/Off Stalls"			2					1.0		1.3	1.3	1.3
+11/10/2004	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #11B ADF, VOR tracking & intercepting, unusual attitude recovery, steep turns, mag compass"	T			3		1.7		1.3		1.7	1.7	1.7
+11/11/2004	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #12A VOR tracking, intercepting. ADF tracking, intercepting, Partial Panel, Const. A/S Climbs and Descents"	T		1					0.8		1.2	1.2	1.2
+11/17/2004	PA28-161	N235SR	KELN - KELN	"Jepp. Inst. Syl. Flt #12B Partial Panel, Pwr On/Off Stalls, Compass turns, Unusual attitudes, ADF & VOR NAV"	T		2					1.3		1.7	1.7	1.7
+11/22/2004	PA28-181	N4499E	KELN - KELN	"Jepp. Inst. Syl. Flt #12C Partial Panel Review, Time turns, Mag compass turns, slow flt, Lndgs."			3					0.8		1.1	1.1	1.1
+11/26/2004	C-172	N2383Q	KPSC - KPSC	"TaLs, Go Around"			6								0.8	0.8
+11/29/2004	PA28-161	N234SR	KELN - KELN	Jepp. Inst. Syl. Flt #13 Stage I Complete	T		1					0.9		1.1	1.1	1.1
+12/2/2004	PA28-181	N4499E	KELN - KELN	Jepp. Inst. Syl. Flt #14 Complete			1					0.9		1.3	1.3	1.3
+12/6/2004	FRASCA	141	ELN	Jepp. Inst. Syl. Flt #15 Complete										1.3		
+12/9/2004	FRASCA	141	ELN	"Jepp. Inst. Syl. Flt #16 Complete, VOR-DME Hold, Int Hold"	T H									0.7		
+1/6/2005	PA28-161	N235SR	KELN - KELN	"Jepp. Inst. Syl. Flt #17 Complete, VOR-B PT, Missed, Hold, VOR-A via 10-DME arc, circle to land"	T H	2	1					0.9		1.3	1.3	1.3
+1/14/2005	PA28-161	N234SR	KELN - KMWH - KELN	"Jepp. Inst. Syl. Flt #18 Complete, VOR Straight in, NDB Approach, Missed, VOR-arc, circle to land and straight in"	T H	3	2		2.0			1.5		2.0	2.0	2.0
+1/15/2005	C-172	N2383Q	KPSC - KPSC	"VFR Flight around Tri-Cities, Standard Manuevers, X-Wind landings"			3								1.1	1.1
+1/31/2005	PA28-161	N519MS	KELN - KYKM - KELN	"Jepp. Inst. Syl. Flt #19 Complete, ILS Full PT, Missed, Hold, Vector for ILS Final App. Course"	T H	2	2					1.0		1.8	1.8	1.8
+2/1/2005	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #20 Incomplete, VOR DME Arc, Missed NDB Hold, VOR-B Circle to Land"	T H	2	1					0.8		1.2	1.2	1.2
+2/7/2005	PA28-161	N519MS	KELN - KYKM - KELN	"Jepp. Inst. Syl. Flt #20 Complete, LOC BC - Hold, ILS PT, VOR-A Partial Panel, Circle to Land"	T H	3	3					1.7		2.2	2.2	2.2
+2/12/2005	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #21 Incomplete, Partial Panel VOR, Full PT, Missed, Hold, VOR-A Arc, Circle to Land"	T H	2	3					1.0		1.7	1.7	1.7
+2/15/2005	PA28-161	N235SR	KELN - KMWH - KELN	"Jepp. Inst. Syl. Flt #21 Incomplete, ILS, NDB, VOR Partial Panel, Circle to Land"	T H	3	2		2.0			1.4		2.0	2.0	2.0
+2/21/2005	PA28-161	N515MS	KELN - KELN	"Jepp. Inst. Syl. Flt #21 Complete, Partial Panel, PT, Missed, Hold, Arc, Circle to Land"	T H	2	1					0.9		1.4	1.4	1.4
+2/22/2005	FRASCA	141	ELN	"Reviewed Mag Compass turns, Partial Panel, Non Precession App Proc. Jepp Inst. Syl. Flt #21 Review"	T H	1								0.9		
+2/24/2005	PA28-161	N519MS	KELN - KYKM - KELN	"Jepp. Inst. Syl. Flt #22 Incomplete, LOC BC, Hold, ILS PT, VOR - Arc Partial Panel, Circle to Land"	T H	3		2		1.9		1.3		1.9	1.9	1.9
+2/27/2005	PA28-161	N235SR	KELN - KMWH - KELN	"Jepp. Inst. Syl. Flt #22 Complete, NDB PT, NDB Hold, Vectors for ILS, Ldg from Straight in, VOR-A ARC Partial Panel"	T H	3	1	1	2.3	1.0		1.5		2.3	2.3	2.3
+3/8/2005	PA28-161	N234SR	KELN - KELN	"Review VOR-B App. Procedures, Arc Procedures, Missed, Hold, Circle to land"	T H	2	1					0.6		1.0	1.0	1.0
+3/21/2005	C-172	N2383Q	KPSC - KPSC	"Local Scenic FLT. Steep Turns, Normal Procedures (NAV), Landings"			3								1.2	1.2
+3/25/2005	C-172	N426SK	KPSC - KGEG - KPSC	"Class C XC. Pilotage, GPS & VOR NAV. ATC Communication"			2		2.9						2.9	2.9
+4/5/2005	PA28-181	N4499E	KELN - KMWH - KELN	"Inst. Review, NDB App. & Ldg, GPS NAV. Partial Panel"	T H	2	2		1.7			1.3		1.7	1.7	1.7
+4/6/2005	C-152	N5499Q	KELN - KMWH - 80T - KELN	"Jepp. Comm. Syl. Flt #30 Inc. VFR X-C, Pilotage, Intro to C-152"			4		1.8					1.8	1.8	1.8
+4/10/2005	C-152	N5366M	KELN - KPDT - KELN	Jepp. Comm. Syl. Flt #30 Complete			2		3.0					3.0	3.0	3.0
+4/12/2005	C-152	N5499Q	KELN - KELN	"Jepp. Comm. Syl. Flt #36 Inc. Called back to Apt. (Fog), Ldg."			1								0.4	0.4
+4/13/2005	PA28-161	N234SR	KELN - KYKM - KELN	"Jepp. Inst. Syl. Flt #23 Complete, Stage II Check Complete"	T H	2	1					1.4		1.7	1.7	1.7
+4/14/2005	C-152	N5499Q	KELN - KPSC - KELN	"Jepp. Comm. Syl. Flt #36 Inc. Pilotage, Deadreckoning, X-Wind Operations, 30 kt headwind ldg."			2		2.2						2.2	2.2
+4/20/2005	PA28-161	N234SR	KELN - KPSC - KYKM - KELN	"ILS @ PSC, GPS 27 @ YKM, GPS @ ELN, Jepp. Inst. Syl. Flt #24 Complete"	T H	3	3		3.0			2.0		3.0	3.0	3.0
+4/21/2005	PA28-161	N513MS	KELN - KDLS - KELN	"Jepp. Comm. Syl. Flt #36 Complete, Pilotage, Dead Reckoning, Airport Ops."			2		2.8						2.8	2.8
+4/26/2005	PA28-161	N234SR	KELN - KMWH -KELN	Jepp. Inst. Syl. Flt #25 Inc. Practice NDB App. VFR @ MWH			2		1.8					1.8	1.8	1.8
+4/28/2005	PA28-161	N513MS	KELN - KGEG - KELN	"Jepp. Comm. Syl. Flt #32 Complete, Night X-C, Pilotage, GPS NAV"				10	4.0	4.0				4.0	4.0	4.0
+5/2/2005	C-152	N95995	KELN - KELN	"Jepp. Comm. Syl. Flt #31 Complete, Night Local, Stalls, Steep turns, Unusual Att. Recovery, Slw Flt, Ldgs"				3		1.2				1.2	1.2	1.2
+5/3/2005	PA28-161	N519MS	KELN - KMWH - KEAT - KELN	"Jepp. Inst. Syl. Flt #25 Complete, NDB @ MWH, GPS @ EAT, GPS @ ELN, Circle to land"	T H	3	2		2.4			1.5		2.4	2.4	2.4
+5/4/2005	PA28-161	N235SR	KELN - KYKM - KELN	"Jepp. Inst. Syl. Flt #27 Incomplete, ILS @ YKM, GPS @ ELN"	T H	3	2				1.0	1.0		2.7	2.7	2.7
+5/5/2005	C-152	N95539	KELN - KYKM - KELN	"Jepp. Comm. Syl. Flt #33 Comp. 5 Touch and Gos, Towered Airport, No landing light landing"				7		1.5					1.5	1.5
+5/10/2005	PA28-161	N234SR	KELN - KPSC - KALW - KELN	"Jepp. Inst. Syl. Flt #27 Comp. IFR X-C, GPS @ PSC, ILS @ ALW, GPS @ ELN"	T H	3	3		3.9		1.6	1.5		3.9	3.9	3.9
+5/14/2005	PA28-161	N235SR	KELN - KGEG - KPSC - KELN	"Jepp. Inst. Syl. Flt #26 Comp. Long IFR X-C, NAV (GPS), Actual GPS @ GEG, ILS @ PSC, VOR @ ELN"	T H	3	3		4.3		2.2	1.0		4.3	4.3	4.3
+5/23/2005	PA28-161	N234SR	KELN - KYKM - KELN	"Review LOC BC @ YKM, VOR - B Arc @ ELN, Partial Panel"	T H	3	2					1.2		1.9	1.9	1.9
+5/24/2005	PA28-161	N515MS	KELN - KYKM - KELN	"Jepp. Inst. Syl. Flt #28 Incomplete, Stage III Incomplete"	T H	3	2					1.8		2.0	2.0	2.0
+5/25/2005	PA28-161	N519MS	KELN - KELN	"Jepp. Inst. Syl. Flt #28 Complete, Stage III Complete"	T H	1	1					0.8		1.2	1.2	1.2
+6/7/2005	PA28-161	N235SR	KELN - KYKM - KELN	"Review LOC BC @ YKM, Partial Panel, Hold, ILS @ YKM, GPS @ ELN"	T H	3	2					1.4		1.8	1.8	1.8
+6/10/2005	PA28-161	N519MS	KELN - KYKM - KELN	"Review LOC BC @ YKM, Partial Panel, Hold, Steep Turns, Slw Flt, Stalls, Unusual Att. Recovery"	T H	1	2					1.3		1.7	1.5	1.7
+6/15/2005	PA28-161	N519MS	KELN - KYKM - KELN	Jepp. Inst. Syl. Flt #29 EOC Incomplete	T H	1	1					0.8		1.2	1.0	1.2
+6/20/2005	PA28-161	N519MS	KELN - KELN	"Review Partial Panel, Mag Compass Turns, Simulated Engine Out, Climbs & Descents"			1					0.7		1.0	0.9	1.0
+6/21/2005	PA28-181	N4499E	KELN - KYKM - KELN	"Review Partial Panel, LOC Tracking, PT ILS, Missed, Hold"	T H	2	2					1.5		2.0	1.9	2.0
+6/23/2005	PA28-161	N234SR	KELN - KYKM - KELN	"Jepp. Inst. Syl. Flt #29 EOC Complete, Instrument Rating (Airplane)"	T H P	2	1					1.0		1.6	1.5	1.6
+6/24/2005	C-172	N2383Q	KPSC - KPSC	"VFR Flight around Tri-Cities, Landings & Radio Communication"			3								1.2	1.2
+7/17/2005	PA28-161	N513MS	KELN - KSZT - KELN	"Jepp. Comm. Syl. Flt #37 Incomplete, XC to Sandpoint, ID Basic NAV"			2		4.3						4.3	4.3
+9/21/2005	C-152	N5499Q	KELN - S10 - KELN	"Jepp. Comm. Syl. Flt #42 Incomplete, VFR X-C Proc, Diversion, Uncontrolled Airport Ops, Lost Proc, VOR NAV, Orientation, Pilotage"			2		2.1					2.1	2.1	2.1
+9/24/2005	C-152	N5499Q	KELN - KPSC - KELN	"Jepp. Comm. Syl. Flt #37 Complete, VOR NAV, Pilotage, Dead Reckoning"			2		2.2						2.2	2.2
+9/27/2005	C-152	N95539	KELN - KMWH - KEAT - KELN	"Jepp. Comm. Syl. Flt #38 Inc. Mag Compass turns, Basic NAV, Pilotage, Dead Reckoning, TaLs"			6		2.1						2.1	2.1
+10/4/2005	PA28-161	N512MS	KELN - KDLS - KELN	"Jepp. Comm. Syl. Flt #38 Complete, XC Planning, GPS NAV, Pilotage, TaLs, Slip to Landing"			7		2.7						2.7	2.7
+10/5/2005	PA28-161	N513MS	KELN - KPDT - KELN	"Jepp. Comm. Syl. Flt #35 Complete, XC Planning, GPS NAV, Landings"				6	3.1	3.1					3.1	3.1
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																

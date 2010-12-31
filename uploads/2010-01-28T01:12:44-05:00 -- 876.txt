@@ -1,0 +1,237 @@
+Date	Registration	Type	Route	Total	PIC	Solo	SIC	Night	Dual Received	Dual Given	Cross Country	Actual Instrument	Simulated Instrument	Night Landings	Day Landings	Sim	Approaches	Person	Remarks	Flying
+2009-08-21	CRJ2	CRJ-200	KPLN KDTW	0.7	0.7			0.7			0.7	0.7			1		1		http://www.vataware.com/flight.cfm?id=4055784	
+2009-08-21	MD82	MD-82	KDTW KSFO	4.5	4.5						4.5	4.5			1		1		http://www.vataware.com/flight.cfm?id=4056549	
+2009-08-22	B737	B737-700	KSFO KLAX	0.9	0.9						0.9	0.9			1		1		http://www.vataware.com/flight.cfm?id=4063666	
+2009-08-23	A343	A-340-300	KLAX LSZH	11.0	11.0			7.0			11.0	11.0		1			1		http://www.vataware.com/flight.cfm?id=4069250	
+2009-08-24	B744	747-400 (Interna	LSZH KIAD	8.3	8.3			5.0			8.3	8.3		1			1		http://www.vataware.com/flight.cfm?id=4075943	
+2009-08-25	SF34	34	KIAD KCRW	1.0	1.0						1.0	1.0			1		1		http://www.vataware.com/flight.cfm?id=4081437	
+2009-08-26	SF34	34	KCRW KIAD	0.8	0.8			1.0			0.8	0.8		1			1		http://www.vataware.com/flight.cfm?id=4086770	
+2009-08-27	CRJ2	CRJ-200	KIAD KDTW	1.2	1.2						1.2	1.2			1		1		http://www.vataware.com/flight.cfm?id=4091410	
+2009-08-29	MD11	MD-11	KIAD KSJC	4.4	4.4						4.4	4.4			1		1		http://www.vataware.com/flight.cfm?id=4097585	
+2009-08-29	PC12	PC-12	KSJC O86	1.1	1.1						1.1				1				http://www.vataware.com/flight.cfm?id=4102655	
+2009-08-29	PC12	PC-12	O86 KRDD	0.3	0.3										1				http://www.vataware.com/flight.cfm?id=4103127	
+2009-08-29	MD82	MD-82	KRDD KPLN	3.9	3.9			2.9			3.9	3.9		1			1		http://www.vataware.com/flight.cfm?id=4103543	
+2009-08-30	B737	B737-700	KPLN LSZH	7.7	7.7			4.0			7.7	7.7		1			1		http://www.vataware.com/flight.cfm?id=4108825	
+2009-09-01	A321	A-321	LSZH UUDD	3.1	3.1			3.1			3.1	3.1		1			1		http://www.vataware.com/flight.cfm?id=4116391	
+2009-09-01	A321	A-321	UUDD LSZH	2.9	2.9			2.9			2.9	2.9		1			1		http://www.vataware.com/flight.cfm?id=4120772	
+2009-09-03	A319	A-319	LSZH LSGG	0.4	0.4			0.4			0.4	0.4		1			1		http://www.vataware.com/flight.cfm?id=4126260	
+2009-09-03	A319	A-319	LSGG LSZH	0.5	0.5			0.5			0.5	0.5		1			1		http://www.vataware.com/flight.cfm?id=4126443	
+2009-09-04	PAY2	Cheyenne 2	LSZH LFLJ	0.9	0.9										1				http://www.vataware.com/flight.cfm?id=4131063	
+2009-09-05	BE60	60 Duke	LFLJ LSZH	0.9	0.9						0.9				1				http://www.vataware.com/flight.cfm?id=4136458	
+2009-09-06	A333	A-330-300	LSZH KJFK	8.4	8.4						8.4	8.4			1		1		http://www.vataware.com/flight.cfm?id=4149956	
+2009-09-07	CRJ1	CRJ-100	KJFK KIAD	0.9	0.9						0.9	0.9			1		1		http://www.vataware.com/flight.cfm?id=4154624	
+2009-09-07	A319	A-319	KIAD KONT	5.1	5.1						5.1	5.1			1		1		http://www.vataware.com/flight.cfm?id=4155430	
+2009-09-08	BE20	200	KONT KLAX	0.3	0.3			0.3				0.3		1			1		http://www.vataware.com/flight.cfm?id=4157188	
+2009-09-08	B737	B737-700	KLAX KSFO	1.0	1.0						1.0	1.0			1		1		http://www.vataware.com/flight.cfm?id=4160932	
+2009-09-08	B737	B737-700	KSFO KJFK	4.8	4.8						4.8	4.8			1		1		http://www.vataware.com/flight.cfm?id=4161311	
+2009-09-09	B763	767-300	KJFK KATL	1.8	1.8			1.8			1.8	1.8		1			1		http://www.vataware.com/flight.cfm?id=4165896	
+2009-09-10	B763	767-300	KATL KJFK	1.6	1.6			1.6			1.6	1.6		1			1		http://www.vataware.com/flight.cfm?id=4166496	
+2009-09-10	A332	A-330-200	KJFK LSZH	7.4	7.4						7.4	7.4			1		1		http://www.vataware.com/flight.cfm?id=4170077	
+2009-09-12	RJ1H	RJ-100	LSZH EDDF	1.0	1.0						1.0	1.0			1		1		http://www.vataware.com/flight.cfm?id=4179358	
+2009-09-12	B752	757-200	EDDF KDTW	8.5	8.5						8.5	8.5			1		1		http://www.vataware.com/flight.cfm?id=4180555	
+2009-09-13	B737	B737-700	KDTW LSGG	7.8	7.8						7.8	7.8			1		1		http://www.vataware.com/flight.cfm?id=4186981	
+2009-09-14	BE20	200	LSGG EDDF	1.3	1.3			1.3			1.3	1.3		1			1		http://www.vataware.com/flight.cfm?id=4189804	
+2009-09-14	A319	A-319	EDDF LSZH	0.7	0.7						0.7	0.7			1		1		http://www.vataware.com/flight.cfm?id=4193144	
+2009-09-16	RJ1H	RJ-100	LSZH LGAV	2.1	2.1						2.1	2.1			1		1		http://www.vataware.com/flight.cfm?id=4198269	
+2009-09-17	PAY2	Cheyenne 2	LGAV LGKL	0.8	0.8						0.8				1				http://www.vataware.com/flight.cfm?id=4203435	
+2009-09-18	BE20	200	LGKL LSZH	2.0	2.0						2.0	2.0			1		1		http://www.vataware.com/flight.cfm?id=4207216	
+2009-09-18	PAY2	Cheyenne 2	LSZH LMML	3.0	3.0						3.0	3.0			1		1		http://www.vataware.com/flight.cfm?id=4211613	
+2009-09-20	PAY2	Cheyenne 2	LMML LIRN	1.3	1.3						1.3	1.3			1		1		http://www.vataware.com/flight.cfm?id=4220126	
+2009-09-20	B737	B737-700	LIRN KJFK	9.6	9.6			5.7			9.6	9.6		1			1		http://www.vataware.com/flight.cfm?id=4223473	
+2009-09-21	CRJ2	CRJ-200	KPLN KDTW	0.7	0.7			0.7			0.7	0.7			1		1		http://www.vataware.com/flight.cfm?id=4055784	
+2009-09-22	E135	EMB-135	KJFK KBUR	5.7	5.7						5.7	5.7			1		1		http://www.vataware.com/flight.cfm?id=4232340	
+2009-09-24	B190	1900	KBUR KONT	0.3	0.3							0.3			1		1		http://www.vataware.com/flight.cfm?id=4237789	
+2009-09-24	B190	1900	KONT KIGM	0.9	0.9						0.9	0.9			1		1		http://www.vataware.com/flight.cfm?id=4237879	
+2009-09-24	B737	B737-700	KIGM KJFK	4.1	4.1			4.1			4.1	4.1		1			1		http://www.vataware.com/flight.cfm?id=4241616	
+2009-09-26	B737	B737-700	KJFK LSZR	7.3	7.3						7.3	7.3			1		1		http://www.vataware.com/flight.cfm?id=4247218	
+2009-09-26	PAY2	Cheyenne 2	LSZR LSZH	0.3	0.3			0.3				0.3		1			1		http://www.vataware.com/flight.cfm?id=4252005	
+2009-09-26	B744	747-400 (Interna	LSZH VTSP	9.3	9.3			6.9			9.3	9.3			1		1		http://www.vataware.com/flight.cfm?id=4252711	
+2009-09-27	A346	A-340-600	VTSP RPLL	3.1	3.1						3.1	3.1			1		1		http://www.vataware.com/flight.cfm?id=4261007	
+2009-09-28	B744	747-400 (Interna	RPLL PTYA	2.3	2.3						2.3	2.3			1		1		http://www.vataware.com/flight.cfm?id=4265604	
+2009-09-28	PAY2	Cheyenne 2	PTYA PTRO	1.0	1.0						1.0	1.0			1		1		http://www.vataware.com/flight.cfm?id=4266630	
+2009-09-29	F100	100	PTRO AYMO	2.6	2.6						2.6	2.6			1		1		http://www.vataware.com/flight.cfm?id=4270131	
+2009-09-30	E170	EMB-170/175	AYMO PKMJ	3.3	3.3			0.6			3.3	3.3			1		1		http://www.vataware.com/flight.cfm?id=4273877	
+2009-09-30	E170	EMB-170/175	PKMJ PMDY	3.2	3.2						3.2	3.2			1		1		http://www.vataware.com/flight.cfm?id=4275003	
+2009-10-01	B712	717-200	PMDY PHKO	2.7	2.7						2.7	2.7			1		1		http://www.vataware.com/flight.cfm?id=4279593	
+2009-10-02	B763	767-300	PHKO KSFO	4.9	4.9			1.7			4.9	4.9		1			1		http://www.vataware.com/flight.cfm?id=4285037	
+2009-10-03	A346	A-340-600	KSFO EDDM	10.9	10.9			6.8			10.9	10.9			1		1		http://www.vataware.com/flight.cfm?id=4291261	
+2009-10-04	B742	747-200	EDDM LLBG	3.2	3.2			3.2			3.2	3.2		1			1		http://www.vataware.com/flight.cfm?id=4300667	
+2009-10-05	B742	747-200	LLBG LSZH	3.7	3.7			3.7			3.7	3.7		1			1		http://www.vataware.com/flight.cfm?id=4306160	
+2009-10-07	RJ1H	RJ-100	LSZH EGLC	1.2	1.2						1.2	1.2			1		1		http://www.vataware.com/flight.cfm?id=4311031	
+2009-10-07	RJ1H	RJ-100	EGLC LSZH	1.3	1.3						1.3	1.3			1		1		http://www.vataware.com/flight.cfm?id=4315622	
+2009-10-11	A343	A-340-300	LSZH KJFK	8.5	8.5						8.5	8.5			1		1		http://www.vataware.com/flight.cfm?id=4338440	
+2009-10-12	E190	EMB-190/195	KJFK KBTV	0.9	0.9						0.9	0.9			1		1		http://www.vataware.com/flight.cfm?id=4346607	
+2009-10-12	E190	EMB-190/195	KBTV KJFK	0.7	0.7						0.7	0.7			1		1		http://www.vataware.com/flight.cfm?id=4346987	
+2009-10-14	C206	Stationair 6	KJFK KFDK	1.8	1.8			1.8			1.8	1.8		1			1		http://www.vataware.com/flight.cfm?id=4352356	
+2009-10-14	C206	Stationair 6	KFDK KTOL	3.3	3.3						3.3	3.3			1		1		http://www.vataware.com/flight.cfm?id=4355799	
+2009-10-15	A346	A-340-600	KTOL KDTW	0.3	0.3			0.3				0.3		1			1		http://www.vataware.com/flight.cfm?id=4356845	
+2009-10-15	B753	757-300	KDTW KSFO	4.4	4.4			2.2			4.4	4.4		1			1		http://www.vataware.com/flight.cfm?id=4361309	
+2009-10-16	B737	B737-700	KSFO KDEN	2.2	2.2						2.2	2.2			1		1		http://www.vataware.com/flight.cfm?id=4366930	
+2009-10-20	E170	EMB-170/175	KDEN KATL	2.2	2.2			2.2			2.2	2.2		1			1		http://www.vataware.com/flight.cfm?id=4392223	
+2009-10-21	C750	750 Citation 10	KATL TNCM	3.2	3.2						3.2	3.2			1		1		http://www.vataware.com/flight.cfm?id=4396379	
+2009-10-23	A343	A-340-300	TNCM LFPG	8.7	8.7			1.0			8.7	8.7			1		1		http://www.vataware.com/flight.cfm?id=4406140	
+2009-10-24	MD11	MD-11	LFPG KJFK	7.6	7.6			7.6			7.6	7.6		1			1		http://www.vataware.com/flight.cfm?id=4412984	
+2009-10-25	A343	A-340-300	KJFK LSZH	7.0	7.0			1.3			7.0	7.0			1		1		http://www.vataware.com/flight.cfm?id=4418209	
+2009-10-26	A343	A-340-300	LSZH FKKD	5.8	5.8						5.8	5.8			1		1		http://www.vataware.com/flight.cfm?id=4425948	
+2009-10-27	A343	A-340-300	FKKD LSZH	5.7	5.7			5.7			5.7	5.7		1			1		http://www.vataware.com/flight.cfm?id=4430778	
+2009-10-29	B738	737-800, BBJ2	LSZH LBSF	1.8	1.8			1.8			1.8	1.8			1		1		http://www.vataware.com/flight.cfm?id=4436162	
+2009-10-29	B737	B737-700	LBSF LSZH	1.8	1.8			1.8			1.8	1.8		1			1		http://www.vataware.com/flight.cfm?id=4440435	
+2009-10-31	B737	B737-700	LSZH LSZH	0.6	0.6			0.6			0.6	0.6		1			1		http://www.vataware.com/flight.cfm?id=4451445	
+2009-10-31	B737	B737-700	LSZH OJAI	4.4	4.4			4.4			4.4	4.4		1			1		http://www.vataware.com/flight.cfm?id=4453082	
+2009-11-01	B737	B737-700	OJAI LEMD	5.1	5.1			2.4			5.1	5.1			1		1		http://www.vataware.com/flight.cfm?id=4454140	
+2009-11-01	B737	B737-700	LEMD LSZH	1.8	1.8			0.6			1.8	1.8		1			1		http://www.vataware.com/flight.cfm?id=4457159	
+2009-11-01	B737	B737-700	LSZH LGAV	2.5	2.5			2.5			2.5	2.5		1			1		http://www.vataware.com/flight.cfm?id=4458207	
+2009-11-01	XB70	XB-70A	LGAV EHAM	1.2	1.2						1.2	1.2			1		1		http://www.vataware.com/flight.cfm?id=4459834	
+2009-11-03	MD11	MD-11	EHAM LGAV	2.7	2.7			2.7			2.7	2.7		1			1		http://www.vataware.com/flight.cfm?id=4466339	
+2009-11-04	B737	B737-700	LGAV LBSF	1.0	1.0						1.0	1.0			1		1		http://www.vataware.com/flight.cfm?id=4471642	
+2009-11-04	B737	B737-700	LBSF EGAA	3.6	3.6						3.6	3.6			1		1		http://www.vataware.com/flight.cfm?id=4471957	
+2009-11-04	B737	B737-700	EGAA EDDL	1.3	1.3						1.3	1.3			1		1		http://www.vataware.com/flight.cfm?id=4476806	
+2009-11-05	B737	B737-700	EDDL UKOO	1.9	1.9						1.9	1.9			1		1		http://www.vataware.com/flight.cfm?id=4477157	
+2009-11-06	B737	B737-700	UKOO LSZH	2.4	2.4			1.0			2.4	2.4			1		1		http://www.vataware.com/flight.cfm?id=4486131	
+2009-11-07	B737	B737-700	LSZH KBED	7.7	7.7						7.7	7.7			1		1		http://www.vataware.com/flight.cfm?id=4487073	
+2009-11-07	T154	Tu-154M	KBED SBEG	5.6	5.6						5.6	5.6			1		1		http://www.vataware.com/flight.cfm?id=4493107	
+2009-11-08	B737	B737-700	SBEG KFLL	5.0	5.0			5.0			5.0	5.0		1			1		http://www.vataware.com/flight.cfm?id=4500577	
+2009-11-09	E190	EMB-190/195	KFLL KJFK	2.4	2.4						2.4	2.4			1		1		http://www.vataware.com/flight.cfm?id=4506858	
+2009-11-09	BE20	200	KJFK KACK	0.8	0.8			0.8			0.8	0.8		1			1		http://www.vataware.com/flight.cfm?id=4507528	
+2009-11-10	BE20	200	KACK KBED	0.6	0.6						0.6	0.6			1		1		http://www.vataware.com/flight.cfm?id=4511618	
+2009-11-10	E135	EMB-135	KBED CYGP	1.3	1.3						1.3	1.3			1		1		http://www.vataware.com/flight.cfm?id=4511965	
+2009-11-10	PAY2	Cheyenne 2	CYGP CYYY	1.0	1.0						1.0	1.0			1		1		http://www.vataware.com/flight.cfm?id=4512968	
+2009-11-11	B738	737-800, BBJ2	CYYY KBED	1.1	1.1						1.1	1.1			1		1		http://www.vataware.com/flight.cfm?id=4517657	
+2009-11-11	B738	737-800, BBJ2	KBED KPVD	0.3	0.3						0.3	0.3			1		1		http://www.vataware.com/flight.cfm?id=4518018	
+2009-11-11	B738	737-800, BBJ2	KPVD KACK	0.4	0.4						0.4	0.4			1		1		http://www.vataware.com/flight.cfm?id=4518162	
+2009-11-11	B738	737-800, BBJ2	KACK KBDL	0.9	0.9						0.9	0.9			1		1		http://www.vataware.com/flight.cfm?id=4518303	
+2009-11-11	B738	737-800, BBJ2	KBDL KPWM	0.5	0.5						0.5	0.5			1		1		http://www.vataware.com/flight.cfm?id=4518546	
+2009-11-11	B738	737-800, BBJ2	KPWM KBED	0.3	0.3						0.3	0.3			1		1		http://www.vataware.com/flight.cfm?id=4518663	
+2009-11-12	CL60	CL-600/Challenge	KBED KSFO	5.3	5.3						5.3	5.3			1		1		http://www.vataware.com/flight.cfm?id=4522376	
+2009-11-14	B744	747-400 (Interna	KSFO YSSY	14.0	14.0						14.0	14.0			1		1		http://www.vataware.com/flight.cfm?id=4531689	
+2009-11-16	B738	737-800, BBJ2	YSSY YAYE	3.2	3.2						3.2	3.2			1		1		http://www.vataware.com/flight.cfm?id=4543103	
+2009-11-17	B733	737-300 	YAYE WIII	4.5	4.5						4.5	4.5			1		1		http://www.vataware.com/flight.cfm?id=4547548	
+2009-11-18	A346	A-340-600	WIII ZJHK	3.6	3.6						3.6	3.6			1		1		http://www.vataware.com/flight.cfm?id=4552264	
+2009-11-19	B744	747-400 (Interna	ZJHK VDPP	1.5	1.5						1.5	1.5			1		1		http://www.vataware.com/flight.cfm?id=4557162	
+2009-11-19	B744	747-400 (Interna	VDPP VNKT	3.2	3.2						3.2	3.2			1		1		http://www.vataware.com/flight.cfm?id=4557594	
+2009-11-20	DHC6	DHC-6 Twin Otter	VNKT VNLK	0.5	0.5						0.5	0.5			1		1		http://www.vataware.com/flight.cfm?id=4561874	
+2009-11-20	DHC6	DHC-6 Twin Otter	VNLK VNKT	0.7	0.7						0.7	0.7			1		1		http://www.vataware.com/flight.cfm?id=4562096	
+2009-11-21	T154	Tu-154M	VNKT UATG	5.4	5.4						5.4	5.4			1		1		http://www.vataware.com/flight.cfm?id=4567336	
+2009-11-23	MD11	MD-11	UATG EGLL	5.5	5.5			5.5			5.5	5.5		1			1		http://www.vataware.com/flight.cfm?id=4581337	
+2009-11-24	CONC	Concorde	EGLL KJFK	3.7	3.7			3.7			3.7	3.7		1			1		http://www.vataware.com/flight.cfm?id=4587363	
+2009-11-24	B752	757-200	KJFK TXKF	1.5	1.5						1.5	1.5			1		1		http://www.vataware.com/flight.cfm?id=4592989	
+2009-11-24	B752	757-200	TXKF TNCM	2.0	2.0						2.0	2.0			1		1		http://www.vataware.com/flight.cfm?id=4593449	
+2009-11-25	MD11	MD-11	TNCM EHAM	7.5	7.5			5.8			7.5	7.5		1			1		http://www.vataware.com/flight.cfm?id=4595862	
+2009-11-26	B738	737-800, BBJ2	EHAM LSZH	1.0	1.0			1.0			1.0	1.0		1			1		http://www.vataware.com/flight.cfm?id=4598995	
+2009-11-26	A343	A-340-300	LSZH OMDB	5.2	5.2			2.6			5.2	5.2		1			1		http://www.vataware.com/flight.cfm?id=4601726	
+2009-11-27	MD11	MD-11	OMDB EHAM	7.3	7.3			1.2			7.3	7.3			1		1		http://www.vataware.com/flight.cfm?id=4603574	
+2009-11-27	B752	757-200	EHAM KWRI	8.3	8.3			8.3			8.3	8.3		1			1		http://www.vataware.com/flight.cfm?id=4607037	
+2009-11-28	MD11	MD-11	KWRI MPHO	4.2				0.7			4.2	4.2		1			1		http://www.vataware.com/flight.cfm?id=4614065	
+2009-11-28	MD11	MD-11	MPHO SCCI	7.9				7.9			7.9	7.9		1			1		http://www.vataware.com/flight.cfm?id=4615952	
+2009-11-29	MD11	MD-11	SCCI SBGL	5.0				4.4			5.0	5.0		1			1		http://www.vataware.com/flight.cfm?id=4623075	
+2009-12-01	MD11	MD-11	SBGL TJSJ	6.1	6.1			6.1			6.1	6.1		1			1		http://www.vataware.com/flight.cfm?id=4632389	
+2009-12-03	MD11	MD-11	TJSJ KJFK	3.3	3.3			3.3			3.3	3.3		1			1		http://www.vataware.com/flight.cfm?id=4642259	
+2009-12-03	E190	EMB-190/195	KJFK KORD	1.8	1.8			1.8			1.8	1.8		1			1		http://www.vataware.com/flight.cfm?id=4643219	
+2009-12-05	B763	767-300	KORD EPWA	8.5	8.5			7.8			8.5	8.5		1			1		http://www.vataware.com/flight.cfm?id=4653617	
+2009-12-06	E170	EMB-170/175	EPWA LSZH	1.7	1.7						1.7	1.7			1		1		http://www.vataware.com/flight.cfm?id=4663423	
+2009-12-07	BE60	60 Duke	LSZH LSGS	1.2	1.2						1.2	1.2			1		1		http://www.vataware.com/flight.cfm?id=4667953	
+2009-12-07	BE60	60 Duke	LSGS LFLJ	0.5	0.5							0.5			1		1		http://www.vataware.com/flight.cfm?id=4668314	
+2009-12-08	BE60	60 Duke	LFLJ EHRD	2.3	2.3						2.3	2.3			1		1		http://www.vataware.com/flight.cfm?id=4673268	
+2009-12-09	B738	737-800, BBJ2	EHRD LSZH	1.1	1.1			1.1			1.1	1.1		1			1		http://www.vataware.com/flight.cfm?id=4678305	
+2009-12-10	F70	70	LSZH LHBP	1.2	1.2						1.2	1.2			1		1		http://www.vataware.com/flight.cfm?id=4683481	
+2009-12-10	F70	70	LHBP UUDD	2.2	2.2						2.2	2.2			1		1		http://www.vataware.com/flight.cfm?id=4683900	
+2009-12-11	B733	737-300 	UUDD EETN	1.8	1.8			1.8			1.8	1.8		1			1		http://www.vataware.com/flight.cfm?id=4688846	
+2009-12-12	B737	B737-700	EETN ESOW	0.8	0.8			0.8			0.8	0.8		1			1		http://www.vataware.com/flight.cfm?id=4695286	
+2009-12-12	B737	B737-700	ESOW LSZH	1.8	1.8			1.8			1.8	1.8		1			1		http://www.vataware.com/flight.cfm?id=4695835	
+2009-12-13	B738	737-800, BBJ2	LSZH LOWS	0.7	0.7			0.7			0.7	0.7		1			1		http://www.vataware.com/flight.cfm?id=4702631	
+2009-12-13	B738	737-800, BBJ2	LOWS LLJR	3.1	3.1			3.1			3.1	3.1		1			1		http://www.vataware.com/flight.cfm?id=4703160	
+2009-12-13	B738	737-800, BBJ2	LLJR OMDB	2.4	2.4			1.9			2.4	2.4			1		1		http://www.vataware.com/flight.cfm?id=4704611	
+2009-12-14	B738	737-800, BBJ2	OMDB VIDP	2.8	2.8			2.8			2.8	2.8		1			1		http://www.vataware.com/flight.cfm?id=4709205	
+2009-12-15	B77W	777-300ER	VIDP OMDB	3.0	3.0			1.5			3.0	3.0			1		1		http://www.vataware.com/flight.cfm?id=4714877	
+2009-12-16	A343	A-340-300	OMDB LSZH	6.6	6.6						6.6	6.6			1		1		http://www.vataware.com/flight.cfm?id=4718697	
+2009-12-17	E170	EMB-170/175	LSZH EDDH	1.2	1.2			1.2			1.2	1.2		1			1		http://www.vataware.com/flight.cfm?id=4724052	
+2009-12-18	DHC7	DHC-7 Dash 7	EDDH LOWW	2.0	2.0			2.0			2.0	2.0		1			1		http://www.vataware.com/flight.cfm?id=4729487	
+2009-12-19	E190	EMB-190/195	LOWW LSZH	1.0	1.0			1.0			1.0	1.0		1			1		http://www.vataware.com/flight.cfm?id=4736993	
+2009-12-19	B752	757-200	LSZH EDDP	1.0	1.0						1.0	1.0			1		1		http://www.vataware.com/flight.cfm?id=4738185	
+2009-12-19	B752	757-200	EDDP KORD	8.2	8.2						8.2	8.2			1		1		http://www.vataware.com/flight.cfm?id=4738686	
+2009-12-20	MD11	MD-11	KORD PANC	6.2	6.2			6.2			6.2	6.2		1			1		http://www.vataware.com/flight.cfm?id=4746961	
+2009-12-21	MD11	MD-11	PANC ZBAA	7.9	7.9						7.9	7.9			1		1		http://www.vataware.com/flight.cfm?id=4751445	
+2009-12-22	MD11	MD-11	ZBAA VHHH	2.8	2.8			2.4			2.8	2.8			1		1		http://www.vataware.com/flight.cfm?id=4756657	
+2009-12-22	MD11	MD-11	VHHH OKBK	8.6	8.6						8.6	8.6			1		1		http://www.vataware.com/flight.cfm?id=4757900	
+2009-12-23	MD11	MD-11	OKBK EBBR	5.9	5.9			5.9			5.9	5.9		1			1		http://www.vataware.com/flight.cfm?id=4763201	
+2009-12-25	MD11	MD-11	EBBR KORD	9.2	9.2			9.2			9.2	9.2		1			1		http://www.vataware.com/flight.cfm?id=4773342	
+2009-12-26	B744	747-400 (Interna	KORD KSFO	3.7	3.7			1.3			3.7	3.7		1			1		http://www.vataware.com/flight.cfm?id=4780293	
+2009-12-26	BE20	200	KSFO KSQL	0.4	0.4			0.4				0.4		1			1		http://www.vataware.com/flight.cfm?id=4781667	
+2009-12-27	PC12	PC-12	KSQL KTVL	0.9	0.9						0.9	0.9			1		1		http://www.vataware.com/flight.cfm?id=4787262	
+2009-12-27	PC12	PC-12	KTVL KAVX	1.6	1.6						1.6	1.6			1		1		http://www.vataware.com/flight.cfm?id=4787800	
+2009-12-30	PC12	PC-12	KAVX MMSD	3.3	3.3						3.3	3.3			1		1		http://www.vataware.com/flight.cfm?id=4798015	
+2010-01-01	PC12	PC-12	MMSD MMUN	5.6	5.6						5.6	5.6			1		1		http://www.vataware.com/flight.cfm?id=4809194	
+2010-01-02	PC12	PC-12	MMUN KEYW	1.5	1.5			1.5			1.5	1.5		1			1		http://www.vataware.com/flight.cfm?id=4818651	
+2010-01-03	PC12	PC-12	KEYW MYSM	1.9	1.9						1.9	1.9			1		1		http://www.vataware.com/flight.cfm?id=4826189	
+2010-01-04	PC12	PC-12	MYSM MUGM	2.1	2.1						2.1	2.1			1		1		http://www.vataware.com/flight.cfm?id=4830224	
+2010-01-04	PC12	PC-12	MUGM MKJP	1.0	1.0						1.0	1.0			1		1		http://www.vataware.com/flight.cfm?id=4831006	
+2010-01-05	PC12	PC-12	MKJP TFFJ	3.4	3.4						3.4	3.4			1		1		http://www.vataware.com/flight.cfm?id=4836704	
+2010-01-07	PC12	PC-12	TFFJ TVSM	1.7	1.7						1.7	1.7			1		1		http://www.vataware.com/flight.cfm?id=4847854	
+2010-01-07	PC12	PC-12	TVSM SMJP	3.0	3.0						3.0	3.0			1		1		http://www.vataware.com/flight.cfm?id=4848450	
+2010-01-08	PC12	PC-12	SMJP SBNT	6.3	6.3						6.3	6.3			1		1		http://www.vataware.com/flight.cfm?id=4853979	
+2010-01-09	PC12	PC-12	SBNT GVSV	6.2	6.2						6.2	6.2			1		1		http://www.vataware.com/flight.cfm?id=4861951	
+2010-01-10	PC12	PC-12	GVSV LPMA	5.3	5.3						5.3	5.3			1		1		http://www.vataware.com/flight.cfm?id=4867311	
+2010-01-11	PC12	PC-12	LPMA LEIB	4.5	4.5						4.5	4.5			1		1		http://www.vataware.com/flight.cfm?id=4875168	
+2010-01-13	PC12	PC-12	LEIB LIRN	2.7	2.7						2.7	2.7			1		1		http://www.vataware.com/flight.cfm?id=4885167	
+2010-01-14	PC12	PC-12	LIRN LIPZ	2.3	2.3						2.3	2.3			1		1		http://www.vataware.com/flight.cfm?id=4890326	
+2010-01-15	PC12	PC-12	LIPZ LFMN	2.9	2.9						2.9	2.9			1		1		http://www.vataware.com/flight.cfm?id=4896315	
+2010-01-15	PC12	PC-12	LFMN LFLJ	1.1	1.1						1.1	1.1			1		1		http://www.vataware.com/flight.cfm?id=4897254	
+2010-01-16	PC12	PC-12	LFLJ LSGS	0.8	0.8						0.8	0.8			1		1		http://www.vataware.com/flight.cfm?id=4901969	
+2010-01-16	PC12	PC-12	LSGS ELLX	1.7	1.7						1.7	1.7			1		1		http://www.vataware.com/flight.cfm?id=4902402	
+2010-01-16	PC12	PC-12	ELLX EGLC	2.2	2.2						2.2	2.2			1		1		http://www.vataware.com/flight.cfm?id=4903298	
+2010-01-17	PC12	PC-12	EGLC EHMZ	0.8	0.8						0.8	0.8			1		1		http://www.vataware.com/flight.cfm?id=4907742	
+2010-01-17	PC12	PC-12	EHMZ EHLE	0.5	0.5						0.5	0.5			1		1		http://www.vataware.com/flight.cfm?id=4908638	
+2010-01-17	PC12	PC-12	EHLE EHTW	0.4	0.4						0.4	0.4			1		1		http://www.vataware.com/flight.cfm?id=4909017	
+2010-01-18	PC12	PC-12	EHTW EDDW	0.8	0.8			0.1			0.8	0.8			1		1		http://www.vataware.com/flight.cfm?id=4914059	
+2010-01-18	PC12	PC-12	EDDW EKYT	1.8	1.8						1.8	1.8			1		1		http://www.vataware.com/flight.cfm?id=4914535	
+2010-01-18	PC12	PC-12	EKYT EFMA	2.0	2.0						2.0	2.0			1		1		http://www.vataware.com/flight.cfm?id=4915364	
+2010-01-18	PC12	PC-12	EFMA EPGD	2.7	2.7						2.7	2.7			1		1		http://www.vataware.com/flight.cfm?id=4916053	
+2010-01-21	PC12	PC-12	EPGD LDSB	4.0	4.0						4.0	4.0			1		1		http://www.vataware.com/flight.cfm?id=4930686	
+2010-01-22	PC12	PC-12	LDSB LGKC	3.0	3.0						3.0	3.0			1		1		http://www.vataware.com/flight.cfm?id=4936831	
+2010-01-23	PC12	PC-12	LGKC HEAT	3.3	3.3						3.3	3.3			1		1		http://www.vataware.com/flight.cfm?id=4943975	
+2010-01-24	PC12	PC-12	HEAT OBBS	4.5	4.5						4.5	4.5			1		1		http://www.vataware.com/flight.cfm?id=4951752	
+2010-01-25	PC12	PC-12	OBBS VABB	5.3	5.3						5.3	5.3			1		1		http://www.vataware.com/flight.cfm?id=4958782	
+2010-01-26	PC12	PC-12	VABB VRMM	3.9	3.9						3.9	3.9			1		1		http://www.vataware.com/flight.cfm?id=4964117	
+2010-01-27	PC12	PC-12	VRMM VCBI	2.2	2.2			1.0				2.2		1			1		http://www.vataware.com/flight.cfm?id=4969395	
+##PLANE	CONC	AEROSPATIALE		Concorde	2	X	Type Rating	
+##PLANE	A319	AIRBUS INDUSTRIES		A-319	2	X	Type Rating	
+##PLANE	A321	AIRBUS INDUSTRIES		A-321	2	X	Type Rating	
+##PLANE	A332	AIRBUS INDUSTRIES		A-330-200	2	X	Type Rating	
+##PLANE	A333	AIRBUS INDUSTRIES		A-330-300	2	X	Type Rating	
+##PLANE	A343	AIRBUS INDUSTRIES		A-340-300	2	X	Type Rating	
+##PLANE	A346	AIRBUS INDUSTRIES		A-340-600	2	X	Type Rating	
+##PLANE	B190	BEECH AIRCRAFT COMPANY		1900	2	X	Type Rating	
+##PLANE	BE20	BEECH AIRCRAFT COMPANY		200	2	X		
+##PLANE	BE60	BEECH AIRCRAFT COMPANY		60 Duke	2	X		
+##PLANE	BE60	BEECH AIRCRAFT COMPANY		60 Duke	1	X		
+##PLANE	B712	BOEING COMPANY		717-200	2	X	Type Rating	
+##PLANE	B733	BOEING COMPANY		737-300 	2	X	Type Rating	
+##PLANE	B738	BOEING COMPANY		737-800, BBJ2	2	X	Type Rating	
+##PLANE	B742	BOEING COMPANY		747-200	2	X	Type Rating	
+##PLANE	B744	BOEING COMPANY		747-400 (Interna	2	X	Type Rating	
+##PLANE	B752	BOEING COMPANY		757-200	2	X	Type Rating	
+##PLANE	B753	BOEING COMPANY		757-300	2	X	Type Rating	
+##PLANE	B763	BOEING COMPANY		767-300	2	X	Type Rating	
+##PLANE	B77W	BOEING COMPANY		777-300ER	2	X	Type Rating	
+##PLANE	B737	BOEING COMPANY		B737-700	2	X	Type Rating	
+##PLANE	RJ1H	BRITISH AEROSPACE (BAe)		RJ-100	2	X	Type Rating	
+##PLANE	CL60	CANADAIR BOMBARDIER LTD.		CL-600/Challenge	2	X	Type Rating	
+##PLANE	CRJ1	CANADAIR BOMBARDIER LTD.		CRJ-100	2	X	Type Rating	
+##PLANE	CRJ2	CANADAIR BOMBARDIER LTD.		CRJ-200	2	X	Type Rating	
+##PLANE	C750	CESSNA AIRCRAFT COMPANY		750 Citation 10	2	X	Type Rating	
+##PLANE	C206	CESSNA AIRCRAFT COMPANY		Stationair 6	1	X		
+##PLANE	DHC6	DEHAVILLAND		DHC-6 Twin Otter	2	X		
+##PLANE	DHC7	DEHAVILLAND		DHC-7 Dash 7	2	X	Type Rating	
+##PLANE	E135	EMBRAER		EMB-135	2	X	Type Rating	
+##PLANE	E170	EMBRAER		EMB-170/175	2	X	Type Rating	
+##PLANE	E190	EMBRAER		EMB-190/195	2	X	Type Rating	
+##PLANE	F100	FOKKER BV		100	2	X	Type Rating	
+##PLANE	F70	FOKKER BV		70	2	X		
+##PLANE	MD11	MCDONNELL-DOUGLAS CORP.		MD-11	2	X	Type Rating	
+##PLANE	MD82	MCDONNELL-DOUGLAS CORP.		MD-82	2	X	Type Rating	
+##PLANE	XB70	NORTH AMERICAN		XB-70A	2	X	Type Rating	
+##PLANE	PC12	PILATUS FLUGZEUGWERKE AG		PC-12	1	X		
+##PLANE	PAY2	PIPER AIRCRAFT CORP.		Cheyenne 2	2	X		
+##PLANE	SF34	SAAB		34	2	X	Type Rating	
+##PLANE	T154	Tupolev Design Bureau		Tu-154M	2	X	Type Rating	
+##LOC	LLJR	Jerusalem	35.217222	31.8525	Isreal	Small Airport

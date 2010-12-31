@@ -1,0 +1,100 @@
+Date	Type	Plane	From	Remarks	Day Landings	Night	Actual Instrument	Simulated Instrument	Cross Country	Dual Received	Total										
+8/11/1990	C152	69028	CMA-CMA	Intro	1					0.6	0.6										
+8/15/1990	C152	95505	CMA-CMA	"climbs,decents,s+l,turns"	1					0.5	0.5										
+9/2/1990	C152	6347M	CMA-CMA	"climbs,decents,s+l,steep turns, mca"	1					0.9	0.9										
+9/16/1990	C152	95505	CMA-CMA	"mca, steep turns"	1					0.8	0.8										
+9/30/1990	C152	6347M	CMA-CMA	"mca, steep turns, approach stalls"	1					0.8	0.8										
+10/13/1990	C172	51455	VNY-VNY	"Pattern Work, switched to VNY, new cfi"	1					1.2	1.2										
+10/19/1990	C172	51455	VNY-VNY	"Emergency proc, pattern, mca"	1					0.9	0.9										
+10/20/1990	C172	49360	VNY-VNY	Sightseeing with Fabiola along coast with Dave Salzman (CFI)	1					0.8	0.8										
+10/27/1990	C172	51455	VNY-OXR	"Radio Comm, traffic pattern"	6					1.3	1.3										
+11/19/1990	C172	54413	VNY-VNY	"Radio, slow flight"	1		0.5			1	1										
+11/24/1990	C172	51455	VNY-VNY	T&G	8					1.1	1.1										
+11/27/1990	C172	54413	VNY-VNY	34R T&Gs	2					0.5	0.5										
+12/1/1990	C172	54050	VNY-OXR	"T&G emergency proc, x wind"	8	0.5				2.1	2.1										
+12/3/1990	C172	5346K	VNY-VNY		12					1.1	1.1										
+12/8/1990	C172	4936D	VNY-WJF		14					2.1	2.1										
+12/14/1990	C172	54413	VNY-VNY		7					0.7	0.7										
+12/27/1990	C172	54413	VNY-VNY		5					1.5	1.5										
+12/29/1990	C172	54413	VNY-VNY		3					0.9	0.9										
+1/3/1991	C172	54050	VNY-VNY		6					0.8	0.8										
+1/5/1991	C172	5364K	VNY-OXR		2	1.3	0.3			1.3	1.3										
+1/8/1991	C172	4936D	VNY-OXR		2					0.9	0.9										
+1/10/1991	C172	54413	VNY-VNY		10					0.9	0.9										
+1/12/1991	C172	54413	VNY-VNY		10					1.5	1.5										
+1/15/1991	C172	54413	VNY-VNY		6					1	1										
+1/17/1991	C172	54413	VNY-VNY		8					0.7	0.7										
+1/19/1991	C172	4936D	VNY-VNY		4					0.8	0.8										
+1/27/1991	C172	51455	VNY-SBA	FIRST SOLO! Dual XC - Superbowl Sunday	6				2.3	2.3	2.3										
+1/30/1991	C172	54413	VNY-VNY		4						0										
+1/31/1991	C172	54413	VNY-VNY		4						0										
+2/2/1991	C172	54413	VNY-VNY		5						0										
+2/4/1991	C172	54413	VNY-F70		6	2.2			2.2		2.2										
+2/9/1991	C172	51455	VNY-VNY		7						0										
+2/10/1991	C172	54413	VNY-VNY		5						0										
+2/10/1991	C172	54413	VNY-VNY		6																
+2/12/1991	C172	54413	VNY-VNY		1						0										
+2/14/1991	C172	54413	VNY-VNY		2						0										
+2/19/1991	C172	54413	VNY-VNY		1						0										
+2/20/1991	C172	54413	VNY-VNY		1						0										
+2/22/1991	C172	4936D	VNY-VNY		5						0										
+2/23/1991	C172	54413	VNY-VNY		1		0.3	1		1.3	1.3										
+3/2/1991	C172	2781E	VNY-VNY		2					0.5	1.7										
+3/2/1991	C172	4936D	VNY-VNY		4					0.5	0.5										
+3/3/1991	C172	4936D	VNY-L71		2				2		2										
+3/4/1991	C172	5364K	VNY-VNY		4						0.7										
+3/7/1991	C172	5364K	VNY-VNY		2					0.9	0.9										
+3/8/1991	C172	5364K	VNY-VNY		1						1.1										
+3/9/1991	C172	54413	VNY-APV		6	1			2.7		2.7										
+3/9/1991	C172	54413	VNY-VNY		8					1	1										
+3/16/1991	C172	2781E	VNY-VNY		1						1.3										
+3/21/1991	C172	54413	VNY-VNY		3						0.5										
+3/21/1991	C172	2781E	VNY-VNY		6					1	1										
+3/28/1991	C172	54413	VNY-PTV	Long X-Cntry	3				5.4		5.4										
+3/31/1991	C172	4936D	VNY-VNY		4					2.1	2.1										
+4/4/1991	C172	54413	VNY-VNY		1		0.2			0.6	0.6										
+4/6/1991	C172	54413	VNY-VNY		4					0.6	0.6										
+4/7/1991	C172	54413	VNY-VNY		3						0.5										
+4/7/1991	C172	5364K	VNY-VNY		1						1.7										
+4/8/1991	C172	54050	VNY-VNY		6					0.7	0.7										
+4/8/1991	C172	5364K	VNY-VNY	Private Pilot Checkride	3			0.2			1.6										
+4/9/1991	C172	54050	VNY-L70	Diversion to Alternate/Emergency Proc	2					1.1	1.1										
+4/12/1991	C172	5364K	VNY-VNY	Private Pilot Checkride II	1						0.9										
+4/13/1991	C172	51455	VNY-SBA		2						2.4										
+4/14/1991	C172	5364K	VNY-L71		1						1.2										
+4/19/1991	C172	767MG	BED-BED	Executive Flyers Checkout	4						1.3										
+4/20/1991	C172	80116	BED-BED	Executive Flyers Checkout	3						0.6										
+4/26/1991	C172	71393	BED-MHT		2				1.4		1.4										
+5/13/1991	C172	12944	BED-7B2		2				1.9		1.9										
+9/18/1991	C172	7266D	1B9-1B9		4					1	1										
+9/24/1991	C172	6231D	1B9-TAN		1					1.8	1.8										
+10/8/1991	C172	7266D	1B9-1B9		6					0.6	0.6										
+10/10/1991	C172	46549	1B9-1B9		1			1		1.1	1.1										
+10/15/1991	ATC710			Bridgewater State College				2		2											
+10/17/1991	ATC710			Bridgewater State College				1		1											
+11/3/1991	C172	47916	BED-BED		1					1.1	1.1										
+11/5/1991	C172	65719	BED-BED		1	0.5				1.1	1.1										
+11/12/1991	C172	47916	BED-BED		1					1.3	1.3										
+11/18/1991	C172	13599	BED-LCI		2				2.3		2.3										
+12/31/1991	C172	767MG	BED-LCI		2				2.1		2.1										
+12/18/2007	C172	2459Y	OWD-OWD		2					0.9	0.9										
+12/19/2007	C172	12944	BED-BED		6					1.6	1.6										
+1/5/2008	C152	7397B	0A7-AVL		8					1.7	1.7										
+1/5/2008	C152	7397B	0A7-0A7		15					2.3	2.3										
+1/13/2008	C172	1154G	BED-BED		4					1.4	1.4										
+2/3/2008	C172	6023Y	BED-BED		3						0.8										
+4/10/2008	PA28	3572M	BED-BED		1					1.2	1.2										
+4/13/2008	PA28	239ND	BED-FIT		4					1.3	1.3										
+4/15/2008	PA28	239ND	BED-FIT		2					1.2	1.2										
+4/20/2008	PA28	276ND	BED-SFM		2				1.9		1.9										
+5/24/2008	PA28	276ND	BED-CQX		3				2.9		2.9										
+6/25/2008	PA28	276ND	BED-BED		1						1.6										
+8/17/2008	PA28	267ND	BED-CQX		2				2.6		2.6										
+10/5/2008	PA28	263ND	BED-AUG		4				3.2		3.2										
+11/21/2008	PA28	263ND	BED-SFM		2				1.9		1.9										
+7/19/2009	PA28	6909A	1B9-EWB		4					1.3	1.3										
+																					
+																					
+																					
+																					
+																					

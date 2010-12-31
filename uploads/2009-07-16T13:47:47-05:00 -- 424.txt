@@ -1,0 +1,325 @@
+DATE	AIRCRAFT MAKE & MODEL	AIRCRAFT IDENT	LEGS	ROUTE OF FLIGHT	OUT	TAKEOFF	LAND	IN	DURATION	LANDINGS DAY	LANDINGS 	NIGHT	INSTRUMENT	SIMULATED INSTRUMENT	APPROACHES & TYPE	NIGHT	SIMULATOR	CROSS COUNTRY	SOLO	PILOT IN COMMAND	SECOND IN COMMAND	DUAL	INSTRUCTOR	EVALUATOR	FLIGHT COST	EXPENSES	PER DIEM	REMARKS
+20 Jul 08	CRJ200	N8800G	1	MEM-OMA					1.7	 	 	 			 		1.7			1.7							
+20 Jul 08	CRJ200	N8800G	1	OMA-MEM					1.7	1	 	 			 		1.7			1.7							
+20 Jul 08	CRJ200	N8541D	1	MEM-EVV					1.2	 	 	 			 		1.2			1.2							
+20 Jul 08	CRJ200	N8541D	1	EVV-MEM					1.1	1	 	 			 		1.1			1.1							
+20 Jul 08	CRJ200	N8932C	1	MEM-RDU					2.0	 	 	 			0.7		2.0			2.0							
+21 Jul 08	CRJ200	N8964E	1	RDU-IND					1.7	1	 	 			 		1.7			1.7							
+21 Jul 08	CRJ200	N800AY	1	IND-PHL					1.9	1	 	 			 		1.9			1.9							
+21 Jul 08	CRJ200	N800AY	1	PHL-MEM					2.5	 	 	 			 		2.5			2.5							
+22 Jul 08	CRJ200	N8884E	1	MEM-CHA					1.2	 	1	 			0.6		1.2			1.2							
+22 Jul 08	CRJ200	N8970D	1	CHA-MEM					1.6	1	 	 			 		1.6			1.6							
+22 Jul 08	CRJ200	N8869A	1	MEM-SDF					1.2	1	 	 			 		1.2			1.2							
+22 Jul 08	CRJ200	N8869A	1	SDF-MEM					1.9	 	 	 			 		1.9			1.9							
+22 Jul 08	CRJ200	N8828D	1	MEM-PIT					1.9	1	 	 			 		1.9			1.9							
+22 Jul 08	CRJ200	N8828D	1	PIT-MEM					1.9	 	 	 			 		1.9			1.9							
+28 Jul 08	CRJ200	N8577D	1	MEM-DEN					2.6	 	1	 			1.6		2.6			2.6							
+28 Jul 08	CRJ200	N821AY	1	DEN-MEM					2.4	1	 	 			 		2.4			2.4							
+29 Jul 08	CRJ200	N821AY	1	MEM-HSV					0.9	 	 	 			0.3		0.9			0.9							
+29 Jul 08	CRJ200	N826AY	1	HSV-MEM					0.9	1	 	 			 		0.9			0.9							
+29 Jul 08	CRJ200	N8751D	1	MEM-MEM					0.8	 	 	 			 		0.8			0.8							
+29 Jul 08	CRJ200	N8751D	1	MEM-IND					1.4	 	 	 			 		1.4			1.4							
+30 Jul 08	CRJ200	N8495B	1	IND-PHL					1.7	1	 	 			 		1.7			1.7							
+30 Jul 08	CRJ200	N8495B	1	PHL-MEM					3.1	 	 	 			 		3.1			3.1							
+30 Jul 08	CRJ200	N8977A	1	MEM-CAE					1.7	1	 	 			 		1.7			1.7							
+30 Jul 08	CRJ200	N8977A	1	CAE-MEM					1.6	 	 	 			 		1.6			1.6							
+31 Jul 08	CRJ200	N8505Q	1	MEM-SAV					2.0	1	 	 			 		2.0			2.0							
+31 Jul 08	CRJ200	N8505Q	1	SAV-MEM					1.6	 	 	 			 		1.6			1.6							
+31 Jul 08	CRJ200	N8543F	1	MEM-XNA					1.2	1	 	 			 		1.2			1.2							
+31 Jul 08	CRJ200	N8543F	1	XNA-MEM					1.2	 	 	 			 		1.2			1.2							
+4 Aug 08	CRJ200	N8790A	1	MEM-RDU					2.0	1	 	 			 		2.0			2.0							
+4 Aug 08	CRJ200	N8790A	1	RDU-MEM					2.1	 	 	 			 		2.1			2.1							
+17 Aug 08	CRJ200	N8696C	1	MEM-IAH					1.5	 	 	 			 		1.5			1.5							
+17 Aug 08	CRJ200	N8696C	1	IAH-MEM					1.5	1	 	 			 		1.5			1.5							
+18 Aug 08	CRJ200	N8488D	1	MEM-YYZ					2.5	 	 	 			 		2.5			2.5							
+18 Aug 08	CRJ200	N8488D	1	YYZ-MSP					2.1	1	 	 			 		2.1			2.1							
+18 Aug 08	CRJ200	N8683B	1	MSP-AVL					2.1	 	 	 			1.0		2.1			2.1							
+19 Aug 08	CRJ200	N8924B	1	AVL-DTW					1.8	1	 	 			 		1.8			1.8							
+19 Aug 08	CRJ200	N8936A	1	DTW-TYS					1.3	 	 	 			 		1.3			1.3							
+19 Aug 08	CRJ200	N8936A	1	TYS-MEM					1.4	1	 	 			 		1.4			1.4							
+5 Sep 08	CRJ200	N8631E	1	MCI-MEM					1.8	 	 	 			 		1.8			1.8							Ferry flight.  Flaps fail at 20
+8 Sep 08	CRJ200	N8501F	1	MEM-MLI					1.5	 	 	 			 		1.5			1.5							
+8 Sep 08	CRJ200	N8501F	1	MLI-MEM					1.5	 	 	 			 		1.5			1.5							
+12 Sep 08	CRJ200	N824AY	1	MEM-MSP					2.0	 	 	 			 		2.0			2.0							
+12 Sep 08	CRJ200	N8970D	1	MSP-YYZ					1.9	1	 	 			 		1.9			1.9							
+12 Sep 08	CRJ200	N8907D	1	YYZ-MEM					2.4	 	 	 			 		2.4			2.4							
+14 Sep 08	CRJ200	N839AY	1	MEM-YYZ					2.1	 	 	 			 		2.1			2.1							
+15 Sep 08	CRJ200	N8751D	1	YYZ-MEM					2.5	1	 	 			 		2.5			2.5							
+19 Sep 08	CRJ200	N8903A	1	IND-MEM					1.6	 	 	 			1.6		1.6			1.6							Ferry flight
+19 Sep 08	CRJ200	N8888D	1	MEM-CLE					1.9	 	 	 			 		1.9			1.9							
+19 Sep 08	CRJ200	N8888D	1	CLE-MEM					2.0	1	 	 			 		2.0			2.0							
+21 Sep 08	CRJ200	N839AY	1	MEM-PNS					1.2	 	 	 			 		1.2			1.2							
+21 Sep 08	CRJ200	N839AY	1	PNS-MEM					1.5	1	 	 			 		1.5			1.5							
+21 Sep 08	CRJ200	N8891A	1	MEM-MOB					1.3	 	 	 			 		1.3			1.3							Gear stuck down
+21 Sep 08	CRJ200	N8891A	1	MOB-MEM					1.6	1	 	 			 		1.6			1.6							Gear stuck down
+27 Sep 08	CRJ200	N8905F	1	MEM-GSP					1.9	 	 	 			1.9		1.9			1.9							
+27 Sep 08	CRJ200	N8665A	1	GSP-DTW					1.8	 	 	 			 		1.8			1.8							
+16 Oct 08	CRJ200	N8907A	1	MSP-IND					1.9	 	 	 			 		1.9			1.9							Ferry flight
+16 Oct 08	CRJ200	N8907A	1	IND-DTW					1.6	1	 	 			 		1.6			1.6							
+17 Oct 08	CRJ200	N8891A	1	MSP-CMH					1.8	 	 	 			 		1.8			1.8							
+17 Oct 08	CRJ200	N8891A	1	CMH-MEM					1.9	1	 	 			 		1.9			1.9							
+26 Oct 08	CRJ200	N800AY	1	DTW-BGR					1.7	 	 	 			1.7		1.7			1.7							
+26 Oct 08	CRJ200	N829AY	1	BGR-DTW					2.3	1	 	 			 		2.3			2.3							
+27 Oct 08	CRJ200	N824AY	1	DTW-AVP					1.4	 	 	 			1.4		1.4			1.4							
+27 Oct 08	CRJ200	N8921B	1	AVP-DTW					1.5	1	 	 			 		1.5			1.5							
+27 Oct 08	CRJ200	N8646A	1	DTW-OKC					2.6	 	 	 			2.6		2.6			2.6							
+28 Oct 08	CRJ200	N8646A	1	OKC-MSP					2.2	1	 	 			 		2.2			2.2							
+28 Oct 08	CRJ200	N8964E	1	MSP-GRR					1.4	 	 	 			 		1.4			1.4							
+28 Oct 08	CRJ200	N8964E	1	GRR-MSP					1.5	1	 	 			 		1.5			1.5							
+28 Oct 08	CRJ200	N8696C	1	MSP-RHI					0.9	 	 	 			 		0.9			0.9							
+28 Oct 08	CRJ200	N8696C	1	RHI-MSP					1.0	1	 	 			 		1.0			1.0							
+3 Nov 08	CRJ200	N8896A	1	XNA-MEM					1.1	 	 	 			 		1.1			1.1							
+4 Nov 08	CRJ200	N8423C	1	MEM-ORF					2.1	 	 	 			2.1		2.1			2.1							
+4 Nov 08	CRJ200	N8475B	1	DTW-MBS					0.7	1	 	 			 		0.7			0.7							
+4 Nov 08	CRJ200	N8475B	1	MBS-DTW					0.7	 	 	 			 		0.7			0.7							
+8 Nov 08	CRJ200	N8928A	1	MSP-FNT					1.5	 	 	 			0.6		1.5			1.5							
+9 Nov 08	CRJ200	N8928A	1	FNT-MSP					1.6	 	1	 			1.6		1.6			1.6							
+9 Nov 08	CRJ200	N8928A	1	MSP-OKC					2.3	 	 	 			2.3		2.3			2.3							
+9 Nov 08	CRJ200	N826AY	1	OKC-DTW					2.5	 	1	 			1.2		2.5			2.5							
+10 Nov 08	CRJ200	N8409N	1	DTW-BNA					1.7	 	 	 			1.7		1.7			1.7							
+10 Nov 08	CRJ200	N8674A	1	BNA-MSP					2.2	1	 	 			 		2.2			2.2							
+10 Nov 08	CRJ200	N8409N	1	MSP-STL					1.6	 	 	 			1.3		1.6			1.6							
+11 Nov 08	CRJ200	N8409N	1	STL-MSP					1.5	 	1	 			1.5		1.5			1.5							
+23 Nov 08	CRJ200	N8751D	1	MSP-DSM					1.3	 	 	 			 		1.3			1.3							
+23 Nov 08	CRJ200	N8751D	1	DSM-LGA					2.7	 	 	 			1.3		2.7			2.7							
+24 Nov 08	CRJ200	N8751D	1	LGA-FNT					1.8	 	1	 			1.8		1.8			1.8							
+25 Nov 08	CRJ200	N8554A	1	FNT-MSP					1.8	 	1	 			1.8		1.8			1.8							
+25 Nov 08	CRJ200	N8390A	1	DTW-TYS					1.2	 	 	 			 		1.2			1.2							
+26 Nov 08	CRJ200	N8837B	1	TYS-MEM					1.5	1	 	 			 		1.5			1.5							
+26 Nov 08	CRJ200	N8838B	1	MEM-JAX					1.5	 	 	 			 		1.5			1.5							
+26 Nov 08	CRJ200	N8837B	1	JAX-MEM					2.1	1	 	 			 		2.1			2.1							
+26 Nov 08	CRJ200	N8837B	1	MEM-STL					1.2	1	 	 			 		1.2			1.2							
+26 Nov 08	CRJ200	N8837B	1	STL-MSP					1.7	 	 	 			0.8		1.7			1.7							
+1 Dec 08	CRJ200	N8896A	1	MEM-MGM					1.0	 	 	 			1.0		1.0			1.0							
+1 Dec 08	CRJ200	N8896A	1	MGM-MEM					1.2	1	 	 			 		1.2			1.2							
+1 Dec 08	CRJ200	N8855A	1	MEM-MSP					2.3	 	 	 			 		2.3			2.3							
+2 Dec 08	CRJ200	N8964E	1	MSP-BNA					2.0	1	 	 			 		2.0			2.0							
+2 Dec 08	CRJ200	N8964E	1	BNA-DTW					1.7	 	 	 			 		1.7			1.7							
+2 Dec 08	CRJ200	N8747B	1	DTW-DTW					0.9	1	 	 		1	 		0.9			0.9							
+2 Dec 08	CRJ200	N8747B	1	DTW-YOW					1.6	 	1	 		1	1.6		1.6			1.6							
+3 Dec 08	CRJ200	N8747B	1	YOW-DTW					1.8	 	 	 			 		1.8			1.8							
+3 Dec 08	CRJ200	N8837B	1	MSP-SDF					1.9	1	 	 			 		1.9			1.9							
+3 Dec 08	CRJ200	N8837B	1	SDF-MSP					2.0	 	 	 			 		2.0			2.0							
+8 Dec 08	CRJ200	N8525B	1	MSP-TVC					1.6	 	 	0.5			1.6		1.6			1.6							
+8 Dec 08	CRJ200	N8525B	1	TVC-MSP					1.8	1	 	 			 		1.8			1.8							
+10 Dec 08	CRJ200	N830AY	1	MSP-OMA					1.1	 	 	0.5			 		1.1			1.1							
+10 Dec 08	CRJ200	N830AY	1	OMA-MSP					1.3	1	 	0.2			 		1.3			1.3							
+10 Dec 08	CRJ200	N830AY	1	MSP-DSM					1.2	 	 	0.2			 		1.2			1.2							
+10 Dec 08	CRJ200	N830AY	1	DSM-MEM					1.8	 	1	0.4		1	 		1.8			1.8							
+14 Dec 08	CRJ200	N8869B	1	MSP-DTW					1.6	 	 	0.4			 		1.6			1.6							
+14 Dec 08	CRJ200	N8923B	1	DTW-PIT					1.0	 	1	0.3			0.8		1.0			1.0							
+15 Dec 08	CRJ200	N8923A	1	PIT-MSP					2.9	1	 	0.5		1	 		2.9			2.9							
+15 Dec 08	CRJ200	N8847A	1	MSP-SDF					2.1	1	 	0.4		1	 		2.1			2.1							
+15 Dec 08	CRJ200	N8847A	1	SDF-MSP					2.0	 	 	 			 		2.0			2.0							
+16 Dec 08	CRJ200	N8960A	1	FNT-LGA					1.8	 	 	0.6			 		1.8			1.8							
+16 Dec 08	CRJ200	N8409N	1	LGA-DSM					4.2	1	 	2.5		1	 		4.2			4.2							
+16 Dec 08	CRJ200	N8409N	1	DSM-MSP					1.6	 	 	0.7			 		1.6			1.6							
+17 Dec 08	CRJ200	N8905F	1	MSP-PIT					1.8	 	 	 			 		1.8			1.8							
+17 Dec 08	CRJ200	N8905F	1	PIT-DTW					1.5	 	1	0.2			1.2		1.5			1.5							
+21 Dec 08	CRJ200	N8631E	1	MSP-TUL					2.0	 	 	 			 		2.0			2.0							
+22 Dec 08	CRJ200	N8631E	1	TUL-MSP					2.4	 	1	 			2.4		2.4			2.4							
+26 Dec 08	CRJ200	N8525B	1	DSM-DCA					2.1	 	 	 			 		2.1			2.1							
+26 Dec 08	CRJ200	N8525B	1	DCA-MSN					2.2	1	 	0.3		1	 		2.2			2.2							
+27 Dec 08	CRJ200	N830AY	1	MSN-DCA					1.9	 	 	 			 		1.9			1.9							
+3 Jan 09	CRJ200	N8631E	1	MSP-DAY					1.6	 	 	 			1.6		1.6			1.6							
+4 Jan 09	CRJ200	N8544A	1	DAY-MSP					2.0	 	1	0.3			2.0		2.0			2.0							
+4 Jan 09	CRJ200	N8869B	1	MSP-DTW					3.0	 	 	0.3			3.0		3.0			3.0							
+6 Jan 09	CRJ200	N8588D	1	MSP-DSM					1.1	 	 	 			 		1.1			1.1							
+6 Jan 09	CRJ200	N8588D	1	DSM-MEM					1.8	 	1	0.5			1.0		1.8			1.8							
+7 Jan 09	CRJ200	N8588D	1	MEM-HSV					1.1	 	 	0.3			1.1		1.1			1.1							
+7 Jan 09	CRJ200	N8588D	1	HSV-MEM					1.2	1	 	 			 		1.2			1.2							
+7 Jan 09	CRJ200	N8588D	1	MEM-MCI					1.5	 	 	 			 		1.5			1.5							
+7 Jan 09	CRJ200	N8588D	1	MCI-MSP					1.9	1	 	 			 		1.9			1.9							
+7 Jan 09	CRJ200	N8588D	1	MSP-ICT					1.7	 	 	 			 		1.7			1.7							
+7 Jan 09	CRJ200	N8588D	1	ICT-MSP					1.9	 	1	0.2			1.0		1.9			1.9							
+7 Jan 09	CRJ200	8532	1	MSP-GRR					1.5	 	 	 			 		1.5			1.5							
+7 Jan 09	CRJ200		1	GRR-MSP					1.6	1	 	 			 		1.6			1.6							
+13 Jan 09	CRJ200	N8896A	1	MSP-SBN					1.8	 	 	 			1.8		1.8			1.8							
+13 Jan 09	CRJ200	N8588D	1	SBN-DTW					1.7	1	 	0.2		1	 		1.7			1.7							ILS Z 22R
+13 Jan 09	CRJ200	N8588D	1	DTW-CLE					1.1	 	 	0.3			 		1.1			1.1							
+13 Jan 09	CRJ200	N8588D	1	CLE-DTW					1.4	1	 	0.2			 		1.4			1.4							ILS 27L
+13 Jan 09	CRJ200	N8588D	1	DTW-AVP					1.9	 	 	 			 		1.9			1.9							
+14 Jan 09	CRJ200	N8758D	1	AVP-DTW					1.9	1	 	 			 		1.9			1.9							
+14 Jan 09	CRJ200	N8933B	1	DTW-MBS					1.3	 	 	0.4			 		1.3			1.3							
+15 Jan 09	CRJ200	N8751D	1	MBS-MSP					2.0	 	 	 			 		2.0			2.0							Flaps fail MSG on approach at 0
+15 Jan 09	CRJ200	N805AY	1	MSP-MSN					1.1	 	 	 			 		1.1			1.1							
+15 Jan 09	CRJ200	N805AY	1	MSN-MSP					1.3	1	 	 			 		1.3			1.3							
+15 Jan 09	CRJ200	N8903A	1	MSP-ICT					1.8	 	 	 			 		1.8			1.8							
+15 Jan 09	CRJ200	N8903A	1	ICT-MSP					1.8	1	 	 			 		1.8			1.8							
+19 Jan 09	CRJ200	N8908D	1	MSP-SBN					1.5	 	 	0.2			1.5		1.5			1.5							
+19 Jan 09	CRJ200	N8673D	1	SBN-DTW					1.4	1	 	 			 		1.4			1.4							
+19 Jan 09	CRJ200	N8913A	1	DTW-MDT					1.3	 	 	 			 		1.3			1.3							
+20 Jan 09	CRJ200	N8903A	1	MDT-MSP					2.5	1	 	 			 		2.5			2.5							
+20 Jan 09	CRJ200	N8532G	1	MSP-YWG					1.4	 	 	 			 		1.4			1.4							
+20 Jan 09	CRJ200	N8532G	1	YWG-MSP					1.5	1	 	 			 		1.5			1.5							
+20 Jan 09	CRJ200	N8532G	1	MSP-FNT					1.4	 	 	 			 		1.4			1.4							
+21 Jan 09	CRJ200	N8541D	1	FNT-LGA					1.9	1	 	 			 		1.9			1.9							Expessway visual 13
+21 Jan 09	CRJ200	N8855A	1	LGA-DSM					2.9	 	 	 			 		2.9			2.9							
+22 Jan 09	CRJ200	N8855A	1	DSM-MSP					1.0	1	 	 			 		1.0			1.0							
+27 Jan 09	CRJ200	N8477R	1	MSP-DAY					1.8	 	1	0.2		1	1.8		1.8			1.8							ILS 6L
+29 Jan 09	CRJ200	N8960A	1	DAY-MSP					2.0	 	 	 			 		2.0			2.0							
+4 Feb 09	CRJ200	N8543F	1	MSP-MSP					1.3	 	 	 			 		1.3			1.3							Maintenance flight to test bank at flaps 45.
+8 Feb 09	CRJ200	N8524B	1	DTW-OKC					2.9	 	1	 			 		2.9			2.9							
+8 Feb 09	CRJ200	N8982A	1	OKC-MSP					1.9	 	 	0.2			 		1.9			1.9							
+10 Feb 09	CRJ200	N826AY	1	MSP-EVV					2.5	 	 	0.4			 		2.5			2.5							Divert from SDF for high winds
+11 Feb 09	CRJ200	N826AY	1	EVV-MSP					2.1	 	1	0.3			2.1		2.1			2.1							
+15 Feb 09	CRJ200	N8869B	1	MSP-BIS					1.3	 	 	 			 		1.3			1.3							
+16 Feb 09	CRJ200	N8869B	1	BIS-MSP					1.5	 	 	 			1.5		1.5			1.5							
+16 Feb 09	CRJ200	N805AY	1	MSP-HLN					2.7	 	 	 			2.7		2.7			2.7							
+16 Feb 09	CRJ200	N805AY	1	HLN-MSP					2.7	1	 	0.1			 		2.7			2.7							
+17 Feb 09	CRJ200	N8604C	1	DLH-DTW					2.0	 	 	 			 		2.0			2.0							
+17 Feb 09	CRJ200	N8604C	1	DTW-GSO					1.5	1	 	 			 		1.5			1.5							
+17 Feb 09	CRJ200	N8604C	1	GSO-DTW					1.9	 	 	 			 		1.9			1.9							
+18 Feb 09	CRJ200	N8710A	1	ELM-DTW					1.5	1	 	0.1			 		1.5			1.5							
+18 Feb 09	CRJ200	N8883E	1	DTW-PIT					1.1	 	 	 			 		1.1			1.1							
+18 Feb 09	CRJ200	N8883E	1	PIT-DTW					1.1	1	 	0.5		1	 		1.1			1.1							ILS 21L
+22 Feb 09	CRJ200	N8412F	1	MSP-SGF					1.4	 	 	 			1.4		1.4			1.4							
+22 Feb 09	CRJ200	N8412F	1	SGF-MSP					1.9	1	 	 			 		1.9			1.9							
+22 Feb 09	CRJ200	N8409	1	XNA-MSP					2.0	1	 	 			 		2.0			2.0							
+22 Feb 09	CRJ200	N8942A	1	MSP-SDF					1.8	 	 	 			 		1.8			1.8							
+23 Feb 09	CRJ200	N837AY	1	MSP-SGF					1.5	 	1	 			1.5		1.5			1.5							
+23 Feb 09	CRJ200	N8940E	1	SGF-MSP					1.8	 	 	 			 		1.8			1.8							
+23 Feb 09	CRJ200	N8942A	1	SDF-MSP					2.0	 	1	 			 		2.0			2.0							
+25 Feb 09	CRJ200	N820AY	1	MSP-YUL					2.4	 	 	 			 		2.4			2.4							
+25 Feb 09	CRJ200	N820AY	1	YUL-MSP					2.7	1	 	 			 		2.7			2.7							
+2 Mar 09	CRJ200	N8972E	1	DTW-SHV					2.6	 	 	 			 		2.6			2.6							
+2 Mar 09	CRJ200	N8972E	1	SHV-DTW					2.6	 	1	 			1.0		2.6			2.6							
+3 Mar 09	CRJ200	N8598B	1	DTW-ORF					1.7	 	 	 			1.7		1.7			1.7							
+3 Mar 09	CRJ200	N801AY	1	ORF-DTW					2.0	1	 	 			 		2.0			2.0							
+4 Mar 09	CRJ200	N801AY	1	DTW-DAY					0.7	 	 	 			0.7		0.7			0.7							
+4 Mar 09	CRJ200	N8986B	1	DAY-DTW					1.1	1	 	 			 		1.1			1.1							
+4 Mar 09	CRJ200	N8986B	1	DTW-CHS					1.9	 	 	 			 		1.9			1.9							
+5 Mar 09	CRJ200	N8886A	1	CHS-DTW					2.3	1	 	0.2			 		2.3			2.3							
+5 Mar 09	CRJ200	N8710A	1	DTW-MCI					2.1	 	 	0.2			 		2.1			2.1							
+5 Mar 09	CRJ200	N8710A	1	MCI-MSP					1.8	1	 	0.2		1	 		1.8			1.8							ILS 30r
+14 Mar 09	CRJ 200	N8775A	1	MSP-DAY					1.6	 	 	 			1.6												
+14 Mar 09	CRJ200	N8672A	1	DAY-MSP					1.8	1	 	 			0.7		1.8			1.8							
+15 Mar 09	CRJ200	N8797A	1	MSP-YYZ					2.2	1	 	 			 		2.2			2.2							
+15 Mar 09	CRJ200	N8797A	1	YYZ-MSP					2.0	 	 	 			 		2.0			2.0							
+20 Mar 09	CRJ200	N8896A	1	MSP-TYS					1.9	 	 	 			1.4		1.9			1.9							
+21 Mar 09	CRJ200	N8923A	1	TYS-DTW					1.7	1	 	0.2			 		1.7			1.7							
+21 Mar 09	CRJ200	N841AY	1	DTW-BGR					1.9	 	 	 			 		1.9			1.9							
+22 Mar 09	CRJ200	N8588D	1	BGR-DTW					2.3	1	 	0.2			 		2.3			2.3							
+22 Mar 09	CRJ200	N8790A	1	DTW-DLH					2.1	 	 	0.3			 		2.1			2.1							
+22 Mar 09	CRJ200	N8790A	1	DLH-DTW					1.8	 	 	 			 		1.8			1.8							
+26 Mar 09	CRJ200	N8412F	1	MSP-DAY					1.9	 	 	0.2			1.9		1.9			1.9							Pax sick in lav prior to push.
+26 Mar 09	CRJ200	N8869B	1	DAY-MSP					1.9	1	 	0.4			 		1.9			1.9							
+27 Mar 09	CRJ200	N8560F	1	YWG-MEM					3.2	1	 	0.1			 		3.2			3.2							Ferry flight.  Winglet damage from ice truck .
+28 Mar 09	CRJ200	N8960A	1	MEM-STL					1.1	 	 	 			1.1		1.1			1.1							
+28 Mar 09	CRJ200	N8960A	1	STL-MSP					1.5	1	 	0.7			 		1.5			1.5							
+3 Apr 09	CRJ200	N826AY	1	DTW-IAD					1.9	1	 	0.2			 		1.9			1.9							
+3 Apr 09	CRJ200	N826AY	1	IAD-DTW					2.7	 	 	0.5			 		2.7			2.7							2 holding
+10 Apr 09	CRJ200	N8412F	1	MSP-CMX					1.1	 	 	 			1.1		1.1			1.1							
+10 Apr 09	CRJ200	N8412F	1	CMX-MSP					1.2	1	 	 			 		1.2			1.2							
+11 Apr 09	CRJ200	N8905F	1	MSP-DAY					1.7	 	 	0.2			1.2		1.7			1.7							
+11 Apr 09	CRJ200	N829AY	1	DAY-MSP					2.0	1	 	 			 		2.0			2.0							
+11 Apr 09	CRJ200	N8683B	1	MSP-SGF					1.5	 	1	 			1.5		1.5			1.5							
+11 Apr 09	CRJ200	N8533D	1	SGF-MSP					1.5	 	 	 			 		1.5			1.5							
+18 Apr 09	CRJ200	N8587E	1	MSP-STL					1.6	 	 	0.3			 		1.6			1.6							
+18 Apr 09	CRJ200	N8587E	1	STL-MSP					1.5	1	 	0.4			 		1.5			1.5							
+18 Apr 09	CRJ200	N8673D	1	MSP-DLH					0.8	 	 	0.2			 		0.8			0.8							
+18 Apr 09	CRJ200	N8673D	1	DLH-MSP					0.9	1	 	0.3			 		0.9			0.9							
+19 Apr 09	CRJ200	N8733G	1	MSP-GRR					1.3	1	 	0.4		1	 		1.3			1.3							ILS 8R
+19 Apr 09	CRJ200	N8733G	1	GRR-DCA					1.5	 	 	0.5			 		1.5			1.5							
+19 Apr 09	CRJ200	N8733G	1	DCA-GRR					1.8	 	1	0.7		1	0.8		1.8			1.8							ILS 8R
+20 Apr 09	CRJ200	N8733G	1	MSP-TYS					2.1	 	 	 			1.0		2.1			2.1							
+21 Apr 09	CRJ200	N8477R	1	TYS-MEM					2.2	1	 	 			 		2.2			2.2							
+21 Apr 09	CRJ200	N8972E	1	MEM-XNA					1.1	 	 	 			 		1.1			1.1							
+21 Apr 09	CRJ200	N8972E	1	XNA-MSP					2.0	1	 	 			 		2.0			2.0							
+21 Apr 09	CRJ200	N8972E	1	MSP-DAY					1.5	 	 	 			 		1.5			1.5							
+21 Apr 09	CRJ200	N8972E	1	DAY-DTW					1.0	1	 	 			 		1.0			1.0							
+22 Apr 09	CRJ200	N8972E	1	DTW-MBS					1.0	 	 	 			 		1.0			1.0							
+22 Apr 09	CRJ200	N8972E	1	MBS-DTW					0.7	1	 	 			 		0.7			0.7							
+22 Apr 09	CRJ200	N8972E	1	DTW-MLI					1.3	 	 	 			 		1.3			1.3							
+22 Apr 09	CRJ200	N8972E	1	MLI-DTW					1.3	1	 	 			 		1.3			1.3							
+22 Apr 09	CRJ200	N8505Q	1	DTW-DAY					1.1	 	 	0.1			 		1.1			1.1							
+22 Apr 09	CRJ200	N8505Q	1	DAY-MSP					2.1	1	 	 			 		2.1			2.1							
+26 Apr 09	CRJ200	N8980A	1	MSP-SDF					2.1	1	 	 			 		2.1			2.1							
+26 Apr 09	CRJ200	N8980A	1	SDF-MSP					2.2	 	 	0.4			 		2.2			2.2							
+26 Apr 09	CRJ200	N8416B	1	MSP-TYS					2.9	 	 	 			1.5		2.9			2.9							
+27 Apr 09	CRJ200	N8416B	1	TYS-MEM					1.2	1	 	 			 		1.2			1.2							
+2 May 09	CRJ200	N8930E	1	CVG-MSP					2.0	1	 	 			 		2.0			2.0							
+10 May 09	CRJ200	N8980A	1	MSP-SDF					2.1	1	 	 			 		2.1			2.1							
+10 May 09	CRJ200	N8980A	1	SDF-MSP					2.1	1	 	0.2			 		2.1			2.1							
+11 May 09	CRJ200	N829AY	1	MSP-OKC					1.9	 	 	0.2			1.9		1.9			1.9							
+11 May 09	CRJ200	N8836A	1	OKC-DTW					2.2	 	 	0.1			 		2.2			2.2							
+12 May 09	CRJ200	N8836A	1	DTW-BHM					1.7	 	1	 			1.7		1.7			1.7							
+12 May 09	CRJ200	N8836A	1	BHM-DTW					2.9	1	 	 			 		2.9			2.9							
+12 May 09	CRJ200	N8836A	1	DTW-CWA					1.5	 	 	 			 		1.5			1.5							
+12 May 09	CRJ200	N8836A	1	CWA-DTW					1.2	 	 	 			 		1.2			1.2							
+12 May 09	CRJ200	N8698A	1	DTW-DAY					1.1	1	 	 			 		1.1			1.1							
+12 May 09	CRJ200	N8698A	1	DAY-MSP					2.1	1	 	 			 		2.1			2.1							
+17 May 09	CRJ200	N8631E	1	MSP-IND					1.5	 	 	 			 		1.5			1.5							
+17 May 09	CRJ200	N8631E	1	IND-DCA					1.6	1	 	0.2			 		1.6			1.6							
+17 May 09	CRJ200	N8631E	1	DCA-IND					1.7	 	 	0.2			 		1.7			1.7							
+18 May 09	CRJ200	N8631E	1	IND-LGA					2.0	1	 	 			 		2.0			2.0							
+18 May 09	CRJ200	N8631E	1	LGA-IND					2.4	 	 	 			 		2.4			2.4							
+18 May 09	CRJ200	N8412F	1	IND-RDU					1.7	1	 	 			 		1.7			1.7							
+19 May 09	CRJ200	N8790A	1	RDU-MEM					1.9	 	 	 			 		1.9			1.9							First delta colors
+19 May 09	CRJ200	N8790A	1	MEM-PIT					1.9	 	1	 			0.6		1.9			1.9							
+20 May 09	CRJ200	N839AY	1	PIT-DTW					1.2	 	 	 			 		1.2			1.2							
+20 May 09	CRJ200	N839AY	1	DTW-XNA					1.9	1	 	 			 		1.9			1.9							
+21 May 09	CRJ200	N839AY	1	XNA-DTW					2.3	 	 	 			 		2.3			2.3							
+22 May 09	CRJ200	N8888D	1	DTW-MSP					1.6	 	1	 			1.6		1.6			1.6							
+26 May 09	CRJ200	N8921B	1	MSP-ICT					1.7	 	1	 			1.5		1.7			1.7							
+26 May 09	CRJ200	N8921B	1	ICT-MSP					1.8	 	 	0.2			 		1.8			1.8							
+27 May 09	CRJ200	N805AY	1	MSP-GRR					1.3	 	 	0.5			 		1.3			1.3							
+27 May 09	CRJ200	N805AY	1	GRR-DCA					1.8	1	 	0.6		1	 		1.8			1.8							LDA 19
+1 Jun 09	CRJ200	N8580A	1	DTW-ABE					1.3	 	 	 			1.3		1.3			1.3							
+1 Jun 09	CRJ200	N8580A	1	ABE-DTW					1.6	1	 	 			 		1.6			1.6							
+12 Jun 09	CRJ200	N8721B	1	MSP-OKC					2.0	 	1	 			1.8		2.0			2.0							
+12 Jun 09	CRJ200	N8847A	1	OKC-IND					1.9	 	 	 			 		1.9			1.9							Divert due to crack in CA windshield
+13 Jun 09	CRJ200	N8718E	1	IND-DTW					0.9	 	 	 			 		0.9			0.9							
+13 Jun 09	CRJ200	N8580A	1	DTW-FNT					0.5	 	 	 			0.5		0.5			0.5							
+13 Jun 09	CRJ200	N8930E	1	FNT-DTW					0.6	1	 	 			 		0.6			0.6							
+13 Jun 09	CRJ200	N8758D	1	DTW-ROC					1.3	 	 	 			 		1.3			1.3							
+13 Jun 09	CRJ200	N8758D	1	ROC-DTW					1.2	1	 	 			 		1.2			1.2							
+17 Jun 09	CRJ200	N8800G	1	MSP-FAR					1.7	1	 	0.2		1	 		1.7			1.7							ILS 18
+17 Jun 09	CRJ200	N8800G	1	FAR-MSP					1.1	 	 	0.1			 		1.1			1.1							
+17 Jun 09	CRJ200	N8710A	1	MSP-RIC					2.5	1	 	0.2			 		2.5			2.5							
+17 Jun 09	CRJ200	N8710A	1	RIC-MSP					3.2	 	 	0.2			 		3.2			3.2							
+18 Jun 09	CRJ200	N8903A	1	MSP-BJI					1.0	1	 	0.1		1	 		1.0			1.0							ILS 31
+18 Jun 09	CRJ200	N8903A	1	BJI-MSP					0.9	 	 	 			 		0.9			0.9							
+18 Jun 09	CRJ200	N8672A	1	MSP-RIC					2.7	1	 	 			 		2.7			2.7							
+18 Jun 09	CRJ200	N8672A	1	RIC-MSP					2.9	 	 	 			 		2.9			2.9							
+19 Jun 09	CRJ200	N8458A	1	MSP-ALO					1.3	 	 	 			1.3		1.3			1.3							
+19 Jun 09	CRJ200	N8458A	1	ALO-MSP					0.8	1	 	 			 		0.8			0.8							
+21 Jun 09	CRJ200	N8940E	1	MSP-IND					1.7	1	 	0.3			 		1.7			1.7							
+21 Jun 09	CRJ200	N8940E	1	IND-BOS					2.5	 	 	0.3			 		2.5			2.5							
+21 Jun 09	CRJ200	N8940E	1	BOS-IND					2.5	 	 	0.3			 		2.5			2.5							
+22 Jun 09	CRJ200	N8646A	1	IND-MSP					1.8	1	 	0.2		1	 		1.8			1.8							ILS 12L
+25 Jun 09	CRJ200	N8914A	1	MSP-PWM					2.5	 	 	 			1.0		2.5			2.5							
+26 Jun 09	CRJ200	N8914A	1	PWM-MSP					3.1	1	 	 			 		3.1			3.1							
+27 Jun 09	CRJ200	N8458A	1	MSP-ALO					0.7	 	1	 			0.7		0.7			0.7							
+27 Jun 09	CRJ200	N8458A	1	ALO-MSP					1.0	 	 	0.2			 		1.0			1.0							
+28 Jun 09	CRJ200	N827AY	1	MSP-CVG					2.1	 	 	 			 		2.1			2.1							
+28 Jun 09	CRJ200	N827AY	1	CVG-MSP					2.3	1	 	 			 		2.3			2.3							
+29 Jun 09	CRJ200	N8980A	1	MSP-TUL					1.6	 	 	 			1.2		1.6			1.6							
+29 Jun 09	CRJ200	N8808H	1	MEM-GNV					2.2	 	 	 			 		2.2			2.2							Divert due to TS
+29 Jun 09	CRJ200	N8808H	1	GNV-JAX					0.6	 	 	0.3			 		0.6			0.6							
+29 Jun 09	CRJ200	N8808H	1	JAX-MEM					1.8	1	 	 			 		1.8			1.8							
+4 Jul 09	CRJ200	N8515F	1	MSP-TUL					2.1	 	 	1.0			2.1		2.1			2.1							
+4 Jul 09	CRJ200	N8515F	1	TUL-MSP					2.2	1	 	0.5			 		2.2			2.2							
+6 Jul 09	CRJ200	N8736A	1	MSP-CMX					1.1	 	 	 			0.8		1.1			1.1							
+6 Jul 09	CRJ200	N8736A	1	CMX-MSP					1.1	1	 	 			 		1.1			1.1							
+8 Jul 09	CRJ200	N8972E	1	MSP-BJI					0.9	 	 	 			 		0.9			0.9							
+8 Jul 09	CRJ200	N8972E	1	BJI-MSP					0.8	1	 	 			 		0.8			0.8							
+8 Jul 09	CRJ200	N8972E	1	MSP-ATW					1.0	 	 	 			 		1.0			1.0							
+8 Jul 09	CRJ200	N8972E	1	ATW-MSP					0.9	1	 	 			 		0.9			0.9							
+8 Jul 09	CRJ200	N8771A	1	MSP-AZO					1.3	1	 	 			 		1.3			1.3							
+9 Jul 09	CRJ200	N8718E	1	AZO-MSP					1.4	 	 	 			 		1.4			1.4							
+9 Jul 09	CRJ200	N8972E	1	MSP-YWG					1.8	 	 	 			 		1.8			1.8							
+9 Jul 09	CRJ200	N8972E	1	YWG-MSP					1.4	1	 	 			 		1.4			1.4							
+9 Jul 09	CRJ200	N8797A	1	MSP-FAR					1.1	1	 	 			 		1.1			1.1							
+9 Jul 09	CRJ200	N8797A	1	FAR-MSP					1.0	 	 	 			 		1.0			1.0							
+11 Jul 09	CRJ200	N8936A	1	MSP-YWG					1.4	 	 	 			 		1.4			1.4							
+11 Jul 09	CRJ200	N8936A	1	YWG-MSP					1.2	1	 	 			 		1.2			1.2							
+11 Jul 09	CRJ200	N8886A	1	MSP-FAR					1.0	 	 	 			 		1.0			1.0							
+11 Jul 09	CRJ200	N8886A	1	FAR-MSP					0.9	1	 	 			 		0.9			0.9							
+12 Jul 09	CRJ200	N8972E	1	MSP-YYZ					1.8	 	 	 			 		1.8			1.8							
+12 Jul 09	CRJ200	N8891A	1	YYZ-MSP					2.2	1	 	 			 		2.2			2.2							
+12 Jul 09	CRJ200	N8924B	1	MSP-RST					0.6	 	 	 			 		0.6			0.6							
+12 Jul 09	CRJ200	N8924B	1	RST-MSP					0.9	1	 	 			 		0.9			0.9							
+12 Jul 09	CRJ200	N812AY	1	MSP-SDF					1.7	 	 	0.2			 		1.7			1.7							
+12 Jul 09	CRJ200	N812AY	1	SDF-MSP					2.0	1	 	0.2			 		2.0			2.0							
+16 Jul 09	CRJ200	N800AY	1	DTW-FNT					0.6	 	 	 			0.6		0.6			0.6							

@@ -1,0 +1,334 @@
+Date	Type	Plane	Custom	Route	Day Landings	Night Landings	Approaches	Day	Night	SEL	MEL	SES	MES	Experimental A/C	Complex	High Performance	PIC	Simulated Instrument	Actual Instrument	Cross Country	Dual Received	Solo	Total	Remarks	Passengers
+5/12/2005	C172	7746T	Flight Training	8NC8-LCL	1			1.9		1.9							0.0				1.9		1.9	1st Flight with Brant Howell	
+5/13/2005	C152	48244	Flight Training	8NC8-LCL	2			1.5		1.5							0.0				1.5		1.5	2nd flight with Brant Howell	
+5/14/2005	C152	48244	Flight Training	8NC8-LCL	4			1.7		1.7							0.0				1.7		1.7	3rd flight with brant Howell	
+5/16/2005	C152	48244	Flight Training	8NC8-LCL	3			2.1		2.1							0.0				2.1		2.1	4th flight with Brant Howell	
+5/16/2005	C152	5144L	Flight Training	8NC8-HNZ-8NC8	5			1.5		1.5							0.0				1.5		1.5	"5th flight with Brant Howell, x-c, weather briefings, touch-n-gos"	
+5/24/2005	C152	5144L	Flight Training	8NC8-LCL	1			0.9		0.9							0.0	0.5			0.9		0.9	"straight and level, go arounds, primary instruments, hood work, traffic pattern, Anker Bell"	
+5/26/2005	C152	48244	Flight Training	8NC8-LCL	3			1.3		1.3							0.0				1.3		1.3	6th flight with Brant Howell	
+6/4/2005	C152	5144L	Flight Training	8NC8-LCL	4			1.1		1.1							0.0				1.1		1.1	"Circuits, soft takeoffs and landings"	
+6/8/2005	C152	5144L	Flight Training	8NC8-LCL	5			0.9		0.9							0.0				0.9		0.9	"Takeoff, landings, circuits, simulated engine out"	
+6/15/2005	C172	7746T	Flight Training	8NC8-HNZ-8NC8	4			1.1		1.1							0.0				1.1		1.1	"steep turns, touch-n-gos"	
+6/18/2005	C172	7746T	Flight Training	8NC8-TDF-8NC8	4			1.3		1.3							0.0				1.3		1.3	"power on stalls, slips, touch-n-gos, slow flight"	
+6/22/2005	C172	7746T	Flight Training	8NC8-LCL	7			1.2		1.2							0.5				0.7	0.5	1.2	"simulate engine out, baulked landings, SOLO"	
+6/25/2005	C172	7746T	Flight Training	8NC8-LCL	4			1.3		1.3							0.0				1.3		1.3	"S turns, turns about a point, simulated engine out, soft field landings"	
+6/30/2005	C172	7746T	Flight Training	8NC8-LCL	2			0.9		0.9							0.0				0.9		0.9	"S turns, turns about a point, simulated engine out"	
+7/2/2005	C152	5144L	Flight Training	8NC8-AVC-DAN-8NC8	3			2.5		2.5							0.0			2.5	2.5		2.5	"VOR Tracking, GPS Intro, flight service"	
+7/4/2005	C152	48244	Flight Training	8NC8-AVC-W65-8NC8	4			2.3		2.3							0.0			2.3	2.3		2.3	"VOR, Flight following, pilotage"	
+7/5/2005	C152	48244	Flight Training	8NC8-HNZ-8NC8	6			1.6		1.6							0.0				1.6		1.6	"Landings, pilotage to HNZ"	
+7/6/2005	C172	7746T	Flight Training	8NC8-LCL	12			2.0		2.0							1.0				1.0	1.0	2.0	"landings, solo"	
+7/9/2005	C152	48244	Flight Training	8NC8-LCL	4			0.6		0.6							0.0				0.6		0.6	"Balked landings, forward slip, engine out landings, Paul Williams"	
+7/9/2005	C152	48244	Flight Training	8NC8-HNZ-8NC8	3			1.2		1.2							1.2					1.2	1.2	"touch-n-go, flight following, ADF, pilotage, solo"	
+7/13/2005	C152	48244	Flight Training	8NC8-LCL	1			1.3		1.3							0.0	1.0			1.3		1.3	"under the hood, unusual attitude recovery, power off stalls, VOR tracking"	
+7/15/2005	C172	7746T	Flight Training	8NC8-HNZ-8NC8	5			1.8		1.8							0.5	0.6			1.3	0.5	1.8	"under the food, forward slip, solo"	
+7/16/2005	C152	48244	Flight Training	8NC8-HNZ-8NC8	4			1.2		1.2							1.2					1.2	1.2	"solo, touch n go, flight following, pilotage, circuits"	
+7/20/2005	C172	7746T	Flight Training	8NC8-AVC-8NC8	2			1.7		1.7							0.0	0.9		1.7	1.7		1.7	"Simulated instruments, VOR tracking, pilotage, flight following"	
+7/23/2005	C172	7746T	Flight Training	8NC8-AVC-8NC8	2			1.7		1.7							0.0			1.7	1.7		1.7	"flight following, pilotage, XC planning"	
+7/23/2005	C172	7746T	Flight Training	8NC8-AVC-8NC8	4			1.8		1.8							1.8			1.8		1.8	1.8	"flight following, flight plan, reported pirep, diversion to HNZ, solo short XC"	
+7/26/2005	C172	7746T	Flight Training	8NC8-ISO-8NC8	5			2.7		2.7							0.7			2.7	2.0	0.7	2.7	"solo takeoff landings @ towered airport, ground ATC, XC planning, pilotage, flight following"	
+7/30/2005	PA28-181	80926	Flight Training	INT-LCL	4		3	1.5		1.5							0.0		0.6		1.5		1.5	"GSO:ILS 5, INT:GPS 33, ILS 33, takeoff and landings, Espin Moa"	
+8/1/2005	C172	7746T	Flight Training	8NC8-LCL	2			0.4		0.4							0.4					0.4	0.4	"solo, takeoff and landings, circuits, heavy crosswind"	
+8/3/2005	C172	7746T	Flight Training	8NC8-TDF-8NC8	9			1.7		1.7							0.7				1.0	0.7	1.7	"touch-n-go, simulated engine out, forward slips"	
+8/6/2005	C172	1451V	Flight Training	INT-LCL	1			1.4		1.4							0.0			0.3	1.4		1.4	"power off/on turning stalls, Espin Moa"	
+8/11/2005	C172	7746T	Flight Training	8NC8-AVC-DAN-8NC8	3			2.1		2.1							2.1			2.1		2.1	2.1	"solo long x-c, pilotage, flight following"	
+8/22/2005	C172	7746T	Flight Training	8NC8-AVC-8NC8		5			2.2	2.2							0.0			2.2	2.2		2.2	"nighttime x-c, full stop landings, landing light out"	
+9/2/2005	C172	7746T	Flight Training	8NC8-TDF-8NC8	5			1.4		1.4							0.0	0.4			1.4		1.4	"soft field landing, short field landing, simulated engine out, slips, corsswinds, underhood stalls, slow flight"	
+9/2/2005	C172	7746T	Flight Training	8NC8-HNZ-TDF-8NC8	3			1.4		1.4							1.4					1.4	1.4	"slow flight, s turns, go around, pilotage, dead reckoning, forward slip, turns around a point"	
+9/15/2005	C172	7746T	Flight Training	8NC8-TDF-8NC8	6			1.3		1.3							0.0				1.3		1.3	"power on/off stalls, steep turns, checkride prep"	
+9/19/2005	C172	7746T	Flight Training	8NC8-LCL		6			0.8	0.8							0.0				0.8		0.8	night time full stops	
+9/22/2005	C172	7746T	Flight Training	8NC8-LCL	6			1.2		1.2							0.0				1.2		1.2	"checkride prep-slow flight, stalls, simulated engine out"	
+9/27/2005	C172	7746T	Flight Training	8NC8-AVC-8NC8	3			1.8		1.8							1.8			1.8		1.8	1.8	"short cross country, full stop, flight following"	
+9/29/2005	C172	7746T	Flight Training	8NC8-LCL	3			0.8		0.8							0.8					0.8	0.8	"s turns, turns around a point"	
+10/4/2005	C172	7746T	Flight Training	8NC8-TDF-8NC8	6			1.5		1.5							0.0	0.5			1.5		1.5	checkride prep	
+10/6/2005	C172	7746T	Flight Training	8NC8-LCL	1			0.6		0.6							0.6					0.6	0.6	checkride PASSED!	
+10/28/2005	C172	7746T	Me	8NC8-HNZ-AVC-8NC8	3			1.7		1.7							1.7			1.7		1.7	1.7	"power off stall, steep turns"	
+11/4/2005	C172	7746T	Me	8NC8-HNZ-TDF-8NC8	3			1.4		1.4							1.4					1.4	1.4	"power off stalls, steep turns, forward slip"	
+11/19/2005	C172	7746T	Jessie	8NC8-RDU-TDF-HNZ-8NC8	4			1.7		1.7							1.7					1.7	1.7	"controlled airspace, touch-n-go"	
+12/2/2005	C172	7746T	"Joseph Wright, Daniel Dilinger"	8NC8-EHO	1			2.5		2.5							2.5			2.5		2.5	2.5	"long XC, flew through class B"	
+12/3/2005	C172	7746T	"Joseph Wright, Daniel Dilinger"	EHO-CLT-8NC8	2			2.0		2.0							2.0			2.0		2.0	2.0	"long XC, touch-n-go at CLT"	
+12/6/2005	C172	7746T	Me	8NC8-HNZ-8NC8	7			1.4		1.4							1.4					1.4	1.4	heavy crosswind landing	
+12/12/2005	R22 B2	8355	Flight Training	LHZ-LCL				0.6									0.0				0.6		0.6	Intro flight to helicopters	
+12/12/2005	PA28-161	32376	Flight Training	GSO-2A5-GSO		1	1	0.2	1.0	1.2							0.0		0.1		1.2		1.2	"VOR 2A5, visual GSO, GSO CFI"	
+12/19/2005	C206G	5382X	Flight Training	HNL-LCL	5			1.0				1.0			1.0	1.0	0.0				1.0		1.0	"stalls, steep turns, touch-n-gos, slow flight, Pat Maggie"	
+12/20/2005	C206G	5382X	Flight Training	HNL-LCL	3			1.0				1.0			1.0	1.0	0.0				1.0		1.0	"take off and landings, glassy water, Pat Maggie"	
+12/21/2005	C206G	5382X	Flight Training	HNL-LCL	6			1.0				1.0			1.0	1.0	0.0				1.0		1.0	Pat Maggie	
+12/22/2005	C206G	5382X	Flight Training	HNL-LCL	7			1.0				1.0			1.0	1.0	0.0				1.0		1.0	Pat Maggie	
+12/23/2005	C206G	5382X	Flight Training	HNL-LCL	7			1.0				1.0			1.0	1.0	0.0				1.0		1.0	Pat Maggie	
+12/27/2005	C206G	5382X	Flight Training	HNL-LCL	7			1.0				1.0			1.0	1.0	0.0				1.0		1.0	Pat Maggie	
+12/28/2005	C206G	5382X	Flight Training	HNL-LCL	4			1.0				1.0			1.0	1.0	1.0					1.0	1.0	"Private SES Check ride PASSED, Pat Maggie"	
+1/13/2006	C172	7746T	Joseph Wright	8NC8-RDU-8NC8	2			1.2		1.2							1.2					1.2	1.2	ground work at RDU	
+1/16/2006	C172	7746T	Cheryl Huang	8NC8-TDF-8NC8		8			1.7	1.7							1.7					1.7	1.7	"night flying, lots of landings w/ lights"	
+2/7/2006	C152	5330B	Joseph Wright	8NC8-HNZ-LHZ-RDU-8NC8	3	1		1.5	0.6	2.1							2.1					2.1	2.1	"XC to HNZ, LHZ, RDU, night taxi and flight from RDU"	
+3/3/2006	C172 G1000	337TC	Flight Training	RDU-HRJ-JNX-RDU	3			1.9		1.9							0.0				1.9		1.9	"X-wind landings, G1000 taining, winds 15 gusts to 20"	
+3/17/2006	C172	3526C	Flight Training	RDU-LHZ-RDU	3			1.2		1.2							0.0				1.2		1.2	"x-wind, 172 checkout at Flightgest"	
+3/18/2006	C172	154EA	Parents	RDU-GSO-UKF-GSO-RDU	4			3.8		3.8							3.8			3.8		3.8	3.8	"X-C with parents, photo flight over kville"	
+3/24/2006	C172 G1000	337TC	Flight Training	RDU-FAY-JNX-RDU	1		3	2.0		2.0							0.0		1.0	2.0	2.0		2.0	"IFR fling, ILS and GPS apprch, x-wind landings"	
+3/25/2006	PA28-151	32376	Flight Training	GSO-SIF-GSO	2		1	1.3		1.3							0.0	0.4			1.3		1.3	"ILS GSO Rwy 5, snow seen"	
+3/25/2006	PA28-151	32376	Dad	GSO-BUY-GSO	3			1.7		1.7							1.7					1.7	1.7	"flight with dad, Burlington work, rain and snow seen"	
+3/31/2006	C172 G1000	337TC	Flight Training	RDU-FAY-RDU	1		2	1.7		1.7							0.0	1.3		1.7	1.7		1.7	"FAY ILS4, RDU GPS32, heavy x-wing at RDU, Jesse Collum"	
+3/31/2006	C172 G1000	337TC	Kevin	RDU-AVC-LHZ-RDU	3			2.1		2.1							2.1			2.1		2.1	2.1	"XC to AVC, LHZ, around lake, real cloudy and windy"	
+4/7/2006	C172 G1000	337TC	Brandon Gourdine	RDU-GSO-RDU	2			1.8		1.8							1.8			1.8		1.8	1.8	"REAL windy, low level wind shear at RDU"	
+4/11/2006	C172	3526C	Me	RDU-5W5-RDU	2			1.0		1.0							1.0					1.0	1.0	Xwind landing at RDU	
+4/12/2006	C172 G1000	337TC	Emily Pauly	RDU-GSO-RDU		2			1.8	1.8							1.8			1.8		1.8	1.8	"Flight with Pauly and Montal, real nice night, awesome landing at GSO"	
+4/28/2006	C172 G1000	337TC	Amy Furches	RDU-LHZ-RDU	2			1.8		1.8							1.8					1.8	1.8	"Amy's birthday flight, tour guide, simple landings, side slips"	
+5/12/2006	C172 G1000	6027A	Dad	RDU-GSO-BUY-GSO-RDU	6	1		3.0	0.2	3.2							3.2					3.2	3.2	"took dad up, practice circuits, touch n gos, real nice day for flying, went to Butlet field for flyby"	
+5/24/2006	C172 G1000	337TC	Kevin	RDU-FFA-MQI-HSE-OCW-RWI-RDU	5	1		3.5	1.0	4.5							4.5			4.5		4.5	4.5	"awesome trip to first flight, mostly sightseeing"	
+6/30/2006	C172	103FV	Kevin	RDU-8NC8-HNZ-RDU	5			1.7		1.7							1.7					1.7	1.7	"first time 8NC8 in a while, practice getting in, stalls, steep turns, steps"	
+7/9/2006	C172	7416X	"Kevin, Daniel Dillinger"	43IN-EVV-LNP-RDU	3			4.9		4.9							0.0	2.5		4.9	2.5		4.9	"XC, Dilinger and kevin, first flight in new airplane, test of GPS"	
+7/10/2006	C172	7416X	Me	RDU-GSO-LHZ-RDU	3			4.5		4.5							4.5			4.5		4.5	4.5	home and gas	
+7/10/2006	C172	7416X	Brandon Gourdine	RDU-GSO-RDU		2	1	0.5	0.8	1.3							1.3			1.3		1.3	1.3	night flight with Glenna and Dr. G	
+7/12/2006	C172	7416X	Kevin	RDU-LHZ-RDU	3		1	1.5		1.5							0.0	0.8			0.8		1.5	"gas, practice landings with Kevin Cosentino"	
+7/13/2006	C172	7416X	Kevin	RDU-LCL		1			1.0	1.0							1.0					1.0	1.0	night flight with Caroline and Kevin	
+7/14/2006	C172	7416X	Kevin	RDU-LCL		4			1.0	1.0							1.0					1.0	1.0	"night flight with Megan and Kevin, touch-n-goes"	
+7/15/2006	C172	7416X	Kevin	RDU-GSO-ILM-RDU	3			3.5		3.5							3.5			3.5		3.5	3.5	"beach trip with Kevin, home then beach, sigmet on return trip"	
+10/12/2006	C172	7416X	Kevin	JNX-OFP-JNX	1	1		3.0	1.0	4.0							4.0			4.0		4.0	4.0	up to richmond with kevin	
+10/13/2006	C172	7416X	Vanessa	JNX-FFA-MQI-HSE-JNX	3	1		3.0	1.5	4.5							4.5		0.5	4.5		4.5	4.5	"Vanessa OBX trip, 100% IFR after HSE"	
+11/13/2006	C172	7416X	Me	JNX-LCL	2			0.8		0.8							0.8					0.8	0.8	"maneuvers, stalls, practice landings"	
+11/15/2006	C172	7416X	Jon	JNX-DPL-JNX	2		2	2.0		2.0							2.0					2.0	2.0	"quick gas trip, right seat landing"	
+11/17/2006	C172	7416X	Vanessa	JNX-HNZ-JNX	2		1	1.5		1.5							1.5					1.5	1.5	"Flight with Vanessa, GPS went out-dead reckoning"	
+11/27/2006	C172	7416X	Jon	JNX-OCW-JNX	1	1	1	1.0	0.5	1.5							1.5			1.5		1.5	1.5	"flight with Jon Cain and friends, quick day trip"	
+11/29/2006	C172	7416X	"Vanessa, Dad"	JNX-DPL-FFA-JNX	2	1	1	4.0	0.5	4.5							4.5			4.5		4.5	4.5	"Dad and Vanessa out to FFA, horrible speed out"	
+12/1/2006	C172	7416X	Kevin	JNX-RIC-VAY		2			3.0	3.0							3.0			3.0		3.0	3.0	"Flight to NJ, Runway 8-26 with winds 300 11 gusts 23"	
+12/3/2006	C172	7416X	Kevin	VAY-JNX	1			3.5		3.5							3.5		0.8	3.5		3.5	3.5	"flight back, great until IFR"	
+12/8/2006	C172	7416X	Jon	JNX-LHZ-RDU-JNX	3		2	1.5		1.5							1.5					1.5	1.5	"X-Wind, ILS Shoots, good day"	
+12/11/2006	C172	7416X	Jon	JNX-FFA-MQI-JNX	4			5.0		5.0							5.0			5.0		5.0	5.0	"beach trip, Jon and 2 friends"	
+12/12/2006	C172	7416X	Jon	JNX-JQF-JNX	1	1		1.5	1.6	3.1							3.1			3.1		3.1	3.1	"flew Jennifer to Concord, real easy"	
+12/13/2006	C172	7416X	Jon	JNX-JQF-JNX		2	1		2.7	2.7							2.7		0.2	2.7		2.7	2.7	"flew Jennifer back, real easy, LIFR landing"	
+12/14/2006	C172	7416X	Jon	JNX-LCL	2		2	0.3		0.3							0.3					0.3	0.3	"touch-n-goes, practice landings"	
+12/14/2006	C172	7416X	Jon	JNX-LCL	3			0.6		0.6							0.6					0.6	0.6	touch-n-goes in right seat	
+12/31/2006	C206G	5382X	Flight Training	HNL-LCL	4			1.0				1.0			1.0	1.0	1.0					1.0	1.0	"slow flight, stalls, 360s"	
+1/1/2007	C206G	5382X	"Vanessa, Mom"	HNL-LCL	1			1.0				1.0			1.0	1.0	1.0					1.0	1.0	took Vanessa on a Oahu tour	
+1/13/2007	C172	7416X	Me	EXX-RUQ-RDU	2			1.2		1.2							1.2			1.2		1.2	1.2	"pick up from mechanic, then to RDU"	
+1/13/2007	C172	7416X	Allen	RDU-TDF-RDU	3			1.5		1.5							1.5					1.5	1.5	"Allen's flight, power on/off stalls, steep turns, maneuvers"	
+1/13/2007	C172	7416X	Allen	RDU-JNX		1			0.5	0.5							0.5					0.5	0.5	"Allen's night flight, headset broke, beautiful night, saw NCSU bell tower lit in red"	
+1/20/2007	C172	7416X	Flight Training	JNX-ISO-JNX	3			1.4		1.4							0.0	1.1		1.4	1.4		1.4	1st flight with David Joyner	
+1/27/2007	C172	7416X	Vanessa	MRH-JNX	1			1.5		1.5							1.5			1.5		1.5	1.5	ferry flight back to JNX	
+1/27/2007	C172	7416X	Flight Training	JNX-LCL		2			1.2	1.2							0.0	1.0			1.2		1.2	David Joyner night flight	
+2/3/2007	C172	7416X	Rays	JNX-LCL	14			2.3		2.3							2.3					2.3	2.3	flew the Ray family around	
+2/4/2007	C172	7416X	Jon	JNX-LCL		1	1		1.9	1.9							0.0	1.5			1.9		1.9	"holding patterns, Jon Cain"	
+2/11/2007	C172	7416X	Jon	JNX-LCL		1	1		1.5	1.5							0.0	1.2			1.5		1.5	"holding, unusual attitude, Jon Cain"	
+2/18/2007	C172	7416X	Jon	JNX-LCL		1	1		1.4	1.4							0.0	1.1			1.4		1.4	"holding, tracking, unusual attitudes, Jon Cain"	
+3/2/2007	C172	7416X	Kevin	JNX-SAV-VDF	1	1	2	2.0	3.8	5.8							5.8		2.0	5.8		5.8	5.8	instrument flying with Jon Cain	
+3/4/2007	C172	7416X	Kevin	VDF-CHN-EYW	2			2.5		2.5							2.5			2.5		2.5	2.5	down to Key West	
+3/7/2007	C172	7416X	Kevin	EYW-LCL	2			1.0		1.0							1.0					1.0	1.0	took the friends up for a tour	
+3/10/2007	C172	7416X	Kevin	EYW-MTH-PGD-VDF	3		2	3.0		3.0							3.0			3.0		3.0	3.0	back up to Tampa	
+3/11/2007	C172	7416X	Kevin	VDF-OCF-SAV-MYR-JNX	4		2	6.5		6.5							6.5			6.5		6.5	6.5	back home	
+3/21/2007	C172	7416X	Joseph Wright	JNX-LCL	2			0.8		0.8							0.8					0.8	0.8	took Joe up	
+3/22/2007	C172 G1000	337TC	Vanessa	RDU-JNX-RDU	2			1.0		1.0							1.0					1.0	1.0	curreny in G1000	
+3/30/2007	C172	7416X	Me	JNX-GSO	1			1.0		1.0							1.0			1.0		1.0	1.0	"flight home, routine"	
+3/31/2007	C172	7416X	Dad	GSO-BUY-GSO	4			1.5		1.5							1.5					1.5	1.5	"flight with dad, BUY and back"	
+3/31/2007	C172	7416X	Me	GSO-JNX	1			1.0		1.0							1.0			1.0		1.0	1.0	flight back	
+4/1/2007	C172	7416X	Flight Training	JNX-HRJ-JNX	2		3	1.5		1.5							0.0	1.4			1.5		1.5	"3 VOR rwy 5 @ HRJ, Holding, Loc rwy 3 circle 21 @ JNX, David Joyner"	
+4/14/2007	C172	7416X	Flight Training	JNX-GWW-JNX	1		3	1.5		1.5							0.0	1.4			1.5		1.5	"VOR A @ GWW, 2x ILS 3 JNX, David Joyner"	
+5/1/2007	C172	7416X	Flight Training	JNX-ISO-GWW-JNX	3		3	2.0		2.0							0.0	1.5			2.0		2.0	"2xISO, GWW, JNX"	
+5/21/2007	C172	7416X	Me	JNX-GSO-EXX-JNX	3		2	3.2		3.2							3.2			3.2		3.2	3.2	"flight home, davidson, real nice flying"	
+5/21/2007	C172	7416X	Flight Training	JNX-LCL	4			0.7		0.7							0.0				0.7		0.7	Ken Norris familiarization flight	
+5/22/2007	C172	7416X	Flight Training	JNX-LCL	2		1	0.8		0.8							0.0	0.5			0.8		0.8	Ken Norris	
+5/23/2007	C172	7416X	Flight Training	JNX-78NC-JNX	6			1.9		1.9							0.0				1.9		1.9	Ken Norris	
+6/2/2007	C172	7416X	Flight Training	JNX-8NC8-TDF-JNX	4		1	2.5		2.5							0.0	0.5		0.7	2.5		2.5	Ken Norris	
+6/20/2007	C172	7416X	Me	JNX-LCL	1			1.0		1.0							0.0				1.0		1.0	John Ward	
+6/23/2007	C172	7416X	Me	JNX-LCL	1			1.6		1.6							1.6					1.6	1.6	went to Kerr Lake	
+7/1/2007	C172	7416X	Flight Training	JNX-GSO	1		1	1.0		1.0							1.0			1.0		1.0	1.0	"flight home, bumpy"	
+7/1/2007	C172	7416X	Dad	GSO-BUY-GSO	6			1.0		1.0							1.0					1.0	1.0	"took dad up, real nice day"	
+7/2/2007	C172	7416X	Flight Training	GSO-JNX	1		1	1.0		1.0							1.0			1.0		1.0	1.0		
+7/2/2007	C172	7416X	Me	JNX-RDU	1			0.5		0.5							0.5					0.5	0.5		
+7/2/2007	C172	7416X	Flight Training	RDU-LHZ-RDU	2		1	1.2		1.2							0.0	1.0			1.2		1.2	"ILS 5R RDU, John Ward"	
+7/3/2007	C172	7416X	Me	RDU-JNX	1			0.5		0.5							0.5					0.5	0.5		
+7/7/2007	C172	7416X	Flight Training	JNX-GSO-JNX	2		3	3.0		3.0							0.0	2.8			3.0		3.0	"IFR Cross country, ILS 5 GSO, ILS 3 JNX, John Ward"	
+7/8/2007	C172	7416X	Flight Training	JNX-DAN-RUQ-JNX	3		3	3.5		3.5							0.0	3.0	0.5	3.5	3.5		3.5	"IFR Long Cross Country, VOR 20 DAN, ILS 20 RUQ, NDB 21 JNX"	
+8/8/2007	C172	54102	Flight Training	JNX-LCL	1		3	0.9		0.9							0.0	0.7			0.9		0.9	GPS Familiarization	
+8/11/2007	C172	54102	Flight Training	JNX-RDU-JNX	2		3	2.0		2.0							0.0	0.6	1.0		2.0		2.0	"ILS 5R RDU, NDB 21 JNX, NDB 3 JNX, John Ward"	
+8/12/2007	C172	54102	Flight Training	JNX-GWW-JNX	2		4	2.4		2.4							0.0	2.2			2.4		2.4	"VOR RWI, RNAV GWW, RNAV GWW, NDB 3 JNX, John Ward"	
+8/15/2007	C172	7416X	Flight Training	JNX-LCL	3			1.0		1.0							1.0					1.0	1.0	"nice evening flight, new windshield"	
+8/16/2007	C172	54102	Flight Training	JNX-LCL	1		2	1.0		1.0							0.0	0.8			1.0		1.0	"NDB 21 JNX, ILS 3 JNX, ADF course tracking and hold"	
+8/17/2007	C172	7416X	Vanessa	JNX-GWW-JNX	2			0.5		0.5							0.5					0.5	0.5	quick flight with Vanessa	
+8/18/2007	C172	7416X	Kevin	JNX-ILM-ACZ-JNX	3			1.6		1.6							0.0	1.0		1.6	1.6		1.6	"beach trip, simulated instrument with Kevin Cosentino"	
+8/22/2007	C172	54102	Flight Training	JNX-LCL	1		3	1.6		1.6							0.0	1.4			1.6		1.6	"RWI GPS 22, GPS 4, ILS 3 JNX, John Ward"	
+8/23/2007	C172	54102	Flight Training	JNX-LCL	1		3	0.9		0.9							0.0	0.7			0.9		0.9	"2x ILS 3 JNX, 1 LOC 3 JNX, holding pattern, partial panel, John Ward"	
+8/25/2007	C172	54102	Flight Training	JNX-ASJ-PGV-ASJ	2		3	1.5		1.5							1.5	1.2		1.5		1.5	1.5	"Instrument Checkride Passed, ILS & LOC 20 PGV, GPS 1 ASJ"	
+8/25/2007	C172	54102	Flight Training	ASJ-JNX	1		1	1.7		1.7							0.0	1.0		1.7	0.7		1.7	flight back-WOO HOO!	
+8/29/2007	C172	7416X	Me	JNX-RDU-JNX		2			1.0	1.0							1.0					1.0	1.0	first IFR flight plan trip	
+8/31/2007	C172	7416X	Parents	JNX-GSO-GGE	2			3.0		3.0							3.0		0.5	3.0		3.0	3.0	"great beach trip, took parents to Georgetown, SC, MVFR-IFR great landing"	
+9/2/2007	C172	7416X	Parents	GGE-UDG-GSO-JNX	3			2.8		2.8							2.8			2.8		2.8	2.8	return trip	
+9/5/2007	C172	7416X	Vanessa	JNX-RDU		1			0.5	0.5							0.5					0.5	0.5	moving plane	
+9/6/2007	C172	7416X	Jon	RDU-ILM-JNX-RDU-JNX	4			3.2		3.2							3.2			3.2		3.2	3.2	Wilmington trip	
+9/8/2007	C350	1268R	Ernie	GSO-RDU	1		1	0.7		0.7						0.7	0.7					0.7	0.7	"flew Columbia 350 back, G1000"	
+9/8/2007	C350	6505Z	Ernie	RDU-GSO	1			0.6		0.6						0.6	0.6					0.6	0.6	flew Columbia 350 up to GSO	
+10/7/2007	C172	7416X	Me	JNX-RDU-JNX	2			0.8	0.2	1.0							1.0					1.0	1.0	flew to RDU for dinner	
+10/10/2007	C172	7416X	Vanessa	JNX-GSO	1			0.8	0.2	1.0							1.0					1.0	1.0	getting ready for BTR trip	
+10/11/2007	C172	7416X	"Vanessa, Dad"	GSO-VPC-PIB-BTR	3			6.5		6.5							6.5			6.5		6.5	6.5	flying down to BTR-long day	
+10/13/2007	C172	7416X	"Vanessa, Dad"	BTR-PIB-SEM-CTJ	3			4.0		4.0							4.0			4.0		4.0	4.0	"flying back, grounded at CTj"	
+11/3/2007	C172	7416X	Dad	CTJ-PLR-CTJ	2			1.0		1.0							1.0					1.0	1.0	"$100 hamburger, real nice"	
+11/3/2007	C172	7416X	Dad	CTJ-FTY-SOP-JNX	3			2.0	1.5	3.5							3.5			3.5		3.5	3.5	"flying back from CTJ, beautiful night flying"	
+11/11/2007	C172	7416X	Me	JNX-2GC-JNX	2			1.0		1.0							1.0					1.0	1.0	flying to meet interior guy	
+11/20/2007	C350	1137A	Ernie	RYY-RDU	1			2.3		2.3							2.3			2.3		2.3	2.3	pick up from RYY	
+11/20/2007	C400	1243X	Ernie	RDU-RYY	1			2.3		2.3							2.3		0.1	2.3		2.3	2.3	"drop off, LIFR takeoff at RDU"	
+12/1/2007	M20J	5726M	Flight Training	TTA-LCL	1			1.2		1.2					1.2		0.0				1.2		1.2	"familiarization with Club Mooney, steep turns, power stalls, Ronney Moss"	
+12/1/2007	C172	7416X	Me	JNX-2GC	1			0.5		0.5							0.5					0.5	0.5	left plane for interior	
+12/8/2007	M20J	5726M	Flight Training	TTA-LCL	1			1.3		1.3					1.3		0.0				1.3		1.3	Ronney Moss	
+12/12/2007	M20J	5760R	Flight Training	TTA-LCL	6			1.2		1.2					1.2		0.0				1.2		1.2	Ronney Moss	
+12/13/2007	M20J	5760R	Flight Training	TTA-LCL	4			1.3		1.3					1.3		0.0				1.3		1.3	Ronney Moss	
+12/19/2007	M20J	5760R	Flight Training	TTA-JNX-TTA	2			1.7		1.7					1.7		0.0				1.7		1.7	Ronney Moss	
+12/20/2007	M20J	5726M	Flight Training	TTA-GSO	1			0.7		0.7					0.7		0.0			0.7	0.7		0.7	Ronney Moss	
+12/20/2007	M20J	5726M	Flight Training	GSO-TTA	1			0.7		0.7					0.7		0.0			0.7	0.7		0.7	Ronney Moss	
+1/10/2008	M20J	5726M	Flight Training	TTA-LCL	6			1.0		1.0					1.0		0.0				1.0		1.0	Ronney Moss	
+1/19/2008	C182	759XV	Me	AIK-LCL	1			0.5		0.5						0.5	0.5					0.5	0.5	"went up with Emerson, great landing"	
+1/20/2008	C182	759XV	Me	AIK-LCL	1			1.2		1.2						1.2	1.2					1.2	1.2	"went up with Buck, AGS test flight, real nice landing"	
+1/21/2008	M20J	5726M	Flight Training	TTA-LCL	8			1.3		1.3					1.3		0.0				1.3		1.3	club mooney checkout complete	
+1/25/2008	C172	7416X	Me	2GC-JNX	1			0.5		0.5							0.5					0.5	0.5	"picked up plane from interior shop, GREAT JOB!"	
+1/26/2008	C182	759XV	Vanessa	AIK-LCL	1			0.2		0.2						0.2	0.2					0.2	0.2	"took Vanessa up, AGS closed"	
+1/26/2008	C182	759XV	"Vanessa, Dad"	AIK-JNX	1			1.5		1.5						1.5	1.5			1.5		1.5	1.5	"electrical system failure 15 minutes out of JNX, great flight, great plane"	
+2/2/2008	M20J	5726M	Flight Training	TTA-LCL	5			1.5		1.5					1.5		0.0				1.5		1.5	Ronney Moss	
+2/21/2008	M20J	5726M	Flight Training	TTA-LCL	6			1.6		1.6					1.6		0.0				1.6		1.6	Ronney Moss	
+2/21/2008	M20J	5726M	Flight Training	TTA-LCL	1			0.9		0.9					0.9		0.0				0.9		0.9	Ronney Moss	
+2/24/2008	M20J	5726M	Flight Training	TTA-BUY-5W8-FAY-TTA	0			2.9		2.9					2.9		2.9					2.9	2.9	safety pilot	
+2/25/2008	M20J	5726M	Flight Training	TTA-LCL	12			1.4		1.4					1.4		0.0				1.4		1.4	Ronney Moss	
+3/23/2008	C172	7416X	Vanessa	JNX-TDF-14D-CMH	3			4.2		4.2							4.2			4.2		4.2	4.2	"taking Romdog to Columbus, beautiful flight"	
+3/23/2008	C172	7416X	Vanessa	CMH-JNX	1			3.0	0.6	3.6							3.6		2.2	3.6		3.6	3.6	"flight back, ice outside -20C"	
+4/8/2008	C172	7416X	Me	JNX-LCL	1			2.2		2.2							2.2		0.2			2.2	2.2	some VFR on top for the day	
+4/15/2008	C172	7416X	Me	JNX-JQF-JNX	2			2.5		2.5							2.5			2.5		2.5	2.5	went for interview	
+4/25/2008	SR22	223TN	Bilby	ADH-OKC	1			0.6		0.6						0.6	0.0		0.4	0.6	0.6		0.6	"GAMI flight to OKC, Cirrus SR22-G3"	
+5/3/2008	C172	733YN	Flight Training	JNX-LCL	1		4	1.5		1.5							0.0	1.3			1.5		1.5	IPC work	
+5/6/2008	M20J	5760R	Dad	TTA-GSO-TTA	3			2.5		2.5					2.5		2.5			2.5		2.5	2.5	"took dad up in Mooney, good day"	
+5/15/2008	C172	7416X	Me	JNX-LCL	1			1.5		1.5							1.5					1.5	1.5	"up to 10560 ft, test flight"	
+5/27/2008	C172	7416X	Me	JNX-LCL	1			1.3		1.3							1.3					1.3	1.3	"up to 9500 ft, test flight"	
+6/3/2008	SR22	223TN	Bilby	ADH-OKC	1			0.5		0.5						0.5	0.0				0.5		0.5	flight with George to Cirrus event	
+6/26/2008	BE36TC	36TN	Vandeveer	DAL-OKC-ADH	1	1		1.4	0.6	2.0					2.0	2.0	0.0			2.0	2.0		2.0	real nice GAMI flight	
+7/7/2008	BE36TC	36TN	Bilby	ADH-TUL-ADH	2		1	2.2		2.2					2.2	2.2	0.0	0.1		2.2	2.2		2.2	picked up Bilby from TUL for WAAS install in Cirrus	
+7/18/2008	BE36TC	36TN	Vandeveer	ADH-PWA	1			0.8		0.8					0.8	0.8	0.0			0.8	0.8		0.8	"dropped off 36TN, picked up by Bilby"	
+8/2/2008	C172	7416X	Vanessa	JNX-BUY	1			1.0		1.0							1.0			1.0		1.0	1.0	"moved plane from JNX up to BUY. Convective SIGMET, cells popped up beside when passing RDU"	
+8/3/2008	C172	7416X	Dad	BUY-LCL	1			0.5		0.5							0.5					0.5	0.5	"showed dad the airplane, how everything works, V speeds, and a short flight"	
+8/14/2008	C172	6130K	Bilby	ADH-LCL	3			0.7		0.7						0.7	0.0				0.7		0.7	C172 checkout with Bilby	
+8/15/2008	C172	6130K	Bilby	ADH-LCL	1		3	1.3		1.3						1.3	0.0	1.0			1.3		1.3	"ILS 17 @ SNL, NDB 16 @ SRE, VOR/DME 17 - A @ ADH, see back for ICC"	
+8/17/2008	C172	6130K	Caleb	ADH-2O8-APA	2		1	4.5		4.5						4.5	4.5		2.7	4.5		4.5	4.5	"XC to denver, very nice flight, lots of IFR"	
+8/23/2008	C172	6130K	Caleb	APA-2O8-ADH	2			4.7		4.7						4.7	4.7			4.7		4.7	4.7	"XC back, real good flight next to and above clouds"	
+8/28/2008	C172	6130K	Pacer	ADH-MKO-ADH	2			1.8		1.8						1.8	1.8			1.8		1.8	1.8	"fixing a turbo at muskogee, Very nice day"	
+8/29/2008	C172	6130K	Vandeveer	ADH-OKC	1		1	1.0		1.0						1.0	0.0	0.7		1.0	1.0		1.0	"flight up to OKC for AA home, ILS 17R at OKC, had cells pop up around us"	
+8/31/2008	C172	7416X	Me	BUY-RUQ-CTJ-TUP	3			5.2		5.2							5.2			5.2		5.2	5.2	"first day of XC, great day, ~7GPH"	
+9/1/2008	C172	7416X	Me	TUP-MEZ-ADH	2			3.9		3.9							3.9			3.9		3.9	3.9	"2nd day, another great day, ~7.1 GPH"	
+9/2/2008	C172	6130K	Dad	ADH-OKC-ADH	2			1.4		1.4						1.4	1.4			1.4		1.4	1.4	"took dad up to the city, nice day"	
+9/4/2008	C172	7416X	Pacer	ADH-LCL	1			0.7		0.7							0.7					0.7	0.7	"Took Pacer up skydiving, great day, 300-500 fpm climb up to 6500"	
+9/6/2008	C172	7416X	Vandeveer	ADH-SNL-2K9-ADH	3		1	3.0		3.0							3.0		0.1	3.0		3.0	3.0	"real nice day, ILS 17 @ SNL. "	
+9/6/2008	C172	7416X	Me	ADH-LCL		4			0.7	0.7							0.7					0.7	0.7	"night currency, 4 full stops at ADH, great night-gusts between 100 AGL and 400 AGL, fine all else"	
+9/7/2008	C172	7416X	Me	ADH-LCL	1			2.1		2.1							2.1					2.1	2.1	"sightseeing, fly over Texoma"	
+9/10/2008	C172	7416X	Welchyl	ADH-LCL	2			1.1		1.1							1.1					1.1	1.1	took Welchyl up	
+9/15/2008	C172	7416X	Coplin	ADH-LCL	1			1.0		1.0							1.0					1.0	1.0	took Coplin up	
+9/16/2008	C172	7416X	Rod	ADH-LCL	1			0.3		0.3							0.3					0.3	0.3	took Rod Bailey up	
+9/19/2008	C172	7416X	Vanessa	ADH-OKC-ADH	1	1		0.7	0.8	1.5							1.5			1.5		1.5	1.5	picked up Vanessa	
+9/20/2008	C172	7416X	Vanessa	ADH-LCL	1			0.5		0.5							0.5					0.5	0.5	quick tour for Vanessa	
+9/21/2008	C172	7416X	Vanessa	ADH-OKC-ADH	2			1.4		1.4							1.4			1.4		1.4	1.4	dropped off Vanessa	
+9/28/2008	SR22	223TN	George Braly	ADH-FOD-DLH	1	1	2	3.0	1.1	4.1						4.1	4.1		0.4	4.1		4.1	4.1	"flying up to Duluth, fun times"	
+10/1/2008	SR22	223TN	George Braly	DLH-LWC-ADH	2			3.6		3.6						3.6	3.6		0.1	3.6		3.6	3.6	"flying back, real nice day"	
+10/2/2008	C172	7416X	Me	ADH-OKC	1			0.7		0.7							0.7			0.7		0.7	0.7	going to surprise Vanessa	
+10/5/2008	C172	7416X	Me	OKC-ADH		1			1.1	1.1							1.1			1.1		1.1	1.1	"coming back, 30 knot headwind"	
+10/17/2008	C172	7416X	Howerton	ADH-LCL	2			1.0		1.0							1.0					1.0	1.0	"took Howerton up, real nice day for flying"	
+10/18/2008	C172	7416X	Me	ADH-LCL	8			1.5		1.5							1.5					1.5	1.5	"12,000 ft with slam dunk descent, landed on every runway, gusty crosswinds"	
+10/19/2008	C172	7416X	Me	ADH-LCL	1			0.6		0.6							0.6					0.6	0.6	"return to service flight, changed the oil. Slam dunk from 8500."	
+10/24/2008	C172	7416X	Vandeveer	ADH-LCL	1			1.0		1.0							1.0					1.0	1.0	tour with Chris	
+10/25/2008	C172	7416X	Stanfield	ADH-LCL	1			0.6		0.6							0.6					0.6	0.6	tour with Stanfield	
+10/28/2008	C172	7416X	Rod	ADH-LCL	1			0.8		0.8							0.8					0.8	0.8	rod bailey	
+10/29/2008	C172	7416X	Quinn	ADH-LCL	1			1.0		1.0							1.0					1.0	1.0	Quinn	
+10/30/2008	BE36TC	36TN	George Braly	ADH-DLH		1		3.0	1.0	4.0					4.0	4.0	4.0			4.0		4.0	4.0	"George, Tim and I up to Cirrus"	
+10/31/2008	BE36TC	36TN	George Braly	DLH-ADH	1			4.0		4.0					4.0	4.0	4.0			4.0		4.0	4.0	coming back from Duluth	
+10/31/2008	C172	7416X	Me	ADH-OKC-ADH	1	1		0.5	0.5	1.0							1.0			1.0		1.0	1.0	picked up Vanessa	
+11/2/2008	C172	7416X	Vanessa	ADH-OKC-ADH	2			1.6		1.6							1.6			1.6		1.6	1.6	took Vanessa back	
+11/2/2008	C172	7416X	Busby	ADH-OUN-PWA-OKC-ADH		4			2.0	2.0							2.0			1.4		2.0	2.0	"Dropped off Busbys son at OUN, touch and go at PWA and OKC"	
+11/9/2008	C172	7416X	Me	ADH-CUH-CQB-TUL-OWR-SRE-ADH	6			3.2		3.2							3.2			3.2		3.2	3.2	X-C day to Tulsa	
+11/11/2008	BE36TC	36TN	Bilby	ADH-TUL-RVS-ADH-GLE-ADM	4	1		2.0	0.9	2.9					2.9	2.9	2.9		0.3	2.9		2.9	2.9	building TC time	
+11/12/2008	C172	72TN	Bilby	ADH-FTT-ADH	2			6.1		6.1						6.1	6.1		2.2	6.1		6.1	6.1	pickup Bilby	
+11/16/2008	C172	7416X	Me	ADH-F00-AQR-3OK0-ADH	6			3.5		3.5							3.5			3.5		3.5	3.5	"Great day for flying, Smith International landings, real good"	
+11/23/2008	C172	7416X	Me	ADH-LCL	3			1.5		1.5							1.5					1.5	1.5	joy flight after Vanessa came to Dallas	
+11/26/2008	C172	7416X	Me	ADH-OKC	1			0.4		0.4							0.4			0.4		0.4	0.4	"flight to OKC, landed 36."	
+12/6/2008	C172	7416X	Me	ADH-PWA	1			1.0		1.0							1.0			1.0		1.0	1.0	up to Wiley Post	
+12/6/2008	C172RG	9463D	Flight Training	PWA-F92-HSD-PWA	6			1.7		1.7					1.7		0.0				1.7		1.7	"commercial prep: slow flight, clean and dirty stalls, power off and on, steep turns, short & soft field take offs and landings, power off/best glide/emergency landings. Hal Harris"	
+12/6/2008	C172	7416X	Me	PWA-ADH	1			0.5		0.5							0.5			0.5		0.5	0.5	flight home	
+12/7/2008	C172RG	9463D	Flight Training	PWA-F29-PWA	5			1.2		1.2					1.2		0.0				1.2		1.2	"landings, chandelles, lazy 8s, Yuko"	
+12/7/2008	C172	7416X	Me	ADH-HSD-PWA-WDG	5			1.8		1.8							1.8			1.8		1.8	1.8	flight for new buyer inspection	
+12/11/2008	BE36TC	36TN	Bilby	ADH-SAT-ADH-SAT-ADH	3	1		6.5	1.7	8.2					8.2	8.2	0.0				8.2		8.2	"Bilby and I picked up Vic, BE36TC instruction"	
+12/19/2008	BE36TC	36TN	Me	ADH-WDG	1			0.8		0.8					0.8	0.8	0.0			0.8	0.8		0.8	Drop off at Enid	
+12/19/2008	C172	7416X	Me	WDG-HSD-3T5-RKP	4			5.8		5.8							5.8			5.8		5.8	5.8	flying Anna to RKP with a return to service flight.	
+12/22/2008	C172	72TN	Bilby	ADH-TUL-ADH	2			1.9		1.9						1.9	1.9			1.9		1.9	1.9	dropped off bilby	
+1/10/2009	C172RG	9463D	Flight Training	HSD-PNC-HSD-PWA	3			1.7		1.7					1.7		0.0			1.6	1.7		1.7	"Ponca City fly in, solo HSD to PWA"	
+1/10/2009	C172RG	9463D	Flight Training	PWA-F29-PWA	3			1.1		1.1					1.1		0.0				1.1		1.1	"checkride prep, Yuko"	
+1/11/2009	C172RG	9463D	Flight Training	PWA-HSD-PWA	2			1.1		1.1					1.1		1.1					1.1	1.1	commercial checkride-PASSED! Ken Coplin	
+1/14/2009	C172	72TN	Kyla	ADH-PWA-ADH	2			1.5		1.5						1.5	1.5			1.5		1.5	1.5	lunch at PWA	
+1/17/2009	C172	72TN	Parents	ADH-PWA-OKC-ADH	3			1.7		1.7						1.7	1.7			1.7		1.7	1.7	flew parents around	
+1/21/2009	C172	72TN	Bilby	ADH-TUL-ADH	2			1.8		1.8						1.8	1.8			1.8		1.8	1.8	Bilby pick up	
+1/23/2009	C172	72TN	Me	ADH-PWA-ADH	2			1.6		1.6						1.6	1.6			1.6		1.6	1.6	took cfi airplane written-Passed!	
+1/24/2009	SR22	223TN	Flight Training	ADH-MLC-ADM-ADH	14		3	5.1		5.1						5.1	0.0				5.1		5.1	"sr22 transition: slow flight, emergency procedures, full/half/no flap landings, course intercept, autopilot OPS, GPS approach, VOR approach"	
+1/25/2009	SR22	223TN	Flight Training	ADH-PWA	1			0.8		0.8						0.8	0.0	0.4		0.8	0.8		0.8	SR22 transition: certificate issued	
+1/25/2009	SR22	223TN	Flight Training	PWA-ADH	1			0.5		0.5					0.5		0.5			0.5		0.5	0.5	flew back SOLO	
+1/31/2009	C152	67797	Flight Training	PWA-RQO-PWA	2			1.2		1.2							0.0				1.2		1.2	"CFI training, Hasegawa"	
+2/1/2009	C152	67797	Flight Training	PWA-F29-PWA	8			1.3		1.3							0.0				1.3		1.3	"CFI training, Hasegawa"	
+2/2/2009	SR22	223TN	Bilby	ADH-TUL-ADH	2			1.1		1.1						1.1	1.1			1.1		1.1	1.1	Bilby dropoff	
+2/2/2009	SR22	344SK	Kelly Rudy	ADH-PWA-ADH	2			1.0		1.0						1.0	1.0			1.0		1.0	1.0	Kelly Rudy pickup	
+2/17/2009	SR22	223TN	Vandeveer	ADH-LCL	1			0.5		0.5						0.5	0.5					0.5	0.5	quick trip around the airport	
+2/20/2009	SR22	223TN	Bilby	ADH-FOD-DLH	2			4.5	0.2	4.7						4.7	4.7			4.7		4.7	4.7	"Bilby dropoff, Brandon pickup"	
+2/20/2009	SR22	223TN	Brandon	DLH-ADH		1		3.5	1.5	5.0						5.0	5.0		2.5	5.0		5.0	5.0	Brandon pickup	
+2/22/2009	C152	67797	Flight Training	PWA-F29-PWA	6			1.1		1.1							0.0				1.1		1.1	"spin training, yuko"	
+2/27/2009	SR22	223TN	Bilby	ADH-OKC-ADH	2			0.9		0.9						0.9	0.9			0.9		0.9	0.9	Bilby dropoff	
+2/27/2009	SR22	223TN	Vanessa	ADH-OKC		4		0.7		0.7						0.7	0.7			0.4		0.7	0.7	Vanessa pickup	
+2/27/2009	SR22	223TN	Vanessa	OKC-ADH		1		0.5		0.5						0.5	0.5			0.5		0.5	0.5	Vanessa flight back	
+2/28/2009	T-34	34SY	Flight Training	ADH-3OK0-ADH	2			1.0		1.0					1.0	1.0	0.0				1.0		1.0	T-34 intro flight	
+3/3/2009	SR22	223TN	Vanessa	ADH-OKC-ADH	2			0.8		0.8						0.8	0.8			0.8		0.8	0.8	"took Vanessa to OKC, Rod came along"	
+3/14/2009	C172RG	9463D	Flight Training	PWA-F29-PWA	22			2.1		2.1					2.1		0.0				2.1		2.1	landings! (teach me landings) Yuko Hasegawa	
+3/15/2009	SR22	223TN	GAMI	ADH-PWA-OKC-ADH	6			2.9		2.9						2.9	2.9			2.9		2.9	2.9	"lots of Cirrus flying, Paul Bertorelli pick up"	
+3/15/2009	C172RG	9463D	Flight Training	PWA-F29-PWA	5			1.6		1.6					1.6		0.0				1.6		1.6	" maneuvers, landings, Hasegawa"	
+3/17/2009	SR22	223TN	GAMI	ADH-OKC-ADH	2		1	1.2		1.2						1.2	1.2			1.2		1.2	1.2	"Paul Bertorelli safety pilot, ILS 17R OKC"	
+3/20/2009	SR22	494CP	GAMI	ADH-FOD-DLH	2		1	4.8		4.8						4.8	4.8		0.8	4.8		4.8	4.8	"Duluth G1000 flight, very nice ILS 9 DLH"	
+3/21/2009	SR22	942SR	GAMI	DLH-PWA-ADH	2			5.3		5.3						5.3	5.3		0.1	5.3		5.3	5.3	bringing back 1st FIKI Cirrus	
+3/23/2009	SR22	500RC	GAMI	ADH-LCL	1			0.2		0.2						0.2	0.2					0.2	0.2	testing crankcase pressure	
+3/24/2009	SR22	223TN	GAMI	ADH-DWH-ADH	2		1	5.1		5.1						5.1	5.1		3.8	5.1		5.1	5.1	taking Bilby to Houston	
+4/1/2009	SR22	223TN	George Braly	ADH-RVS-ADH-PWA	2	1		1.0	0.8	1.8						1.8	1.8			1.8		1.8	1.8	"George to Tulsa, start of Duluth"	
+4/2/2009	SR22	105WL	GAMI	DLH-CNK-ADH	2			4.9		4.9						4.9	4.9			4.9		4.9	4.9	bringing back next Cirrus	
+4/3/2009	C172	72TN	Steve Busby	ADH-ADM-F30-ADH	9			1.5		1.5						1.5	1.5					1.5	1.5	took Busby up	
+4/9/2009	SR22	223TN	George Braly	ADH-1H6-ADH	2			1.2		1.2						1.2	1.2		0.7	1.2		1.2	1.2	"went to Dave Dewells, saw fuel pump work, flew back after tornado watch"	
+4/11/2009	C172RG	9463D	Flight Training	HSD-RQO-PWA	4			1.5		1.5					1.5		0.0				1.5		1.5	"checkride prep, big X-wind day, yuko"	
+4/14/2009	C172	72TN	GAMI	ADH-TUL-ADH	2			2.0		2.0						2.0	2.0			2.0		2.0	2.0	got a part	
+4/14/2009	C172	72TN	GAMI	ADH-LCL	7	2		1.8	0.4	2.2						2.2	2.2					2.2	2.2	Young Eagle flights with GAMI	
+4/15/2009	C172	72TN	GAMI	ADH-OK43-ADH	6			1.6		1.6						1.6	1.6					1.6	1.6	"Biggs, fuel testing"	
+4/17/2009	SR22	461SR	GAMI	ADH-LCL	1			1.0		1.0						1.0	1.0					1.0	1.0	turbo test	
+4/24/2009	SR22	223TN	GAMI	ADH-LCL	1			0.5		0.5						0.5	0.5					0.5	0.5	return to service flight	
+4/25/2009	SR22	223TN	GAMI	ADH-DFW-ADH	2			2.3		2.3						2.3	2.3		0.5	2.3		2.3	2.3	"first time to DFW, Paul Milner as passenger"	
+4/28/2009	C172	72TN	GAMI	ADH-LCL	1			1.0		1.0						1.0	1.0					1.0	1.0	photo flight with Jay	
+4/30/2009	SR22	223TN	GAMI	ADH-TUL-ADH	2		1	1.3		1.3						1.3	1.3		0.5	1.3		1.3	1.3	"Cirrus run for autopilots, ILS 17R @ TUL"	
+5/1/2009	SR22	223TN	GAMI	ADH-DWH-ADH	2		2	4.5		4.5						4.5	4.5			4.5		4.5	4.5	"dropped off Bonanza, Bilby and Rod, LOC 17R @ DWH, VOR 17 @ ADH"	
+5/14/2009	BE36TC	36TN	Bilby	ADH-LCL	5			0.8		0.8					0.8	0.8	0.8					0.8	0.8	VFR refresher in B36	
+5/16/2009	SR22	500RC	GAMI	ADH-OKC	1			0.5		0.5						0.5	0.5			0.5		0.5	0.5	picking up customer and CSIP	
+5/20/2009	C172RG	9463D	Flight Training	PWA-RCE-HSD-PWA	7			1.6		1.6					1.6		0.0				1.6		1.6	checkride CFIA prep with Yuko	
+5/21/2009	BE36TC	36TN	Bilby	ADH-LCL	1		3	1.0		1.0					1.0	1.0	1.0	1.0				1.0	1.0	"IFR refresher, ILS 17 @ SNL, 2x GPS 17 @ ADH, Bilby Wallace"	
+5/22/2009	BE36TC	36TN	Me	ADH-IOB	1			3.8		3.8					3.8	3.8	3.8		0.5	3.8		3.8	3.8	"XC to Ray/Becca's wedding, great flight in B36"	
+5/25/2009	BE36TC	36TN	Me	IOB-ADH	1			3.8		3.8					3.8	3.8	3.8		1.5	3.8		3.8	3.8	"XC back, great flight, real nice airplane"	
+5/30/2009	SR22	223TN	GAMI	ADH-LCL	2			2.2		2.2				2.2		2.2	2.2					2.2	2.2	"flew experimental Cirrus, Density controller"	
+5/31/2009	SR22	223TN	GAMI	ADH-LCL	1			1.0		1.0				1.0		1.0	1.0					1.0	1.0	test flew experimental Cirrus	
+6/2/2009	SR22	223TN	GAMI	ADH-LCL	1			0.8		0.8				0.8		0.8	0.8					0.8	0.8	"test flight, had to return to ADH instead of going to DLH"	
+6/4/2009	SR22	518CP	GAMI	ADH-PWA	1			0.6		0.6						0.6	0.6			0.6		0.6	0.6	picking up customer	
+6/8/2009	SR22	942SR	GAMI	ADH-DFW-ADH	2			2.4		2.4						2.4	2.4			2.4		2.4	2.4	picked up Bill Elliot	
+6/8/2009	SR22	942SR	GAMI	ADH-HSD-FOD-DLH	3		1	4.5		4.5						4.5	4.5		0.8	4.5		4.5	4.5	"Dropped off FIKI, 250' overcast on LIFR RNAV09@DLH, great flight"	
+6/9/2009	SR22	223TN	GAMI	DLH-ADH	1			4.2		4.2				4.2		4.2	4.2		1.0	4.2		4.2	4.2	experimental flight back	
+6/9/2009	C172RG	9463D	Flight Training	PWA-HSD-PWA	2			0.5		0.5					0.5		0.0				0.5		0.5	training with Yuko	
+6/10/2009	C172RG	9463D	Flight Training	PWA-LCL	1			1.0		1.0					1.0		1.0					1.0	1.0	checkride CFIA - failed	
+6/19/2009	C172	72TN	Me	ADH-OKC-HSD-ADH	3			2.2		2.2						2.2	2.2			2.0		2.2	2.2	dropped off Vanessa	
+6/19/2009	C172	72TN	Me	ADH-OKC-ADH	2			1.3		1.3						1.3	1.3			1.3		1.3	1.3	picking up Dad for airshow	
+6/20/2009	C172	72TN	Ada Air Expo	ADH-LCL	8			1.5		1.5						1.5	1.5					1.5	1.5	"airshow rides, real fun"	
+6/23/2009	BE36TC	36TN	GAMI	ADH-OKC-ADH	2			1.3		1.3					1.3	1.3	1.3			1.3		1.3	1.3	dropped off bilby	
+6/23/2009	C172	72TN	Flight Training	ADH-PWA	1			0.8		0.8						0.8	0.8			0.8		0.8	0.8	flew to PWA	
+6/23/2009	C172RG	9463D	Flight Training	PWA-LCL	1			0.6		0.6					0.6		0.0				0.6		0.6	"ground reference maneuvers, landings, stalls, Yuko"	
+6/23/2009	C172	72TN	Flight Training	PWA-ADH	1			0.8		0.8						0.8	0.8			0.8		0.8	0.8	flew back	
+6/24/2009	C172	72TN	Flight Training	ADH-PWA-HSD-ADH	3			1.2		1.2						1.2	1.2			1.0		1.2	1.2	checkride CFIA-postponed	
+6/24/2009	SR22	105WL	GAMI	ADH-LIT	1			1.6		1.6						1.6	1.6			1.6		1.6	1.6	flew Cirrus to new customer	
+6/24/2009	SR22	105WL	GAMI	LIT-LCL	1		2	1.0		1.0						1.0	0.0				1.0		1.0	"RNAV 36 @ SGT, ILS 4L @LIT"	
+4/20/2009	C172	72TN	Flight Training	ADH-LCL	2			1.0		1.0						1.0	1.0					1.0	1.0	practice from the right seat	
+4/21/2009	C172	72TN	Flight Training	ADH-LCL	1			1.0		1.0						1.0	1.0					1.0	1.0	practice from the right seat	
+4/27/2009	C172	72TN	Flight Training	ADH-LCL	4			1.5		1.5						1.5	1.5					1.5	1.5	practice from the right seat	
+4/28/2009	C172	72TN	Flight Training	ADH-LCL	3			2.1		2.1						2.1	2.1					2.1	2.1	practice from the right seat	
+5/7/2009	C172	72TN	Flight Training	ADH-43OK-ADH	6			3.0		3.0						3.0	3.0			1.0		3.0	3.0	dropped off Bilby to pickup 36TN	
+5/8/2009	C172	72TN	Flight Training	ADH-LCL	13			2.0		2.0						2.0	2.0					2.0	2.0	practice maneuvers from right seat	
+5/15/2009	C172	72TN	Flight Training	ADH-AQR-ADH	9			3.0		3.0						3.0	3.0					3.0	3.0	practice X-C from right seat	
+7/2/2009	BE36TC	36TN	GAMI	ADH-PWA-ADH-ADS-ADH	4			3.1		3.1					3.1	3.1	3.1			3.1		3.1	3.1	"dropped off service center customer, flew Bilby to ADS"	
+7/8/2009	BE36TC	36TN	GAMI	ADH-DFW-ADH	2			2.8		2.8					2.8	2.8	2.8			2.8		2.8	2.8	picked up Canadians	
+7/9/2009	BE36TC	36TN	GAMI	ADH-DFW-OKC-ADH	3			3.2		3.2					3.2	3.2	3.2		1.2	3.2		3.2	3.2	"dropped off Canadians, picked up Bilby"	
+7/10/2009	BE36TC	36TN	Vanessa	ADH-TYS		1		2.7	1.0	3.7					3.7	3.7	3.7		1.0	3.7		3.7	3.7	Vanessa and I flew to Knoxville	
+7/11/2009	BE36TC	36TN	Vanessa	TYS-RKW-TYS	2			1.1		1.1					1.1	1.1	1.1					1.1	1.1	took Zane and Taylor for flight	
+7/12/2009	BE36TC	36TN	Vanessa	TYS-RNC-MEZ-ADH	3		1	4.1		4.1					4.1	4.1	4.1		1.5	4.1		4.1	4.1	"flew back, storms GPS 23 @ RNC"	
+7/13/2009	C172	72TN	Flight Training	ADH-PWA-ADH	2			1.3		1.3						1.3	1.3			1.3		1.3	1.3	flew for checkride-postponed	

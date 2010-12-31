@@ -1,0 +1,235 @@
+Date	Plane	Type	Route		Total	PIC	Day Landings	Night Landings	Approaches	Day	Night	SEL	MEL	SES	MES	Hooded	Custom	Complex	High Perf.	Tail Dragger	Simulated Instrument	Actual Instrument	Cross Country	Dual Given	Dual Received	Remarks
+11/7/76	N60610	C-150	KCHN-KCHN		 0.8 	 -   	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 Intro 
+11/13/76	N60610	C-150	KCHN-KCHN		 0.9 	 -   	 1 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.9 	 -   
+11/24/76	N60610	C-150	KCHN-KCHN		 1.0 	 -   	 2 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 -   
+12/3/76	N60610	C-150	KCHN-KX06-KCHN		 0.8 	 -   	 2 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 -   	 0.8 	 -   
+12/10/76	N60610	C-150	KCHN-KCHN		 1.1 	 -   	 2 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.1 	 -   
+12/22/76	N60610	C-150	KCHN-KCHN		 0.9 	 -   	 1 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.9 	 -   
+12/29/76	N60610	C-150	KCHN-KCHN		 1.0 	 -   	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 -   
+1/5/77	N60610	C-150	KCHN-KCHN		 0.9 	 -   	 2 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.9 	 -   
+1/15/77	N60610	C-150	KCHN-KCHN		 0.6 	 -   	 3 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 -   
+1/23/77	N60610	C-150	KCHN-KCHN		 0.8 	 0.2 	 4 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 FIRST SOLO 
+1/30/77	N60610	C-150	KCHN-KCHN		 1.1 	 0.6 	 2 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.5 	 -   
+2/6/77	N60610	C-150	KCHN-KCHN		 1.0 	 0.6 	 2 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   
+2/11/77	N60610	C-150	KCHN-KSEF-KCHN		 1.1 	 -   	 2 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.1 	 -   	 1.1 	 -   
+2/17/77	N60610	C-150	KCHN-KCHN		 0.9 	 0.9 	 1 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 SOLO 
+2/22/77	N60610	C-150	KCHN-KCHN		 0.9 	 -   	 2 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.9 	 Dual Lazy 8's & Chandells 
+2/22/77	N60610	C-150	KCHN-KCHN		 1.0 	 1.0 	 4 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Solo turns, Solo flight 
+3/10/77	N60610	C-150	KCHN-KAVO-KCHN		 0.8 	 0.8 	 2 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 -   	 -   	 Solo X/C within 25 mi 
+3/13/77	N60610	C-150	KCHN-KCHN		 1.1 	 -   	 2 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.1 	 Radio work - Omni toward LAL 
+3/23/77	N60610	C-150	KCHN-KLAL-KCHN		 0.9 	 -   	 2 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.9 	 -   	 0.9 	 Dual X/C to LAL 
+4/1/77	N60610	C-150	KCHN-KCHN		 0.8 	 0.8 	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 -   	 -   	 Solo X-Wind, short field & T.O. 
+4/10/77	N60610	C-150	KCHN-KLAL-KCHN		 1.2 	 1.2 	 2 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 0.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Solo X/C to LAL 
+4/17/77	N60610	C-150	KCHN-KCHN		 0.2 	 0.2 	 1 	 -   	 -   	 0.2 	 -   	 0.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+4/26/77	N60610	C-150	KCHN-KCHN		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+5/5/77	N60610	C-150	KCHN-Myakka Cty		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 Landed @ Rusty Pot Ranch 
+5/5/77	N60610	C-150	Myakka Cty-KCHN		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   
+6/3/77	N60610	C-150	KCHN-KCHN		 0.3 	 0.3 	 2 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+6/21/77	N60610	C-150	KCHN-KCHN		 0.4 	 0.4 	 2 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 S-Turns, Lazy 8's 
+7/6/77	N60610	C-150	KCHN-KCHN		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+8/21/77	N60610	C-150	KCHN-Myakka Cty		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 Solo X/C within 25 mi 
+8/21/77	N60610	C-150	Myakka Cty-KCHN		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 Solo X/C within 25 mi 
+8/30/77	N60610	C-150	KCHN-KAVO-KCHN		 0.5 	 0.5 	 2 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.5 	 -   	 -   	 Solo X/C within 25 mi 
+9/3/77	N60610	C-150	KCHN-KCHN		 1.2 	 1.2 	 4 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Solo 
+9/15/77	N60610	C-150	KCHN-KCHN		 1.3 	 1.3 	 2 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Perimiter turns 
+9/27/77	N60610	C-150	KCHN-KCHN		 1.2 	 1.2 	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Solo 
+9/30/77	N60610	C-150	KCHN-KCHN		 1.4 	 1.4 	 4 	 -   	 -   	 1.4 	 -   	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+11/13/76	N60610	C-150	KCHN-KCHN		 0.9 	 -   	 1 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.9 	 -   
+10/3/77	N60610	C-150	KCHN-KSEF-KCHN		 0.6 	 0.6 	 2 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 -   	 -   	 Solo X/C 
+10/10/77	N60610	C-150	KCHN-KCHN		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Local Solo 
+10/10/77	N60610	C-150	KCHN-KCHN		 0.7 	 0.7 	 1 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Local Solo 
+10/17/77	N60602	C-150	KCHN-KCHN		 1.7 	 -   	 1 	 -   	 -   	 1.7 	 -   	 1.7 	 -   	 -   	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.7 	 Prep for private 
+10/20/77	N60602	C-150	KCHN-KCHN		 1.3 	 -   	 -   	 5 	 -   	 -   	 1.3 	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.3 	 Night flight for Req. 
+10/29/77	N60602	C-150	KCHN-KCHN		 0.8 	 -   	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 Perimiter turns 
+1/15/77	N60610	C-150	KCHN-KCHN		 0.6 	 -   	 3 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 -   
+11/2/77	N60602	C-150	KCHN-KSPG-KCHN		 1.1 	 -   	 2 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 1.1 	 -   	 1.1 	 Dual X-C to St. Pete, radio work 
+11/9/77	N60602	C-150	KCHN-KOBE		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.5 	 -   	 -   	 Solo X-C to Okechobee 
+11/9/77	N60602	C-150	KOBE-KCHN		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.5 	 -   	 -   	 Return from Okechobee  
+11/12/77	N60602	C-150	KCHN-KEVB		 1.2 	 1.2 	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 -   	 -   	 X-C for private - New Smyrna Beach 
+11/12/77	N60602	C-150	KEVB-KCGC		 1.3 	 1.3 	 1 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.3 	 -   	 -   	 X-C for private - Crystal River 
+11/12/77	N60602	C-150	KCGC-KCHN		 1.3 	 1.3 	 1 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.3 	 -   	 -   	 X-C for private - Home 
+11/28/77	N60602	C-150	KCHN-KAVO-KCHN		 2.0 	 -   	 5 	 -   	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 2.0 	 5 T.O. & Landings Full Stop 
+11/30/77	N4678B	C-180	KCHN-KCHN		 0.7 	 -   	 3 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 -   	 -   	 0.7 	 C-180 checkout 
+3/13/77	N60610	C-150	KCHN-KCHN		 1.1 	 -   	 2 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.1 	 Radio work - Omni toward LAL 
+12/1/77	N4678B	C-180	KCHN-KCHN		 1.1 	 0.8 	 3 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 -   	 1.1 	 1.1 	 -   	 -   	 -   	 -   	 0.4 	 C-180 Solo 
+12/2/77	N4678B	C-180	KCHN-KCHN		 0.4 	 -   	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 -   	 0.4 	 -   
+12/2/77	N60602	C-150	KCHN-KAVO		 0.6 	 0.6 	 5 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 -   	 -   	 Prep for Flight Exam, practiced TO/Land 
+12/3/77	N60602	C-150	KCHN-KCHN		 0.8 	 -   	 2 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 Signoff for Flight Exam 
+12/3/77	N60602	C-150	KAVO-KAVO		 1.0 	 1.0 	 2 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Flight Exam 
+12/3/77	N4678B	C-180	KCHN-KCHN		 0.4 	 0.4 	 4 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 -   	 -   	 Practiced TO/Land 
+5/5/77	N60610	C-150	Myakka Cty-KCHN		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   
+12/3/77	N4678B	C-180	KCHN-MyakkaCity-KCHN		 0.8 	 0.8 	 2 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 0.8 	 -   	 -   	 0.8 	 -   	 -   	 First passenger - Dad! 
+12/3/77	N60602	C-150	KCHN-KCHN		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+12/4/77	N60602	C-150	KCHN-KCHN		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+12/4/77	N4678B	C-180	KCHN-MyakkaCity-KCHN		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 -   	 0.3 	 0.3 	 -   	 -   	 -   	 -   	 -   	 Took Mom, Julie, Charlie to see house 
+12/5/77	N4678B	C-180	KCHN-KBOW-KCHN		 0.7 	 0.7 	 2 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 0.7 	 -   	 -   	 -   
+12/6/77	N4678B	C-180	KCHN-KCHN		 0.7 	 0.7 	 1 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   
+9/3/77	N60610	C-150	KCHN-KCHN		 1.2 	 1.2 	 4 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Solo 
+12/7/77	N4678B	C-180	KCHN-KCHN		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 0.6 	 -   	 -   	 -   	 -   	 -   	 Took Frank Gibbs, Kenny Lambert 
+12/10/77	N4678B	C-180	KCHN-KCHN		 1.4 	 1.4 	 1 	 -   	 -   	 1.4 	 -   	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 1.4 	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   
+12/11/77	N4678B	C-180	KCHN-KCHN		 1.4 	 1.4 	 1 	 -   	 -   	 1.4 	 -   	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 1.4 	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   
+12/10/77	N60602	C-150	KCHN-KCHN		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+12/13/77	N60602	C-150	KCHN-KAVO-KCHN		 0.5 	 0.5 	 2 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.5 	 -   	 -   	 Picked up new Miami sectional 
+12/13/77	N4678B	C-180	KCHN-KAPF		 0.9 	 0.9 	 1 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 0.9 	 0.9 	 -   	 -   	 0.9 	 -   	 -   	 Dad to Naples to look at stereo equp 
+12/14/77	N4678B	C-180	KAPF-KCHN		 1.0 	 0.9 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 0.9 	 -   	 -   	 -   
+1/14/78	N60602	C-150	KCHN-MyakkaCity-KCHN		 0.9 	 0.9 	 2 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   
+2/4/78	N46466	C-172	KAVO-KCHN		 0.6 	 0.2 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 First 172 checkout 
+2/4/78	N46466	C-172	KAVO-KPMP		 1.4 	 1.4 	 1 	 -   	 -   	 1.4 	 -   	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.4 	 -   	 -   	 Down for 1st aerobatic lesson (Jim Holland) 
+2/4/78	N80003	Pitts S-2	KPMP-KPMP		 0.8 	 -   	 -   	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 0.8 	 -   	 -   	 -   	 -   	 0.8 	 1st lesson in Pitts - Spins & Intro, basic aerobatics 
+2/4/78	N46466	C-172	KPMP-KAVO		 1.5 	 1.5 	 1 	 -   	 -   	 1.5 	 -   	 1.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.5 	 -   	 -   	 MVR most of the way 
+2/12/78	N60602	C-150	KCHN-KCHN		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 Stalls, Chandells 
+2/27/78	N22448	C-150	KCHN-KCHN		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+3/5/78	N60602	C-150	KCHN-MyakkaCity-KCHN		 1.0 	 1.0 	 2 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 -   	 -   	 -   
+3/5/78	N8881	C-175	KCHN-KCHN		 0.5 	 -   	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+3/11/78	N8881	C-175	KCHN-KAVO KSEF-KCHN		 1.0 	 -   	 3 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 -   	 -   	 -   
+3/20/78	N8881	C-175	KCHN-KAVO-KCHN		 0.6 	 -   	 2 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+3/21/78	N46466	C-172	KCHN-LakePlacid-KCHN		 0.6 	 -   	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 -   	 -   	 -   
+3/21/78	N60602	C-150	KCHN-MyakkaCty KLAL-KCHN		 2.5 	 2.5 	 -   	 1 	 -   	 -   	 2.5 	 2.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 2.5 	 -   	 -   	 -   
+3/24/78	N80003	Pitts S-2	KPMP-KPMP		 1.4 	 -   	 1 	 -   	 -   	 1.4 	 -   	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 1.4 	 1.4 	 -   	 -   	 -   	 -   	 1.4 	 -   
+3/24/78	N22559	C-150	KAVO-KPMP		 1.8 	 1.8 	 1 	 -   	 -   	 1.8 	 -   	 1.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.8 	 -   	 -   	 -   
+3/24/78	N22559	C-150	KPMP-KAVO		 1.4 	 1.4 	 1 	 -   	 -   	 1.4 	 -   	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.4 	 -   	 -   	 -   
+3/25/78	N26816	C-182	KCHN-KVDF		 0.6 	 -   	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+3/25/78	N26816	C-182	KVDF-KLAL		 0.3 	 -   	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 -   	 0.3 	 -   	 -   	 -   	 0.3 	 -   	 -   	 -   
+3/25/78	N26816	C-182	KLAL-KCHN		 0.4 	 -   	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   
+5/30/78	N80003	Pitts S-2	KCHN-KCHN		 1.0 	 -   	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 -   	 1.0 	 -   
+6/14/78	N4678B	C-180	KCHN-KCHN		 1.3 	 1.3 	 1 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 1.3 	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   
+6/15/78	N4678B	C-180	KCHN-KCHN		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   
+8/7/78	1/0/00	BE18	MYBG-KVRB		 1.1 	 -   	 -   	 -   	 -   	 1.1 	 -   	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 -   	 1.1 	 -   	 -   	 1.1 	 -   	 1.1 	 -   
+8/7/78	1/0/00	BE18	KVRB-KCHN		 0.4 	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 0.4 	 -   	 -   	 0.4 	 -   	 0.4 	 -   
+10/7/78	N4678B	C-180	KCHN-KLAL		 0.7 	 0.7 	 2 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 0.7 	 -   	 -   	 Took Steve to Lakeland 
+10/7/78	N4678B	C-180	KLAL-KCHN		 0.8 	 0.8 	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 0.8 	 -   	 -   	 0.8 	 -   	 -   	 Return from LAL 
+11/4/78	N60602	C-150	KCHN-KCHN		 1.0 	 1.0 	 3 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   
+11/25/78	N8255H	C-172	KCHN-X06-KCHN		 1.4 	 1.4 	 3 	 -   	 -   	 1.2 	 0.2 	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.4 	 -   	 -   	 Arcadia 
+1/1/79	N4678B	C-180	KCHN-X06-KCHN		 2.0 	 2.0 	 1 	 -   	 -   	 2.0 	 -   	 2.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 2.0 	 -   	 -   	 To Rusty Pot & 2X4 
+1/20/79	N4678B	C-180	KCHN-KCHN		 3.0 	 3.0 	 1 	 -   	 -   	 3.0 	 -   	 3.0 	 -   	 -   	 -   	 -   	 -   	 -   	 3.0 	 3.0 	 -   	 -   	 3.0 	 -   	 -   	 -   
+1/23/79	N4678B	C-180	KCHN-MyakkaCty KLAL-KCHN		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 1.0 	 -   	 -   	 -   
+2/18/79	1/0/00	Citabria	KCHN-KCHN		 0.5 	 0.4 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.5 	 -   	 -   	 -   	 -   	 0.5 	 -   
+2/25/79	1/0/00	Citabria	KCHN-KCHN		 0.9 	 0.8 	 1 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.9 	 -   	 -   	 -   	 -   	 0.5 	 Solo Citabria 
+3/5/79	1/0/00	Citabria	KCHN-KCHN		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   
+3/12/79	N4678B	C-180	KCHN-KCGC		 1.3 	 1.3 	 1 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 1.3 	 1.3 	 -   	 -   	 1.3 	 -   	 -   	 -   
+3/12/79	N4678B	C-180	KCGC-KCHN		 1.6 	 1.3 	 1 	 1 	 -   	 1.3 	 0.3 	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 1.3 	 1.3 	 -   	 -   	 1.3 	 -   	 -   	 -   
+4/1/79	N26816	C-182	KCHN-KVDF		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 -   	 -   	 -   	 0.6 	 -   	 -   	 -   
+4/1/79	N26816	C-182	KVDF-KCHN		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 0.6 	 -   	 -   	 -   	 0.6 	 -   	 -   	 -   
+6/5/81	N737TZ	C-172	KAVO-KAVO		 1.2 	 -   	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 -   
+6/12/81	N737TZ	C-172	KAVO-KX60		 1.5 	 1.5 	 1 	 -   	 -   	 1.5 	 -   	 1.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.5 	 -   	 -   	 -   
+6/12/81	N737TZ	C-172	KX60-KGNV		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+6/13/81	N737TZ	C-172	KGNV-KCHN		 1.5 	 1.5 	 1 	 -   	 -   	 1.5 	 -   	 1.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.5 	 -   	 -   	 -   
+6/20/81	N4678B	C-180	KCHN-KCHN		 1.2 	 1.2 	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   
+6/23/81	N4678B	C-180	KCHN-SRQ-KCHN		 2.0 	 2.0 	 1 	 -   	 -   	 2.0 	 -   	 2.0 	 -   	 -   	 -   	 -   	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 2.0 	 -   	 -   	 -   
+10/12/83	N12179	C-172	KAVO-KAVO		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.0 	 BFR 
+10/25/83	N12179	C-172	KCHN-KCHN		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+10/26/83	N12179	C-172	KCHN-KX06-KPGD		 3.0 	 3.0 	 2 	 -   	 -   	 3.0 	 -   	 3.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 3.0 	 -   	 -   	 -   
+10/31/83	N12179	C-172	KCHN-KX06-KCHN		 1.0 	 1.0 	 2 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+11/6/83	N12179	C-172	KCHN-KCHN		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+11/20/83	N12179	C-172	KCHN-KABY		 2.2 	 2.2 	 1 	 -   	 -   	 2.2 	 -   	 2.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 2.2 	 -   	 -   	 Funeral 
+11/22/83	N12179	C-172	KABY-KCHN		 2.5 	 2.5 	 1 	 -   	 -   	 2.5 	 -   	 2.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 2.5 	 -   	 -   	 -   
+1/15/84	N4678B	C-180	KCHN-KGNV		 1.3 	 1.3 	 1 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 1.3 	 1.3 	 -   	 -   	 1.3 	 -   	 -   	 -   
+1/16/84	N4678B	C-180	KGNV-KCHN		 1.2 	 1.2 	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 1.2 	 -   	 -   	 -   
+3/14/84	N12179	C-172	KCHN-KPMP		 1.2 	 1.2 	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 -   	 -   	 -   
+3/14/84	N12179	C-172	KPMP-KCHN		 1.3 	 1.3 	 1 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.3 	 -   	 -   	 -   
+4/7/84	N12179	C-172	KCHN-KGNV		 1.4 	 1.4 	 1 	 -   	 -   	 1.4 	 -   	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.4 	 -   	 -   	 -   
+4/8/84	N12179	C-172	KGNV-KCHN		 1.4 	 1.4 	 -   	 1 	 -   	 1.1 	 0.3 	 1.4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.4 	 -   	 -   	 -   
+4/8/84	NXXXXX	C-150	KCHN-KCHN		 (0.2)	 (1.7)	 -   	 -   	 -   	 (0.2)	 -   	 0.1 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.7 	 -   	 -   	 Adjustment for logbook totals 
+11/1/07	1/0/00	C-150	-		 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+12/1/07	1/0/00	C-150	-		 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+1/1/08	1/0/00	C-150	-		 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+2/1/08	1/0/00	C-150	-		 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+3/1/08	1/0/00	C-150	-		 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+4/1/08	1/0/00	C-150	-		 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+5/1/08	1/0/00	C-150	-		 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   
+6/24/08	N985GE	C-172	52F-KAFW-52F		 1.2 	 1.2 	 3 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 Stalls, Steep turns, slow flight, BFR 1of3 
+6/26/08	N985GE	C-172	52F-KAFW-52F		 1.1 	 1.1 	 4 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.1 	 Short/Soft TO/L, engine out 
+6/30/08	N985GE	C-172	52F-KABI		 1.7 	 1.7 	 1 	 -   	 -   	 1.7 	 -   	 1.7 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.7 	 -   	 1.7 	 XC for BFR 
+6/30/08	N985GE	C-172	KABI-52F		 1.7 	 1.7 	 1 	 -   	 -   	 1.7 	 -   	 1.7 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.7 	 -   	 1.7 	 XC for BFR 
+7/1/08	N630HR	C-172	52F-KGYI		 0.8 	 0.8 	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 -   	 0.8 	 XC for BFR 
+7/1/08	N630HR	C-172	KGYI-52F		 0.8 	 0.8 	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 0.8 	 -   	 0.8 	 XC for BFR 
+7/23/08	N630HR	C-172	52F-KAFW-52F		 1.2 	 1.2 	 8 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 BFR Complete 
+8/18/08	AF @ FTW	Sim-Pro 200	AF @ FTW-		 1.6 	 -   	 -   	 -   	 2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.6 	 -   	 -   	 -   	 -   	 VOR,Hold MWL, ILS FTW 
+9/2/08	N2649J	C-172	KFTW-KMWL-KFTW		 1.7 	 1.7 	 1 	 -   	 2 	 1.7 	 -   	 1.7 	 -   	 -   	 -   	 1.5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.7 	 1st IFR, VOR 31 appr MWL, 34 ILS FTW 
+9/4/08	AF @ FTW	Sim-Pro 200	AF @ FTW-		 -   	 -   	 -   	 -   	 4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 2.2 	 -   	 -   	 -   	 -   	 VOR MWL, Holds, Partial Panel, FTW ILS 
+9/5/08	AF @ FTW	Sim-Pro 200	AF @ FTW-		 -   	 -   	 -   	 -   	 5 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.7 	 -   	 -   	 -   	 -   	 Kingdom 7, TTT ILS 17, VOR 31 
+9/8/08	AF @ FTW	Sim-Pro 200	AF @ FTW-		 -   	 -   	 -   	 -   	 4 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.8 	 -   	 -   	 -   	 -   	 VOR DEMO PRX, Hold PRX, FTW ILS 
+9/30/08	N801RC	17-30A	KPVW-KAMA-KPVW		 1.5 	 1.5 	 6 	 -   	 -   	 1.5 	 -   	 1.5 	 -   	 -   	 -   	 -   	 -   	 1.5 	 1.5 	 -   	 -   	 -   	 1.5 	 -   	 1.5 	 Amarillo Class C, Canyon Run, Emerg gear ext. 
+9/30/08	N28012	17-30A	KPVW-KPVW		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 1st flight in my plane, Auto Axtion, gear horn 
+9/30/08	N28012	17-30A	KPVW-48F - LBB-KPVW		 2.0 	 2.0 	 -   	 10 	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 -   	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 -   	 2.0 	 -   	 2.0 	 Nght ops, full stop landings, emergencies, Floydada, Lubbock 
+10/1/08	N28012	17-30A	KPVW-KROW		 1.8 	 1.8 	 1 	 -   	 1 	 1.8 	 -   	 1.8 	 -   	 -   	 -   	 -   	 -   	 1.8 	 1.8 	 -   	 -   	 -   	 1.8 	 -   	 1.8 	 X/C to Roswell - ILS 21 
+10/1/08	N28012	17-30A	KROW-KSRR		 1.2 	 1.2 	 1 	 -   	 1 	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 -   	 1.2 	 -   	 1.2 	 Ruidoso - ILS 24, VOR Tracking, Mountains 
+10/1/08	N28012	17-30A	KSRR-KROW-KPVW		 2.0 	 2.0 	 1 	 -   	 -   	 2.0 	 -   	 2.0 	 -   	 -   	 -   	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 -   	 2.0 	 -   	 2.0 	 VOR Tracking, Roswell, PVW - checkout complete 
+10/7/08	N28012	17-30A	52F-KPVW		 2.3 	 2.3 	 1 	 -   	 -   	 2.3 	 -   	 2.3 	 -   	 -   	 -   	 -   	 -   	 2.3 	 2.3 	 -   	 -   	 -   	 2.3 	 -   	 -   	 Gear down all the way - slow flyingÉ 
+10/7/08	N28012	17-30A	KPVW-LBB-KPVW		 2.5 	 2.5 	 4 	 -   	 7 	 2.5 	 -   	 2.5 	 -   	 -   	 -   	 -   	 -   	 2.5 	 2.5 	 -   	 1.8 	 -   	 -   	 -   	 2.5 	 Instr work, LBB: ILS26, ILS 17R, LOC 25L, PVW:VOR 4 
+10/7/08	N28012	17-30A	KPVW-KPVW		 1.5 	 1.5 	 3 	 -   	 3 	 1.5 	 -   	 1.5 	 -   	 -   	 -   	 -   	 -   	 1.5 	 1.5 	 -   	 -   	 -   	 -   	 -   	 1.5 	 Holds, Direct/Parallel/Teardrop entry 
+10/7/08	N28012	17-30A	KPVW-52F		 1.4 	 1.4 	 1 	 -   	 -   	 1.4 	 -   	 1.4 	 -   	 -   	 -   	 -   	 -   	 1.4 	 1.4 	 -   	 -   	 -   	 1.4 	 -   	 -   	 Home from PVW w/ gear fixed 
+10/8/08	N28012	17-30A	52F-52F		 0.7 	 0.7 	 1 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   	 1st flight w/ psgr in SV:Kate, Dan, Corbin 
+10/8/08	N28012	17-30A	52F-1K4		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 Took Seth to OU 
+10/9/08	N28012	17-30A	52F-KJWY		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 0.5 	 -   	 -   	 -   	 0.5 	 -   	 -   	 Dropped off insurance papers to underwriter 
+10/9/08	N28012	17-30A	KJWY-52F		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 0.5 	 -   	 -   	 -   	 0.5 	 -   	 -   	 Very busy Bravo airspace. Controller didn't have time for VFR guy.   
+10/10/08	N28012	17-30A	52F-KOUN		 0.9 	 0.9 	 1 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 0.9 	 0.9 	 -   	 -   	 -   	 0.9 	 -   	 -   	 Up to OU to pick up Seth, Destin, Chase, 15kt crosswind due to RWY 17 closed 
+10/10/08	N28012	17-30A	KOUN-52F		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 Brought kids home from OU 
+10/11/08	N28012	17-30A	52F-37K-52F		 1.2 	 1.2 	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 -   	 1.2 	 -   	 -   	 Up to St. Jo area & back 
+10/11/08	N28012	17-30A	52F-52F		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 Tested intercom system w/ Kate 
+10/18/08	N28012	17-30A	52F-GYI-3T0		 1.0 	 1.0 	 2 	 -   	 1 	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 James Swan up to Cedar Mills fly-in, saw BL Cruiseair & gorgeous DeHaviland Beaver 
+10/18/08	N28012	17-30A	3T0-52F		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 0.6 	 0.6 	 -   	 -   	 -   	 0.6 	 -   	 -   	 Back from Cedar Mills 
+10/23/08	N28012	17-30A	52F-52F		 0.3 	 0.3 	 2 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 0.3 	 0.3 	 -   	 -   	 -   	 -   	 -   	 -   	 Installed XM Weather, Rough rt Mag - fouled plugs 
+10/29/08	N28012	17-30A	52F-52F		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 Reinstalled MX170 Nav/Com & test flt.  Took Steve Zahorsky for 1st flight in Bellanca 
+11/3/08	N28012	17-30A	52F-52F		 0.2 	 0.2 	 1 	 -   	 -   	 0.2 	 -   	 0.2 	 -   	 -   	 -   	 -   	 -   	 0.2 	 0.2 	 -   	 -   	 -   	 -   	 -   	 -   	 Retest of XM Weather rcvr 
+11/6/08	N28012	17-30A	52F-KOUN		 1.2 	 1.2 	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 Up to see Seth @ OU for lunch.  Nice day to fly 
+11/7/08	N28012	17-30A	52F-52F		 0.2 	 0.2 	 1 	 -   	 -   	 0.2 	 -   	 0.2 	 -   	 -   	 -   	 -   	 -   	 0.2 	 0.2 	 -   	 -   	 -   	 -   	 -   	 -   	 Rewired ground of ignition switch.  Test flt, Mags OK now 
+11/9/08	N28012	17-30A	52F-GYI-52F		 1.2 	 1.2 	 2 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 -   	 1.2 	 -   	 -   	 Took Colton Aaron for 1st flight.  St Jo->GYI->52F 
+11/12/08	N28012	17-30A	52F-KOUN		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 Flew up to help Seth find a suit for interview 
+11/12/08	N28012	17-30A	KOUN-52F		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 Nice flight home @ dusk 
+11/13/08	N71869	Luscombe	Justin-Justin		 1.2 	 1.0 	 4 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 -   	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 1st Flight in Luscombe 
+11/15/08	N28012	17-30A	52F-KXBP		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 0.5 	 -   	 -   	 -   	 -   	 -   	 -   	 Very windy, took David Stearns to get gas @ Bridgeport - $2.99 
+11/17/08	N28012	17-30A	52F-52F		 0.2 	 0.2 	 1 	 -   	 -   	 0.2 	 -   	 0.2 	 -   	 -   	 -   	 -   	 -   	 0.2 	 0.2 	 -   	 -   	 -   	 -   	 -   	 -   	 Retest of XM Weather rcvr 
+11/18/08	N28012	17-30A	52F-KPVW		 1.5 	 1.5 	 1 	 -   	 -   	 1.5 	 -   	 1.5 	 -   	 -   	 -   	 -   	 -   	 1.5 	 1.5 	 -   	 -   	 -   	 1.5 	 -   	 -   	 Out to PVW with Tracy & Carol - her 1st lessons!  
+11/18/08	N28012	17-30A	KPVW-52F		 1.5 	 1.5 	 -   	 1 	 -   	 1.4 	 0.1 	 1.5 	 -   	 -   	 -   	 -   	 -   	 1.5 	 1.5 	 -   	 -   	 -   	 1.5 	 -   	 -   	 Back home from PVW. Great day to fly! 
+11/19/08	N28012	17-30A	52F-KAUS		 1.3 	 1.3 	 1 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 1.3 	 1.3 	 -   	 -   	 -   	 1.3 	 -   	 -   	 Took Steve Smith to Austin for Tx SBOE mtg - Science curriculm changes  
+11/19/08	N28012	17-30A	KAUS-52F		 1.2 	 1.2 	 -   	 1 	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 -   	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 -   	 1.2 	 -   	 -   	 Meeting too long.  Night flight back really beautiful (and quiet) 
+11/20/08	N28012	17-30A	52F-XBP-KPVW		 1.7 	 1.7 	 2 	 -   	 -   	 1.7 	 -   	 1.7 	 -   	 -   	 -   	 -   	 -   	 1.7 	 1.7 	 -   	 -   	 -   	 1.7 	 -   	 -   	 Back to Rocket to fix left mag problem 
+12/4/08	N28012	17-30A	52F-KCWC		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 0.5 	 -   	 -   	 -   	 0.5 	 -   	 -   	 Dropped off charger to Dolores on way to OU 
+12/4/08	N28012	17-30A	KCWC-KOUN		 0.7 	 0.7 	 1 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 -   	 0.7 	 -   	 -   	 Flew up to OU to drop off Kate for concert in OKC 
+12/4/08	N28012	17-30A	KOUN-52F		 1.0 	 1.0 	 -   	 1 	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 Brought Seth home for bday 
+12/4/08	N28012	17-30A	52F-KOUN		 1.0 	 1.0 	 -   	 1 	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 Took Seth back ot OU, picked up Kate 
+12/4/08	N28012	17-30A	KOUN-52F		 1.0 	 1.0 	 -   	 1 	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 Brought Kate home after her Christmas concert in OKC 
+12/5/08	N28012	17-30A	52F-KJFX		 3.0 	 3.0 	 1 	 -   	 -   	 3.0 	 -   	 3.0 	 -   	 -   	 -   	 -   	 -   	 3.0 	 3.0 	 -   	 -   	 -   	 3.0 	 -   	 -   	 Took Dan to Atlanta for SEC Championship, fuel stop 
+12/6/08	N28012	17-30A	KAHN-KAHN		 1.0 	 1.0 	 1 	 -   	 -   	 1.0 	 -   	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 -   	 -   	 -   	 Flew over Jewell Mill with Fletch & Zack 
+12/7/08	N28012	17-30A	KAHN-24A-KPBF		 3.7 	 3.7 	 1 	 -   	 -   	 3.7 	 -   	 3.7 	 -   	 -   	 -   	 -   	 -   	 3.7 	 3.7 	 -   	 -   	 -   	 3.7 	 -   	 -   	 Home via Cashiers, flew over Chinquapin 
+12/7/08	N28012	17-30A	KPBF-52F		 2.0 	 2.0 	 1 	 -   	 -   	 2.0 	 -   	 2.0 	 -   	 -   	 -   	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 -   	 2.0 	 -   	 -   	 Fuel stop in Pine Bluff, flew over Hope, AR 
+12/25/08	N28012	17-30A	52F-XBP-KCWC		 0.8 	 0.8 	 2 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 0.8 	 0.8 	 -   	 -   	 -   	 0.8 	 -   	 -   	 Up to Wichita Falls for Christmas 
+12/26/08	N28012	17-30A	KCWC-KCWC		 0.7 	 0.7 	 1 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   	 Local flight up Red River 
+12/26/08	N28012	17-30A	KCWC-KCWC		 0.7 	 0.7 	 1 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 -   	 -   	 -   	 -   	 Local flight up Red River 
+12/27/08	N28012	17-30A	KGLE-KT67		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 0.6 	 0.6 	 -   	 -   	 -   	 0.6 	 -   	 -   	 Very Windy.  Tried to land at 52F, but diverted to Hicks 
+12/27/08	N28012	17-30A	KT67-52F		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 0.3 	 0.3 	 -   	 -   	 -   	 -   	 -   	 -   	 Waited @ Hicks until xwind @ 52F was < 15kt 
+12/31/08	N28012	17-30A	52F-KOSA		 0.8 	 0.8 	 1 	 -   	 -   	 0.8 	 -   	 0.8 	 -   	 -   	 -   	 -   	 -   	 0.8 	 0.8 	 -   	 -   	 -   	 0.8 	 -   	 -   	 -   
+12/31/08	N28012	17-30A	KOSA-52F		 0.7 	 0.7 	 1 	 -   	 -   	 0.7 	 -   	 0.7 	 -   	 -   	 -   	 -   	 -   	 0.7 	 0.7 	 -   	 -   	 -   	 0.7 	 -   	 -   	 -   
+1/7/09	N28012	17-30A	52F-KLBB		 1.9 	 1.9 	 1 	 -   	 -   	 1.9 	 -   	 1.9 	 -   	 -   	 -   	 -   	 -   	 1.9 	 1.9 	 -   	 -   	 -   	 1.9 	 -   	 -   	 Strong headwind, Dropped off Kittlitz's for Texas Tech tour 
+1/7/09	N28012	17-30A	KLBB-KPVW		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 0.3 	 0.3 	 -   	 -   	 -   	 0.3 	 -   	 -   	 -   
+1/7/09	N28012	17-30A	KHRX-KLBB		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 0.6 	 0.6 	 -   	 -   	 -   	 0.6 	 -   	 -   	 -   
+1/7/09	N28012	17-30A	KLBB-52F		 1.5 	 1.5 	 -   	 1 	 -   	 -   	 1.5 	 1.5 	 -   	 -   	 -   	 -   	 -   	 1.5 	 1.5 	 -   	 -   	 -   	 1.5 	 -   	 -   	 Nice night flight home, almost full moon 
+1/9/09	N28012	17-30A	52F-KRPH		 0.6 	 0.6 	 1 	 -   	 -   	 0.6 	 -   	 0.6 	 -   	 -   	 -   	 -   	 -   	 0.6 	 0.6 	 -   	 -   	 -   	 0.6 	 -   	 -   	 Lunch in Graham with Darby 
+1/9/09	N28012	17-30A	KRPH-KXBP		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 0.3 	 0.3 	 -   	 -   	 -   	 0.3 	 -   	 -   	 Fueled up in Bridgeport, $2.34/gal 
+1/9/09	N28012	17-30A	KXBP-52F		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   
+1/12/09	N28012	17-30A	52F-11R		 1.2 	 1.2 	 1 	 -   	 -   	 1.2 	 -   	 1.2 	 -   	 -   	 -   	 -   	 -   	 1.2 	 1.2 	 -   	 -   	 -   	 1.2 	 -   	 -   	 -   
+1/12/09	N28012	17-30A	KSEP-52F		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   
+1/15/09	N28012	17-30A	52F-KPWA		 1.1 	 1.1 	 1 	 -   	 -   	 1.1 	 -   	 1.1 	 -   	 -   	 -   	 -   	 -   	 1.1 	 1.1 	 -   	 -   	 -   	 1.1 	 -   	 -   	 Took Kate up to OKC to have dinner w/ Corbin 
+1/15/09	N28012	17-30A	KPWA-52F		 1.0 	 1.0 	 -   	 1 	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 -   	 -   	 1.0 	 1.0 	 -   	 -   	 -   	 1.0 	 -   	 -   	 Carol's first night flight, flew above clouds departing OKC 
+1/17/09	N28012	17-30A	52F-KHUT		 2.5 	 2.5 	 1 	 -   	 -   	 2.5 	 -   	 2.5 	 -   	 -   	 -   	 -   	 -   	 2.5 	 2.5 	 -   	 -   	 -   	 2.5 	 -   	 -   	 Up to see Cosmosphere Museum - Great!  Had to delay departure due to MVFR WX 
+1/17/09	N28012	17-30A	KHUT-52F		 2.0 	 2.0 	 -   	 1 	 -   	 0.5 	 1.5 	 2.0 	 -   	 -   	 -   	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 -   	 2.0 	 -   	 -   	 Got off late, so night flight back.  ATC asked me to relay info to other A/C 
+1/30/09	N28012	17-30A	52F-3T0		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 0.5 	 -   	 -   	 -   	 0.5 	 -   	 -   	 Took Carol & Larry up to Cedar Mills for lunch, windy, but nice landing over water 
+1/30/09	N28012	17-30A	3T0-52F		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 0.5 	 -   	 -   	 -   	 0.5 	 -   	 -   	 Smoother ride back.  Let Larry fly most of way 
+2/10/09	N28012	17-30A	52F-52F		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 -   	 -   	 -   	 Quick flight to warm up engine for service 
+3/29/09	N28012	17-30A	52F-3T0		 0.5 	 0.5 	 1 	 -   	 -   	 0.5 	 -   	 0.5 	 -   	 -   	 -   	 -   	 -   	 0.5 	 0.5 	 -   	 -   	 -   	 0.5 	 -   	 -   	 Flew up w/ Dan for lunch. 1st flight since service, Nosegear collapse on landing!   
+4/27/09	N28012	17-30A	3T0-KPVW		 2.2 	 2.2 	 1 	 -   	 -   	 2.2 	 -   	 2.2 	 -   	 -   	 -   	 -   	 -   	 2.2 	 2.2 	 -   	 -   	 -   	 2.2 	 -   	 -   	 Ferry flight to PVW after prop replacement. Gear down and locked 
+6/9/09	N28012	17-30A	KPVW-52F		 1.6 	 1.6 	 1 	 -   	 -   	 1.6 	 -   	 1.6 	 -   	 -   	 -   	 -   	 -   	 1.6 	 1.6 	 -   	 -   	 -   	 1.6 	 -   	 -   	 Home from PVW.  Nice to be flying again.  Gear stayed down this time! 
+6/13/09	N28012	17-30A	52F-KGLE		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 0.3 	 0.3 	 -   	 -   	 -   	 0.3 	 -   	 -   	 Flew up to antique airplane flyin - not many planes there 
+6/13/09	N28012	17-30A	KGLE-52F		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 0.3 	 0.3 	 -   	 -   	 -   	 0.3 	 -   	 -   	 -   
+6/29/09	N28012	17-30A	52F-KXBP		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 0.4 	 -   	 -   	 Took Joon over to XBP for fuel after he got his IFR ticket 
+6/29/09	N28012	17-30A	KXBP-52F		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   
+6/30/09	N28012	17-30A	52F-KCPS		 3.0 	 3.0 	 1 	 -   	 -   	 3.0 	 -   	 3.0 	 -   	 -   	 -   	 -   	 -   	 3.0 	 3.0 	 -   	 -   	 -   	 3.0 	 -   	 -   	 Start of long trip w/ Kate to visit schools 
+6/30/09	N28012	17-30A	KCPS-C09		 1.3 	 1.3 	 1 	 -   	 -   	 1.3 	 -   	 1.3 	 -   	 -   	 -   	 -   	 -   	 1.3 	 1.3 	 -   	 -   	 -   	 1.3 	 -   	 -   	 Flew past St. Louis Arch on way to Chicago 
+6/30/09	N28012	17-30A	C09-KIGQ		 0.3 	 0.3 	 1 	 -   	 -   	 0.3 	 -   	 0.3 	 -   	 -   	 -   	 -   	 -   	 0.3 	 0.3 	 -   	 -   	 -   	 0.3 	 -   	 -   	 Fuel stop, then on to Chicago to visit Univ Illinois 
+7/1/09	N28012	17-30A	KIGQ-KMFD		 2.0 	 2.0 	 1 	 -   	 -   	 2.0 	 -   	 2.0 	 -   	 -   	 -   	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 -   	 2.0 	 -   	 -   	 Enroute to OQN, but had to divert to MFD due to deteriorating wx 
+7/1/09	N28012	17-30A	KMFD-58M		 3.5 	 3.5 	 1 	 -   	 -   	 3.5 	 -   	 3.5 	 -   	 -   	 -   	 -   	 -   	 3.5 	 3.5 	 -   	 -   	 -   	 3.5 	 -   	 -   	 Fuel stop in Maryland 
+7/1/09	N28012	17-30A	58M-KOQN		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 0.4 	 -   	 -   	 -   
+7/2/09	N28012	17-30A	KOQN-KEVY		 0.4 	 0.4 	 1 	 -   	 -   	 0.4 	 -   	 0.4 	 -   	 -   	 -   	 -   	 -   	 0.4 	 0.4 	 -   	 -   	 -   	 0.4 	 -   	 -   	 Via New Jersey (OOD) 
+7/2/09	N28012	17-30A	KEVY-KJYO		 0.9 	 0.9 	 1 	 -   	 -   	 0.9 	 -   	 0.9 	 -   	 -   	 -   	 -   	 -   	 0.9 	 0.9 	 -   	 -   	 -   	 0.9 	 -   	 -   	 SFRA flight plan into Leesburg 
+7/3/09	N28012	17-30A	KJYO-KHKY		 2.0 	 2.0 	 1 	 -   	 -   	 2.0 	 -   	 2.0 	 -   	 -   	 -   	 -   	 -   	 2.0 	 2.0 	 -   	 -   	 -   	 2.0 	 -   	 -   	 Fuel stop in Hickory, NC 

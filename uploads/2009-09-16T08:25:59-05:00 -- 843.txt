@@ -1,0 +1,342 @@
+DATE	"AIRCRAFT MAKE
+& MODEL"	"AIRCRAFT
+IDENT"	ROUTE OF FLIGHT	DURATION	"LANDINGS
+DAY"	INSTRUMENT	"SIMULATED
+INSTRUMENT"	NIGHT	SIMULATOR	"CROSS
+COUNTRY"	SOLO	"PILOT IN
+COMMAND"	DUAL	INSTRUCTOR	"FLIGHT
+COST"	EXPENSES	REMARKS
+9/14/2009	PA28R-200	N41363	BED	1.4	1							1.4	1.4		203		stage 1 cfi check with jake
+9/26/2009																	
+9/14/2009	PA28R-200	N41363	BED	1.4	1							1.4	1.4		203		stage 1 cfi check with jake
+9/26/2009																	
+9/26/2009																	
+5/29/2005	L-23	118BB	3B3	0.4	1								0.4				Steve Paavola
+5/29/2005	L-23	118BB	3B3	0.4	1								0.4				Steve Paavola
+6/11/2005	L-23	373BA	3B3	0.4	1								0.4				
+6/18/2005	L-23	118BB	3B3	0.2	1								0.2				
+6/18/2005	L-23	118BB	3B3	0.3	1								0.3				
+7/10/2005	L-23	118BB	3B3	0.3	1								0.3				
+7/28/2005	Feb-33	17899	3B3	0.3	1								0.3				
+8/7/2005	Feb-33	17899	3B3	0.3	1								0.3				
+8/7/2005	Feb-33	17899	3B3	0.3	1								0.3				
+8/11/2005	L-23	118BB	3B3	0.1	1								0.1				
+9/4/2005	Feb-33	17899	3B3	0.3	1								0.3				
+9/4/2005	Feb-33	17899	3B3	0.3	1								0.3				
+9/11/2005	Feb-33	17899	3B3	0.5	1								0.5				
+9/11/2005	Feb-33	17899	3B3	0.3	1								0.3				
+10/30/2005	L-23	118BB	3B3	0.3	1								0.3				
+11/6/2005	L-23	118BB	3B3	0.2	1								0.2				
+11/6/2005	L-23	118BB	3B3	0.3	1								0.3				
+11/12/2005	L-23	118BB	3B3	0.3	1								0.3				
+11/12/2005	L-23	118BB	3B3	0.3	1								0.3				
+11/27/2005	L-23	373BA	3B3	0.2	1								0.2				Ken Rosenberg
+11/27/2005	L-23	373BA	3B3	0.1	1								0.1				Ken Rosenberg
+5/28/2006	L-23	373BA	3B3	0.3	1								0.3				Steve Paavola
+6/11/2006	L-23	118BB	3B3	0.5	1								0.5				Gerry Bell
+6/11/2006	L-23	118BB	3B3	0.2	1								0.2				Gerry Bell
+6/17/2006	L-23	373BA	3B3	0.2	1								0.2				
+6/17/2006	L-23	373BA	3B3	0.4	1								0.4				
+7/1/2006	L-23	373BA	3B3	0.4	1								0.4				Steve Paavola
+7/1/2006	L-23	373BA	3B3	0.2	1								0.2				Steve Paavola
+7/5/2006	Feb-33	17899	3B3	0.3	1								0.3				
+7/5/2006	Feb-33	17899	3B3	0.2	1								0.2				
+7/8/2006	Feb-33	17899	3B3	0.2	1								0.2				Roy B
+7/8/2006	Feb-33	17899	3B3	0.2	1								0.2				Roy B
+7/8/2006	Feb-33	17899	3B3	0.2	1						0.2	0.2					First Solo
+7/19/2006	Feb-33	17899	3B3	0.2	1								0.2				
+7/19/2006	Feb-33	17899	3B3	0.2	1								0.2				
+7/26/2006	Feb-33	17899	3B3	0.2	1								0.2				Roy B
+7/26/2006	Feb-33	17899	3B3	0.2	1						0.2	0.2					
+7/29/2006	Feb-33	17899	3B3	0.2	1								0.2				Roy B
+7/29/2006	Feb-33	17899	3B3	0.3	1								0.3				Roy B
+8/2/2006	L-23	373BA	3B3	0.2	1								0.2				
+8/5/2006	Feb-33	17899	3B3	0.5	1								0.5				Dave Zlotek
+8/9/2006	Feb-33	17899	3B3	0.2	1								0.2				
+8/9/2006	Feb-33	17899	3B3	0.2	1						0.2	0.2					
+8/13/2006	Cessna 150	N45434	3B3 to Nash	0.5	1								0.5		45		Intro FLight
+8/16/2006	Feb-33	17899	3B3	0.2	1						0.2	0.2					
+8/16/2006	26-Jan	1135S	3B3	0.2	1						0.2	0.2					
+8/19/2006	26-Jan	1135S	3B3	0.5	1						0.5	0.5					
+8/19/2006	Cessna 150	N45434	3B3	1.1	2								1.1		96.8		Nashua
+8/23/2006	26-Jan	1135S	3B3	0.3	1						0.3	0.3					
+8/30/2006	26-Jan	1135S	3B3	0.3	1						0.3	0.3					
+8/30/2006	26-Jan	1135S	3B3	0.2	1						0.2	0.2					
+9/1/2006	Cessna 150	N45434	3B3	1	1								1		88		
+9/5/2006	Cessna 150	N45434	3B3	1	1								1		88		
+9/13/2006	Cessna 150	N45434	3B3	1	2								1		88		
+9/16/2006	26-Jan	1135S	3B3	0.3	1						0.3	0.3					
+9/16/2006	Cessna 150	N45434	3B3	0.9	5								0.9		79.2		
+9/20/2006	Cessna 150	N45434	3B3	0.9	3								0.9		79.2		
+9/27/2006	Cessna 150	N45434	3B3	0.9	4								0.9		79.2		
+10/4/2006	Cessna 150	N45434	3B3	0.8	1		0.5						0.8		70.4		
+10/7/2006	Cessna 150	N45434	3B3	1	4								1		88		
+10/14/2006	Cessna 150	N45434	3B3	0.8	5			0.6					0.8		70.4		
+10/22/2006	Cessna 150	N45434	3B3	1	5								1		88		
+11/4/2006	Cessna 150	N45434	3B3	0.9	5								0.9		79.2		
+11/16/2006	Cessna 150	N45434	3B3	1.1	8								1.1		70.4		
+11/19/2006	L-23	373BA	3B3	0.3	1								0.3				Steve Paavola
+11/19/2006	L-23	373BA	3B3	0.1	1								0.1				Steve Paavola
+11/25/2006	Cessna 150	N45434	3B3	0.9	6								0.9		79.2		
+12/3/2006	Cessna 172	N6371D	3B3	1.3	6			0.8					1.3		114.4		
+12/10/2006	Cessna 150	N45434	3B3	1	6								1		88		
+12/31/2006	Cessna 150	N45434	3B3	1.1	8								1.1		96.8		
+12/31/2006	Hawk XP	4563k	3B3	0.6	2								0.6				Ritts 
+1/21/2007	Hawk XP	4563k	3B3	0.3	1								0.3				
+1/21/2007	Cessna 150	N45434	3B3	1.1	8								1.1		96.8		
+1/27/2007	Cessna 150	N45434	3B3	0.7	5						0.4	0.4	0.3		50.4		
+2/10/2007	Cessna 150	N45434	3B3	0.8	6						0.7	0.7	0.1		56.8		
+2/18/2007	Cessna 150	N45434	3B3	0.7	5						0.7	0.7			42		
+3/7/2007	Cessna 150	N45434	3B3	1.2	5								1.2		105.6		
+4/22/2007	Cessna 150	N45434	3B3	0.9	3								0.9		79.2		
+5/6/2007	Cessna 172	N13215	3B3	1	2								1		113		
+5/13/2007	Cessna 172	N13215	3B3	1.4	9								1.4				
+5/27/2007	Cessna 172	N13215	3B3	0.9	7								0.9		33.7		
+6/10/2007	Cessna 172	N13215	3B3	1	7								1		123		
+6/17/2007	Cessna 172	N13215	3B3	1.1	8								1.1		135.3		
+6/20/2007	L-23	373BA	3B3	0.2	1								0.2				
+6/20/2007	L-23	373BA	3B3	0.2	1								0.2				
+7/2/2007	Cessna 172	N13215	3B3	0.8	5								0.8		98.4		
+7/15/2007	Cessna 152	N25351	3B3	0.8	1								0.8		82.4		
+7/22/2007	Cessna 152	N25351	3B3	1	3		0.4						1		103		
+7/25/2007	L-23	373BA	3B3	0.2	1								0.2				Roy B
+7/25/2007	L-23	373BA	3B3	0.2	1								0.2				Roy B
+7/25/2007	Cessna 152	N25351	3B3	1.1	5								1.1		121.7		
+8/1/2007	L-23	373BA	3B3	0.2	1								0.2				
+8/1/2007	L-23	373BA	3B3	0.2	1								0.2				
+8/1/2007	Cessna 152	N25351	3B3	1.3	8								1.3		133.9		
+8/9/2007	Cessna 150	N45434	3B3	2.1	2					2.1			2.1		216.3		
+8/11/2007	Cessna 150	N45434	3B3	0.8	5						0.8	0.8			60		
+8/15/2007	L-23	373BA	3B3	0.2	1								0.2				Phil Gaisford
+8/15/2007	L-23	373BA	3B3	0.2	1								0.2				Phil Gaisford
+8/15/2007	Cessna 150	N45434	3B3	1.5	2		0.7						1.5		154.5		
+8/22/2007	L-23	373BA	3B3	0.2	1								0.2				Phil Gaisford
+8/22/2007	L-23	373BA	3B3	0.1	1								0.1				Phil Gaisford
+8/22/2007	Cessna 150	N45434	3B3	1	7								1		103		
+8/25/2007	Cessna 150	N45434	3B3	0.6	4						0.6	0.6			45		
+8/26/2007	Cessna 150	N45434	3B3	0.9	4						0.9	0.9			67.5		
+8/29/2007	Feb-33	17899	3B3	0.2	1								0.2				Roy B
+8/29/2007	Cessna 150	N45434	3B3-LCI-EEN-3B3	2.5	3					2.5	2.5	2.5			187.5		First XC
+8/29/2007	Feb-33	17899	3B3	0.2	1								0.2				
+9/2/2007	Cessna 150	N45434	3B3 - SFM - 3B3	2.2	2					2.2	2.2	2.2			165		Sanford
+9/16/2007	Cessna 150	N45434	3B3	0.9	1		0.5						0.9				"Carlos,  Unusual attitudes and lost procedures"
+9/23/2007	Cessna 172	N13215	3B3-ORH-3B3	0.9	5								0.9				
+9/23/2007	Feb-33	17899	3B3	0.4	1								0.4				
+9/23/2007	Feb-33	17899	3B3	0.4	1								0.4				
+9/29/2007	L-23	373BA	3B3	0.5	1								0.5				
+10/14/2007	Cessna 150	N45434	3B3	0.7	1		0.6						0.7				Trakced gdm vor
+10/21/2007	Cessna 150	N45434	3B3-GON-3B3	2.1				2.1		2.1			2.1				GON via putnam VOR
+11/4/2007	Cessna 150	N45434	3B3	1.1	2		0.7						1.1				"Carlos, attepted 'a' pattern, softfield"
+11/28/2007	Cessna 150	N45434	3B3-ORH-3B3	0.8	2			0.3					0.8				
+12/24/2007	Cessna 150	N45434	3B3	1.4	2								1.4				
+12/26/2007	Cessna 150	N45434	3B3	1.5	2								1.5				
+12/28/2007	Cessna 150	N45434	3B3 - SFM - 3B3	2.3	12					2.3	2.3	2.3					
+1/5/2008	Cessna 150	N45434	3B3-ORH-3B3	1.7	5						1.7	1.7					
+1/8/2008	Cessna 150	N45434	3B3	1	5								1				
+1/10/2008	Cessna 150	N45434	3B3	0.7	1		0.2						0.7				l
+1/12/2008	Cessna 150	N45434	3B3	0.9	3								0.9				
+1/26/2008	Cessna 150	N45434	3B3	0.4	4								0.4				
+1/29/2008	Cessna 150	N45434	3B3	3.9	10		0.2					3.9					
+2/16/2008	PA-28-180	N9425J	3B3	0.9	5								0.9		50.7		Cherokee 180 checkout
+2/21/2008	PA-28-180	N9425J	3B3-BED-3B3	1.7	6			0.4				1.7			124.1		
+3/6/2008	PA-28-180	N9425J	3B3-CON-3B3	1.5	3							1.5			109.5		
+3/18/2008	PA-28-180	N9425J	3B3-ash-3B3	2.1	10							2.1			153.3		
+3/24/2008	PA-28-180	N9425J	3B3-SFM-PSM-3B3	2.9	3					2.9		2.9			211.7		
+3/25/2008	PA-28-180	N9425J	3B3-GDM	0.4	1							0.4			29.2		
+4/5/2008	Cessna 150	N45434	3B3-FIT	0.7	4							0.7			52.5		
+4/13/2008	Cessna 172	N6049G	KEEN	1			0.5					1					ils 2 appch @ een safety pilot- sam carter/ acted as safety pilot for sam carter also
+4/18/2008	PA-28-180	N9425J	GDM-EEN-PTD	2.4	2					2.4		2.4			175.2		Potsdam with Sam Carter
+4/18/2008	PA-28-180	N9425J	PTD-SLK-PTD-MAL	1.9	14							1.9			138.7		"SLK for dreakfeast,  MAL- Bill with cherokee 180"
+4/18/2008	PA-28-180	N9425J	PTD-GDM	2.2	1					2.2		2.2			160.6		
+4/26/2008	PA-28-180	N9425J	GDM-HYA	1	1					1		1			73		
+4/26/2008	PA-28-180	N9425J	HYA-GDM	0.9	1					0.9		0.9			65.7		
+5/25/2008	PA-28-180	N9425J	3B3-afn-3B3	0.9	1							0.9			65.7		jaffery lunch- with devan and brenna
+5/25/2008	PA-28-180	N9425J	3B3-HFD	0.8	1					0.8		0.8			58.4		hartford with sam for diner
+5/25/2008	PA-28-180	N9425J	HFD-3B3	1.5	1		1			1.5		1.5			109.5		"Alpha patter, gardner vor appch/ hold, safety pilot- sam carter"
+5/25/2008	PA-28-180	N9425J	3B3	0.3				0.3			0.3	0.3			21.9		Night Currency
+6/21/2008	Cessna 150	N45434	3B3-HYA	1.1	1					1.1		1.1			77		"Hyannis with Sam, Olive Garden"
+6/21/2008	Cessna 150	N45434	HYA-3B3	1.2				1.2		1.2		1.2			84		Back from Hyannis with Sam
+6/25/2008	PA-28-180	N9425J	3B3-HYA-ACK	1.4	2					1.4		1.4			102.2		
+6/25/2008	PA-28-180	N9425J	ACK-HYA-3B3	1.6	2					1.6		1.6			116.8		
+6/25/2008	L-23	118bb	3B3	0.3	1								0.3				Phil G
+6/25/2008	L-23	118bb	3B3	0.3	1								0.3				Phil G
+6/29/2008	PA-28-180	N9425J	3B3-3b3	0.8	3		0.3					0.8			58.4		
+7/1/2008	PA-28-180	N9425J	3B3-HFD-3B3	1.7	2					1.7		1.7			124.1		
+7/6/2008	L-23	373BA	3B3	0.7	1								0.7				Thermal soaring with phil G
+7/9/2008	PA-28-180	N9425J	3B3-BVY-3B3	1.5	4						1.5	1.5			109.5		"pitot check@bvy,  2 soft filed ldgs @ 3b3"
+7/13/2008	Cessna 172	N13215	3B3	0.3	2							0.3	0.3		28.5		172 checkout with ritts
+7/15/2008	PA-28-180	N9425J	3B3-BVY	0.5	1						0.5	0.5			36.5		ferry to bvy
+7/16/2008	Cessna 150	N45434	3B3-FIT	0.4	1			0.4			0.4	0.4			28		
+7/16/2008	L-23	373BA	3B3	0.3	1								0.3				Box wake with phil g
+7/31/2008	L-23	118bb	3B3	0.2	1								0.2				"Roy- box wake, spot landing"
+7/31/2008	L-23	118bb	3B3	0.2	1						0.2	0.2					solo
+8/2/2008	L-23	118bb	3B3	0.2	1								0.2				Phil G
+8/2/2008	L-23	118bb	3B3	0.2	1								0.2				Phil G
+8/5/2008	Cessna 150	N45434	3B3-FIT-KASH-3B3	1.6	4						1.6	1.6			120		
+8/18/2008	PA-28-180	N9425J	BVY-3B3	1.1	1						1.1	1.1			80.3		
+8/20/2008	PA-28-180	N9425J	3B3-BVY-PSM	1.4	2					1.4	1.4	1.4			102.2		"MS Avionics- New KMA-24
+PSM- Fuel"
+8/20/2008	PA-28-180	N9425J	PSM-CON-LCI-3B3	2	3					2	2	2			146		"Ils @CON 
+PREMIER SPIRIT"
+8/20/2008	PA-28-180	N9425J	3B3	0.2				0.2			0.2	0.2			14.6		
+8/27/2008	PA-28-180	N9425J	3B3-OWD-PYM	1	3					1	1	1			73		
+8/27/2008	PA-28-180	N9425J	PYM-0B5	1.5	2					1.5	1.5	1.5			109.5		
+8/27/2008	PA-28-180	N9425J	0B5-GDM-3B3	1.4	2						1.4	1.4			119		Tried vor approach/hold over gdm and some sightseeing
+8/27/2008	PA-28-180	N9425J	3B3-FIT-3B3	0.5	3							0.5			36.5		Drop Jim P off
+8/27/2008	PA-28-180	N9425J	3B3-NASH-GDM-KEEN-3B3	2.2	1			2.2				2.2			160.6		"Ils at keen/ash
+Vor @GDM"
+9/20/2008	PA-28-180	N9425J	GDM-KPYM	0.9	1					0.9		0.9			65.7		Pocker run with gary/scot
+9/20/2008	PA-28-180	N9425J	KPYM-3B3	1.1	1					1.1		1.1			90.3		Back from pocker run
+9/23/2008	L-23	373BA	3B3	0.2	1							0.2					Checkride !
+9/23/2008	L-23	373BA	3B3	0.3	1							0.3					Checkride 2
+9/23/2008	PA-28-180	N9425J	3B3-KEEN	1.7	1						1.7	1.7			144.5		
+9/23/2008	PA-28-180	N9425J	3B3	1.9			1.9	1.3				1.9	1.9		161.5		"ILS @ Keen
+Missed Appch @ Keen
+ILS @ ORH"
+9/24/2008	PA-28-180	N9425J	3B3-EEN	0.8	1		0.7					0.8			68		"Devan Wiebe Safety pilot
+Lic# 3266604
+1 ils 02 keen"
+9/24/2008	PA-28-180	N9425J	EEN-3B3	1.2	1							1.2			102		Safety pilot for devan wiebe
+10/5/2008	PA-28-180	N9425J	3B3	1.2	1		0.5	0.5				1.2			102		"Fit to pick up Devan, then ORH 11 ILS w/ Devan as safety pilot"
+10/6/2008	PA-28-180	N9425J	3B3-KSFM	1.9	1		1.7			1.9		1.9			161.5		"VOR @ keen
+ILS @ CON
+ILS @ SFM"
+10/6/2008	PA-28-180	N9425J	KSFM-3B3	0.8	1							0.8			68		Safety Pilot for Devan Wiebe
+10/7/2008	PA-28-180	N9425J	3B3	2.5			2.4	2.5				2.5	2.5		212.5		IFR training flight
+10/9/2008	PA-28-180	N9425J	3B3-KSFM	0.8	1					0.8		0.8			68		Sanford maine with Dan Vazquez
+10/9/2008	PA-28-180	N9425J	KSFM-3B3	1.2				1.2		1.2		1.2			102		Back from Sanford with Dan Vazquez
+10/11/2008	PA-28-180	N9425J	3B3-LWM	0.5	1							0.5			42.5		Lawrence for Young Eagles
+10/11/2008	PA-28-180	N9425J	LWM	2.3	5							2.3			195.5		"5 Young Eagle Flights
+
+Leim
+Rourian
+Peter
+Daniel
+Carlos"
+10/11/2008	PA-28-180	N9425J	LWM-KLCI	0.9	1					0.9		0.9			76.5		Laconia from Lawrence
+10/11/2008	PA-28-180	N9425J	KLCI-KLWM	0.9	1					0.9		0.9			76.5		Back to Sterling
+10/12/2008	PA-28-180	N7909w	3B3-HFD-3B3	1.6			1.6					1.6					Gary Rabidou- Safety pilot
+10/12/2008	PA-28-180	N9425j	3B3-3B3	2.5			2.5	2.5				2.5	2.5		212.5		
+10/12/2008	Cessna 172	N13215	3B3-ORH	0.3	1							0.3					
+10/18/2008	PA-28-180	N9425j	3B3-hawthorne-3B3	0.9	1						0.9	0.9			85.5		
+10/30/2008	PA-28-180	N9425j	3B3--3B3	2.7	1		2.6	2.7				2.7	2.6		229.5		
+11/5/2008	PA-28-180	N9425j	3B3--ORH	0.6				0.6				0.6			51		
+11/11/2008	PA-28-180	N9425j	3B3--3B3	2.2			2.2	2.2				2.2	2.2		187		
+11/12/2008	PA-28-180	N9425j	3B3--3B3	2.2			2.2	2.2				2.2	2.2		187		
+11/18/2008	Cessna 172	N2081S	BED	1.1			0.2	0.6				1.1	1.1		225.5		g1000 checkout
+11/19/2008	Cessna 172	N6229Q	BED	1.3	5							1.3	1.3		266.5		
+11/20/2008	PA-28-180	N9425j	3B3 EEN CAM KALB	1.5		0.5	1	1.5		1.5		1.5	1.5		127.5		ILS @ ALB under IFR
+11/20/2008	PA-28-180	N9425j	KALB V123 HAARP KDXR	1.3		0.3	1	1.3		1.3		1.3	1.3		110.5		Localizer missed approach DXR
+11/20/2008	PA-28-180	N9425j	KDXR HFD KORH	1.2	1	0.2	1	1.2		1.2		1.2	1.2		102		ILS @ ORH
+11/21/2008	PA-28-180	N9425j	3B3-KPYM	0.8				0.8		0.8		0.8			68		Dinner with sam
+11/21/2008	PA-28-180	N9425j	KPYM-3B3	1				1		1		1			85		
+11/26/2008	PA-28-180	N9425j	3B3	1.4			1.2	1.4				1.4	1.2		119		"DME arcs, partial panel"
+12/2/2008	PA-28-180	N9425j	3B3-LEB-SFM-CON	3.4		1	2.3	3.4		3.4		3.4	3.4		289		
+12/3/2008	Cessna 172	N6229Q	KBED-KLWM-KBED	1.7	1		0.9	0.8				1.7	1.7				"ILS rwy 5 @ klwm
+GPS rwy 23 @ kbed"
+12/6/2008	Cessna 172	N2081S	KBED	0.5	1							0.5					Alternator failure
+12/10/2008	Cessna 172	N6229Q	KBED	0.8	1	0.5						0.8	0.8				Ils 29 @kbed
+12/17/2008	PA-28-180	N9425j	3B3-KPYM-3B3	3.3			3	3.3		3.3		3.3			280.5		"3b3-put-pvd-kpym
+kpym-put-5b3
+5b3-pimp-ILS 29
+Missed appch and hold off ils 29@ orh
+Safety Pilot-  Scott Hopkins"
+12/18/2008	182RG	N737HP	3B3-Kcon	0.5								0.5	0.5				
+12/18/2008	182RG	N737HP	Kcon-3b3	1.5			1.5	1.5				1.5	1.5				
+12/23/2008	Cessna 150	N45434	3B3-Kfit-3B3	0.9	2							0.9			63		150 ferry to fit for nose strut
+12/23/2008	Cessna 172	N13215	3B3-ORH-3b3	1.9			1.9	1.9				1.9	1.9		100		No gyro appches
+12/24/2008	SIMULATOR	X-plane	KBvy	1.3	1				1.3						130		
+12/26/2008	Cessna 172	N13215	3B3-GDM-3b3	1.3	1		0.8					1.3			123.5		Safety pilot scot hopkins
+12/29/2008	Cessna 150	N45434	KASH-3B3	0.6	1							0.6			42		back from wings. right seat
+12/29/2008	Cessna 172	N13215	3B3-ORH-3b3	1.4			1					1.4			133		"ILS 29 @ ORH
+VOR @ GDM
+VOT test @ ORH
+Safety pilot- Scott hopkins"
+1/4/2009	Cessna 172	N1307A	Enroute	0.8								0.8			76		Safety Pilot for Sam Carter
+1/4/2009	Cessna 172	N1307A	KBAF-KBED	1.2	1		0.8	1.2		1.2		1.2			76		"ILS 29 @ KBED
+Safety Pilot- Sam Carter"
+1/14/2009	PA-28-180	N9425j	3B3	2	1		1.7	0.3				2	2		170		Sean Brodeur
+1/16/2009	PA-28-180	N9425j	3B3-HVN-3B3	3.3	1		2.3	3.3		3.3		3.3			280.5		Safety pilot sam carter
+1/17/2009	PA-28-180	N9425j	3B3-KASH-0B5-GDM	1.9	3		0.8					1.9			161.5		"Gary Rabidou safety pilot.
+KASH for bkfst"
+1/25/2009	PA-28-180	N9425j	GDM-3B3-KOWD	1.6	2							1.6			136		
+1/25/2009	PA-28-180	N9425j	KOWD-KLZD	0.8	1							0.8			68		Practice vor approach/hold
+1/25/2009	PA-28-180	N9425j	KLZD-KPYM	0.9	1							0.9			76.5		Lunch @ pym with scott
+1/25/2009	PA-28-180	N9425j	KPYM-KBVY	0.8	1					0.8		0.8			68		
+1/25/2009	PA-28-180	N9425j	KBvy-KBVY	0.8	1			0.8				0.8			68		"ILS/VOR @ LWM
+LOC @ BVY
+saftey pilot scott hopkins"
+1/25/2009	PA-28-180	N9425j	KBvy-3B3	0.5				0.5			0.5	0.5			42.5		
+1/26/2009	PA-28-180	N9425j	3B3-7B2	0.5	1							0.5			42.5		
+1/26/2009	PA-28-180	N9425j	7B2-SFZ-KLZD-KORH-7B2	2.5	2		2.2					2.5	2.5		212.5		Sean Brodeur
+1/26/2009	PA-28-180	N9425j	7B2-KORH-3B3	0.7	2							0.7			59.5		VOT @ KORH
+1/26/2009	PA-28-180	N9425j	3B3-3b3	0.3	2							0.3			25.5		Practice t/o and landings
+1/26/2009	PA-28-180	N9425j	3B3-KEEN-KAFN-KBAF-3B3	2.2			2.1	2.1				2.2	2.1		187		Tony Lin
+1/29/2009	Cessna 150	N45434	3B3-EEN-3B3	1.4	2							1.4			98		EEN for Breakfeast
+2/1/2009	PA-28-180	N9425J	3B3-SFZ-GDM	2.2	3							2.2			187		Generator failure with ray collins
+2/4/2009	Cessna 172	N13215	3B3	2.4			2	2.4				2.4			228		Safety pilot scot hopkins
+2/9/2009	Cessna 172	N13215	3B3-HFD	2.5			2.1	2.5		2.5		2.5			237.5		Safety Pilot- Gary Rabidou
+2/9/2009	Cessna 172	N13215	HFD-3B3	1.2			1	1.2		1.2		1.2			114		"Safety Pilot gary Rabidou
+ORH ILS"
+2/16/2009	PA-28-180	N9425J	3B3	1.4	1							1.4			119		
+2/17/2009	PA-28-180	N9425J	3B3-3b3-sfz-gdm-3b3	4	2		1.3	0.2			0.2	4			340		"IFR Checkride, then gardner for nose wheel"
+2/25/2009	Cessna 172	N2081S	KBED-PYM-KBED	1.6				0.8				1.6			152		safety pilot for sam carter
+3/10/2009	PA28R-200	N41363	KBED	1.2	1								1.2		240		
+3/13/2009	PA28R-200	N41363	KBED	1.5	2								1.5		305.2		
+3/14/2009	PA28R-200	N41363	KBED	1.4	1								1.4		280		
+3/15/2009	PA-28-180	N9425J	3B3-ORH-ROC-GFL-3B3	6	4					5.6	5.6	6			493		Long Cross COuntry
+3/17/2009	PA28R-200	N41363	KBED	2.1	5								2.1		420		
+3/20/2009	PA28R-200	N41363	KBED	1.6	4								1.6		298.4		
+3/22/2009	PA-28-180	N9425J	3B3-GDM-3b3	1				1			1	1			60		
+3/24/2009	PA-28-180	N9425J	3B3-1b1-kpou-3b3	2.5				2.5		2.5		2.5	2.5		212.5		
+3/27/2009	PA-28-180	N9425J	3B3-Ewb-orh-3b3	1.8	1			1.8		1.8	1.8				111		
+3/28/2009	Cessna 172	n1307a	KBED-KLWM_KBVY-KBED	1.5	1	1						1.5	1.5		273		
+3/31/2009	PA-28-180	N9425J	3B3-KORH-3B3	1.1				1.1			1.1	1.1			93.5		9 Nght Ldgs @ ORH
+4/1/2009	PA28R-200	N41363	KBED	1.7				0.4					1.7		246.5		
+4/14/2009	Cessna 172	N13215	3b3-KLEW-3b3	2.8	2					2.8		2.8	2.8		266		100nm dual XC
+4/16/2009	PA28R-200	N41363	KBED	1.3	6			0.2				1.3	1.3		188.5		
+4/18/2009	PA-28-180	N9425J	3B3-Kpsm-3b3	1.6	1							1.6			136		"Safety pilot for Devan Wiebe
+1- right seat landing"
+4/23/2009	PA28R-200	N41363	KBED	1.4	1							1.4	1.4		203		
+4/26/2009	PA28R-200	N41363	KBED	1.3	4						1.3	1.3			242.45		
+4/28/2009	PA-28-180	N9425J	3B3	0.3	2						0.3	0.3			17		11knt x wind
+5/9/2009	PA-28-180	N9425J	3B3-BAF-PVD-3B3	2.3	1	1	1					2.3			161.5		IFR  GDM V103 BAF V146 PVD PUT 3B3 Safety pilot- dan gentille
+5/15/2009	PA-28-180	N9425J	3B3 HYA EWB 3B3	3		0.5	2	0.7		3		3			255		"OVC 100
+3 MISSED
+SAM CARTER SAFETY PILOT"
+5/26/2009	PA-28-180	N9425J	3B3 FIT 3B3	0.8	5							0.8			68		"2 SHORT APCH
+2 GRASS"
+5/26/2009	PA-28-180	N9425J	FIT ORH 3B3	1	1		1					1			85		"DAN GENTILLE SAFETY PILOT
+ILS 11
+VOR 33
+HOLDS"
+6/2/2009	PA28R-200	N41363	KBED 3B3 KBED	1.4	3							1.4			203		COMMERCIAL PRACTICE
+6/9/2009	Cessna 172	N6023Y	KBED KORH KBED	1.8	1	1.3	0.2					1.8	1.8		171		IFR CHECKOUT WITH SEAN
+6/29/2009	PA-28-180	N9425J	3B3 HYA	1.2	1	0.6				1.2	1.2	1.2			102		ILS 24
+6/30/2009	PA-28-180	N9425J	HYA MVY	0.5	1	0.3					0.5	0.5			42.5		ILS 24
+7/3/2009	PA-28-180	N9425J	MVY HYA	0.5	1	0.2					0.5	0.5			42.5		ILS 15
+7/4/2009	PA-28-180	N9425J	HYA HYA MVY	1.5	2						0.4	1.5			127.5		SIGHSEEING WITH MAW MAW AND DAD THEN BACK TO MVY
+7/9/2009	PA-28-180	N9425J	MVY 1B2 MVY	1	2							1			85		"SCENIC W/MR. V
+STOP AT KATAMA"
+7/9/2009	PA-28-180	N9425J	MVY 3B3	1	1					1	1	1			85		HOME FROM VACATION
+7/11/2009	L-23	118bb	3B3	0.3	1							0.3	0.3				
+7/14/2009	PA-28-180	N9425J	3B3 GON 3B3	1.6								1.6			60		SAFETY PILOT FOR DEVAN WIEBE
+7/15/2009	L-23	118bb	3B3	0.3	1							0.3	0.3				
+7/19/2009	PA-28-180	N9425J	3B3 ORH 3B3	1.4	6						1.4	1.4					COMMERCIAL MANEUVERS
+7/22/2009	PA-28-180	N9425J	3B3 cxy 3b3	5.5								5.5			50		safety pilot for devan w
+7/25/2009	L-23	118bb	3B3	0.4	1							0.4	0.4				
+7/28/2009	PA-28-180	N9425J	3B3 3b3	1.9	5							1.9	1.9		161.5		Commercrial practice
+8/1/2009	PA28R-200	N41363	KBED	1.7	1							1.7	1.7		246.5		
+8/3/2009	PA28R-200	N41363	KBED	2.2	5							2.2	2.2		319		
+8/3/2009	PA28R-200	N41363	KBED	2.2	2							2.2	2.2		319		
+8/4/2009	PA28R-200	N41363	KBED	1.9	4							1.9	1.9		275.5		
+8/6/2009	PA28R-200	N41363	BED	1.9	4							1.9	1.9		275.5		EOC commercial Jake Kasper
+8/7/2009	PA28R-200	N41363	BED	1.5	2						1.5	1.5			217.5		Commercial practice
+8/16/2009	PA-28-180	N9425J	3B3	1.5	5						1.5	1.5			127.5		commercial practice
+8/18/2009	PA28R-200	N41363	BED	1.2	2							1.2			174		Commercial checkride
+8/20/2009	PA-28-180	N9425J	3B3 ksfm kash 3b3	2.3	3							2.3			195.5		Right seat with dan vazquez
+8/26/2009	PA-28-180	N9425J	3B3 een 3b3	1.8								1.8					Safety pilot for devan wiebe
+8/27/2009	PA28R-200	N41363	BED BED	1.4	1							1.4	1.4		203		right seat
+9/1/2009	PA-28-180	N9425J	3B3	1.5								1.5					Safety pilot for devan wiebe
+9/1/2009	PA-28-180	N9425J	3b3 fit 3b3	1.1	5							1.1	1.1		85		right seat with gary rabidou
+9/6/2009	Pitts s2a	N1GE	3B3	0.6								0.6	0.6		108		spin training

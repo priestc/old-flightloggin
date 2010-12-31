@@ -1,0 +1,719 @@
+Date	Registration	Route	Total	Sim	PIC	SIC	Solo	Night	Dual Received	Dual Given	Cross Country	Actual Instrument	Simulated Instrument	Night Landings	Day Landings	Approaches	Person	Remarks	Flying
+2003-04-02	N220U		0.5						0.5								Nate Babcock	Intro Flight	
+2003-04-11	N220U		0.8						0.8								Nate Babcock	Straight & level, medium bank turns, coordination excercises, climbs & climbing turns	
+2003-04-14	N220U		1.0						1.0								Nate Babcock	Coordination excercises, climbing/descending turns, medium bank turns	
+2003-04-21	N220U		1.3						1.3								Nate Babcock	Steep turns, slow flight, power off stalls, pattern ops	
+2003-04-23	N220U		1.1						1.1						1		Nate Babcock	Steep turns, power on/off stalls, MCA, turns around a point, S-turns, traffic pattern ops, landing	
+2003-04-28	N220U		1.5						1.5						1		Nate Babcock	MCA, steep turns, power on/off stalls, traffic pattern ops, go around, emergency procs.	
+2003-04-30	N220U		0.4						0.4						1		Nate Babcock	Pattern ops, landing	
+2003-05-02	N220U		1.0						1.0						7		Nate Babcock	Landings, stabilized approach	
+2003-05-23	N220U		0.9						0.9						5		Nate Babcock	Landings, go around	
+2003-05-28	N220U		1.0						1.0						1		Nate Babcock	MCA, power on/off stalls, steep turns	
+2003-05-30	N220U		1.0						1.0						5		Nate Babcock	Landings, go-around	
+2003-06-02	N220U		1.2						1.2						2		Nate Babcock	MCA, power on/off stalls, steep turns, landing	
+2003-06-04	N220U		1.2						1.2						10		Nate Babcock	Landings, go around, forward slip	
+2003-06-06	N220U		0.9						0.9						1		Nate Babcock	MCA, steep turns, power on/off stalls, turns around a point, x-wind ops	
+2003-06-24	N1000U		0.8						0.8						2		Adam B. Klein	Pre-solo maneuvers, Emcr ops, landings.	
+2003-06-26	N1000U		0.9						0.9						5		Adam B. Klein	Maneuvers, landings, pattern work, xw proc.	
+2003-06-30	N1600U		1.1						1.1						3		Todd Banning	Stall, steep turns, slow flight, emergency proc.	
+2003-07-01	N1600U		0.5						0.5						1		Douglass J. Hall	Turns around a point, normal xwind landings	
+2003-07-03	N1000U		0.9						0.9						4		Adam B. Klein	Stalls, slow flight, emerg ops, pattern & lnds.	
+2003-07-08	N1600U		0.5						0.5						2		Todd Banning	240 stage check satisfactory	
+2003-07-12	N1600U		1.0		0.5		0.5		0.5						6			First Solo!!!	
+2003-07-14	N1000U		1.2		0.7		0.7		0.5						6		Adam B. Klein	2nd solo. Landings & pattern. Go around	
+2003-07-15	N1600U		1.0						1.0						6		Adam B. Klein	SF. SF TO & landings. pattern Work	
+2003-07-17	N1600U		0.9						0.9						3		Adam B. Klein	Steep turn, BAIF, VOR/NDB procedures, SF/SF TO & LNG	
+2003-07-19	N1600U		1.0		1.0		1.0								1			Solo maneuvers, slow flight, power on and off stalls, steep turns	
+2003-07-26	N1600U		1.5						1.5		1.5		1.0		2		Adam B. Klein	VFR XC. HTS Radio ops	
+2003-08-11	N220U		1.0						1.0						2		?? Zimmer	Private pilot Maneuvers, engine out landing	
+2003-08-19	N220U		1.7						1.7		1.7		0.8		2		Adam B. Klein	VFR XC. UNI-CMH-UNI	
+2003-08-20	N220U		1.5						1.5		1.5		0.5		2		Adam B. Klein	VFR XC Diversion, VOR Xcheck, landing, pattern	
+2003-08-20	N220U		0.9					0.9	0.9					8			Adam B. Klein	Night landings, pattern. 8 full stop	
+2003-08-25	N220U		2.1					2.1	2.1		2.1			4			Adam B. Klein	VFR XC w/diversion procedure, Night landings.	
+2003-09-11	N220U		1.0						1.0				0.2		1		Shaun Elliot	240 #2 stage check. satisfactory, VFR X-C procedures, diversion procedures	
+2003-09-16	N220U		0.7						0.7						3		Douglass J. Hall	Steep Turns, stalls, short & soft T/O & landings	
+2003-09-18	N220U		1.8		0.5		0.5		1.3				0.5		5		Douglass J. Hall	Class D ops, solo take & landings	
+2003-09-19	N220U		1.0						1.0						3		?? 2738889 CFI 5/05	checkride prep, stalls, slow flight, steep turns, TAP	
+2003-09-23	N220U		1.1						1.1						2		Douglass J. Hall	Slow flight, steep turns, stalls, x-wind operation	
+2003-09-30	N220U		1.2						1.2						3		Douglass J. Hall	Slow flight, stalls, short field landing	
+2003-10-02	N220U		2.0		2.0		2.0				2.0				3			Solo cross country	
+2003-10-07	N220U		0.9						0.9						1		Douglass J. Hall	Private maneuvers prep for checkride	
+2003-10-07	N220U		1.5		1.5		1.5								5			Solo maneuvers	
+2003-10-09	N220U		1.0						1.0						1		Shaun Elliot	240 #3 stage check satisfactory, steep turns, slow flight, emergency procedures, stalls, go-around	
+2003-11-04	N220U		1.1		1.1								0.1				Ronald J. Faliszek	Private pilot flight test passed	P
+2004-01-10	N1000U		1.6		1.6				1.6						4		Brandon Hill	Private Maneuvers, stalls, steep turns, emergency proc. 180 power off accuracy app, soft field & slips	
+2004-01-11	N1000U		1.0		1.0				1.0						3		Brandon Hill	Steep turns, slow flight, stalls, emergency proc, ground ref, go-around, short/soft field TO/landings	
+2004-01-15	N220U		1.0		1.0				1.0						1		Brandon Hill	Private maneuvers, emergency procedures, x-wind takeoffs & landings	
+2004-01-19	FR-142			1.1													Jason Bricker	BAIF, compass turns, times turns, mag compass errors	
+2004-01-22	FR-131			0.9													Jason Bricker	BAIF, compass turns, times turns, att & DG failed VOR+NBD tracking	
+2004-02-10	N1000U		0.9		0.9				0.9						1		Brandon Hill	Steep Turns, slow flight, emergency ops, lost procedures, go-around, engine out, effects of wind in pattern	
+2004-02-11	N220U		1.0		1.0		1.0								1			Solo flight, slow flight, power off stall, steep turns	
+2004-02-12	N1000U		1.0		1.0				1.0				1.0		1		Barrett Dean Williams	BAIF, steep turns, slow flight, stalls, intro to compass turns, short field TO & short field landing	
+2004-02-14	N220U		2.0		2.0				2.0		2.0				3		Brandon Hill	Cross counrty to Huntington, pilotage, dead reckoning, VOR navigation to Henderson, ETA's and feul burn, Diversion	
+2004-02-17	N1000U		2.6		2.6				2.6		2.6				2		Brandon Hill	Cross country to Dayton, pilotage/dead reckoning, radar services, diversion/lost procedures	
+2004-02-19	N1000U		0.5		0.5				0.5				0.5		1		Douglass J. Hall	BAIF, unusual attitudes	
+2004-02-25	N220U		1.0		1.0				1.0						1		Sean Elliot	340 #1 stage check, satisfacrory, VFR X-C procedures, diversion procedures, emergency procedures	
+2004-02-28	N1000U		2.1		2.1		2.1				2.1				3			Solo cross country; slips, diversion	
+2004-03-29	N470U		1.0						1.0						3		Brian Buescher	C-172 checkout: steep turns, slow flight, power off & on stalls, go around	
+2004-04-05	N230U		1.0						1.0						3		Brian Buescher	Additional C-172 training; steep turns, approach to landing stall, slow flight, short field t/o, soft field landing	
+2004-04-07	N430U		0.6						0.6						3		Brian Buescher	Additional 172 practice landings	
+2004-04-10	N420U		2.4		2.4		2.4				2.4				4			Solo cross country; diversion procedures	
+2004-04-16	N450U		2.1		2.1		2.1				2.1				2			Solo cross country; UNI -> Newark	
+2004-04-24	N440U		1.6		1.6		1.6				1.6				2			Solo cross country; Charleston, WV	
+2004-04-28	N450U		1.5		1.5		1.5				1.5				2			Solo cross country; Fayette Co.	
+2004-05-07	FR-142			1.5													Brian Buescher	BAIF, unusual attitudes, stalls, steep turns, pattern flying, landing proc	
+2004-05-10	N450U		0.9		0.9		0.9				0.9				2			Solo cross country; Cambridge	
+2004-05-12	FR-142			0.9													Brian Buescher	BAIF; IMC takeoff, unusual att, emerg proc, partial panel, timed turn	
+2004-05-14	N450U		1.7		1.7		1.7				1.7				2			Solo cross country -> Huntington	
+2004-05-19	FR-142			1.5									1.5				Brian Buescher	BAIF, unusual attitude, stall, steep turn, pattern flying ??	
+2004-05-22	N450U		2.7		2.7		2.7				2.7				2			Solo cross country; Richmond, IL	
+2004-05-24	N445DH(2)		0.4		0.4		0.4								1			Attempted solo cross country canceled due to incoming weather	
+2004-05-29	N430U		2.2		2.2			2.2	2.2		2.2			1			Brian Buescher	Night operations, diversion procedures, cross country planning, w/ pilotage and dead reckoning	
+2004-05-29	N430U		3.7		3.7		3.7				3.7				3			Solo cross country; Clinton Co. + Newark	
+2004-06-02	N450U		1.3		1.3		1.3				1.3				2			Solo cross country; Newark	
+2004-06-24	N450U		3.4		3.4		3.4				3.4				2			Solo cross country to Burke Lakeside	
+2004-07-03	FR-142			2.2									2.2				Brian Buescher	NDB and VOR intercepting and tracking, station passage procedures, VOR 21 @ PKB, NDB 25 @ UNI, ILS 25 @UNI, w/ published missed approach procedures	
+2004-07-09	N450U		0.9						0.9						4		Brian Buescher	steep spirals, 8's on pylons, short field and soft field take off and landings, power off accuracy landings	
+2004-09-07	N230U		1.0						1.0						2		Brian Buescher	chandells, lazy 8's, steep turns, steep spirals, power off acuracy landings, short field take off and landings	
+2004-09-11	N220U		1.3		1.3		1.3				1.3				1			Solo cross country; Newark	
+2004-09-14	N129FR		0.8					0.8	0.8					5			Brian Buescher	Night operations, simulated electrical failure, no flap landing	
+2004-09-16	N230U		1.1						1.1						1		Brian Buescher	All commercial maneuvers	
+2004-09-18	N99173		0.8		0.8		0.8								1			Local solo, commercial maneuvers; chandells and lazy 8's	
+2004-09-21	N5439K		0.8		0.8		0.8								3			Loco solo; landings, go-around	
+2004-09-22	N52261		2.5		2.5		2.5	2.5			2.5			8				Solo night cross country; touch & go	
+2004-09-28	N52261		1.0						1.0						3		Brian Buescher	8's on pylon's, commercial takeoff's and landings	
+2004-09-30	N240U		1.1						1.1						2		Katie Ventresco	340 stagecheck #2-satisfactory comm. man	
+2004-10-05	FR-142			1.0									1.0				Sean Oprea	BAIF, intro to Inst. flight, compass turns, timed turns, vectors	
+2004-10-07	N52261		1.5						1.5				1.5		1	1	Sean Oprea	BAIF, timed/compass/steep turns, NDB tracking, NDB25@UNI, slow flight	
+2004-10-12	FR-142			1.0									1.0				Sean Oprea	BAIF, timed turns, slow flight, unusual attitudes, partial panel ops, NDB intercept/track	
+2004-10-21	N230U		1.0						1.0			0.4	0.6		1	2	Brian Buescher	BAIF, NDB25 @ UNI x2 missed approach proc/circle to land operations, NDB intercepting & landings. IFR xcounrty procedures	
+2004-10-23	N220U		1.1						1.1				1.1			1	Brian Buescher	BAIF, NDB 25 @ UNI, NDB tracking, NDB holding, station passing procedures, VOR tracking	
+2004-10-26	N220U		1.2						1.2				1.2			1	Brian Buescher	BAIF, slow flight, stalls, steep turns, NDB intercepting and tracking, NBD holding, NBD 25 @ UNI	
+2004-10-28	FR-142			1.1									1.1				Brian Buescher	NDB intercepting and tracking, NDB holding standard and non-standard, station passage procedures, missed approach procedures, NDB 25 @ UNI	
+2004-11-04	N5439K		1.0						1.0				1.0		1		Nate Hines	400 #1 stage check satisfactory	
+2004-11-06	N53797		1.3						1.3				1.3			1	Brian Buescher	VOR intercepting, tracking, holding, station passage procs. VOR-B @ GAS, NDB tracking	
+2004-11-09	N230U		1.6		1.6				1.6				1.6			3	Brian Buescher	IFR X-C procedures, VOR 21 @ PKB, ILS 3 @ PKB, NDB holding, ILS 25 @ UNI, VOR intercepting and tracking, GPS operations	
+2004-11-11	FR-142			1.7									1.7			3	Brian Buescher	VOR 21 @ PKB, ILS 3 @ PKB, NDB 25 @ UNI, DME arc, partial panel, VOR interception, tracking, holding, NDB holding, intercepting and tracking	
+2004-11-13	N230U		2.6						2.6		2.6	0.2	2.4			3	Brian Buescher	IFR X-C procedures, ILS 12 @ HTS, ILS 5 @ CRW, NDB 25 @ UNI	
+2004-11-16	N99173		1.8						1.8		1.8	0.7	1.1		2			IFR X-C procedures, visual approach, OSU	
+2005-01-04	FR-142			1.2									1.2			1	Brian Buescher	Holding (VOR & NDB), NDB interception and tracking LOC BC Rwy 3R @ LUK	
+2005-01-08	N240U		1.1					0.2	1.1				1.1			2	Brian Buescher	NDB intercepting and tracking, NDB 25 @ UNI, NDB holding, ILS 25 @ UNI, missed approach procedures	
+2005-01-09	N240U		0.4						0.4						2		Brian Buescher	Flight Team Landings	
+2005-01-12	N220U		1.5		1.5		1.5								16			Flight team landings; solo	
+2005-01-14	N220U		0.9		0.9		0.9								9			Flight team landings; solo	
+2005-01-15	N9273L		1.8						1.8		1.8		1.8		2	1	Brian Buescher	IFR X-C procedures, visual approach, Rny 12 @ HTS, ILS 25 @ UNI, VOR intercepting and tracking	
+2005-01-16	N220U		0.5		0.5		0.5								6			Flight team landings; solo	
+2005-01-17	N41380		2.6					0.9	2.6		2.6	0.4	2.2	1	1	2	Brian Buescher	IFR XC procedures, NDB 25 @ LUK, ILS 12 @ HTS	
+2005-01-18	N41380		1.1					1.1	1.1		1.1		1.1			1	Brian Buescher	IFR X-C procedures, LOC 25 @ UNI, VOR Intercepting and tracking, 400 long xc continued.	
+2005-01-22	FR-142			1.5									1.5			1	Brian Buescher	ILS 28R @ CMH, missed approach proc., partial panel ops, VOR intercepting and tracking, Vor intersection hold	
+2005-01-25	FR-142			1.5									1.5			3	Brian Buescher	VOR 21 @ PKB, ILS 3 @ PKB, VOR & NBD intercepting, VOR intersection holding, NDB 25 @ UNI	
+2005-01-27	N6063H		1.8						1.8		1.8		1.8		1	1	Brian Buescher	IFR X-C procedures, ILS 12 @ HTS, VOR and NDB Intercepting and tracking	
+2005-01-29	N230U		1.5		1.5				1.5				1.0		1	3	Katie Ventresco	Stg check #2-satisfactory, VOR 21 @ PKB, ILS 3 @ PKB, GPS 25 @ UNI	
+2005-02-01	FR-142			0.7									0.7				Brian Buescher	Partial panel NDB intercepting and tracking, fixed card and RMI, magnetic dip errors	
+2005-02-03	FR-142			1.7									1.7			3	Brian Buescher	partial panel  NDB intercepting, tracking, holding, BDB 25 @ UNI x3	
+2005-02-05	N220U		1.6						1.6				1.6			1	Brian Buescher	partial panel NDB intercepting, tracking, and holding, NDB 25 @ UNI, unusual attitudes	
+2005-02-10	FR-142			1.5									1.5			1	Brian Buescher	VOR intercepting, tracking and intersection holding, partial panel NDB 25 @ UNI	
+2005-02-12	N9273L		1.5						1.5				1.5		1	1	Brian Buescher	Partial panel BAIF, VOR intersection holding, partial panel NDB holding, parital panel NDB 25 @ UNI	
+2005-02-15	N41380		1.1						1.1				1.1			2	Brian Buescher	Partial panel NDB 25 @ UNI x2, partial panel hold	
+2005-02-17	N230U		1.0						1.0				0.8		1	1	Katie Ventresco	400 stg check #3 - satisfactory. Int holding, NDB 25 @ UNI partial panel	
+2005-02-26	N230U		1.0						1.0				0.2		1	1	Brian Buescher	Steep turns, slow flight, stalls, 8's on pylons, NDB 25 @ UNI (partial panel)	
+2005-03-01	FR-142			1.4									1.4			3	Brian Buescher	VOR intercepting and tracking, VOR holding, VOR 21 @ PKB, ILS 3 @ PKB, NDB 25 @ UNI partial panel.	
+2005-03-08	FR-142			1.5									1.5			3	Brian Buescher	VOR and NDB intercepting, tracking, holding, VOR 21 @ PKB (DME arc), VOR 22 @ ZZV, NDB 25 @ UNI (partial panel)	
+2005-03-14	N240U		1.7		1.7											3	Ronald J. Faliszek	Instrument flight test unsatisfactory	
+2005-03-30	N720U		1.3						1.3				1.0		1	1	Jeff Rambadt	Glass panel ops.	
+2005-03-30	N230U		0.7		0.7								0.7		1		Ronald J. Faliszek	Instrument flight test passed	P
+2005-04-01	N720U		1.2						1.2				0.5		1	2	Jeff Rambadt	GPS 7/25 UNI, slow flight, steep turns, chandells	
+2005-04-04	N720U		1.0		1.0		1.0								2			Local solo maneuvers, steep turns, slow flight, lazy 8's chandells, touch & go	
+2005-04-06	N720U		2.0						2.0		2.0				5		Jeff Rambadt	Diversion x-country procedures	
+2005-04-08	N720U		2.5						2.5		2.0		2.0		5	2	Jeff Rambadt	IFR ops, VOR-A @ I40, GPS 7 @ UNI	
+2005-04-13	N720U		1.0						1.0						1		Douglass J. Hall	405 Stage check #1 satisfactory	
+2005-04-15	N720U		3.6		3.6		3.6				3.6				3			Solo Cross Country, IFR to LEX, VFR to 0I8 and UNI	
+2005-04-16	N720U		1.4		1.4		1.4				1.4				2	1		Solo Cross Country, IFR to VTA, VFR back to UNI, LOC 25 @ UNI	
+2005-04-17	N730U		1.9		1.9						1.9				2	1		Solo cross country VFR to VTA, ILS 25 @ UNI	
+2005-04-18	N720U		1.4		1.4						1.4				2			Solo Cross Country, VFR to CRW	
+2005-04-20	N720U		1.6		1.6						1.6				3	1		IFR solo cross country to CRW and then back to UNI, Simulated engine out landing, ILS 25 @ UNI	
+2005-04-22	N220U		2.8						2.8		2.8	0.6					Brian Buescher	IFR X-C procedures, VOR Intercepting and tracking, flight team, SAFECON 2005	
+2005-04-24	N220U		3.3						3.3		3.3						Brian Buescher	VFR XC procedures, pilotage & dead reckoning, entoute to SAFECON 2005	
+2005-04-24	N220U		2.3						2.3		2.3						Brian Buescher	VFR XC procedures, pilotage & dead reckoning, entoute to SAFECON 2005	
+2005-04-24	N220U		2.2						2.2		2.2						Brian Buescher	VFR XC procedures, pilotage & dead reckoning, entoute to SAFECON 2005	
+2005-05-02	N1000U		4.1		4.1						4.1				2			Cross Country from St. Louis to Athens with Rob McCoy. Return home from SAFECON 2005	
+2005-05-04	FR-142			1.0									1.0			1	Jeff Rambadt	Instrument Ops. ILS 25 @ UNI	
+2005-05-05	N740U		2.8		2.8		2.8				2.8				2	2		Solo VFR cross country; GPS 7 and 25 at UNI	
+2005-05-06	N730U		4.2		4.2		4.2				4.2				3	2		Solo cross Country, IFR to HZY, VFR to ZZV and UNI, VOR 8 @ HZY, ILS 25 @ UNI	
+2005-05-08	N780U		7.1		7.1		7.1				7.1				8	1		Solo Cross Country, IFR to MTN, IFR to CKB, VFR to UNI. ILS 25 @ UNI, 6 touch & go landings at UNI	
+2005-05-09	FR-142			1.5									1.5			3	Jeff Rambadt	Approaches ILS 25 @ UNI x3	
+2005-05-11	FR-142			1.5									1.5			3	Ryan Buddie	VOR 12 @ ZZV, VOR/DME 5 @ MTN, NDB 33 @ MTN	
+2005-05-13	FR-142			1.1									1.1			2	Matt Teumler	ILS 25 @ UNI, VOR21 @ PKB	
+2005-05-16	N720U		1.1		1.1				1.1						4		Jeff Rambadt	steep turns, commercial maneuvers	
+2005-05-17	N445DH		3.0		3.0			3.0	3.0		3.0			6			Jeff Rambadt	Night ops. IFR to LUK, IFR to HOC, VFR to UNI (N445DH)	
+2005-05-22	N780U		2.5		2.5		2.5	2.5			2.5			13				Solo cross country, VFR to HTS, 5 to & landings at controlled field. 8 stop & go's at UNI	
+2005-05-22	N780U		1.5		1.5		1.5								4			Local solo, commercial maneuvers	
+2005-05-23	N720U		1.0						1.0						1		Jeff Rambadt	commercial maneuvers	
+2005-05-25	N760U		0.7						0.7						6		Jeff Rambadt	Short/soft field takeoffs and landings	
+2005-05-26	N445DH		1.2						1.2						4		Jeff Rambadt	comm. maneuvers	
+2005-05-27	N720U		1.0						1.0						2		Sean Oprea	405 Stage check #1 sat. 95%, steep, slow, stalls, chand, lazy 8s, 8s on, SEF to land, soft TO/L	
+2005-06-28	FR-142			1.0													Katie Ventresco	Bonanza intro - pattern work	
+2005-06-29	N1500U		1.0						1.0						2		Katie Ventresco	Steep turns, slow flight, landings, Bonanza 1st flight	
+2005-06-30	N1500U		0.6						0.6						2		Katie Ventresco	Landings	
+2005-07-06	N1500U		1.3						1.3						2		Katie Ventresco	Chandelles, lazy 8's, steep turns, stalls & recovery	
+2005-07-07	N1500U		1.0						1.0				0.3		2	1	Katie Ventresco	ILS 25 @ UNI, landings	
+2005-07-08	N1500U		1.0						1.0				0.2		3		Katie Ventresco	8's on pylons, engine out procedures	
+2005-07-11	N1500U		1.1						1.1						2		Katie Ventresco	Steep turns, manual gear extension	
+2005-07-12	FR-142			1.0									1.0			3	Katie Ventresco	ILS 25 @ UNI, VOR 21 & ILS 3 @ PKB	
+2005-07-18	N1500U		0.7						0.7						1		Katie Ventresco	8's on pylons, landings, go-around	
+2005-07-21	N1500U		0.8						0.8						1		Douglass J. Hall	Emergency descent, power off landing, chandells, lazy 8's, 8's on pylons	
+2005-08-01	N1500U		2.1						2.1		2.1		1.0		2		Katie Ventresco	X-country to Lunken	
+2005-08-02	N1500U		0.9						0.9								Katie Ventresco	chandelles, lazy 8's, steep turns, slow flight	
+2005-08-03	N1500U		1.1						1.1						2		Katie Ventresco	Lazy 8's, chandelles, 8's on pylons, emergency power off landing, slow flight, stalls	
+2005-08-05	N1500U		0.9						0.9						2		Katie Ventresco	commercial maneuvers	
+2005-08-09	N1500U		0.7						0.7						1		Katie Ventresco	Lazy 8's, slow flight, go-around	
+2005-08-17	N1500U		1.3						1.3						1		Douglass J. Hall	420 stage check satisfactory	
+2005-09-11	N760U		0.9						0.9						2		Sean Oprea	intro right seat, slow, steep, stall	
+2005-09-12	N445DH		1.2						1.2						1		Sean Oprea	slow, steep, stalls power off/on, accelerated, x-control, soft to/l [N445DH]	
+2005-09-16	N740U		0.9						0.9						3		Sean Oprea	slow, stall, steep, short, 180 accuracy app to land	
+2005-09-18	N1500U		1.0						1.0						1		Sean Oprea	stalls, slow, steep, chand, lazy, 8's on	
+2005-09-19	N445DH		0.8						0.8								Sean Oprea	lazy, 8's on, chand, soft, slow	
+2005-09-21	N780U		0.9						0.9						6		Sean Oprea	short, soft, 180 accuracy	
+2005-09-28	N1000U		0.7						0.7						1		Sean Oprea	spins	
+2005-10-03	N760U		0.9						0.9						1		Sean Oprea	stalls, slow, steep	
+2005-10-18	N1500U		0.8						0.8						1		Sean Oprea	Slow, chandelle, lazy 8's, soft, emerg. desc. 420 stage check satisfactory	
+2005-10-19	N1500U		1.2		1.2										1		Ronald J. Faliszek	Commercial Flight Test Passed	
+2005-11-08	N1500U		0.3						0.3						1		Sean Oprea	Bonanza refresher	
+2005-11-17	N750U		1.1						1.1						1		Sean Oprea	chand, lazy, 8's on, steep, slow, stalls, TAP, short TO/L	
+2006-01-04	N730U		0.6		0.6				0.6						4		Kevin Loughrin	Crosswind takeoffs and landings	
+2006-01-13	N750U		0.2		0.2				0.2						1		Kevin Loughrin	Aborted flight due to increased wind. Crosswind taxi ops, ADM	
+2006-01-22	N220U		0.6		0.6		0.6								6		Kevin Loughrin	Flight team landings, power off and power on	
+2006-01-25	FR-142			0.4													Kevin Loughrin	Intro to Baron, SE operations	
+2006-01-27	N1500U		0.5		0.5												Ronald J. Faliszek	CFI Flight test passed	
+2006-01-27	N445DH		1.0		1.0												Ronald J. Faliszek	CFI Flight test passed	
+2006-01-30	N800U		1.0						1.0								Kevin Loughrin	Intro to Baron, steep turns	
+2006-09-07	N720U		0.9		0.9				0.9						3		Ryan Buddie	currency	
+2006-09-07	N800U		1.1						1.1						1		Brandon Plas	Slow Flight, stall, pattern, 1 landing, Baron re-introduction, steep turns	
+2006-09-09	N760U		1.1		1.1								0.5		1	2	Chris Sibila	IPC satisfactory ILS25@UNI, GPS07@UNI, intersection hold	I
+2006-09-12	N730U		0.5						0.5			0.5				1	Chris Sibila	ILS25@UNI	
+2006-09-14	N760U		1.5						1.5						2	3	Chris Sibila	VOR 21@PKB DME ARC, ILS3 @PKB, GPS 25@UNI	
+2006-09-19	N800U		1.4						1.4				0.5		1	2	Brandon Plas	Steep turns, slow flight, stall (imminent), multi-engine opps, LOC25 @UNI x2	
+2006-09-19	N730U		2.5		2.5						2.5	0.5			2		Chris Sibila	IFR X-C to DAY, ATC Communication	
+2006-09-21	N800U		1.7						1.7				1.0		2	3	Brandon Plas	Multi-engine app, circling ops, single engine ops, 2 landings, go-arounds, VOR B @GAS, Holds & hold entries, NDB & LOC 25 @ UNI	
+2006-09-21	N780U		1.0		1.0					1.0					1		Chase Manson	steep turns, slow flight, PA-28 ops	
+2006-09-26	N760U		1.3		1.3				1.3						1		Chris Sibila	non-standard intersection holds, DME arcs, VOR B @GAS	
+2006-09-26	N740U		1.1		1.1					1.1							Chase Manson	Slow Flight, glass ops	
+2006-09-26	N800U		1.3										0.3		1	1	Brandon Plas	Blue line & Vmc demo, engine loss enroute, multi-0engine LOC 25 @UNI	
+2006-09-28	N800U		1.6						1.6		1.6	0.9	0.2		2	2	Brandon Plas	IFR Cross-country ILS30@HTS LOC25@UNI, multi app.	
+2006-10-03	N750U		0.9		0.9				0.9						1		Chris Sibila	DME arc, GPS holds, crosswind landing	
+2006-10-03	N800U		1.5						1.5				0.8		1	3	Brandon Plas	Single engine total shut down, ILS25@UNI x3	
+2006-10-07	N800U		1.4						1.4				0.8		1	3	Brandon Plas	single engine ops, single + multi go-arounds, multi + single engine apps, engine loss on t/o. ILS 25 @UNI x2 LOC25 @ UNI circling	
+2006-10-09	N445DH		1.2		1.2											1	Ronald J. Faliszek	CFII ck ride unsatisfactory	
+2006-10-10	N800U		1.5						1.5				0.7		2	2	Brandon Plas	single engine and multiengine apoproaches and landings, emerg proc, double feathering, engine loss on climbout & base leg	
+2006-10-13	FR-142			0.8									0.8			1	Brandon Plas	VMC demo, engine loss on t/o, ILS 6 single engine @RSW, miss proc	
+2006-10-13	N730U		1.2		1.2								0.4		1	3	Ronald J. Faliszek	CFII ck ride satisfactory	C
+2006-10-19	N750U		0.5		0.5					0.5					3		Chase Manson	crosswind takeoffs and landings	
+2006-10-21	N800U		1.4						1.4				0.8		1	3	Brandon Plas	single engine VOR, ILS, LOC, VOR holding, single engine missed proc.	
+2006-10-23	N800U		1.5						1.5				0.9		1	4	Brandon Plas	single engine approaches, single circling, landing & missed, GPS25 LOC25, NDB25, ILS25 @UNI	
+2006-10-26	N760U		1.9		1.9					1.9	1.9						Chase Manson	Planned to KDAY, diversion of Fayette Co.	
+2006-10-26	N800U		1.5						1.5				0.7		2	3	Brandon Plas	GPS07 @UNI, VOR-B@GAS x2 single engine, single engine circling app, single engine landing, single engine on climbout	
+2006-11-04	N800U		1.5					0.5	1.5				0.3	2		1	Brandon Plas	slow flight, steep turns, vmc demo, ILS25@UNI, go around proc.	
+2006-11-04	N720U		2.4		2.4					2.4	2.4						Chase Manson	vfr touch and go at dayton	
+2006-11-07	N800U		1.5						1.5				0.5		2	2	Brandon Plas	slow flight, vmc demo, ILS25@uni, NDB25@UNI, single engine app, landing, go around	
+2006-11-28	N800U		1.4		1.4								0.5		1		Ronald J. Faliszek	Multi engine check ride passed	P
+2007-01-11	N69254		1.3		1.3										3			Standardization flight with Jeff Martinez	
+2007-01-12	N6438M		1.1		1.1										2			Standardization flight #2 to Modesto, with Jeff Martinez	
+2007-01-20	N6438M		1.4		1.4		1.4								1			Pilotage. Standardization solo #1	
+2007-01-22	N69254		1.4		1.4		1.4								2			Standardization solo flight #2	
+2007-01-26	N152RT		1.7		1.7										4	1		standardization 	
+2007-02-14	N48581		1.4		1.4										3			Standardization final flight with Ryan Evans	
+2007-02-15	N48581		1.6		1.6					1.6					1		Shawn	Intro flight, trim, straight + level.	
+2007-02-16	N5155B		1.1		1.1					1.1					1		Mike	Intro flight, trim, straight + level.	
+2007-02-16	N45994		1.2		1.2					1.2					1		Fan	Intro flight, trim, straight + level.	
+2007-02-16	N6438M		1.0		1.0					1.0					1		Bill	Intro flight, trim, straight + level.	
+2007-02-18	N6438M		0.9		0.9					0.9					3		Mike	straight and level, climbs and descents, traffic pattern	
+2007-02-18	N6438M		1.4		1.4					1.4					3		Bill	Intro to slow flight, climbs and descents, traffic pattern	
+2007-02-18	N94741		1.2		1.2					1.2					3		Fan	Intro to slow flight, climbs and descents, traffic pattern	
+2007-02-24	N69254		1.3		1.3					1.3					2		James	Intro flight, straight and level, climbs, turns, preflight	
+2007-02-24	N48049		1.6		1.6					1.6					2		Shawn	Straight and level, climbs, descents, intro to slow flight, traffic pattern ops.	
+2007-02-28	N152RT		1.5		1.5					1.5					1		James	Intro flight, straight and level, trim	
+2007-03-01	N757NJ		1.2		1.2					1.2					4		Shawn	Pattern Ops	
+2007-03-01	N757NJ		1.5		1.5					1.5					1		Mike	Intro to slow flight	
+2007-03-03	N69254		0.4		0.4					0.4					2		Bill	Traffic Pattern	
+2007-03-03	N69254		1.1		1.1					1.1					2		Fan	Traffic pattern, BAIF	
+2007-03-03	N94741		1.5		1.5					1.5					1		Shawn	Intro to stalls, power on and off, slow flight, trim	
+2007-03-04	N757NJ		1.1		1.1					1.1					1		Bill	Traffic pattern, BAIF	
+2007-03-04	N757NJ		1.2		1.2					1.2					1		James	BAIF, traffic pattern	
+2007-03-04	N757NJ		1.5		1.5					1.5					1		Mike	Intro to BAIF, traffic pattern, coordination	
+2007-03-04	N757NJ		1.4		1.4					1.4					1		Fan	Intro to stalls, traffic pattern, BAIF	
+2007-03-07	N48581		1.4		1.4					1.4					1		Shawn	Intro to TAP, stalls, slips, slow flight	
+2007-03-08	N757NJ		1.5		1.5					1.5					1		Fan	TAP, slow flight, stalls	
+2007-03-08	N757NJ		1.6		1.6					1.6					1		Bill	Intro to TAP, power off stalls, slow flight	
+2007-03-09	N69254		1.5		1.5					1.5					1		Mike	stalls, slow flight, traffic pattern	
+2007-03-10	N67788		1.8		1.8					1.8					1		Shawn	Stalls, steep turns, slow flight, engine out	
+2007-03-11	N67788		1.6		1.6					1.6					1		Mike	Stalls, steep turns, slow flight, engine out, turns around a point	
+2007-03-11	N67788		1.4		1.4					1.4					1		James	Stalls, steep turns, slow flight, engine out, turns around a point	
+2007-03-11	N67788		1.3		1.3					1.3					1		Fan	Stalls, steep turns, slow flight, engine out	
+2007-03-11	N67788		1.5		1.5					1.5					1		Bill	Stalls, steep turns, slow flight, engine out	
+2007-03-12	N48049		1.4		1.4					1.4					1		Bill	Slow, Steep, Stalls, Engine Out	
+2007-03-12	N48049		1.7		1.7					1.7					1		Shawn	Slow, Steep, Stalls, Engine Out, trim	
+2007-03-13	N48049		2.7		2.7					2.7					2		Shawn, Fan	2 flights - Stalls, steep, slow, engine out	
+2007-03-14	N757NJ		3.0		3.0					3.0					2		Bill, James	Stalls, steep turns, slow flight, engine out - 2 flights	
+2007-03-15	N5491P		0.3		0.3					0.3							Mike	canceled flight due to maintenance	
+2007-03-15	N5491P		1.6		1.6					1.6					1		Fan	Slow flight, steep turns, stalls, engine out	
+2007-03-16	N48581		2.7		2.7					2.7					2		Mike, James	Slow flight, steep turns, stalls, engine out 2 flights	
+2007-03-17	N6246P		1.4		1.4					1.4					1		Fan	Stalls, steep turns, slow flight, engine out	
+2007-03-17	N48049		1.4		1.4					1.4					1		James	level off, power off stall, steep turns	
+2007-03-18	N48049		1.6		1.6					1.6					1		Mike	Slow flight, steep turns, stalls, engine out	
+2007-03-18	N48049		1.4		1.4					1.4					1		James	Slow flight, steep turns, stalls, engine out	
+2007-03-19	N48581		1.3		1.3					1.3					1		Mike	Slow flight, steep turns, stalls, engine out	
+2007-03-21	N48049		1.1		1.1					1.1					1		Shawn	Slow flight, steep turns, stalls, engine out	
+2007-03-22	N48581		1.9		1.9					1.9					1		James	Slow flight, steep turns, stalls, engine out	
+2007-03-23	N5155B		1.5		1.5					1.5					5		Bill	landings, traffic pattern	
+2007-03-23	N5155B		0.9		0.9					0.9					1		Fan	Power on stalls	
+2007-03-23	N757NJ		1.7		1.7					1.7					4		Mike	landings, traffic pattern	
+2007-03-24	N48049		1.1		1.1					1.1					4		Fan	Traffic Pattern, power on stalls, landings	
+2007-03-24	N48049		1.4		1.4					1.4					9		Bill	traffic pattern, landings, zero flap landings	
+2007-03-24	N48049		1.5		1.5					1.5					2		Shawn	slow flight, steep turns, stalls, traffic pattern, landings	
+2007-03-24	N48049		1.7		1.7					1.7					1		James	Slow flight, steep turns, stalls, intro to pilotage	
+2007-03-25	N94741		0.9		0.9					0.9					4		Fan	traffic pattern, landings, zero flap landings, go arounds	
+2007-03-25	N94741		1.0		1.0					1.0					5		Bill	traffic pattern, landings, zero flap landings, go arounds	
+2007-03-25	N94741		1.1		1.1					1.1					6		Shawn	traffic pattern, landings, zero flap landings, go arounds	
+2007-03-25	N94741		1.4		1.4					1.4					9		Mike	traffic pattern, landings, zero flap landings, go arounds	
+2007-03-26	N48049		0.7		0.7					0.7					1		Bill	traffic pattern, landings, go around	
+2007-03-30	N757NJ		1.2		1.2					1.2					5		James	touch and go's, landings	
+2007-03-31	N67788		1.2		1.2					1.2					4		Shawn	traffic pattern, go around, landings, VOR navigation	
+2007-03-31	N67788		1.2		1.2					1.2					5		Mike	traffic pattern, landings, go around	
+2007-03-31	N67788		1.6		1.6					1.6					5		Fan	traffic pattern, go around, landings, aborted takeoff	
+2007-03-31	N67788		1.6		1.6					1.6					5		Bill	traffic pattern, go around, landings	
+2007-04-02	N94741		1.2		1.2					1.2					5		Mike	landings, traffic pattern, engine failure in traffic pattern	
+2007-04-02	N94741		1.5		1.5					1.5					8		Shawn	landings, traffic pattern	
+2007-04-02	N94741		1.9		1.9					1.9					9		Bill	traffic pattern, go around, landings	
+2007-04-03	N69254		1.3		1.3					1.3					7		James	touch and go, traffic pattern, power off accuracy landings, no flap landing	
+2007-04-03	N6246P		1.6		1.6					1.6					3		Mike	touch and go, traffic pattern, power off accuracy landings, no flap landings	
+2007-04-04	N67793		1.3		1.3					1.3					5		Bill	landings, engine failure in traffic pattern, no flap landing	
+2007-04-04	N48049		1.5		1.5					1.5					3		Mike	touch and go, traffic pattern, power off accuracy landings, no flap landing	
+2007-04-04	N67793		1.9		1.9					1.9					4		Shawn	touch and go, traffic pattern, power off accuracy landings, no flap landing	
+2007-04-05	N48581		1.2		1.2					1.2					3		Shawn	landings, engine failure in traffic pattern, no flap landing, slips	
+2007-04-05	N48581		1.3		1.3					1.3					2		Fan	landings, engine failure in traffic pattern, no flap landing	
+2007-04-05	N757NJ		1.5		1.5					1.5					6		James	landings, engine failure in traffic pattern, no flap landing	
+2007-04-06	N67793		1.4		1.4					1.4					6		Bill	landings, engine failure in traffic pattern, no flap landing	
+2007-04-06	N67793		1.5		1.5					1.5					6		James	landings, engine failure in traffic pattern, no flap landing	
+2007-04-06	N67793		1.4		1.4					1.4					6		Mike	touch and go, traffic pattern, power off accuracy landings, no flap landing	
+2007-04-06	N67793		1.2		1.2					1.2					4		Fan	touch and go, traffic pattern, power off accuracy landings, no flap landing	
+2007-04-07	CAT-IV			1.0												7		IFR currency	
+2007-04-07	N5384P		1.7		1.7					1.7					2		Shawn	landings, engine failure in traffic pattern, no flap landing	
+2007-04-07	N5384P		1.7		1.7					1.7					2		James	touch and go, traffic pattern, power off accuracy landings, no flap landing	
+2007-04-09	N94741		1.5		1.5					1.5					3		Bill	Crosswind landings, crosswind takeoffs	
+2007-04-10	N48581		1.4		1.4					1.4					3		Mike	landings, engine failure in traffic pattern, no flap landing	
+2007-04-10	N48581		1.2		1.2					1.2					3		Fan	touch and go, traffic pattern, power off accuracy landings, slips	
+2007-04-10	N48581		1.7		1.7					1.7					4		James	touch and go, traffic pattern, power off accuracy landings, slips	
+2007-04-13	N757NJ		1.3		1.3					1.3					2		Shawn	landings, traffic pattern, slips, 180 accuracy power off landings	
+2007-04-13	N757NJ		1.7		1.7					1.7					3		James	landings, traffic pattern, radio ops.	
+2007-04-14	N67793		0.7		0.7					0.7					2		Fan	traffic pattern, crosswind landings	
+2007-04-16	N48049		1.1		1.1					1.1							Mike	traffic pattern, go around, landings, slips, power off accuracy landings	
+2007-04-16	N48049		1.5		1.5					1.5					2		James	traffic pattern, go around, landings	
+2007-04-17	N67788		1.3		1.3					1.3					5		Fan	touch and go's, landings	
+2007-04-17	N67788		1.3		1.3					1.3					5		James	touch and go, traffic pattern, landings	
+2007-04-18	N48049		1.4		1.4					1.4					4		Bill	touch and go's, landings, no flap landings, go around	
+2007-04-19	N94741		2.0		2.0					2.0					8		James	touch and go, traffic pattern, power off accuracy landings, slips, go arounds	
+2007-04-19	N94741		1.6		1.6					1.6					4		Bill	touch and go's, landings, go around	
+2007-04-20	N67788		1.4		1.4					1.4					3		Bill	touch and go, traffic pattern, power off accuracy landings, slips	
+2007-04-20	N67788		1.3		1.3					1.3					2		Fan	touch and go, traffic pattern, power off accuracy landings, no flap landing, slips	
+2007-04-20	N48049		1.6		1.6					1.6					2		Shawn	touch and go, traffic pattern, power off accuracy landings, no flap landing	
+2007-04-21	N757NJ		1.7		1.7					1.7					4		Bill	touch and go's, landings, power off accuracy landing, slips	
+2007-04-23	N67788		0.6		0.6					0.6					1		Mike	touch and go, solo preperation	
+2007-04-24	N152RT		0.4		0.4					0.4					1		Mike	first solo preperation, engine trouble, emergency landing	
+2007-04-24	N48049		1.4		1.4					1.4					2		Fan	soft field landing and takeoffs, power off stalls	
+2007-04-24	N48049		1.4		1.4					1.4					2		Bill	soft field landing and takeoffs, power off stalls	
+2007-04-26	N69254		0.5		0.5					0.5					1		Mike	solo preperation, Mike's first solo, touch and go's	
+2007-04-28	N6246P		1.2		1.2					1.2					3		Shawn	landings, solo preperation	
+2007-04-28	N69254		1.6		1.6					1.6					3		James	soft field take offs and landings	
+2007-04-29	N6246P		1.2		1.2					1.2					4		Mike	crosswind landings, touch and go's	
+2007-04-30	N5155B		1.4		1.4					1.4					2		Shawn	solo preperation, Shawn's first solo, touch and go's	
+2007-05-01	N69254		1.5		1.5					1.5					3		Fan	touch and go's, landings	
+2007-05-01	N69254		1.4		1.4					1.4					3		Bill	touch and go's, landings	
+2007-05-04	N94741		1.2		1.2					1.2					2		Shawn	soft field take offs and landings	
+2007-05-06	N94741		1.5		1.5					1.5					2		James	soft field take offs and landings, stalls, slow flight, unusual attitudes	
+2007-05-06	N94741		1.2		1.2					1.2					1		Shawn	soft field landings, stalls, unusual attitudes	
+2007-05-06	N94741		1.8		1.8					1.8					3		Bill	landings, flare, crosswind	
+2007-05-09	N48581		1.5		1.5					1.5					1		James	rectangular course, soft field landings, turns around a point, high density altitude takeoff	
+2007-05-09	N5491P		1.4		1.4					1.4					3		Fan	touch and goes, landings	
+2007-05-09	N48581		1.4		1.4					1.4					1		Mike	slow flight, rectangular course, soft field landings, turns around a point.	
+2007-05-09	N45994		1.2		1.2					1.2					1		Shawn	rectangular course, soft field landings, turns around a point, high density altitude takeoff	
+2007-05-10	N48581		1.0		1.0					1.0					2		Mike	solo preperation, Mike's second solo, touch and go's	
+2007-05-10	N5155B		1.4		1.4					1.4					1		Shawn	unusual attitudes VR/IR, slow flight, stalls, lost procedures	
+2007-05-10	N5384P		1.6		1.6					1.6					2		Fan	touch and go's, no-flap landing, forward slip, power off accuracy	
+2007-05-10	N48581		1.7		1.7					1.7					5		Bill	touch and go's	
+2007-05-11	N5384P		0.8		0.8					0.8							Shawn	touch and go's, Shawn's second solo	
+2007-05-11	N5384P		1.4		1.4					1.4							Fan	ground reference, stalls, slow flight, touch and go's	
+2007-05-12	N48049		1.0		1.0					1.0					1		James	touch and go's, James's first solo	
+2007-05-13	N48049		1.9		1.9					1.9					1		Bill	Stalls, steep turns, slow flight, landings	
+2007-05-13	N48049		0.6		0.6					0.6							James	touch and go's, James's second solo	
+2007-05-15	N48049		1.9		1.9					1.9					3		Bill	dutch rolls, unusual attitudes, landings	
+2007-05-15	N48049		1.0		1.0					1.0					1		Fan	stage check #2 preperation, touch and go's, slips, power off landings, no flap landings	
+2007-05-16	N94741		1.7		1.7					1.7					4		Bill	touch and go, soft and short field takeoffs, short field landings	
+2007-05-16	N94741		1.5		1.5					1.5					2		James	unusual attitudes, slow flight, short field takeoffs and landings	
+2007-05-18	N94741		2.4		2.4					2.4	2.4				1		Mike	Mike's first cross country, pilotage, dead reckoning, crosswind landings	
+2007-05-19	N45994		2.8		2.8					2.8	2.8				1		Shawn	Shawn's first cross country, pilotage, dead reckoning, radar facilities	
+2007-05-20	N5384P		2.4		2.4					2.4	2.4						James	cross country with James, pilotage, dead reckoning, flight following	
+2007-05-21	N48581		0.8		0.8					0.8					1		Fan	Fan's first solo, touch and go's	
+2007-05-22	N45994		0.7		0.7					0.7							Fan	Fan's second solo, touch and go's	
+2007-05-23	N67788		1.7		1.7					1.7					2		Bill	touch and go, flare, round out, landings	
+2007-05-23	N48581		2.1		2.1					2.1	2.1				1		Mike	cross country, diversion, pilotage	
+2007-05-24	N45994		2.1		2.1					2.1	2.1				2		Shawn	cross country, diversion, flight following, pilotage	
+2007-05-24	N67788		1.7		1.7					1.7					2		Fan	short field, soft field, slow, steep, traffic pattern	
+2007-05-25	N48049		1.6		1.6					1.6					2		Mike	BAIF, slow flight, short + soft field landings and takeoffs	
+2007-05-28	N67788		2.4		2.4					2.4					2		James	BAIF, diversion, pilotage, short field + soft field landings and takeoffs	
+2007-05-29	N67793		2.1		2.1					2.1	2.1				1		Fan	pilotage, flight following, short+ soft field	
+2007-05-29	N67793		1.8		1.8					1.8					2		Mike	BAIF, short + soft field landings and takeoffs	
+2007-05-29	N67793		1.5		1.5					1.5					1		Shawn	BAIF, short + soft field landings and takeoffs	
+2007-05-30	N67793		1.3		1.3					1.3					1		Mike	BAIF, short + soft field landings and takeoffs	
+2007-05-31	N67793		1.2		1.2					1.2					2		James	soft and short field take offs and landings	
+2007-05-31	N48049		0.5		0.5		0.5	0.5						3				night currency, three stop-and-go's	
+2007-05-31	N6246P		0.5		0.5					0.5					1		Mike	soft field take offs and landings	
+2007-06-01	N757NJ		1.0		1.0					1.0							Bill	Bill's first solo. Touch and go's	
+2007-06-01	N757NJ		0.9		0.9					0.9					2		Mike	soft and short field take offs and landings	
+2007-06-02	N67793		1.5		1.5					1.5							Bill	ground refrence, stalls, slow, steep, soft field takeoff	
+2007-06-02	N67793		2.6		2.6					2.6	2.6				1		Shawn	cross country, diversion, flight plan, pilotage, cross wind landing	
+2007-06-03	N5155B		1.5		1.5			1.5		1.5				2			Shawn	Intro to night flight, stop and go's, black out no flap landing	
+2007-06-03	N5155B		2.1		2.1					2.1	2.1				1		Fan	pilotage, flight following, FSS ops	
+2007-06-03	N5155B		2.8		2.8					2.8	2.8						Bill	Bill's first cross country, pilotage, diversion	
+2007-06-04	N48049		1.5		1.5					1.5					1		Bill	BAIF, short + soft	
+2007-06-04	N6246P		2.4		2.4					2.4	2.4				2		James	Pilotage, diversion, FSS ops, short + soft	
+2007-06-05	N69254		1.4		1.4			1.4		1.4				1			Mike	night ops, stop and go's, night navigation	
+2007-06-07	N6438M		1.4		1.4			1.4		1.4				1			Bill	night ops, stop and go's, night navigation, black out emergency landing	
+2007-06-07	N6438M		0.9		0.9					0.9							Bill	Bill's second solo at merced, touch and go's	
+2007-06-08	N94741		1.6		1.6					1.6					1		Shawn	soft and short field take offs and landings	
+2007-06-09	N6438M		2.6		2.6					2.6	2.6				1		Bill	pilotage, flight following, diversion	
+2007-06-09	N48049		1.5		1.5			1.5		1.5				1			James	night ops, stop and go's, night navigation, black out emergency landing	
+2007-06-10	N5155B		2.8		2.8			2.8		2.8	2.8			1			Shawn	Night navigation, lost procs, diversion	
+2007-06-11	N5155B		1.6		1.6			1.6		1.6				2			Fan	night ops, stop and go's, night navigation, black out emergency landing	
+2007-06-12	N48581		1.2		1.2					1.2					2		Shawn	soft + short field take offs and landings	
+2007-06-12	N6246P		1.0		1.0					1.0					1		Fan	soft field take offs and landings	
+2007-06-13	N67793		1.6		1.6					1.6					2		Fan	slow flight, short + soft, emergency landing	
+2007-06-14	N757NJ		1.0		1.0					1.0					2		Mike	short field, soft field	
+2007-06-14	N152RT		4.7		4.7			2.5		4.7	4.7						Fan	Night navigation, diversion, practice emergency landing, GPS ops, VOR	
+2007-06-15	N5491P		4.9		4.9			2.6		4.9	4.9						Mike	Night navigation, diversion, practice emergency landing, GPS ops, VOR	
+2007-06-16	N5155B		2.3		2.3			0.2		2.3	2.3			1			Bill	diversion, fueling, pilotage	
+2007-06-17	N69254		2.9		2.9			2.9		2.9	2.9			1			Bill	Night navigation, diversion, lost procs, GPS ops, VOR, BAIF	
+2007-06-18	N69254		2.8		2.8			2.8		2.8	2.8						James	Night navigation, diversion, lost procs, GPS ops, BAIF	
+2007-06-18	N757NJ		1.3		1.3					1.3					3		Bill	short fields, soft fields	
+2007-06-19	N5491P		1.5		1.5					1.5							Shawn	slow, stalls, short, soft, engine out	
+2007-06-20	N5384P		2.6		2.6					2.6	2.6				2		James	pilotage, flight following, short+ soft field, flight following	
+2007-06-21	N69254		1.4		1.4					1.4					2		Bill	slow, steep, soft, short, emergency landing	
+2007-06-21	N5384P		1.4		1.4					1.4					1		Shawn	slow flight, steep turns, engine out	
+2007-06-21	N757NJ		1.3		1.3					1.3							Fan	diversion, radio ops, checklists	
+2007-06-22	N757NJ		1.8		1.8					1.8					3		James	emergency landing, slow, short, soft	
+2007-06-22	N48581		1.3		1.3					1.3					2		Bill	emergency landing, slow, short, soft	
+2007-06-23	N152RT		1.4		1.4					1.4					2		Shawn	stalls, slow, short, soft	
+2007-06-23	N152RT		1.8		1.8					1.8					3		James	slow, short, soft, emergency landing, steep	
+2007-06-26	N152RT		1.6		1.6					1.6					1		Shawn	diversion, slow, stalls, short, soft	
+2007-06-27	N94741		1.6		1.6					1.6					1		Mike	diversion, slow, stalls, short, soft	
+2007-06-29	N48581		1.4		1.4					1.4							Bill	Slow, Steep, Stalls, Engine Out, short, soft	
+2007-07-03	N69254		1.3		1.3					1.3							Fan	Slow flight, steep turns, stalls, engine out, ground ref	
+2007-07-03	N69254		1.2		1.2					1.2							Bill	Slow flight, steep turns, stalls, engine out, short, soft	
+2007-07-04	N5491P		1.6		1.6					1.6							Shawn	diversion, slow, stalls, short, soft, steep	
+2007-07-05	N69254		1.4		1.4					1.4							Bill	Slow flight, steep turns, stalls, engine out, short, soft	
+2007-07-05	N5384P		1.5		1.5					1.5							Mike	Slow flight, steep turns, stalls, engine out	
+2007-07-06	N5491P		1.7		1.7					1.7					1		James	Slow flight, steep turns, stalls, engine out, short, soft	
+2007-07-06	N5491P		1.6		1.6					1.6					1		Fan	Slow flight, steep turns, stalls, engine out, short, soft	
+2007-07-08	N5384P		1.1		1.1					1.1					1		Shawn	checkride preperation, stalls, slip	
+2007-07-11	N94741		1.6		1.6					1.6							James	steep turns, stalls, slow, slip, short, soft	
+2007-07-12	N48049		1.3		1.3					1.3							Fan	slow, steep, stalls, turns around a point, short, soft	
+2007-07-13	N375AM		1.4		1.4										1			alarus standardization flight, stalls, steep turns, slow flight, landings with Mark Reid	
+2007-07-14	N45994		1.6		1.6					1.6							Bill	Slow flight, steep turns, stalls, short, soft, slip	
+2007-07-15	N45994		2.2		2.2					2.2					1		James	checkride preperation, slow, steep, stalls, slip, short, soft, T.A.P	
+2007-07-17	N6246P		1.6		1.6					1.6							Bill	checkride prep, stalls, slow, steep, short, soft, slips	
+2007-07-17	N69254		0.3		0.3					0.3							James	checkride prep, cancel due to rough mag	
+2007-07-17	N69254		1.7		1.7					1.7							Fan	checkride prep, stalls, slow, steep, short, soft, slips	
+2007-07-18	N94741		1.7		1.7					1.7							James	checkride prep, stalls, slow, steep, short, soft, slips	
+2007-07-19	N757NJ		1.5		1.5					1.5					1		James	checkride prep, stalls, slow, steep, short, soft, slips	
+2007-07-19	N757NJ		1.8		1.8					1.8							Mike	checkride prep, stalls, slow, steep, short, soft, slips	
+2007-07-19	N757NJ		1.0		1.0					1.0					1		Shawn	BAIF, slow, steep	
+2007-07-20	N757NJ		0.8		0.8					0.8					1		James	softfield practice landings	
+2007-07-20	N48049		1.0		1.0					1.0							Shawn	BAIF, slow, steep, VOR orientation	
+2007-07-22	N48049		1.5		1.5					1.5					1		Fan	BAIF, slow, steep, intro to localizer	
+2007-07-22	N48049		1.2		1.2					1.2					1		Bill	BAIF, slow, steep, intro to localizer	
+2007-07-23	N5491P		1.4		1.4					1.4					1		Fan	BAIF, intro to localizer, VOR orientation,  slow, steep	
+2007-07-23	N5491P		1.6		1.6					1.6					1		Mike	BAIF, intro to localizer, VOR orientation,  slow, steep	
+2007-07-23	N6246P		1.4		1.4					1.4					1		James	BAIF, intro to localizer	
+2007-07-24	N5491P		1.3		1.3					1.3							James	BAIF, localizer + glideslope, slow, steep, climbs, descents	
+2007-07-24	N5491P		1.3		1.3					1.3					1		Bill	BAIF, localizer + glideslope, slow, steep, climbs, descents	
+2007-07-26	N5491P		2.9		2.9					2.9	2.9						Leo	instrument X-C, VOR approach, ILS approach	
+2007-07-27	N48049		2.3		2.3					2.3					1		Mike	diversion, slow, stalls, short, soft, steep	
+2007-07-29	N376AM		2.6		2.6					2.6	2.6						Leo	practice aproaches, GPS30@C83, VOR-A@O27, LOC-BC12@MCE, ILS31@MER	
+2007-07-29	N48049		1.8		1.8					1.8					1		Mike	simulated engine failure, slip, short, soft	
+2007-08-01	N375AM		1.2		1.2		0.6								2			ferry flight to MOD and back with Todd Long	
+2007-08-02	N362AM		1.3		1.3					1.3					1		Shawn	Alarus intro flight, VOR orientation, touch and go's	
+2007-08-02	N362AM		1.2		1.2										5			Alarus standardization flight with Mark Reid, short, soft, slip, touch and go	
+2007-08-02	N375AM		2.0		2.0					2.0	2.0						Leo	ILS31@MER. GPS30@FCH	
+2007-08-03	N282AM		1.3		1.3					1.3					1		Fan	Alarus intro flight, VOR orientation, touch and go's	
+2007-08-04	N376AM		2.3		2.3					2.3					3		David	ILS 38R @ MOD, GPS 14 @ LSN, GPS 30 @ MCE, ILS 31 @ MER	
+2007-08-05	N375AM		1.4		1.4					1.4					2		Mike	Alarus intro flight, BAIF, touch and go's	
+2007-08-05	N375AM		3.4		3.4					3.4	3.4						Leo	Cross country time building, GPS10@O27	
+2007-08-06	N367AM		3.2		3.2					3.2	3.2					1	Leo	cross country time building, GPS Y 30 @ HAF	
+2007-08-07	N285AM		1.1		1.1					1.1					1		Mike	BAIF, ILS intro, touch and go	
+2007-08-08	N375AM		1.5		1.5					1.5					3		James	BAIF, ILS intro, Alarus Intro, touch and go	
+2007-08-09	N376AM		1.7		1.7					1.7					1		Shawn	DME Arc, ILS approach, BAIF	
+2007-08-10	N362AM		1.2		1.2					1.2					2		Bill	BAIF, Alarus intro, ILS intro, VOR tracking	
+2007-08-11	N378AM		3.9		3.9			1.0		3.9	3.9						Leo	Cross country time building, VOR34@WLW, BC @ MCE, ILS31 @ MER	
+2007-08-12	N378AM		2.4		2.4					2.4	2.4						Shawn	DME Arc, ILS approach, BAIF	
+2007-08-12	N378AM		2.5		2.5					2.5	2.5						Fan	GPS28R @ MRY, ILS 31 @ MER	
+2007-08-15	N366AM		1.6		1.6					1.6							Mike	DME arc, VOR 31 @ MER, intro to Holding	
+2007-08-16	N367AM		1.2		1.2			0.2		1.2							Tea	DME arc, VOR 31 @ MER, intersection holding	
+2007-08-16	N378AM		1.4		1.4					1.4							Bill	DME arc, VOR 31 @ MER, intro to Holding	
+2007-08-17	N365AM		1.5		1.5					1.5							Shawn	ILS 30 @ MCE, holding, BAIF	
+2007-08-18	N378AM		1.6		1.6					1.6					2		Mike	DME arc, ILS 30 @ MCE, VOR 31 @ MER	
+2007-08-18	N378AM		1.6		1.6					1.6							Fan	ILS28R @ MOD, GPS 28 @ O27	
+2007-08-19	N48581		1.7		1.7					1.7	1.7				1		Tea	Cross country time building to chandler, 152 intro	
+2007-08-20	N365AM		1.4		1.4					1.4							James	DME arc, VOR 31 @ MER, intro to Holding	
+2007-08-20	N378AM		1.6		1.6					1.6							Fan	GPS14@LSN, ILS @ MER, holding	
+2007-08-22	N361AM		1.2		1.2					1.2							Fan	DME arc, ILS 31 @ MER, LOC BC @ MCE	
+2007-08-23	N45994		2.8		2.8					2.8	2.8						James	Cross country time building to Visalia, Selma	
+2007-08-23	N69254		4.3		4.3			3.8		4.3	4.3			1			Tea	Cross country time building to willows, GPS 13 @ MER	
+2007-08-26	N366AM		1.6		1.6					1.6							Bill	GPS14@LSN, ILS @ MER, holding	
+2007-08-26	N366AM		1.6		1.6					1.6							Mike	GPS14@LSN, ILS @ MER, holding	
+2007-08-26	N366AM		1.4		1.4					1.4							James	DME Arc, ILS approach, BAIF	
+2007-08-27	N5491P		4.2		4.2			4.2		4.2	4.2						Mike	Cross country time building to Willows	
+2007-08-28	N5197B		1.9		1.9					1.9	1.9						Fan	Cross country time building to Chandler	
+2007-08-28	N5197B		4.0		4.0			4.0		4.0	4.0			1			Bill	Cross country time building to Willows	
+2007-08-29	N67788		4.2		4.2			4.2		4.2	4.2			2			Tea	Cross country time building to Willows, ILS at Stockton and Modesto	
+2007-08-29	N67788		3.0		3.0					3.0	3.0						Shawn	Cross country time building to Hanford, Mendota, Firebough	
+2007-08-30	N67788		4.1		4.1			4.1		4.1	4.1						Fan	Cross country time building to Willows	
+2007-08-30	N366AM		1.5		1.5					1.5					1		Shawn	ILS at Modesto and Merced, GPS 13 into Castle	
+2007-08-30	N361AM		1.2		1.2					1.2							Mike	Intersection hold, GPS13 @ MER	
+2007-08-31	N67788		3.9		3.9			3.9		3.9	3.9						James	Cross country time building to Willows	
+2007-09-01	N5155B		4.2		4.2			4.2		4.2	4.2						Shawn	Cross country time building to Willows, ILS 2 @ SAC, VOR 34 @ WLW	
+2007-09-02	N6246P		4.5		4.5			4.5		4.5	4.5						Bill	Cross country time building to Willows, VOR 34 @ WLW, LOC BC @ MCE, LOC 31 @ MER	
+2007-09-03	N282AM		1.5		1.5					1.5							Bill	ILS @ MOD, DME arc, hold, VOR 31 @ MER	
+2007-09-04	N5155B		4.9		4.9			4.9		4.9	4.9						Fan	Cross country time building to Willows, Colusa, LOC BC @ MCE, ILS @ MER	
+2007-09-06	N69254		4.5		4.5			4.5		4.5	4.5						Mike	GPS28@O27, GPS34@WLW, GPS13@MER, DME arc, hold entry	
+2007-09-07	N6246P		4.3		4.3			4.3		4.3	4.3			1			James	VOR34@WLW, ILS31@MER, LOC BC@MCE	
+2007-09-08	N69254		2.9		2.9			2.9		2.9	2.9						Shawn	ILS approaches at MER VIS and FAT	
+2007-09-09	N5155B		1.5		1.5					1.5							James	ILS approaches, BC at merced	
+2007-09-10	N5155B		4.1		4.1			4.0		4.1	4.1						Fan	ILS @ MOD, VOR DME 34 @ WLW, GPS13 @ MER	
+2007-09-11	N69254		2.4		2.4					2.4	2.4						Shawn	Practice approaches, ILS@MER, VOR@VIS, GPS@MAE	
+2007-09-13	N48581		4.8		4.8			4.8		4.8	4.8						Mike	VOR-A@O41, VOR-34@WLW, LOC-BC@MCE, VOR-31@MER	
+2007-09-14	N366AM		4.0		4.0			4.0		4.0	4.0			1			James	VOR-DME-34@WLW, ILS-16R@SMF, GPS-13@MER	
+2007-09-14	N368AM		2.7		2.7			0.1		2.7	2.7						Shawn	ILS-28R@MOD, VOR-A@1O3, ILS-31@MER	
+2007-09-14	N368AM		2.7		2.7					2.7	2.7						Fan	ILS-28R@MOD, GPS-30@C83, LOC-BC-12@MCE, ILS-31@MER	
+2007-09-14	N5384P		4.1		4.1			4.1		4.1	4.1						Bill	GPS34@WLW, ILS16R@SMF, VOR13@MER	
+2007-09-15	N757NJ		4.1		4.1			3.7		4.1	4.1						Bill	Simulated PAR approach, VOR-13@MER	
+2007-09-16	N361AM		5.3		5.3			5.3		5.3	5.3			2			Mike	VOR34@WLW, ILS27R@OAK, GPS13@MER	
+2007-09-16	N285AM		4.1		4.1					4.1	4.1						Shawn	VOR-A@PTV, LOC-BC-12@MCE, ILS-31@MER	
+2007-09-17	N378AM		2.9		2.9					2.9	2.9				2		James	LOC2@WVI, GPS31@CVH, ILS31@MER	
+2007-09-18	N5384P		4.7		4.7			4.2		4.7	4.7						Fan	ILS-28R@MOD, VOR-DME-34@WLW, ILS-16R@SMF, LOC-BC12@MCE, ILS31@MER	
+2007-09-19	N367AM		4.5		4.5			4.5		4.5	4.5						Shawn	ILS-28R@MOD, VOR-DME-34@WLW, ILS-16R@SMF, ILS-2@SAC, VOR-13@MER	
+2007-09-20	N5491P		4.2		4.2			4.2		4.2	4.2						Bill	ILS28R @ MOD, VOR-DME34@WLW	
+2007-09-21	N376AM		1.4		1.4					1.4							Mike	ILS28R@MOD, LOC-BC12@MCE, ILS-31@MER	
+2007-09-23	N362AM		5.0		5.0			5.0		5.0	5.0			2			James	ILS at MOD, MCC, MER, LOC-BC @ MCE	
+2007-09-24	N376AM		4.5		4.5			4.5		4.5	4.5			2			Fan	ILS@MOD, MER, MCC, VOR-A@O08, GPS13@MER	
+2007-09-25	N282AM		4.3		4.3			4.3		4.3	4.3			3			Bill	GPS13@MER, IFR enroute procs, VOR check	
+2007-09-26	N376AM		3.9		3.9			3.9		3.9	3.9			2			Shawn	IFR X-C procedures, VOR-A @ MER, ILS @ MCE, MER	
+2007-09-27	N67788		4.4		4.4			4.4		4.4	4.4			1			Mike	ILS16R@SMF, VOR-A@O08, VOR-34@WLW	
+2007-09-28	N5155B		4.2		4.2			4.2		4.2	4.2						Shawn	ILS28R @ MOD, VOR-DME34@WLW	
+2007-09-28	N5155B		2.7		2.7					2.7	2.7	0.8				1	Fan	LOC28L@MRY, ILS31@MER	
+2007-09-29	CAT-IV			1.1									1.1			7 HT		IFR currency	HT
+2007-09-29	N361AM		4.5		4.5			4.5		4.5	4.5						James	VOR/DME-34@WLW, LOC-BC@MCE, ILS31@MER, enroute procs	
+2007-09-30	N340SX		4.5		4.5			4.0		4.5	4.5			1			Mike	VOR-A@O08, GPS13@MER, VOR/DME34@WLW, enroute procs.	
+2007-10-01	N340SX		2.9		2.9			2.9		2.9	2.9						Bill	ILS2@SAC, GPS12@MCE, VOR31@MER	
+2007-10-02	N152RT		4.4		4.4			4.4		4.4	4.4						Fan	VOR/DME34@WLW, GPS13@MER, enroute procs.	
+2007-10-02	N362AM		5.4		5.4			5.4		5.4	5.4			1			Shawn	VOR34@WLW, VOR-A@O37, ILS28R@MOD, LOC-BC@MCE, LOC/DME31@MER	
+2007-10-04	N340SX		1.7		1.7			1.7		1.7							James	ILS28R@MOD, LOC-BC12@MCE, VOR31@MER	
+2007-10-06	N361AM		4.4		4.4					4.4	4.4						Bill	GPS13@MER circle to land, ODP	
+2007-10-06	N362AM		1.5		1.5					1.5							Tea	ILS28R@MOD, LOC-BC12@MCE, ILS-31@MER	
+2007-10-07	N69254		3.5		3.5					3.5	3.5						Mike	ILS at MER, MOD, VIS, LOC-BC12@MCE	
+2007-10-08	N362AM		4.4		4.4			2.4		4.4	4.4						Shawn	ILS28R@MOD, GPS13@MER, VOR/DME34@WLW	
+2007-10-10	N5491P		1.5		1.5			1.2		1.5							James	VOR holding, DME arc, unusual attitudes, ILS31@MER	
+2007-10-10	N5491P		1.5		1.5					1.5							Fan	VOR holding, DME arc, unusual attitudes, ILS31@MER	
+2007-10-11	N368AM		1.3		1.3					1.3							Tea	VOR holding, DME arc, unusual attitudes, ILS31@MER	
+2007-10-11	N365AM		1.5		1.5					1.5							Bill	VOR holding, DME arc, unusual attitudes, ILS31@MER	
+2007-10-11	N365AM		1.4		1.4					1.4							Mike	VOR holding, DME arc, unusual attitudes, ILS31@MER	
+2007-10-12	N282AM		2.0		2.0					2.0	2.0						Shawn	partial panel, ILS approaches	
+2007-10-12	N361AM		2.5		2.5					2.5	2.5						Fan	ILS @ VIS and MER	
+2007-10-14	N282AM		2.6		2.6					2.6	2.6						James	VOR31@MER, partial panel	
+2007-10-14	N282AM		5.0		5.0					5.0	5.0						Mike	GPS33@RBL, VOR13@MER	
+2007-10-15	N365AM		1.6		1.6					1.6					1		Tea	ILS, VOR 31@MER, GPS12@MCE, unusual attitudes, timed turns	
+2007-10-17	N375AM		2.3		2.3			2.3		2.3	2.3						Fan	ILS28R@MOD, GPS12@FCH, ILS31@MER, partial panel	
+2007-10-17	N375AM		1.6		1.6					1.6					1		Bill	ILS, VOR 31@MER, GPS12@MCE, unusual attitudes, timed turns	
+2007-10-17	N366AM		1.6		1.6					1.6							Shawn	ILS, VOR 31@MER, GPS12@MCE, unusual attitudes, timed turns	
+2007-10-18	N365AM		4.2		4.2			2.2		4.2	4.2						Fan	GPS13@MER, GPS34@WLW, touch and go's	
+2007-10-21	N375AM		0.9		0.9					0.9							Bill	ODP, VOR holds, DME arc, ILS approach	
+2007-10-21	N282AM		4.3		4.3			1.5		4.3	4.3						James	ILS11@SBP	
+2007-10-23	N368AM		4.3		4.3			3.3		4.3	4.3						Bill	VOR/DME34@WLW, GPS13@MER	
+2007-10-24	N6438M		4.4		4.4			3.0		4.4	4.4				3		Mike	VOR34@WLW	
+2007-10-24	N285AM		1.4		1.4					1.4					2		Shawn	ILS, VOR28R@MOD, ILS31@MER	
+2007-10-25	N282AM		4.0		4.0			2.0		4.0	4.0				3		Bill	VOR/DME34@WLW, GPS13@MER	
+2007-10-25	N282AM		1.3		1.3					1.3					2		Fan	VOR/DME-28R@MOD, GPS13@MER	
+2007-10-26	N366AM		2.1		2.1			2.1		2.1							Shawn	unusual attitudes, holds, DME arc, ILS28R@MOD, VOR/DME28R@MOD, GPS13@MER	
+2007-10-26	N368AM		2.0		2.0					2.0	2.0						Fan	GPS-C@FCH, ILS31@MER	
+2007-10-27	N312CM		1.5		1.5										2		Kyle Jerome	Duchess Standardization flight with Kyle Jerome, touch and go's, SE intro	
+2007-10-28	N365AM		3.9		3.9			3.0		3.9	3.9						Bill	VOR/DME34@WLW, VOR/DME13@MER	
+2007-10-30	N376AM		1.4		1.4			1.4		1.4							Shawn	DME arc, holds, VOR/DME28R@MOD, GPS13@MER	
+2007-10-30	N376AM		1.5		1.5			1.5		1.5							Fan	DME arc, holds, ILS28R@MOD, GPS13@MER	
+2007-10-31	N362AM		1.6		1.6					1.6							Bill	GPS12@MCE, ILS31@MER, DME arc, holds	
+2007-11-02	N378AM		1.4		1.4					1.4					1		Fan	DME arc, holds, ILS28R@MOD	
+2007-11-02	N378AM		1.2		1.2					1.2							Bill	LOC-BC12@MCE, ILS31@MER, holds	
+2007-11-03	N362AM		1.3		1.3					1.3							Shawn	DME arc, holds, ILS28R@MOD, GPS13@MER	
+2007-11-05	N365AM		0.9		0.9			0.9		0.9							Bill	VOR/DME-28R@MOD, GPS13@MER	
+2007-11-05	N365AM		1.2		1.2			1.2		1.2							Shawn	VOR/DME-28R@MOD, ILS28R@MOD, GPS13@MER	
+2007-11-05	N365AM		1.4		1.4			1.4		1.4							Fan	VOR/DME-28R@MOD, ILS28R@MOD, GPS13@MER	
+2007-11-07	N152RT		2.7		2.7			0.5		2.7	2.7						Shawn	DME arc, holding, pilotage	
+2007-11-08	N366AM		2.0		2.0			0.8		2.0					2		Fan	VOR-A@TCY, ILS28R@MCE, GPS13@MER, DME arc, holds	
+2007-11-08	N376AM		2.7		2.7					2.7	2.7						Bill	Pilotage	
+2007-11-09	N362AM		1.5		1.5			1.5		1.5							Ben	DME arc, LOC30@MCE, VOR/DME31@MER	
+2007-11-09	N367AM		1.3		1.3					1.3					1		Shawn	DME arc, holds, VOR/DME31@MER, LOC30@MER	
+2007-11-10	N362AM		1.4		1.4			0.5		1.4					2		Shawn	ILS28R @ MOD, VOR-DME28R@MOD, DME arc, holds	
+2007-11-10	N362AM		1.8		1.8					1.8							Fan	Pilotage, ILS31@MER, DME arc, Holds	
+2007-11-10	N5197B		0.5		0.5		0.5								1			Maintinence flight, Mode-C check	
+2007-11-10	N375AM		1.6		1.6					1.6							Ben	DME arc, holds, LOC30@MCE, VOR/DME@MER	
+2007-11-11	N375AM		1.3		1.3			1.3		1.3							Ben	ILS28R@MOD, GPS13@MER, DME arc	
+2007-11-11	N366AM		1.4		1.4			1.4		1.4							Bill	DME arc, ILS28R@MOD, VOR/DME28R@MOD, GPS13@MER	
+2007-11-12	N366AM		1.3		1.3			1.3		1.3							Ben	ILS28R@MOD, GPS13@MER, VOR/DME28R@MOD	
+2007-11-12	N366AM		1.5		1.5			1.5		1.5							Shawn	ILS28R@MOD, GPS13@MER, VOR/DME28R@MOD	
+2007-11-13	N361AM		1.7		1.7					1.7							Bill	ILS28R@MOD, GPS13@MER, VOR/DME28R@MOD	
+2007-11-13	N361AM		1.7		1.7					1.7					1		Ben	GPS12@MCE, ILS31@MER, VOR/DME31@MER	
+2007-11-16	N366AM		4.4		4.4			4.4		4.4	4.4						Shawn	cross country to willows, approaches at modesto, vacuum system failure	
+2007-11-16	N282AM		1.7		1.7					1.7							Ben	Approaches, radio comms	
+2007-11-17	N361AM		1.5		1.5					1.5							Fan	Practice approaches at modesto	
+2007-11-18	N368AM		1.3		1.3			1.3		1.3							Bill	Practice approaches at modesto	
+2007-11-18	N368AM		1.6		1.6					1.6							Fan	Pilotage, diversion, GPS13@MER	
+2007-11-18	N362AM		1.7		1.7					1.7					1		Shawn	practice approaches at MCE, DME arc, holds	
+2007-11-19	N376AM		1.8		1.8					1.8							Ben	holding, approaches	
+2007-11-19	N376AM		1.4		1.4					1.4					2		Shawn	practice approaches, holds, dme arc	
+2007-11-19	N285AM		0.6		0.6					0.6					1		Fan	high oil pressure, canceled flight	
+2007-11-20	N285AM		1.3		1.3			1.3		1.3							Ben	Practice approaches at merced and castle	
+2007-11-20	N4UN		1.8						1.8						8		Jason Logson	Intro to tailwheel and acrobatics. Tail landings, hammer heads, split-s, stalls, spins, rolls, flips	
+2007-11-20	N362AM		1.7		1.7					1.7							Fan	practice approaches at modesto	
+2007-11-21	N368AM		1.2		1.2			1.2		1.2							Ben	Practice approaches at merced and castle	
+2007-11-21	N368AM		1.4		1.4			1.4		1.4							Shawn	practice approaches, dme arc, holds	
+2007-11-21	N378AM		1.0		1.0					1.0							Bill	partial panel approaches	
+2007-11-22	N375AM		1.2		1.2			1.2		1.2							Bill	Practice approaches at modesto	
+2007-11-22	N375AM		1.5		1.5			1.5		1.5				1			Shawn	Practice approaches at merced and castle, dme arc	
+2007-11-22	N375AM		3.2		3.2					3.2	3.2						Fan	cross country to Sonoma Skypark, Bay area tour	
+2007-11-23	N4UN		1.0						1.0						5		Jason Logson	Intro to the backseat, landings	
+2007-11-24	N362AM		1.6		1.6			1.6		1.6							Ben	practice approaches	
+2007-11-24	N362AM		4.4		4.4					4.4	4.4						Bill	cross country to Petaluma, Bay area tour	
+2007-11-26	N368AM		1.2		1.2					1.2							Ben	practice approaches, checkride prep	
+2007-12-01	N362AM		3.1		3.1			3.1		3.1	3.1						Shawn	cross country to Hayward	
+2007-12-02	N361AM		5.2		5.2					5.2	5.2						Fan	Pilotage	
+2007-12-03	N366AM		1.4		1.4			1.4		1.4							Ben	Practice approaches at merced and castle	
+2007-12-05	N366AM		0.4		0.4			0.4		0.4							Ben	canceled flight due to incoming fog	
+2007-12-06	N282AM		1.5		1.5					1.5		0.6			1		Ben	Practice approaches at modesto and castle	
+2007-12-09	N365AM		1.5		1.5			1.5		1.5							Ben	Practice approaches at merced and castle	
+2007-12-09	N365AM																Fan	Cross country to Little River and Willows	
+2007-12-10	N282AM		1.5		1.5					1.5							Ben	Practice approaches at merced and castle, dme arc, holds	
+2008-01-06	N8897Y		1.0						1.0						1		Buck Martin	intro to Metro III, stalls, ILS22 @ ELP	
+2008-01-09	N8897Y		1.1					1.1	1.1					1			Buck Martin	SIC checkout in the Metro. Stalls, steep turns, single engine approach and engine failure on takeoff	P
+2008-01-15	N8897Y		14.4			14.4		7.2			14.4	0.8		1	1	1 HT	Carlos Lopez	two cardboard boxes	HT
+2008-02-17	N8897Y		12.6			12.6		8.9			12.6	1.0		1			Carlos Lopez	big coffin box	
+2008-02-21	N5441F		10.1			10.1		7.6			10.1	2.0		1	1		Brian Keenan	seat covers	
+2008-02-26	N63NE		7.0			7.0		3.9			7.0			1			Brian Keenan	long metal 800lbs boxes	
+2008-02-27	N63NE		4.5			4.5					4.5				1		Brian Keenan	one pallet of boxes	
+2008-02-28	N5441F		12.1			12.1		10.1			12.1			1			Jason Hutts	2 flat pallets, flaps would not go down	
+2008-03-07	N63NE		10.8			10.8		7.3			10.8			1	1		Jason Logsdon	bunch of boxes filled with car dashboards	
+2008-03-07	N63NE		8.4			8.4		7.4			8.4			1			Jason Logsdon	BMW leather seat covers	
+2008-03-11	N8897Y		7.4			7.4		6.6			7.4			1			Jason Hutts	a bunch of very large boxes, hydraulic failure, precaution landing at TOL	
+2008-03-14	N8897Y		5.5			5.5		5.5			5.5			1			Jason Hutts	return home	
+2008-03-20	N5441F		12.0			12.0		8.6			12.0			1			Steven Boyd	small pallett of automotive gears, severe windshear at ROA	
+2008-03-26	N63NE		7.0			7.0		2.0			7.0			1			Jason Hutts	9 light plastic crates	
+2008-03-28	N63NE		7.1			7.1		3.0			7.1			1	1		Jason Hutts	three large boxes	
+2008-04-13	N63NE		5.3			5.3		4.1			5.3						Carlos Lopez	flat boxes of leather for seats	
+2008-04-16	N63NE		12.9			12.9		8.4			12.9			1	1		Steven Boyd	One big, light box	
+2008-04-17	N5441F		11.0			11.0		5.7			11.0			1	1		Steven Boyd	3 large plastic crates, wire harnesses	
+2008-04-21	N63NE		5.2			5.2		2.7			5.2			1			Steven Boyd	One pallet of boxes of gasket covers, ~430lbs	
+2008-05-01	N63NE		14.8			14.8		5.9			14.8			1	2		Steven Boyd	Three pallets of car parts; hoses. X-11 headset broke	
+2008-05-14	N8897Y		13.3			13.3		5.9			13.3	6.8		1	1		Steven Boyd	Car parts	
+2008-05-23	N5441F		14.0			14.0		6.3			14.0	4.7		1	1		Steven Boyd	no idea, probably car parts	
+2008-05-28	N63NE		4.9			4.9		3.4			4.9	1.2		2			Steven Boyd	speaker looking things, probably car parts	
+2008-05-30	N8897Y		3.7			3.7					3.7						Carlos Lopez	positioning flight for 5303	
+2008-05-31	N8897Y		11.9			11.9		7.2			11.9			1	1		Carlos Lopez	two heavy wooden boxes	
+2008-06-04	N8897Y		11.2			11.2		5.0			11.2	0.2		1	1	1 T	Carlos Lopez	one pallet	T
+2008-06-05	N63NE		13.3			13.3		6.3			13.3			1	1		Carlos Lopez	double trip, pickup in LAX and HWD. two big boxes, and wire harnesses.	
+2008-06-11	N63NE		10.3			10.3		5.6			10.3	6.0		1			Jason Logsdon	wire harnesses	
+2008-06-12	N63NE		10.6			10.6		6.0			10.6	6.0		1			Jason Logsdon	wire harnesses	
+2008-06-18	N5441F		8.7			8.7		3.1			8.7	2.0		1	1		Carlos Lopez	Bags of car seat covers	
+2008-06-18	N63NE		11.8			11.8		5.5			11.8	1.5		1	1	1	Carlos Lopez	wire harnesses, ILS into AMA	
+2008-06-21	N63NE		1.9			1.9					1.9	0.5			1		Jason Logsdon	very heavy bolts	
+2008-06-22	N63NE		4.5			4.5					4.5	1.0			1		Jason Logsdon	very heavy bolts	
+2008-06-24	N5441F		10.0			10.0		5.7			10.0	2.5		1			Jason Logsdon	speedometers, overnight in Guadalajara	
+2008-06-27	N5441F		7.4			7.4		5.3			7.4	4.2			1		Jason Logsdon	one pallette	
+2008-07-02	N5441F		13.4			13.4					13.4	4.5			2		Brian Keenan	tail lights, 6 light pallets, overnight in Guadalajara	
+2008-07-09	N5441F		10.2			10.2		7.6			10.2	3.0		1			Jason Logsdon	78 boxes of CD changers	
+2008-07-16	N63NE		5.8			5.8		3.1			5.8	0.5		1			Carlos Lopez	whirlpool wire harnesses	
+2008-07-24	N8897Y		8.4			8.4		6.1			8.4	4.0		1		T	Jason Logsdon	3 light plastic cartons. left seat flying, no gps	T
+2008-07-30	N5441F		5.4			5.4		5.4			5.4	0.5		1			Brian Keenan	7 plastic crates	
+2008-07-30	N63NE		10.8			10.8		4.9			10.8	3.0		1	1		Brian Keenan	bags of seat covers	
+2008-07-31	N63NE		11.6			11.6		5.7			11.6	0.2			2		Carlos Lopez	most of this flight occurred on august 1st; mostly seat covers	
+2008-08-21	N63NE		5.6			5.6		1.6			5.6	0.5		1	1		Kyle Anderson	bags of seat covers	
+2008-09-04	N8897Y		8.4			8.4					8.4	0.5			1		Carlos Lopez	Drop in TCL, long crates.	
+2008-09-13	N8897Y		6.0			6.0		3.3			6.0	1.7			1		Brian Keenan	bags of seat covers to MCI	
+2008-09-24	N63NE																Brian Keenan	seat covers, drop in TTF	
+2008-10-02	N5441F		12.3			12.3		0.4			12.3	0.2		1	2		Carlos Lopez	seat covers dropped in DET	
+2008-10-24	N63NE		11.2			11.2		5.0			11.2	1.7		1	2		Brian Keenan	pick up in mmcs, drop in DET, rode with puppy	
+2009-06-23	N878SS		2.6		2.6						2.6				1				
+2009-10-06	N420U		2.6		2.6				2.6			2.6							
+##RECORDS
+"Jason Logsdon = 573\nJason Hutts = 557\nCarlos = 206\nBrian Keenan = 571\nSteven Boyd = 556\n\nMike = Chen Kai\nShawn = Chen Bo\nFan = Fan Chao\nBill = Chen Shen\nJames = Chen Jialang\nTea = Cong PenSei\nBen = Ye Bin\nLeo = ??"
+##PLANES
+N312CM	Beechcraft	Duchess	2	Complex SAA
+N800U	Beechcraft	Baron	2	"Complex ""High Performance"" ""Ohio University"""
+N1500U	Beechcraft	Bonanza	1	"Complex ""High Performance"" ""Ohio University"""
+N4UN	Bellanca	Citabria	1	"""High Performance"" SAA"
+N470U	Cessna	Skyhawk	1	"GNS430 GPS ""Ohio University"""
+N230U	Cessna	Skyhawk	1	"GPS ""Ohio University"""
+N430U	Cessna	Skyhawk	1	"GPS ""Ohio University"""
+N420U	Cessna	Skyhawk	1	"GPS ""High Performance"" ""Ohio University"""
+N450U	Cessna	Skyhawk	1	"GPS ""High Performance"" ""Ohio University"""
+N440U	Cessna	Skyhawk	1	"GPS ""Ohio University"""
+N445DH(2)	Cessna	Skyhawk	1	"GPS ""High Performance"" ""Ohio University"""
+N129FR	Cessna	Skyhawk	1	"""Ohio University"""
+N99173	Cessna	Skyhawk	1	"""Ohio University"""
+N5439K	Cessna	Skyhawk	1	"""Ohio University"""
+N242	Cessna	Artobt	2	"""High Performance"""
+N240U	Cessna	Skyhawk	1	"GPS ""High Performance"" ""Ohio University"""
+N53797	Cessna	Skyhawk	1	"""Ohio University"""
+N52261	Cessna	Skyhawk	1	"""Ohio University"""
+N220U	Cessna	152	1	"""Ohio University"""
+N1000U	Cessna	152	1	"""Ohio University"""
+N1600U	Cessna	152	1	"""Ohio University"""
+N69254	Cessna	152	1	GNS430 SAA
+N6438M	Cessna	152	1	Complex SAA
+N152RT	Cessna	152	1	GNS430 SAA
+N48581	Cessna	152	1	Complex SAA
+N5155B	Cessna	152	1	"Complex GNS430 ""High Performance"" SAA"
+N45994	Cessna	152	1	Complex SAA
+N94741	Cessna	152	1	"Complex ""High Performance"" SAA"
+N48049	Cessna	152	1	Complex SAA
+N757NJ	Cessna	152	1	Complex SAA
+N67788	Cessna	152	1	Complex SAA
+N5491P	Cessna	152	1	Complex GNS430 SAA
+N6246P	Cessna	152	1	Complex GNS430 SAA
+N67793	Cessna	152	1	"Complex ""High Performance"""
+N5384P	Cessna	152	1	GNS430 SAA
+N5197B	Cessna	152	1	"Complex ""High Performance"" SAA"
+N340SX	Cessna	152	1	Complex GNS430 SAA
+FR-142	Frasca		16	"""Ohio University"""
+FR-131	Frasca		16	"""High Performance"" ""Ohio University"""
+N750U	Piper	Warrior III	1	"Avidyne Glass GNS430 GPS ""High Performance"" ""Ohio University"""
+N878SS	Piper	Seneca II	2	"Complex ""High Performance"""
+N6063H	Piper	Archer II	1	"""Ohio University"""
+N720U	Piper	Warrior III	1	"Avidyne Glass GNS430 GPS ""Ohio University"""
+N730U	Piper	Warrior III	1	"Avidyne Glass GNS430 GPS ""Ohio University"""
+N740U	Piper	Warrior III	1	"Avidyne Glass GNS430 GPS ""Ohio University"""
+N780U	Piper	Warrior III	1	"Avidyne Glass GNS430 GPS ""Ohio University"""
+N445DH	Piper	Warrior III	1	"Avidyne Glass GNS430 GPS ""Ohio University"""
+N760U	Piper	Warrior III	1	"Avidyne Glass GNS430 GPS ""Ohio University"""
+N41380	Piper	Warrior II	1	"""Ohio University"""
+N9273L	Piper	Archer II	1	"""Ohio University"""
+CAT-IV	Precision Flight Controls		16	"""High Performance"" SAA"
+N5441F	Swearingen	Metroliner III	2	"Complex ""High Performance"" SWA Turbine Turboprop"
+N8897Y	Swearingen	Metroliner III	2	"Complex ""High Performance"" SWA Turbine Turboprop"
+N63NE	Swearingen	Metroliner III	2	"Complex ""High Performance"" SWA Turbine Turboprop"
+N365AM	Zenair	Alarus	1	GNS430 GPS SAA
+N361AM	Zenair	Alarus	1	GNS430 GPS SAA
+N376AM	Zenair	Alarus	1	GNS430 GPS SAA
+N362AM	Zenair	Alarus	1	GNS430 GPS SAA
+N282AM	Zenair	Alarus	1	GNS430 GPS SAA
+N367AM	Zenair	Alarus	1	GNS430 GPS SAA
+N368AM	Zenair	Alarus	1	GNS430 GPS SAA
+N375AM	Zenair	Alarus	1	"GNS430 GPS ""High Performance"" SAA"
+N285AM	Zenair	Alarus	1	GNS430 GPS SAA
+N378AM	Zenair	Alarus	1	GNS430 GPS SAA
+N366AM	Zenair	Alarus	1	GNS430 GPS SAA

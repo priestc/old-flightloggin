@@ -1,0 +1,209 @@
+Date	Plane	Type	Instructor	From	Route	To	Remarks	Total	Day landings	Night landings	Approaches	Flying	SE Land	Night	Actual	Hood	Dual	PIC	XC	Complex	Jet
+10/6/2001	N913MA	C172		3CK		3CK		1.00					1.00				1.00				
+1/26/2002	N913MA	C172		3CK		3CK		0.70	1				0.70				0.70				
+11/16/2002	N928MA	C172		3CK		3CK		1.10	1				1.10				1.10				
+5/27/2003	N654AC	7ECA		C77		C77		0.70					0.70				0.70				
+6/29/2003	N656MA	C172		3CK		3CK		1.00	1				1.00				1.00			0.00	
+9/20/2003	N928MA	C172		3CK		3CK		1.20	1				1.20				1.20				
+11/28/2003	N68750	C152			C77 - 0C0 - C77			1.00	2				1.00				1.00				
+7/25/2004	N69042	C152		C77		C77		0.90	1				0.90				0.90				
+2/26/2005	N654AC	7ECA	Bill Helvey		C77 - RPJ - C77			1.40	3				1.40				1.40				
+4/9/2005	N69042	C152	Erik Roessler	C77		C77		0.80	1				0.80				0.80				
+4/23/2005	N69042	C152	Erik Roessler	C77		C77		0.60	2				0.60				0.60				
+5/1/2005	N69042	C152	Erik Roessler	C77		C77		1.00	2				1.00				1.00				
+5/21/2005	N25560	C152	Erik Roessler	C77		C77		1.00	4				1.00				1.00				
+5/7/2005	N152BA	C152	Erik Roessler	C77		C77		1.00	4				1.00				1.00				
+5/28/2005	N69042	C152	Erik Roessler		C77 - 0C0 - C77			1.00	2				1.00				1.00				
+6/4/2005	N69042	C152	Erik Roessler		C77 - 0C0 - C77			1.20	4				1.20				1.20				
+6/11/2005	N68750	C152	Erik Roessler		C77 - JVL - C77			1.20	4				1.20				1.20				
+6/19/2005	N69042	C152			C77 - RFD - C77			1.00	6				1.00				1.00				
+7/2/2005	N68750	C152			C77 - 0C0 - C77			1.50	6				1.50				1.50				
+7/8/2005	N69042	C152	Erik Roessler	C77		C77		0.70	4				0.70				0.70				
+7/10/2005	N25560	C152	Erik Roessler	C77		C77	First solo flight	1.70	8				1.70				1.00	0.70			
+8/4/2005	N68750	C152	Erik Roessler		C77 - RFD - C77			1.30	3				1.30				1.30				
+8/10/2005	N68750	C152	Erik Roessler		C77 - 1C8 - C77			1.30	2				1.30				1.30				
+8/27/2005	N69042	C152	Erik Roessler		C77 - 7V3- C77			1.50	6				1.50				1.00	0.50			
+9/10/2005	N69042	C152	Erik Roessler		C77 - UES - 61C - C77			1.90	3				1.90				1.90		1.90		
+9/17/2005	N69042	C152	Erik Roessler		C77 - 0C0 - C77			1.40	6				1.40				0.80	0.60			
+10/1/2005	N25560	C152	Erik Roessler		C77 - RAC - PWK - C77			2.10	3				2.10				2.10		2.10		
+10/29/2005	N68750	C152	Erik Roessler		C77 - RYV - C77			2.20	5				2.20				0.40	1.80	1.80		
+11/19/2005	N733TM	C172	Erik Roessler		C77 - MSN - C77			2.00		3			2.00	2.00			2.00		2.00		
+12/3/2005	N69042	C152	Erik Roessler	C77		C77		1.00	1				1.00			0.50	1.00				
+12/23/2005	N25560	C152	Erik Roessler	C77		C77		1.30	1				1.30			0.90	1.30				
+1/14/2006	N69042	C152	Erik Roessler		C77 - SFY - C77			2.70	4				2.70				0.30	2.40	2.40		
+3/12/2006	N25560	C152	Erik Roessler		C77 - RFD - JVL - C77			1.50	4				1.50				1.50				
+3/18/2006	N68750	C152		C77		C77		0.50	1				0.50					0.50			
+4/8/2006	N68750	C152			C77 - DBQ - EFT - C77			3.10	5				3.10					3.10	3.10		
+5/7/2006	N25560	C152	Erik Roessler	C77		C77		1.00	1				1.00			0.60	1.00				
+5/20/2006	N25560	C152	Erik Roessler	C77		C77		0.80	1				0.80			0.60	0.80				
+5/28/2006	N25560	C152	Erik Roessler	C77		C77		1.50	2				1.50			0.60	1.50				
+6/2/2006	N152BA	C152	Erik Roessler	C77		C77		0.90	6				0.90				0.90				
+6/12/2006	N69042	C152	Erik Roessler	C77		C77		1.20	1				1.20				1.20				
+6/15/2006	N25560	C152	Erik Roessler	C77		C77		0.50	2				0.50				0.50				
+6/26/2006	N69042	C152	Erik Roessler	C77		C77		0.60	1				0.60				0.60				
+6/29/2006	N25560	C152	Erik Roessler	C77		C77		0.80	1				0.80				0.80				
+7/2/2006	N25560	C152		C77		C77		1.00	4				1.00					1.00			
+7/3/2006	N68750	C152	Erik Roessler		C77 - JVL - RFD -C77			1.70		7			1.70	1.70			1.70				
+7/5/2006	N68750	C152		C77		C77		1.30	1				1.30					1.30			
+7/6/2006	N25560	C152	Erik Roessler	C77		C77		1.30	3				1.30				1.30				
+7/7/2006	N69042	C152	Erik Roessler	C77		C77		1.00	2				1.00				1.00				
+7/7/2006	N25560	C152		C77		C77		0.70	1				0.70					0.70			
+7/9/2006	N68750	C152	Erik Roessler	C77		C77		1.30	2				1.30			0.20	1.30				
+7/10/2006	N68750	C152		C77		C77	Private pilot checkride with John Reining	1.30	3				1.30					1.30			
+7/17/2006	N69042	C152		C77		C77	Flew with dad over house/Elgin	1.40	1				1.40					1.40			
+7/30/2006	N25560	C152			C77 - C02 - C77			1.40	2				1.40					1.40			
+8/8/2006	N723PG	C172	Erik Roessler		C77 - RFD - C77			1.10	2				1.10				1.10	1.10			
+8/12/2006	N5669C	C140			C77 - 0C0 - C77			1.30	7				1.30				1.30				
+8/15/2006	N723PG	C172	Erik Roessler	C77		C77		0.70	4				0.70				0.70	0.70			
+8/20/2006	N723PG	C172			C77 - C02 - C77		Flew with dad and grandpa for dinner at Grand Geneva Resort	1.10	2				1.10					1.10			
+9/2/2006	N723PG	C172		C77		C77	Flew with dad and Allison.  Engine failure on flare	1.10	2				1.10					1.10			
+9/16/2006	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	1				0.90				0.90				
+9/24/2006	N724PG	C172			C77 - 0C0 - C77			1.20	4				1.20					1.20			
+9/30/2006	N68750	C152	Erik Roessler	C77		C77		0.60	3				0.60				0.60	0.60			
+9/30/2006	N13LE	J3	Erik Roessler		C77 - LAT - C77			0.50	2				0.50				0.50				
+10/9/2006	N654AC	7ECA	Bill Helvey		C77 - 7V3 - C77			1.10	6				1.10				1.10				
+10/9/2006	N654AC	7ECA	Bill Helvey	C77		C77		0.80	3				0.80				0.80				
+10/14/2006	N725PG	C172		C77		C77	Flew with dad and uncle Glenn over house/Elgin	1.10	1				1.10					1.10			
+10/29/2006	N25560	C152			C77 - JVL - C77			1.30	2				1.30					1.30			
+11/2/2006	N25560	C152			C77 - 0C0 - C77			1.00	2				1.00					1.00			
+11/25/2006	N152BA	C152		C77		C77		0.50	5				0.50					0.50			
+12/2/2006	N152BA	C152		C77		C77	Carburetor ice	0.40	1				0.40					0.40			
+12/27/2006	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	3				0.90				0.90				
+12/29/2006	N152BA	C152		C77		C77		0.60	7				0.60					0.60			
+1/2/2007	N152BA	C152			C77 - 10C - C77			1.50	3				1.50					1.50			
+1/2/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.80	1				0.80				0.80				
+1/19/2007	N152BA	C152	Erik Roessler	C77		C77		1.20	1				1.20			0.80	1.20	1.20			
+2/1/2007	N11HP	SNJ-5	Greg Morris		ARR - PWK - ARR			1.70	2				1.70	0.90			1.70			1.70	
+2/17/2007	N68750	C152	Erik Roessler	C77		C77		1.40		1			1.40	0.60		1.10	1.40	1.40			
+2/18/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.80	1				0.80				0.80				
+3/11/2007	N25560	C152	Mark Kiehl	C77		C77		1.50	3			H	1.50			0.80	1.50	1.50			
+3/11/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	2				0.90				0.90				
+3/16/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	5				0.90				0.90				
+3/17/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.80	1				0.80				0.80				
+3/18/2007	N68750	C152	Mark Kiehl	C77		C77		1.20	1				1.20			1.00	1.20	1.20			
+4/6/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	6				0.90				0.90				
+4/13/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.70	6				0.70				0.70	0.70			
+4/15/2007	N69042	C152		C77		C77		1.70	1				1.70					1.70			
+4/20/2007	N68750	C152			C77 - 96C - C77			1.40	3				1.40					1.40			
+4/20/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.80	1				0.80				0.80	0.80			
+4/28/2007	N68750	C152	Mark Kiehl		C77 - RFD - 44C - C77			1.40		7			1.40	1.40			1.40	1.40			
+4/29/2007	N6673H	J3	Mark Kiehl	C77		C77		1.20	6				1.20				1.20	1.20			
+5/11/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	1				0.90				0.90	0.90			
+5/12/2007	N6673H	J3	Mark Kiehl	C77		C77	Cub solo	0.90	6				0.90				0.30	0.90			
+5/18/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		1.00	1				1.00				1.00	1.00			
+5/25/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	1				0.90				0.90	0.90			
+5/27/2007	N6673H	J3		C77		C77		1.00	3				1.00					1.00			
+6/10/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		1.00	1				1.00				1.00	1.00			
+6/11/2007	N6673H	J3		C77		C77		0.80	1				0.80					0.80			
+6/12/2007	N5068G	8KCAB		ARR		ARR	Decathlon solo	0.80	1				0.80					0.80			
+6/14/2007	N54DW	SR20			BTL - JXW - BTL			0.50					0.50				0.50	0.50			
+6/28/2007	N5068G	8KCAB		ARR		ARR		0.80	1				0.80					0.80			
+6/30/2007	N68750	C152			C77 - 0C0 - C77			0.90	5				0.90					0.90			
+7/2/2007	N723PG	C172	Mark Kiehl		C77 - RFD - C77			0.90	3				0.90				0.90	0.90			
+7/6/2007	N6673H	J3		C77		C77	Flew with Allison	0.60	1				0.60					0.60			
+7/6/2007	N5068G	8KCAB		ARR		ARR		0.90	1				0.90					0.90			
+7/21/2007	N6673H	J3		C77		C77	Flew with George Heller	0.60	1				0.60					0.60			
+7/22/2007	N5068G	8KCAB		ARR		ARR		0.70	1				0.70					0.70			
+7/29/2007	N724PG	C172			C77 - 06C - C77		Flew with dad and Grandpa for dinner at Pilot Pete's	1.30	2				1.30					1.30			
+8/1/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	1				0.90				0.90	0.90			
+8/11/2007	N5068G	8KCAB		ARR		ARR		0.70	1				0.70					0.70			
+8/27/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	1				0.90				0.90	0.90			
+8/31/2007	N152BA	C152	Randall Harris		C77 - RFD - C77			0.80	4				0.80				0.80	0.80			
+9/2/2007	N152BA	C152			C77 - RFD - C77		Flew with Doug Welp	0.90	6				0.90					0.90			
+9/3/2007	N11HP	SNJ-5	Greg Morris	ARR		ARR		1.00	1				1.00				1.00	1.00		1.00	
+9/15/2007	N5068G	8KCAB		ARR		ARR		0.70	1				0.70					0.70			
+9/22/2007	N919WW	L29	Greg Morris		ARR - BMI - ARR			1.80	2				1.80				1.80		1.80	1.80	1.80
+9/29/2007	N5068G	8KCAB			ARR - BMI - ARR			2.40	2				2.40					2.40	2.40		
+10/5/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.70	1				0.70				0.70	0.70			
+10/23/2007	N5068G	8KCAB		ARR		ARR	Flew with Coltan Kross	0.80	1				0.80					0.80			
+10/28/2007	N5068G	8KCAB		ARR		ARR		0.80	1				0.80					0.80			
+11/2/2007	N5068G	8KCAB		ARR		ARR		0.80	1				0.80					0.80			
+11/9/2007	N5068G	8KCAB	Greg Morris	ARR		ARR		0.80	1				0.80				0.80	0.80			
+11/10/2007	N68750	C152	J.P. Dixon	C77		C77		1.00	3				1.00				1.00	1.00			
+11/23/2007	N5068G	8KCAB		ARR		ARR		0.70	3				0.70					0.70			
+1/9/2008	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	3				0.90				0.90	0.90			
+2/16/2008	N5068G	8KCAB	Greg Morris	ARR		ARR		0.90	3				0.90				0.90	0.90			
+3/1/2008	N5068G	8KCAB		ARR		ARR		0.80	1				0.80					0.80			
+3/12/2008	N5068G	8KCAB		ARR		ARR		0.90	1				0.90					0.90			
+3/20/2008	N5068G	8KCAB			ARR - 57C - ARR			1.80	2				1.80					1.80	1.80		
+3/20/2008	N5068G	8KCAB		ARR		ARR		0.70	1				0.70					0.70			
+4/5/2008	N5068G	8KCAB		ARR		ARR		0.80	1				0.80					0.80			
+4/23/2008	N77669J	EA300	Greg Morris	ARR		ARR		0.50	1				0.50				0.50	0.50			
+5/15/2008	N5048T	8KCAB	Dan Walton	ARR		ARR	"Competition practice, primary sequence"	1.00	1				1.00				1.00	1.00			
+5/21/2008	N5068G	8KCAB		ARR		ARR		0.70	1				0.70					0.70			
+5/24/2008	N5068G	8KCAB		ARR		ARR		0.80	1				0.80					0.80			
+6/14/2008	N5068G	8KCAB		ARR		ARR		0.70	1				0.70					0.70			
+6/18/2008	N6163F	C172	Gerry Schmitt		DPA - DKB - DPA			1.20	4				1.20				1.20	1.20			
+6/21/2008	N6163F	C172		DPA		DPA		1.10	4				1.10					1.10			
+6/23/2008	N6163F	C172			CPA - JVL - C02 - DPA			1.80	3				1.80					1.80	1.80		
+7/1/2008	N5068G	8KCAB	Greg Morris	ARR		ARR	BFR Part 1/2	0.90	3				0.90				0.90	0.90			
+7/4/2008	N6163F	C172			DPA - C73 - SQI - 0C2 - ARR - DPA			1.80	5				1.80					1.80	1.80		
+7/4/2008	N6163F	C172		DPA		DPA		0.60	1				0.60					0.60			
+7/5/2008	N6163F	C172			DPA - ARR - DPA		Flew with Meghan Thommes	0.90	2				0.90					0.90			
+7/6/2008	N6163F	C172			DPA - ARR - VYS - DPA			1.80	3				1.80					1.80	1.80		
+7/9/2008	N6163F	C172			DPA - MSN - DPA			2.80	2				2.80					2.80	2.80		
+7/10/2008	N5068G	8KCAB		ARR		ARR		0.60	1				0.60					0.60			
+7/12/2008	N6163F	C172	Gerry Schmitt	DPA		DPA		1.40	1		2		1.40		0.20	0.90	1.40	1.40			
+7/13/2008	N6163F	C172			DPA - FEP- DPA			1.80	2				1.80					1.80	1.80		
+7/14/2008	N6163F	C172		DPA		DPA	Flew with Erica Maisto	0.70	1				0.70					0.70			
+7/15/2008	N5068G	8KCAB		ARR		ARR		0.70	1				0.70					0.70			
+7/18/2008	N6163F	C172	Gerry Schmitt	DPA		DPA		1.50	1		3		1.50			1.20	1.50	1.50			
+7/20/2008	N6163F	C172	Gerry Schmitt	DPA		DPA		1.60	1		3	H	1.60			1.30	1.60	1.60			
+7/22/2008	N6673H	J3		C77		C77		0.80	6				0.80				0.80	0.80			
+7/23/2008	N5068G	8KCAB	Greg Morris	ARR		ARR	BFR part 2/2.  BFR complete	0.60	5				0.60				0.60	0.60			
+7/23/2008	N5068G	8KCAB		ARR		ARR		0.80	1				0.80					0.80			
+7/23/2008	N6163F	C172	Gerry Schmitt	DPA		DPA		1.30	1		3		1.30			1.00	1.30	1.30			
+7/25/2008	N6163F	C172			DPA - DKB - DPA			1.00		3			1.00	1.00				1.00			
+7/26/2008	N6163F	C172	Gerry Schmitt	DPA		DPA		1.70	1		3	H	1.70			1.40	1.70	1.70			
+7/28/2008	N6163F	C172		DPA		OSH	Flew with dad to EAA Airventure Oshkosh	2.10	1				2.10					2.10	2.10		
+7/29/2008	N6163F	C172		OSH		DPA		1.80	1				1.80					1.80	1.80		
+8/2/2008	N6163F	C172	Gerry Schmitt	DPA		DPA		1.70	1		3	H	1.70			1.40	1.70	1.70			
+8/4/2008	N6163F	C172	Gerry Schmitt	DPA		DPA		1.00	1		2		1.00		0.50		1.00	1.00			
+8/6/2008	N6673H	J3		C77		C77		1.10	7				1.10					1.10			
+8/6/2008	N6673H	J3		C77		C77	Flew with Allison	0.70	1				0.70					0.70			
+8/9/2008	N6163F	C172	Gerry Schmitt	DPA		DPA		1.80	1		4		1.80			1.40	1.80	1.80			
+8/11/2008	N6673H	J3		C77		C77	Flew with Sean Collins	0.70	1				0.70					0.70			
+8/12/2008	N5068G	8KCAB		ARR		ARR	Primary sequence	0.70	1				0.70					0.70			
+8/13/2008	N6673H	J3		C77		C77	Flew with Meghan Thommes	0.70	1				0.70					0.70			
+8/30/2008	N6163F	C172			DPA - LAF - DPA		Flew with Allison	2.80	2				2.80					2.80	2.80		
+8/31/2008	N6163F	C172			DPA - CMI - TIP - DPA			3.00	3				3.00					3.00	3.00		
+9/11/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.10	1				1.10			0.70	1.10	1.10			
+9/13/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.60	1				1.60			1.30	1.60	1.60			
+9/20/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	1		1	H	1.50			1.10	1.50	1.50			
+9/21/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.40	1		2	HT	1.40			1.40	1.40	1.40			
+9/26/2008	N562PU	PA28-161		LAF		LAF		1.30	1				1.30				1.30	1.30			
+9/29/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.00	1		2	HT	1.00			0.80	1.00	1.00			
+10/6/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.60	1		3	HT	1.60			1.30	1.60	1.60			
+10/10/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.90	1		3	HT	1.90			1.50	1.90	1.90			
+10/16/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	1		5	T	1.50			1.20	1.50	1.50			
+10/16/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	2		4	T	1.50			1.10	1.50	1.50			
+10/20/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	1		3	HT	1.50			1.20	1.50	1.50			
+10/22/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	2		4	HT	1.50			1.10	1.50	1.50			
+11/2/2008	N38394	PA28-181	Erik Myrom		LAF - IKK - LAF			1.80		2	2	T	1.80	1.80		1.50	1.80	1.80	1.80		
+10/30/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.60	1		4	HT	1.60			1.20	1.60	1.60			
+11/4/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.60	1		4	HT	1.60			1.30	1.60	1.60			
+11/20/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.60	1		5	T	1.60			1.20	1.60	1.60			
+11/23/2008	N38394	PA28-181	Erik Myrom	LAF		LAF		1.60	1		3	HT	1.60			1.30	1.60	1.60			
+12/7/2008	N38394	PA28-181	Erik Myrom		LAF - CMI - LAF			2.00	2		1	T	2.00			1.50	2.00	2.00	2.00		
+1/21/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.90	1		4	HT	1.90			1.50	1.90	1.90			
+1/24/2009	N38394	PA28-181	Erik Myrom		LAF - IND - LAF			2.10	2		2	T	2.10		0.40	1.20	2.10	2.10	2.10		
+2/1/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	1		4	HT	1.50			1.10	1.50	1.50			
+3/1/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	1		4	HT	1.50			1.10	1.50	1.50			
+3/3/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.90	2		2	T	1.90			1.60	1.90	1.90	1.90		
+4/17/2008	N38394	PA28-181	Erik Myrom		LAF - IKK - LAF			1.70	2		2	T	1.70			1.30	1.70	1.70	1.70		
+4/19/2009	N38394	PA28-181	Erik Myrom		LAF - LUK - MQJ - LAF			4.20	3		3	T	4.20		3.70		4.20	4.20	4.20		
+4/22/2009	N38394	PA28-181	Erik Myrom		LAF - HUF - LAF			1.80	2		2	T	1.80			1.40	1.80	1.80	1.80		
+4/23/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	1		3	HT	1.50			1.20	1.50	1.50			
+4/26/2009	N38394	PA28-181	Erik Myrom		LAF - HUF - LAF			1.80	2		1	T	1.80			1.40	1.80	1.80	1.80		
+5/2/2009	N38394	PA28-181	Erik Myrom		LAF - CMI - LAF			1.90	2		2	T	1.90			1.60	1.90	1.90	1.90		
+5/3/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	1		5	HT	1.50			1.30	1.50	1.50			
+5/4/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.30	1		4	HT	1.30			1.10	1.30	1.30			
+5/5/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.50	1		5	HT	1.50			1.20	1.50	1.50			
+5/6/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.80	2		6	HT	1.80			1.60	1.80	1.80			
+5/7/2009	N38394	PA28-181		LAF		LAF		1.40	1		3	HT	1.40			1.20	1.40	1.40			
+5/8/2009	N38394	PA28-181	Erik Myrom	LAF		LAF		1.30	1		4	HT	1.30			1.10	1.30	1.30			
+5/9/2009	N38394	PA28-181		LAF		LAF	"Instrument rating checkride with Prof. Larry Gross.  Winds 19G29, winds aloft at 34, wind shear at 2000'"	1.20	1		3	HT	1.20			0.70		1.20			
+5/22/2009	N5068G	8KCAB	Greg Morris		ARR - RFD - ARR			1.30	5				1.30				0.70	1.30			
+6/15/2009	N6163F	C172	Gerry Schmitt	DPA		DPA		1.30	1		3	HT	1.30			1.00	1.30	1.30			
+7/6/2009	N6163F	C172			DPA - MLI - DPA			2.70		3			2.70	2.70				2.70	2.70		
+8/12/2009	N6163F	C172			DPA - LSE - STP - DPA			7.40	2	1		T	7.40	3.40				7.40	7.40		

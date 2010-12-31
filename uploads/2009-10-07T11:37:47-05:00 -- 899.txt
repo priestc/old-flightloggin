@@ -1,0 +1,2 @@
+Date	Type	Plane	Route	Day Landings	Night Landings	Approaches	Night	Simulated Instrument	Actual Instrument	Cross Country	Dual Received	PIC	Total
+11/21/2208	BE-23	6080N	OEO-ROS-ANE-DLH-ANE-OEO	3	2		1.8			3.8		3.8	3.8

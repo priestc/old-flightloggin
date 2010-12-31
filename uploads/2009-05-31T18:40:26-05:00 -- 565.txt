@@ -1,0 +1,210 @@
+Date	Route	Type	Plane	Remarks	Cross Country	Actual Instrument	Simulated Instrument	Dual Received	Dual Given	PIC	Total	Approaches	Simulator	TAA	Solo	Day Landings	Night Landings
+10/23/2008	korl-korl	8KCAB	79SG	CFI spin training	0	0	0	1	0	0.6	1	0	0	0	0	0	0
+6/18/2000	MRH-MRH	C150	704UZ	"steep turns, stalls c/d, low slow flight, landings"	0	0	0	0.8	0	0	0.8	0	0	0	0	2	0
+6/17/2000	MRH-MRH	C150	704UZ	"steep turns, slow flight, stall intro, lndg"	0	0	0	0.7	0	0	0.7	0	0	0	0	3	0
+6/3/2000	MRH-MRH	C150	704UZ	"Intro, 4 basibc, med turns, lndgs"	0	0	0	1	0	0	1	0	0	0	0	2	0
+5/20/2000	MRH-MRH	C150	704UZ	"Pre-flight, run up, taxi, straight and level, 360 MT"	0	0	0	1.2	0	0	1.2	0	0	0	0	1	0
+8/26/2000	MRH-MRH	C152	89764	"stalls clean, no flap lndgs"	0	0	0	0.7	0	0	0.7	0	0	0	0	3	0
+8/20/2000	MRH-MRH	C152	89764	"1st solo, great job"	0	0	0	0	0	0.4	0.4	0	0	0	0.4	3	0
+8/20/2000	MRH-MRH	C152	89764	"prep for solo, lndgs"	0	0	0	1	0	0	1	0	0	0	0	7	0
+8/6/2000	MRH-MRH	C152	89764	"lndgs, forced lndgs"	0	0	0	0.7	0	0	0.7	0	0	0	0	6	0
+7/30/2000	MRH-MRH	C152	89764	"lndgs, eng. outs"	0	0	0	0.7	0	0	0.7	0	0	0	0	4	0
+7/29/2000	MRH-MRH	C152	89764	"slow flight, stalls, x-wind lndgs, turns about a point"	0	0	0	0.9	0	0	0.9	0	0	0	0	5	0
+7/16/2000	MRH-MRH	C152	89764	"slow flight c/d, stalls c/d, steep turns, lndgs"	0	0	0	0.8	0	0	0.8	0	0	0	0	4	0
+7/15/2000	MRH-MRH	C152	89764	lndgs	0	0	0	0.4	0	0	0.4	0	0	0	0	3	0
+7/8/2000	MRH-MRH	C152	89764	"s-turns, turns about point, x-wind lndgs, go arounds"	0	0	0	1.2	0	0	1.2	0	0	0	0	3	0
+7/2/2000	MRH-MRH	C152	89764	"stalls c/d, steep turns, slow flight, landings"	0	0	0	1.1	0	0	1.1	0	0	0	0	5	0
+7/1/2000	MRH-MRH	C152	89764	"steep turns, slow flight, stalls, landings"	0	0	0	1.1	0	0	1.1	0	0	0	0	4	0
+2/8/2009	orl-orl	C172	440FA	will massey	0	0	0	0	1.3	1.3	1.3	0	0	0	0	4	0
+2/8/2009	orl-orl	C172	440FA	brian morris	0	0	0	0	1.6	1.6	1.6	0	0	0	0	0	0
+2/5/2009	ORL-cty-orl	C172	440FA	"caleb hull, night x-c"	2.5	0	0	0	2.5	2.5	2.5	0	0	0	0	0	0
+1/31/2009	orl-ocf-orl	C172	826SP	"BFR- Scott Clark, x-c, steep turn, slow flt, stalls, 6 lndgs, engine out"	2.7	0	0	0	2.7	2.7	2.7	0	0	0	0	1	0
+1/30/2009	korl-orl	C172	62875	"ils 7 korl, gps 27r ksfb, hold mambo, partial pnl, circle to land, compass turns, timed turns, steep turns"	0	0	1.5	1.7	0	1.7	1.7	2	0	1.7	0	1	0
+1/30/2009	korl-korl	C172	440FA	"w/ Brian Morris, 4 fundamentals"	0	0	0	0	1.3	1.3	1.3	0	0	0	0	1	0
+1/28/2009	KORL-korl	C172	440FA	x-wind landings with Ernest Ciuro	0				0.9	0.9	0.9	0					
+1/27/2009	korl	C172	440FA	Ernest Ciuro	0	0	0	0	1.4	1.4	1.4	0	0	0	0	0	0
+1/27/2009	korl-korl	C172	440FA	Ernest Ciuro	0	0	0	0	1.2	1.2	1.2	0	0	0	0	0	0
+1/25/2009	korl-x21-korl	C172	62875	Will Braswell	0	0	0	0	1.4	1.4	1.4	0	0	1.4	0	0	0
+1/24/2009	korl-korl	C172	62875	Intro - Brian Morris	0	0	0	0	1.1	1.1	1.1	0	0	1.1	0	1	0
+1/24/2009	korl-korl	C172	60603	Intro -Michael Morehead	0	0	0	0	1.1	1.1	1.1	0	0	1.1	0	2	0
+1/23/2009	KORL-KPHK-KORL	C172	826SP	x-c w/ Lutz Reichel	3.2	0	0	0	3.2	3.2	3.2	0	0	0	0	0	0
+1/23/2009	KORL-KORL	C172	826SP	landings - Lutz Reichel	0	0	0	0	0.3	0.3	0.3	0	0	0	0	0	0
+1/23/2009	KORL-korl	C172	440FA	Will Massey	0	0	0	0	1.4	1.4	1.4	0	0	0	0	3	0
+1/22/2009	KORL-KORL	C172	62875	"intercept, track, hold mambo, dme arc, ils partial panel, gps korl, unusual attitudes, steep turns"	0	0	1.4	1.6	0	1.6	1.6	3	0	1.6	0	1	0
+1/10/2009	korl-korl	C172	6197T	discovery flight - Steven Kimmel	0	0	0	0	0.4	0.4	0.4	0	0	0.4	0	1	0
+1/9/2009	korl-korl	C172	777HE	Cessna lesson 3 w/ Matt Matisak	0	0	0	0	1.6	1.6	1.6	0	0	0	0	1	0
+1/5/2009	KORL-korl	C172	777HE	Cessna lesson 1 - Matt Matisak	0	0	0	0	1.3	1.3	1.3	0	0	0	0	1	0
+1/2/2009	KORL-kocf-korl	C172	6197T	x-c w/ Will Braswell	2.3	0	0	0	2.3	2.3	2.3	0	0	2.3	0	0	0
+12/31/2008	KORL-korl	C172	777HE	intro flight - Deron Brown	0	0	0	0	1.1	1.1	1.1	0	0	0	0	1	0
+10/7/2008	ksfb-keyw-ksfb	C172	6013E	"IFR, GP6 9 into KEYW, safety pilot = Carlos Alphonso"	6.1	0.5	5.1	0	0	6.1	6.1	1	0	0	0	2	0
+7/15/2008	KSFB-KCRG-KBNL-KEVB-KSFB	C172	6013E	"long solo x-c requirement for commercial, IFR, diverted to EVB because of T-Storms"	6.9	0.8	0	0	0	6.9	6.9	0	0	0	6.9	4	0
+7/15/2008	Ksfb-40j-kcgc-ksfb	C172	6013E	VFR	4.5	0	0	0	0	4.5	4.5	0	0	0	4.5	3	0
+6/21/2008	ksfb-ksfb	C172	6013E		0	0	0	1.2	0	1.2	1.2	0	0	0	0	3	0
+6/12/2008	KSFB-KSFB	C172	883AV	"hold, 1 ILS, short/soft, sim. engine failure"	0	0	0.5	1.9	0	1.9	1.9	1	0	0	0	11	0
+6/19/2008	KSFB-KCTY-KSFB	C172	882AV		2.9	0	0	0	0	2.9	2.9	0	0	0	2.9	2	0
+6/14/2008	KSFB-KSFB	C172	884AV	aircraft checkout at Avion	0	0	0	0.7	0	0.7	0.7	0	0	0	0	6	0
+1/17/2009	KORL-KORL	C172	777HE	flight review - Janos Novak	0	0	0	0	1.4	1.4	1.4	0	0	0	0	0	0
+12/30/2008	korl-korl	C172	826SP	discovery flight w/ Everett Kombrek	0	0	0	0	0.5	0.5	0.5	0	0	0	0	1	0
+12/8/2008	KORL-KORL	C172	440FA	"landings, x-wind landings w/ Kevin Degeus"	0	0	0	0	1.1	1.1	1.1	0	0	0	0	5	0
+12/5/2008	korl-korl	C172	777HE	intro flight w/ Bart Van Bavel	0	0	0	0	1.8	1.8	1.8	0	0	0	0	4	0
+12/3/2008	korl-korl	C172	62875	intro flight w/ Brian Coffin and Pat backseat	0	0	0	0	0.9	0.9	0.9	0	0	0.9	0	1	0
+12/3/2008	korl-korl	C172	777HE	landings with Sander Djinkman	0	0	0	0	1.7	1.7	1.4	0	0	0	0	11	0
+11/24/2008	KORL-korl	C172	62875	CFI and part 141 check flight - Richard Gender	0	0	0	0	0	1.4	1.4	0	0	1.4	0	3	0
+7/30/2008	x26-korl	C172	826SP		0.9	0	0	0	0	0.9	0.9	0	0	0	0.9	1	0
+7/30/2008	KORL-x26	C172	826SP	w/ Larry	0.9	0	0	0	0	0.9	0.9	0	0	0	0	1	0
+7/28/2008	x26-korl	C172	826SP	pick up Larry	0.9	0	0	0	0	0.9	0.9	0	0	0	0	1	0
+7/28/2008	korl-x26	C172	826SP		0.9	0	0	0	0	0.9	0.9	0	0	0	0.9	1	0
+7/12/2008	kbow-korl	C172	777HE	VFR	0	0	0	0	0	0.7	0.7	0	0	0	0.7	1	0
+7/12/2008	KORL-kvrb-kbow	C172	777HE	VFR w/ Larry	2	0	0	0	0	2	2	0	0	0	0	2	0
+7/6/2008	khxd-korl	C172	61681	IFR w/ Jenn	2.5	0.1	0	0	0	2.5	2.5	0	0	2.5	0	1	0
+7/6/2008	ksut-khxd	C172	61681	VFR along coast w/ Jenn	2.4	0	0	0	0	2.4	2.4	0	0	2.4	0	1	0
+7/5/2008	kavl-ksut	C172	61681	IFR w/ Jenn	2.7	0.6	0	0	0	2.7	2.7	0	0	2.7	0	1	0
+7/4/2008	kavl-kavl	C172	61681	VFR w/ Mom and Dad	0	0	0	0	0	1.5	1.5	0	0	1.5	0	1	0
+7/3/2008	klou-kavl	C172	61681	IFR w/ Jenn	2.3	1	0	0	0	2.3	2.3	0	0	2.3	0	1	0
+7/3/2008	kryv-klou	C172	61681	IFR w/ Jenn	3	0.9	0	0	0	3	3	0	0	3	0	1	0
+7/2/2008	kfsd-kryv	C172	61681	IFR w/ Jenn	3.1	0.8	0	0	0	3.1	3.1	0	0	3.1	0	1	0
+7/2/2008	k6v4-kfsd	C172	61681	IFR w/ Jenn	2.5	1.3	0	0	0	2.5	2.5	0	0	2.5	0	1	0
+7/1/2008	k6v4-k6v4	C172	61681	VFR w/ Aaron - Badlands Trip	0	0	0	0	0	2.1	2.1	0	0	2.1	0	1	0
+6/30/2008	kgbd-k6v4	C172	61681	IFR w/ Jenn	3.5	0	0	0	0	3.5	3.5	0	0	3.5	0	1	0
+6/30/2008	krbd-kgbd	C172	61681	IFR w/ Jenn	3.8	0	0	0	0	3.8	3.8	0	0	3.8	0	1	0
+6/29/2008	krbd-krbd	C172	61681	Discovery flight w/ Joel	0	0	0	0	0	0.7	0.7	0	0	0.7	0	1	0
+6/29/2008	knew-krbd	C172	61681	IFR w/ Jenn	4.5	0.4	0	0	0	4.5	4.5	0	0	4.5	0	1	0
+6/28/2008	kmai-knew	C172	61681	IFR w/ Jenn	3.1	0.2	0	0	0	3.1	3.1	0	0	3.1	0	1	0
+6/28/2008	KORL-kmai	C172	61681	IFR w/ Jenn	2.9	0.2	0	0	0	2.9	2.9	0	0	2.9	0	1	0
+6/27/2008	KORL-kapf-korl	C172	61681	VFR there/ IFR back	4	0.2	0	0	0	4	4	0	0	4	0	2	0
+6/24/2008	KORL-kmth-korl	C172	61681	"IFR, few clouds"	5	0.7	0	0	0	5	5	0	0	5	5	2	0
+6/21/2008	KORL-ksfb-korl	C172	61681	"1 ils ksfb, 1 gps korl, ifr/vfr checkout"	0	0	0.8	1.6	0	1.6	1.6	2	0	1.6	0	2	0
+6/18/2008	kbow-korl	C172	777HE	"IFR, picked up Larry"	0	0	0	0	0	0.9	0.9	0	0	0	0	1	0
+6/18/2008	KORL-kbow	C172	777HE	"IFR, picked up Larry"	0	0.2	0	0	0	0.8	0.8	0	0	0	0.8	1	0
+6/17/2008	KORL-ksfb-korl	C172	440FA	"approaches: 1 ILS KSFB, 1 BC 1 GPS KORL, safety pilot = Chad Stanley"	0	0	1.2	0	0	2.5	2.5	3	0	0	0	1	0
+6/17/2008	KORL-KORL	C172	60603	"5 landings night VFR w/ control tower, night VFR"	0	0	0	0	0	1.7	1.7	0	0	1.7	1.7	0	6
+6/15/2008	korl-kcty-korl	C172	684JB	VFR night x-c	2.4	0	0	0	0	2.4	2.4	0	0	2.4	2.4	0	2
+6/15/2008	KORL-korl	C172	684JB	"5 landings, night VFR w/ control tower"	0	0	0	0	0	1	1	0	0	1	1	0	5
+6/12/2008	korl-kcrg-korl	C172	440FA		2	0	0	2	0	2	2	0	0	0	0	0	2
+6/12/2008	KORL-KORL	C172	440FA	night ops	0	0	0	0.7	0	0.7	0.7	0	0	0	0	0	2
+6/8/2008	KORL-KCTY-KORL	C172	60603	day dual vfr x-country	2.7	0	0	2.7	0	2.7	2.7	0	0	2.7	0	2	0
+6/6/2008	kxfl-korl	C172	60603	IFR	0.9	0.1	0	0	0	0.9	0.9	0	0	0.9	0.9	1	0
+6/6/2008	ksav-kxfl	C172	60603	safety pilot for Ryan Fishel	1.9	0	0	0	0	1.9	1.9	0	0	1.9	0	0	0
+6/6/2008	KXFL-ksav	C172	60603	"1 ILS, safety pilot = Ryan Fishel"	1.8	0	1.6	0	0	1.8	1.8	1	0	1.8	0	1	0
+6/6/2008	KORL-KXFL	C172	60603	IFR	0.9	0.1	0	0	0	0.9	0.9	0	0	0.9	0.9	1	0
+6/5/2008	KVNC-KORL	C172	684JB	safety pilot for Fabio da Silva	1.4	0	0	0	0	1.4	1.4	0	0	1.4	0	0	0
+6/5/2008	KFXE-KVNC	C172	684JB	safety pilot = Fabio da Silva	1.4	0	1.1	0	0	1.4	1.4	0	0	1.4	0	1	0
+6/5/2008	KORL-KFXE	C172	684JB	safety pilot for Fabio da Silva	2.3	0	0	0	0	2.3	2.3	0	0	2.3	0	0	0
+5/29/2008	KORL-KLEE-KORL	C172	684JB	"2 GPS KLEE, 1 ILS KORL, IFR practical test - passed!  Instrument Rated!  Phil Greco 1550189 exp 6/30/08"	0	0	1.7	0	0	2	2	3	0	2	0	3	0
+5/28/2008	KORL-korl	C172	684JB	"hold, 1 ILS, 1 GPS at ORL"	0	0	1.4	1.7	0	1.7	1.7	2	0	1.7	0	2	0
+5/27/2008	KORL-korl	C172	684JB	"hold, 1 ils, 1 loc, 1 gps KORL"	0	0.3	1.4	1.8	0	1.8	1.8	3	0	1.8	0	2	0
+5/26/2008	KORL-KORL	C172	684JB	"hold mambo, 2 rnav klee 1 PP, 2 ILS KORL"	0	0	1.9	2.3	0	2.3	2.3	4	0	2.3	0	2	0
+5/19/2008	KORL-KCRG-KSAV-KORL	C172	684JB	"inst x-country, 1 ils SAV, 1 RNAV CRG, 1 LOC/BC ORL"	5.2	2.1	2.5	5.2	0	5.2	5.2	3	0	5.2	0	2	1
+5/19/2008	KORL-ksfb-korl	C172	684JB	"holding and approaches, partial panel, 1 ILS, 2 BC, 1 hold"	0	0	1.4	1.7	0	1.7	1.7	3	0	1.7	0	2	0
+5/13/2008	KORL-KORL	C172	684JB	Stage Check	0	0	1	1.6	0	1.6	1.6	3	0	1.6	0	2	0
+5/13/2008	korl-ksfb-korl	C172	684JB	ILS approaches	0	0	1.1	1.3	0	1.3	1.3	3	0	1.3	0	2	0
+5/12/2008	korl-ksfb-korl	C172	60603	LOC approaches	0	0	1.2	1.5	0	1.5	1.5	3	0	1.5	0	2	0
+5/11/2008	korl-ksgj-korl	C172	60603	IFR X-country	2.4	0.6	1.5	2.4	0	2.4	2.4	3	0	2.4	0	2	0
+5/11/2008	KORL-klee-ksfb-korl	C172	60603	GPS approaches	0	1.1	0	1.5	0	1.5	1.5	3	0	1.5	0	3	0
+5/7/2008	korl-korl	C172	60603	"holds, approaches, 1 ils, 3 holds"	0	0	1.3	1.6	0	1.6	1.6	0	0	1.6	0	1	0
+5/6/2008	korl-klal-kism-korl	C172	60603	"VOR approaches, x-c procedures, 1 VOR LAL, 1 VOR ISM, 1 ILS ORL"	0	0	2	2.4	0	2.4	2.4	3	0	2.4	0	3	0
+4/28/2008	KORL-KORL	C172	684JB	IFR Stage Check	0	0	0.6	0.9	0	0.9	0.9	0	0	0.9	0	1	0
+4/28/2008	korl-korl	C172	684JB	"BAI, partial panel, DME arcs"	0	0	1.1	1.3	0	1.3	1.3	0	0	1.3	0	1	0
+4/23/2008	KORL-KORL	C172	60603	"BAI, partial panel, steep turns, slow flt"	0	0	1.3	1.7	0	1.7	1.7	0	0	1.7	0	1	0
+4/19/2008	KORL-korl	C172	684JB	VFR maneuvers	0	0	0	1.6	0	1.6	1.6	0	0	1.6	0	1	0
+4/15/2008	KORL-klee-korl	C172	60603	Check Ride for Private Pilot - Passed!	0	0	0	0	0	1.7	1.7	0	0	1.7	0	4	0
+4/10/2008	KORL-KORL	C172	60603	apopka and back	0	0	0	0	0	0.9	0.9	0	0	0.9	0.9	1	0
+4/9/2008	KORL-KORL	C172	60603	mock check ride w/ Richard	0	0	0.2	1.6	0	0	1.6	0	0	1.6	0	4	0
+4/8/2008	KORL-korl	C172	60603	x-wind landings	0	0	0	0.7	0	0	0.7	0	0	0.7	0	7	0
+4/3/2008	KORL-korl	C172	60603	"bei, emerg. procedures, stalls, slow flight"	0	0	1	1.2	0	0	1.2	0	0	1.2	0	1	0
+4/1/2008	KORL-KORL	C172	60603	"slow flight, stalls, unusual attitudes"	0	0	0.8	1	0	0	1	0	0	1	0	1	0
+3/28/2008	KORL-KORL	C172	60603		0	0	0	0	0	1.5	1.5	0	0	1.5	1.5	1	0
+3/27/2008	KORL-KOCF-KGNV-KORL	C172	60603	2nd solo x-country	2.6	0	0	0	0	2.6	2.6	0	0	2.6	2.6	3	0
+3/26/2008	KORL-KOCF-KGNV-KORL	C172	684JB	1st solo x-country	2.4	0	0	0	0	2.4	2.4	0	0	2.4	2.4	3	0
+3/26/2008	KORL-KXFL-KORL	C172	60603	night x-country	1.7	0	0	1.7	0	0	1.7	0	0	1.7	0	0	2
+3/25/2008	KORL-KORL	C172	60603	night t/o landings	0	0	0	1.5	0	0	1.5	0	0	1.5	0	0	8
+3/25/2008	KORL-KORL	C172	60603	x-wind landings	0	0	0	0.8	0	0	0.8	0	0	0.8	0	7	0
+3/22/2008	KORL-KORL	C172	60603	landings	0	0	0	1.1	0	0	1.1	0	0	1.1	0	6	0
+3/22/2008	KORL-KORL	C172	60603	landings	0	0	0	1.2	0	0	1.2	0	0	1.2	0	9	0
+3/17/2008	KORL-KOCF-KGNV-KORL	C172	60603	x-c work	2.4	0	0	2.4	0	0	2.4	0	0	2.4	0	3	0
+3/13/2008	KORL-KORL	C172	60603	"around lake Apopka, x-wind lndg"	0	0	0	0	0	1.5	1.5	0	0	1.5	1.5	1	0
+3/13/2008	KORL-KORL	C172	60603	x-wind lndgs	0	0	0	1.2	0	0	1.2	0	0	1.2	0	10	0
+3/11/2008	KORL-KORL	C172	60603	"stalls, slow flight, demo stalls"	0	0	0	1.4	0	0	1.4	0	0	1.4	0	1	0
+3/11/2008	KORL-KORL	C172	60603	x-wind landings	0	0	0	1.2	0	0	1.2	0	0	1.2	0	12	0
+3/10/2008	KORL-KORL	C172	60603	"VOR nav, stalls, Bai"	0	0	0.5	1.5	0	0	1.5	0	0	1.5	0	1	0
+3/10/2008	KORL-KORL	C172	60603	"short and soft, crosswind"	0	0	0	1	0	0	1	0	0	1	0	8	0
+3/6/2008	KORL-KORL	C172	60603	short and softs	0	0	0	1.5	0	0	1.5	0	0	1.5	0	8	0
+3/5/2008	KORL-KGNV-KLEE-KORL	C172	684JB	"crosscountry to gainsville, landings"	2.6	0	0	2.6	0	0	2.6	0	0	2.6	0	4	0
+3/4/2008	KORL-KORL	C172	60603	"landings soft, short, crosswind"	0	0	0	1.2	0	0	1.2	0	0	1.2	0	8	0
+2/28/2008	KORL-KORL	C172	60603	"landings short/soft, t/o short, soft, slow flight, stalls, steep turns, emergencies"	0	0	0	1.9	0	0	1.9	0	0	1.9	0	10	0
+2/25/2008	KORL-KORL	C172	684JB	1st solo in a long time	0	0	0	0	0	0.7	0.7	0	0	0.7	0.7	3	0
+2/25/2008	KORL-KORL	C172	684JB	landing	0	0	0	0.6	0	0	0.6	0	0	0.6	0	3	0
+2/23/2008	KORL-KORL	C172	684JB	landings	0	0	0	0.5	0	0	0.5	0	0	0.5	0	3	0
+2/22/2008	KORL-KORL	C172	684JB	"slow flight, stalls, bai, unusual att."	0	0	0	1.4	0	0	1.4	0	0	1.4	0	1	0
+2/21/2008	KORL-KORL	C172	60603	"slow flight, stalls, ground ref"	0	0	0	1.3	0	0	1.3	0	0	1.3	0	1	0
+2/20/2008	KORL-KORL	C172	60603	"T/P work, landings"	0	0	0	1.1	0	0	1.1	0	0	1.1	0	12	0
+2/19/2008	KORL-KORL	C172	60603	"stalls, slow flight, steep turns"	0	0	0	1.1	0	0	1.1	0	0	1.1	0	1	0
+2/13/2008	KORL-KORL	C172	2409E	"traffic pattern, t/go, 7 lngs, xwind ldg"	0	0	0	1.1	0	0	1.1	0	0	1.1	0	7	0
+2/5/2008	KORL-KORL	C172	2409E	"s-turns, turns about pt, emgy lng, t/o and lndg, steep turns"	0	0	0.2	1.4	0	0	1.4	0	0	1.4	0	4	0
+1/31/2008	KORL-KORL	C172	2409E	"turns about pt, s-turns, hood work st/lvl/turns"	0	0	0.3	1.1	0	0	1.1	0	0	1.1	0	1	0
+1/30/2008	KORL-KORL	C172	2409E	"pwr off stall, pwr on stall, traffic pattern"	0	0	0	1.4	0	0	1.4	0	0	1.4	0	3	0
+1/29/2008	KORL-KORL	C172	2409E	"power on stall, power off"	0	0	0	1	0	0	1	0	0	1	0	1	0
+1/29/2008	KORL-KORL	C172	2409E	"slow flt, traffic pattern, pwr off stalls"	0	0	0	1.3	0	0	1.3	0	0	1.3	0	1	0
+1/25/2008	KORL-KORL	C172	6019V	"slow flight, w/ and w/o flaps, rect. pattern"	0	0	0	1.8	0	0	1.8	0	0	1.8	0	1	0
+1/23/2008	KORL-KORL	C172	2409E	"turns, climbs, decents, t/o, lndgs"	0	0	0	1.3	0	0	1.3	0	0	1.3	0	2	0
+9/9/2008	KSFB-KSFB	C182	52718	"OCFC 182 checkout, stalls, slow flight, steep turns, go around, engine out"	0	0	0	1.6	0	1.6	1.6	0	0	0	0	2	3
+11/23/2008	kcrg-korl	CT182	52128	"IFR, w/ Scott"	1.2	0	0.2	1.5	0	1.5	1.2	0	0	0	0	1	0
+11/23/2008	KORL-kcrg	CT182	52128	"x-c, IFR, with Scott"	1.2	0.2	0	1.2	0	1.2	1.2	0	0	0	0	0	0
+11/26/2008	korl-korl	DA-20	137PS	"DA-20 instructor checkout - steep turns, slow flight, stalls, emergency landing, landings - Ryan Sexton"	0	0	0	1.7	0	1.7	1.7	0	0	0	0	5	0
+1/29/2009	Air Orlando	Motus 400/600		"hold cambe, loc bc 25 korl, vordme7 kism, lost comms, etc.  Greer"	0	0	0	0	0	0	1.5	2	1.5	0	0	0	0
+1/26/2009	ORLANDO	Motus 400/600		"hold, ILS KMFN, LOC/DME KASE, w/ Carlos Alfonso"	0	0	0	0	0	0	1.4	2	1.4	0	0	0	0
+1/20/2009	orlando	Motus 400/600		"ndb hold, ils fxe, ndb lake city"	0	0	0	0	0	0	1	3	1	0	0	0	0
+12/31/2008	Orlando-	Motus 400/600		"1 ILS KORL, Partial Panel LOC 7 KORL"	0	0	0	0	0	0	0.7	2	0.7	0	0	0	0
+12/13/2008	ORLANDO	Motus 400/600		"unusual attitudes, hold at mambo, ils 7 @ korl"	0	0	0	0	0	0	1	1	1	0	0	0	0
+12/4/2008	ORLANDO	Motus 400/600		"loc-bc approach KORL, 1 ILS approach @ KISM"	0	0	0	0	0	0	0.7	2	0.7	0	0	0	0
+5/12/2008	orlando	Motus 400/600		ILS approaches	0	0	0	0	0	0	1.3	0	1.3	0	0	0	0
+5/12/2008	orlando	Motus 400/600		localizer approaches	0	0	0	0	0	0	1.3	3	1.3	0	0	0	0
+5/8/2008	orlando	Motus 400/600		"NDB approaches, gps, 3 ndb approaches, 1 hold"	0	0	0	0	0	0	1.3	3	1.3	0	0	0	0
+5/8/2008	air orlando	Motus 400/600		"GPS approaches, 3 GPS, 1 hold"	0	0	0	0	0	0	1.3	3	1.3	0	0	0	0
+5/7/2008	air orlando	Motus 400/600		"holding, 4 holds"	0	0	0	0	0	0	1.5	0	1.5	0	0	0	0
+5/5/2008	air orlando	Motus 400/600		"VOR approaches, DME arcs, 3 VOR approaches, 1 hold"	0	0	0	0	0	0	1.5	3	1.5	0	0	0	0
+4/30/2008	Air orlando	Motus 400/600		"VOR approaches and holds - 3 VOR approaches, 1 hold"	0	0	0	0	0	0	1.4	3	1.4	0	0	0	0
+4/29/2008	air orlando	Motus 400/600		gps operations	0	0	0	0	0	0	1.3	0	1.3	0	0	0	0
+4/27/2008	ORLANDO	Motus 400/600		"BAI, partial panel, stalls, DME arcs"	0	0	0	0	0	0	1.4	0	1.4	0	0	0	0
+4/24/2008	AIR ORLANDO	Motus 400/600		"BAI, partial panel, stalls, slow flight"	0	0	0	0	0	0	1.3	0	1.3	0	0	0	0
+4/22/2008	AIR ORLANDO	Motus 400/600		"Bai, partial panel, lsn 3"	0	0	0	0	0	0	1.2	0	1.2	0	0	0	0
+4/21/2008	AIR ORLANDO	Motus 400/600		"BAI, lesson 2"	0	0	0	0	0	0	1.2	0	1.2	0	0	0	0
+7/27/2008	korl-x01-korl	PA28	32355	safety pilot for Larry Miller	4.1	0	0	0	0	4.1	4.1	0	0	0	0	0	0
+7/10/2008	kcrg-kssi-kded	PA28	53379	x-c to brunswick	2.6	0	0	2.6	0	2.6	2.6	0	0	0	0	0	2
+7/10/2008	korl-kcrg	PA28	53379	x-c to craig	2	0	0	2	0	2	2	0	0	0	0	1	0
+7/10/2008	kded-korl	PA28	53379		0	0	0	0.5	0	0.5	0.5	0	0	0	0	1	0
+7/9/2008	kocf-kcty-kded	PA28	771RA	x-c to cross city	2.5	0	0	2.5	0	2.5	2.5	0	0	0	0	0	2
+7/9/2008	korl-kocf	PA28	771RA	"x-c, intro to piper"	2	0	0	2	0	2	2	0	0	0	0	4	0
+7/9/2008	kded-korl	PA28	771RA	intro to piper	0	0	0	0.5	0	0.5	0.5	0	0	0	0	1	0
+1/9/2008	KDED-KDED	PA28	708RH	"turns, climbs, slow flight, stalls"	0	0	0	1	0	0	1	0	0	0	0	1	0
+4/27/2007	STE-STE	PA28	1682J	"turns, climbs, slow flight, t/o and landing"	0	0	0	1.1	0	0	1.1	0	0	0	0	4	0
+8/6/2008	kded-korl-kcty-korl-kded	PA28	53379	"comm. maneuvers, x-country"	5	0	0	4.3	0	5	5	0	0	0	0	2	2
+7/24/2008	kded-korl-kcty-ktlh-kssi-kded	PA28	703RA		6.2	0	0	5	0	6.2	6.2	0	0	0	0	2	3
+2/9/2009	orl-orl	PA28R	32393	caleb hull	0	0	0	0	1.1	1.1	1.1	0	0	0	0	0	0
+2/7/2009	orl-orl	PA28R	32393	caleb hull	0	0	0	0	1.6	1.6	1.6	0	0	0	0	0	0
+2/7/2009	orl-orl	PA28R	32393	caleb hull	0	0	0	0	1.6	1.6	1.6	0	0	0	0	0	0
+2/6/2009	orl-orl	PA28R	32393	caleb hull	0	0	0	0	2.1	2.1	2.1	0	0	0	0	1	0
+2/5/2009	ORL-LEE-ORL	PA28R	32393	caleb hull	0	0	0	0	2	2	2	0	0	0	0	0	0
+2/4/2009	KORL-orl	PA28R	32393	caleb hull	0	0	0	0	2	2	2	0	0	0	0	1	0
+1/17/2009	KORL-KORL	PA28R	32393	comm. maneuvers - Brandon Whish	0	0	0	0	1.6	1.6	1.6	0	0	0	0	0	0
+12/17/2008	KORL-korl	PA28R	32393	CFI practice checkride w/ Carlos Alfonso	0	0	0	0	1.8	1.8	1.8	0	0	0	0	0	0
+11/6/2008	KORL-korl	PA28R	32393	"flight instructor - airplane flight test, passed, phil greco 1550189 exp. 11/30/2008"	0	0	0	0	0	1.6	1.6	0	0	0	0	5	0
+11/3/2008	KORL-korl	PA28R	32393	"lazy 8, short field, stalls"	0	0	0	1.7	0	1.7	1.7	0	0	0	0	5	0
+10/29/2008	KORL-korl	PA28R	32393	CFI Mock Check	0	0	0	1.7	0	1.7	1.7	0	0	0	0	4	0
+10/23/2008	korl	PA28R	32393	"prep for CFI, steep turns, lazy 8, chandelles, emergency descent"	0	0	0	2.4	0	2.4	2.4	0	0	0	0	10	0
+10/21/2008	korl-x04-korl	PA28R	32393	"prep for CFI ride, emerg. gear, t/o land, 180, chandelle, lazy 8"	0	0	0	2.4	0	2.4	2.4	0	0	0	0	8	0
+10/17/2008	korl-korl	PA28R	32393	"steep turns, turns about point, chandelles, lazy8, 8s on pylons, touch/go, landing short, soft, p/o 180"	0	0	0	2	0	2	2	0	0	0	0	11	0
+10/9/2008	KORL-klee	PA28R	32393	"right seat familiarization, steep turns, stalls, slow flight, pattern, t/o, landing"	0	0	0	1.3	0	1.3	1.3	0	0	0	0	3	0
+8/27/2008	KORL-korl	PA28R	32393	commercial practical test - passed - Phil Greco	0	0	0	0	0	1.5	1.5	0	0	0	0	4	0
+8/26/2008	KORL-korl	PA28R	32393	comm. maneuvers	0	0	0	0	0	1.7	1.7	0	0	0	1.7	5	0
+8/25/2008	KORL-korl	PA28R	32393	comm. maneuvers	0	0	0	0	0	1.6	1.6	0	0	0	1.6	5	0
+8/15/2008	KORL-korl	PA28R	32393	commercial maneuvers	0	0	0	0	0	1.7	1.7	0	0	0	1.7	3	0
+8/14/2008	KORL-KORL	PA28R	32393	commercial mock check ride	0	0	0	1.5	0	1.5	1.5	0	0	0	0	5	0
+8/11/2008	KORL-korl	PA28R	32393	comm. maneuvers & landings	0	0	0	0	0	1.3	1.3	0	0	0	1.3	3	0
+8/8/2008	KORL-korl	PA28R	32393	"commercial maneuvers, landings"	0	0	0	0	0	1.7	1.7	0	0	0	1.7	4	0
+8/6/2008	korl-korl	PA28R	32393	comm. maneuvers	0	0	0	1.4	0	1.4	1.4	0	0	0	0	1	0
+8/5/2008	KORL-korl	PA28R	32393	comm. maneuvers	0	0	0	2.2	0	2.2	2.2	0	0	0	0	8	0
+7/31/2008	korl-korl	PA28R	32393	"eights on, shorts/softs"	0	0	0	1.7	0	1.7	1.7	0	0	0	0	9	0
+7/25/2008	korl-korl	PA28R	32393	short and soft landings	0	0	0	1	0	1	1	0	0	0	0	8	0
+7/24/2008	korl-korl	PA28R	32393	"slow flight, stalls, chandelles, steep spirals"	0	0	0	3	0	3	3	0	0	0	0	13	0
+7/23/2008	KORL-korl	PA28R	32393	"slow flight, stalls, steep turns"	0	0	0	1.8	0	0	1.8	0	0	0	0	6	0
